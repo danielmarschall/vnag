@@ -1,0 +1,23 @@
+HOW TO SETUP THIS MONITOR!
+
+1. Install ipfm
+
+	$aptitude install ipfm
+
+2. Setup ipfm (set your IP addresses and enable)
+
+3. Change /etc/ipfm.conf to hourly clearing and at least hourly dumping! (OTHERWISE THIS MONITOR WON'T WORK!!!)
+
+	FILENAME "/var/log/ipfm/eth0/%Y_%m_%d_%H.log"
+	# Log every hour, but update the information every minute
+	DUMP EVERY 1 minute
+	CLEAR EVERY 1 hour
+	SORT TOTAL
+	RESOLVE
+
+4. Create following crontab entry to delete log files which are older than 370 days:
+
+	0 0 1 1 * find /var/log/ipfm/eth0 -name "20??_??_??_??.log" -mtime +370 -exec /bin/rm -f {} \;
+
+5. In case you are using Icinga2, install icinga2.conf into /etc/icinga2/conf.d/
+   Please make sure to edit the path of your command.

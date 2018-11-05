@@ -1,0 +1,20 @@
+#!/usr/bin/php
+<?php /* <ViaThinkSoftSignature>X4GAUZ8xJBGYHJ/Sp3ZPsIAKrWkrPHzvS7SPv00eNKfF2h3vn9VWMuJqHXdAd46LEjb/1wbR4g69gkNxkAVPmn5IKbgrZWzPcwRnRs6o4icaWnY+uagKvp5Ic7PbXcuSLGUoCfa2HOxAbmuPzCjESkgfBejm1QhwxzKYzjiUBWvs5pXW5Q4+dH9m2ZfUoETmcWbw96rxjvf+asTxtbdvBzH+N9FKdtlLQ8tDoTR2zHCEnm3rvMIyNmj51kW27aS0thr4odvWGsVPP3akKUng5vb5NPvexu0cbzJltuHT4utf5d5BicNiD+4ID2Bv5fv318uilxXv6sGBrsBOfSGhigD3maozuLWQe4kC2nNLTscHhy0rWerIHOJNXasmYk/vIEHFLGetxN31NYmGJ5VFzH/zoahAW4B3Kt9E9RHReySoSKTpyr9wHDlOiLVGawhJN8sDAqtK9WD9mhinIOXzeY+tRcba+yYSewKbZMuHTXU9vtR3ilje8ER4NGER8aMyPpy3XOc40mPcggPhLVjcSu9PZlFyFLJvOGnx7I68aGAbUT46WpeD7s8DE2h8jfGlsMajgP0pMSVvdKyUs0hcSgJF4DjI8AUCjeSDKJ2SWMHMKSm6QEo26jE5ecu2AzLLY6gjYUsIqEMu55Ei4u/2SJrD1rsIFtNjBjwFmxW9JV3CU7cUGXrlvdV34kiw0PcFjM7GBPIrsDJh0bH1t0QS3S282OSgcInlfjjGEdanj0sLiWZG4SFtehJ6ojhe48NMFAPN8vjmvyPNgFFa8/H4so2CYn1P6Aq1gUgXlVVU4yXK4DBCikY/m2jgLoL5Zo2SItSIBxjyRgbE4uBlo1hKrc69v1EKnUgei5HeOTswCtpcB7eHH/+stnDGhhebAKVbh+MU7NX3zAS/tubvKdi54a7lDTHThERmtDaUdz4k0U/wbcs9jBNNBsVaGjfc5iSh6SDvlIoAcT/HH4P40p8qyNnl35cN1vpMteNgnM65/evacEd8MxFvxNnawj3nQaDAZUT07mHcsYDUk1Gt7Y2sv+02vrWF81Yfb6/2OSy5auCn89zUDVeio6knl3laj/gikhkRZ+xSAY6hWQZ8CAdqnzfUEKGCqiKIpdY5SW7Fraob173KtBOq/c30Ylatuws3MJFktkjSBfV4VtkFJabrzeuiTNd3cdq5ijAKcwc097YbLrmH0yfPuNDxTitoZlOYxiPartYFAsCHrBjSGjnu0GGMzPUCKKIWs+fYkYGowRnGdh+OBaSh8NIQCcq7geEOugUK2w0pUzRBsDYGaiD5Gct+EI9VsZRTC4V+8XoQRaPhthXVJLJw5vVodIgWc+ZJ3znG+xieX3U1Fb9wM7gydA==</ViaThinkSoftSignature> */ ?>
+<?php
+
+/*
+ * VNag - Nagios Framework for PHP
+ * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
+ * Licensed under the terms of the Apache 2.0 license
+ *
+ * Revision 2018-07-15
+ */
+
+declare(ticks=1);
+
+require_once __DIR__ . '/../../framework/vnag_framework.inc.php';
+require_once __DIR__ . '/MediaWikiVersionCheck.class.php';
+
+$job = new MediaWikiVersionCheck();
+$job->run();
+unset($job);
