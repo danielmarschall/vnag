@@ -24,6 +24,8 @@ tar cvfz "$tmpfile" \
 	--exclude="$dirname"/signtool/private.pem \
 	--exclude "$dirname"/plugins_intern \
 	--exclude="$dirname"/_mock \
+	--exclude="$dirname"/.svn \
+	--exclude="$dirname"/svn-commit.tmp \
 	-- "$dirname"
 
 # otherwise: "the file has changed while reading"

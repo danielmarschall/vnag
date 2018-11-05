@@ -37,7 +37,9 @@ for ($i=1; $i<$argc; $i++) {
 		continue;
 	}
 
-	$sign_line = '<?php /* <ViaThinkSoftSignature>'.base64_encode($signature).'</ViaThinkSoftSignature> */ ?>';
+	$sign_line = '<?php /* <ViaThinkSoftSignature>'."\n".split_equal_length(base64_encode($signature),65).'</ViaThinkSoftSignature> */ ?>';
+
+	// We have to put the signature at the beginning, because we don't know if the end of the file lacks a PHP closing tag
 	if (substr($cont,0,2) === '#!') {
 		// Preserve shebang
 		$shebang_pos = strpos($naked, "\n");
@@ -54,5 +56,15 @@ for ($i=1; $i<$argc; $i++) {
 	} else {
 		echo "Already signed: $file\n";
 	}
+}
+
+# ---
+
+function split_equal_length($data, $width=65) {
+	$out = '';
+	for ($i=0; $i<strlen($data); $i+=$width) {
+		$out .= substr($data, $i, $width)."\n";
+	}
+	return $out;
 }
 
