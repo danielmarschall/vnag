@@ -36,4 +36,5 @@ VNAG PLUGIN OVERVIEW
 | -                         | vnag_bulbcam_*             | No             | VTS Internal      |                                                                       |
 | -                         | vnag_oidinfo_linkcheck     | No             | VTS Internal      |                                                                       |
 | -                         | vnag_vwi_timestamp         | Yes            | VTS Internal      |                                                                       |
+| -                         | vnag_vts_command_listener  | No             | VTS Internal      |                                                                       |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
