@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-F9z2AfT7nAZ8u/BI8TAx/BdR2s+t778tdYJG4+lJV7Oqve9Zovt7XxsagYPLn4q3a
-cTV8dGL2yaMvIWdPqwpWhu9ssXL9NN81pvIItF5t7GR9NWGS71nHMrr9pjQoIn+R6
-exKklwpuSMMQgFYKiCh5tUKnaMtEgQm/uQYTRei2UhOeV1s59MJ5/b6TOOcy/NNkO
-/lYQuflZ+mk5L3VcBtdi6F8sLhoiw4gy+oDDyNpGNSNjiB0mi3CMuQDXpnuAOSv9J
-luhQMRhQlTfKKaiF+4J7EGKuW3D8lt5FKuF+rGca1Iixtbi4bemQ9RqY3pbgKPg/i
-NdpxY+j24FcRJ7P6QvHBcY+lb1YL0ss9LqxMOV6DeNg+UOu5Aa1AerA8vfIQ4k7iK
-8Wt1e+9FXsmGmm84SgJ0gukRNRSzCreb+9glJ52V/PMNZcAiH7Qe7O/bzSeaqHlGI
-sgghkwt+XEBfyAiemuwBRN5GzyJsMOK7VH1Z+YGcj+V9I3SKkfZVABP6zyq/GwN4E
-OA2sQ9OCo3PVOcreVsIR+mYTUPfWBB+pd/M9Pu73LnA2WweoeKk/owrrb//uDEfBp
-Ca5TIiDahng2xKaBBZTBJ++mO1kSzBP8X+n5KQToQQCmTzSJvZBXB6h4dqOVm6Dik
-flV62JzOPP2839u48PMIo/6NFheEJnSHLR88f1X0B1lDmAgyc41m1sVk55hiTV5QQ
-9OJthifgehh9p0kakzY5H1PmltTrwlzBbFFE7BypH1rwyzRCwlXMKlFl74DWAY69Z
-Rs6UaOXC0gbuKJT+blD4dfuEuUut/fQyFYwsFsyPgPzhjAsqnVgHT5IbkBrw2tVZ9
-NZgraYZjZyW+OFBFMk6fhvuxKzPxJXCHT2JAZ6hTwUPoPfq1GogrDMMmLQ0rorUgV
-MGuCN/lYtB57ak7QiE6Eczyob8qM60r+m738RysL5Jxg6IPGoT1rtekQKqAFGXUT5
-0jOeTCu6aOSFwLCbisGf+ospZ1POtgFofTPygQJgO2uEkfPDjgkd04oP/p4S9UgIp
-UDQwlxZkz+MV2ErOSegvpcirTwt7OT2nJNN/FZUE3SOpP6tsRbYH+61kEhmbRK70e
-beX6kwF8C6LB+eBvxMgups32MsFQOMucsqmyxV/uz5SM2BLn1giTn13fjJZMhnmz5
-fqHequgbiJ7vIUjUOpE/ccB6EuRFtirMNlZrVq3J26VEy9s3T9Rd/nV1k+cWLda+l
-BoLszPI7pRHOIda37RGTbWNPhvxDkG5sIVERQH8/rgTmBK1V/1tabXwDSn6FvzddV
-KPyXgcXsGefz6TcUMB0c0JMhnRY+/+m/MCQ1mAppVbAQUX+Ha9CJR1xw0e5P+hePw
-w==
+XttbmAE1XLvHSvNNxaiyHGgCkmXlulTzP0UUheNlN4Shh2EuDZLnziCYMWWUP6xeH
+Ea9fAVKSpKzuFHKTvQqe0FMPKrvKiFAKDyjdeZPsRZhp5PwsWjhZlEGpUaKLnIgT3
+DhGMd0MWbGIIzJYj9pKLG265VFutV0qXHqSf9Ce535o1aaWEZ8VWClrx3kewFOnuY
+QIIbfYZ3duHZOmJezdK4LgNzclyPj1XChygvaf+2IjhGIXUCkaCBpLZ8CNY83ysgf
+jI7opKehfNbUHGAfr+MxaNxrBQ3iZodlpWV/VqyPZ7Ezo+dmVY387/usE8jMSW9+S
+ERjNyYsLaNahVy5nuLReIsYWLbIbe9TS2u5kJuB8DR+5LVVybNgd72FXLFUs1OL2h
+T0CQJk5x2UgoWAw1dZWyQRXeGS63oT8yP9TQZg56bQ4vmP+avZKl+x2CZQEt3hVml
+QiopH2LIgDCaPNK/4Q+dSDAhDx87BlRS+f/mgyLu0ZBLh/FsjinQUetWcXabnoiIi
+NHyryNr2hAa7h+gBl9bwnmJU9mJ6O1/S/gNIH+A/uvHPKH93sjnOhly32vmcSxKoV
+kV2PhHackZolMJ1SV8rJ5wVhGVp6xPzkRsX92fuUlJSno0Hgef/Oqkd04MUQ0NCFf
+pggyHSDC6zlC7fieaOnBW4Ky+2lBj49SwRLW8/Eyjfd1IXmi//2lQ6xL54PJ02sP+
+alXUqIR8+baWRPVlP2ueEGOoLqGiCdTaGBQGNiJF9G+vwFdr/psdDMtSU+k/XyQXB
+lf43zkQaVKuLTCG1Nkh/EC42TaRpviJUVHfXBtLAwhWkLDaP0JEEST7xaA3+h6Oi0
+hxftNtQhFkxKGWQW3L6sttq6cO5S74HKqWUSUAidXfLLZ4bDV8DxOXsF6Yd6sUfGo
+5/LD5sYt5eNr9k42Yu7LRQlmAne3Q5HuBQeVfNe7kGmc3N6PLWI8bDyfWWCGKvGkr
+OFLS/eHpLOGM8OKSwbzJioGct5/lR9dK8PV+udS+tkyiIAdTenIqULKP1PtSvC7rs
+kS1NDYcsW8osXnO6nuffPTuQBYKI8xFHuy9Ur1rb7aPlBqt4nqPOJiCbSqubC7WM4
+clXTzpV98k8aVPGbxpb3ddWtZ/0gEr01w6UeOJCnqOBvsCXmOjL56Q+JEDBjQNz5T
+REjzNAF6bfiLMUZ+VZHU0l7aqDpVZzY6urKanC2VatuQ8KnocJb7+mYd2dwa2Faue
+L4MeaMmEb2ckq5Gi6TpNptJQzS+k8AFOqXlE7k6+ksq/s8A/5/G9IS7b6/VWlHkBn
+FsS+wXGpFoTj4VxA78iODiTJv3U6wW9OdRj4JyxSWzHtXgH1cmL33pxzDIgGvT70B
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,8 +29,10 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-11-04
+ * Revision 2018-12-25
  */
+
+// TODO: Anstelle "-d diskname[,diskname[,...]]" wäre es schöner ohne Komma, denn dann könnte man auch die Shell Erweiterung /dev/sd* nutzen
 
 declare(ticks=1);
 
@@ -64,6 +66,7 @@ class DiskRunningCheck extends VNag {
 		$count_total = 0;
 		$count_running = 0;
 		$count_offline = 0;
+		$count_warning = 0;
 		$count_unknown = 0;
 
 		$disks = $this->argDisks->getValue();
@@ -73,9 +76,13 @@ class DiskRunningCheck extends VNag {
 		$disks = explode(',',$disks);
 
 		foreach ($disks as $disk) {
+			$disk = preg_replace('@^/dev/@', '', $disk); // accept '/dev/' too
+
 			// We do not check the size, in case the user has more than 26 disks; https://rwmj.wordpress.com/2011/01/09/how-are-linux-drives-named-beyond-drive-26-devsdz/
 			// But we check if everything is OK, and nothing nasty is done here
 			$disk = preg_replace('@[^a-zA-Z0-9]@', '', $disk);
+
+			$disk = preg_replace('@^(...)\d+@', '\\1', $disk); // accept 'sdh1' too
 
 			$count_total++;
 			if (!file_exists("/dev/$disk")) {
@@ -95,14 +102,21 @@ class DiskRunningCheck extends VNag {
 						$this->setStatus(VNag::STATUS_CRITICAL);
 						$count_offline++;
 					} else {
-						$this->addVerboseMessage("$disk : $state", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
-						$this->setStatus(VNag::STATUS_OK); // Note: This won't unset a previously set critical state
-						$count_running++;
+						$ioerr_file = "/sys/block/$disk/device/ioerr_cnt";
+						if (file_exists($ioerr_file) && (($ioerr_cont = trim(file_get_contents($ioerr_file))) != '0x0')) {
+							$this->addVerboseMessage("$disk : High IOERR count ($ioerr_cont), but state is reported as $state", VNag::VERBOSITY_SUMMARY);
+							$this->setStatus(VNag::STATUS_WARNING);
+							$count_warning++;
+						} else {
+							$this->addVerboseMessage("$disk : $state", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
+							$this->setStatus(VNag::STATUS_OK); // Note: This won't unset a previously set critical state
+							$count_running++;
+						}
 					}
 				}
 			}
 		}
 
-		$this->setHeadline(sprintf('Checked %d disks (%d running, %d offline, %d unknown)', $count_total, $count_running, $count_offline, $count_unknown));
+		$this->setHeadline(sprintf('Checked %d disks (%d running, %d offline, %d warnings, %d unknown)', $count_total, $count_running, $count_offline, $count_warning, $count_unknown));
 	}
 }

@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-b9H+o+uc69uskKoarZ6sudOUcbQewFqoqOw7j2C41tLdtnY5lifSSr4xHIOsORG8z
-uE4sWz00lp+ySbp/5Cn1wZVLpkusQSkVQZNfaYXqcyhxbpxA04qB4oUFfsecJ4lGP
-8cGHxT1BTxg5P81CelT56Kook+U/npTQzOXwCNL+5E/QipYUcKyh72B3+Or4lS+HP
-yP+WHC45XkTyvkItnCXDbsZxQR/oO5JKhv9R8t3oSHoUMX3AjCws5ZzFJ6QlHVl3z
-Q4u2o7MXIvYzHiojLFx/ycQ4W3AZ8xsfDRtdisIluwQ37rnQ65gxBe0YMzTjOtKWg
-Njr/Minaz8Tx3iSEpqCDmtoTM2lKiyf8I73wrFFiDM9BTHy9AO1Gg6lHUQGdG7URu
-sohNh0mLanV/S69UF8EPMzbuJzfeRBd6/eYagge5yIImCLmN/YQdudfM7+ZAlQWXW
-jaXIRpMIJZcl8cO002xw9MlMfJRXdAJ8yUduLW1ds8b8SkxdDmWlSnNakoIRbGbuo
-BamN3e6od2Xdy9XIOj4GQakS5cqxxEbMOUGiTIuhKmplJD6xzHCYzIsxFe2n9gCkp
-GPkNuUwzb6pjS+WSIsltcsBPWu6WaWXp5D7kqspbgm7UrAprZuNojcdn8ymfBo0J+
-UcpYCWZhnwsjSGjIRJ8zmfedi46eYevSbVWrkZbywdNRv+UdEpTNd/20QQUGzvHbP
-zsIZMgwL3rDR7j5oJ2nLTygBQhylnzBhzOVdnVJyfaWwJFZgnZUBsL+U+FWF+YHeW
-ZGLkrIPnUzIEcyb3uiYT7VWHl+B7HVDyVdMiT9CyjrYRfdP02KShkLgMl/RQcLBfn
-xPasSNd1PKWn7G9WoZKvy+d8cE8BrNHnnx4+NoTelV3FSG4gFlX5GlBX4/zxrK5/V
-PIsfxpDfrH+SqoEgefwnrM35J3hgJmDJsX/L2xwutWA4FuXHQOphEZOWKZAMM5avw
-ZS5Zaig2C1hEbocp+NayTFgXNqjzpLbaZB6iKp4aY9Hm2ZqpY9gPTufdi6cv7vu15
-QYiIYcr4GmWqciDUZB9IuN8180OZGP1HtCCqzsgZZR38kO4fqx5DTzQEn6mdat9h4
-72K+nF0rrGBRvMKq0yGIX5LhDyn+sXsFuNZOyNJWiuanDDJdTxFWyTA+0X3gzD1N5
-lHD1haPOp3Zv7eM/ppkGGFY69b1/mxcH8Lcre1TCxOSpG+yM+CaZy4jQSStHmXDm8
-z3ZJbe+DgawW9TUJg0r6Mrqer56sDgRVw2GuLkWfxCoDx1n3EoelggDhV10tTttGF
-EIQ2m/ruXQ4Ji/S8/gL6oaiBaIsX3PUomLFTvCSfB9TqHKX3yyCsGlXTzwSIoi+FB
-Q==
+by0ygdz71LOIgQL73U0gsS+js06/4FRI7qIt5kZTDQkfFFUx0j+5cExDvUPgLuMt4
+ztFDMXlVUvlT2w+N3NHkrq4lPoaBSZVaowa/uvmMSZPgywiRIUGhBxdCO76pFc6a+
+RoNQQJLMFMvv42HedbCQWZeTkmmlTyIgwEJe1wALqPs7WVKm1itXkEOp6rdP+y5ek
+x2HyjnJXP0qIgzsAylsBCpM1bpb7WQBhnxVL6BS9PBD8SVgudUvXFH3gYi4OAFk9Y
+mXkn5oyEL9uWLEH3zqOSMstmxM29BKC985lKBrL1NdIk9gYoR2oFNnN5USVNyNENH
+zqxYnHGf5VpCnuy3zg+Rdnn7HJUBnoUCR6nYy12fzy20atCbvN0tpoTiErvl2T/66
+4/Ha8D+3Mx7QsB5ZiXHH/d6OqWsRli918suPuHBzeH+21MWLyT4pCzq+OzX1HkrFK
+A8auAAunzH7kKJE8jPNoX8QbLK0sPoZlqhXPzL5cZi2LR0J0V/AM9eKA0vpP8Hhm4
+5WKwQnkZ/DD5fQNX5NvrCj8Q6NDR4UuOyjz7LbdPECsogNee/EFTVbyIBPbgRCnVu
+oRthcr0uqr/reYsaf/j3Igk0kYo75j2l0veMY4Pa/2cZF654fB8ph1y0nWwnN4CzM
+7jPpK6UUBwBk7iYA+9ypZD1Z/4gkAWsGdebU/FiS4r+KyFwTYmatdcFt+gxjWJYb/
+1vUt/LyD8bkPV6hcHll0Pk7txYQpj3vFcm4qAqPOOmEDxYrW356EhLL9uZuU6iXHB
+dqpi/rIPIRFCrNzN9CwlrM9mENgJkh43OiPZepQSE5BETCIt4Ib/1eEOh4I6WHYlA
+LHFtS1H8OTEWODrgpIPk3MqgD7QIPPakxykFQrNliByFq5eWQ62GXWlu7T28+U+X8
+W5rnv+Ir2w/h5lRDRKiNeS9PEgYv39YyCkvfiqc/g+AWIjCX/0KlZFZ3geL3Uf0Y7
+DN55RFvgHXaCdJn48bPCHsBs/tpgzXN0mi2ku3y4Wo3jatyHWosMGE87JNRju+fCF
+wTIkYVPc3/qGiH6UyF8t55GSAvrlbWQvuo7bay6uqfxJq/IGxJ6QsfXdqpqD7HfAp
+r3HpUy1uZm0DdTxMavk8HPZ6bFoatbhGH14sYb2dudAPV01XQq9ld0KYqlI3OUX18
+PnstgJPiRFwPzZ84tlc0x+04WAq8/WYNISuBWJSS58wo3/1YZLFwgKt/wtbkg01/v
+NklWgLk/7rJ8P+FPjIAozBo94CLFSbQtweTDM9okQqEO2eNoFe62i9HbAMjgHZ/0R
+AI/Ldy0111mbO7C6F6fcoth82F3jDudq7JLYPithmV3TOD5JTJlreA9iAXkj4zUhY
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -82,21 +82,29 @@ class Net2FtpVersionCheck extends VNag {
 
 		$version = $this->get_net2ftp_version($system_dir);
 
-		$cont = @file_get_contents('https://www.net2ftp.com/version.js');
+		$cont = @file_get_contents('https://www.net2ftp.com/index.php?state=homepage&state2=3');
 		if (!$cont) {
 			throw new Exception('Cannot parse version from net2ftp website. The plugin probably needs to be updated.', false);
 		}
 
-		if (!preg_match("@var latest_stable_version\s*=\s*'(.+)';@ismU", $cont, $m)) {
+		if (!preg_match('@<h1>.*Stable version.*</h1>(.+)<h1>@ismU', $cont, $m)) {
 			throw new Exception('Cannot parse version from net2ftp website. The plugin probably needs to be updated.', false);
 		} else {
-			$latest_stable = $m[1];
+			if (!preg_match('@http://www\.net2ftp\.com/download/net2ftp_v(.+)\.zip@ismU', $cont, $m)) {
+				throw new Exception('Cannot parse version from net2ftp website. The plugin probably needs to be updated.', false);
+			} else {
+				$latest_stable = $m[1];
+			}
 		}
 
-		if (!preg_match("@var latest_beta_version\s*=\s*'(.+)';@ismU", $cont, $m)) {
+		if (!preg_match('@<h1>.*Development version \(unstable\).*</h1>(.+)<h1>@ismU', $cont, $m)) {
 			throw new Exception('Cannot parse version from net2ftp website. The plugin probably needs to be updated.', false);
 		} else {
-			$latest_beta = $m[1];
+			if (!preg_match('@http://www\.net2ftp\.com/download/net2ftp_v(.+)\.zip@ismU', $cont, $m)) {
+				$latest_beta = "None";
+			} else {
+				$latest_beta = $m[1];
+			}
 		}
 
 		if ($version == $latest_stable) {
