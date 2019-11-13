@@ -1,32 +1,32 @@
 <?php /* <ViaThinkSoftSignature>
-i1Ox4pM0A5UeIZrXsnfEQNOTzk0ajnmpk57FeGqfm6NfPzJn2WB6PgTV1mt61S0De
-Xbj4756UEGFYmRASqM9SC4r4GR4PLgZ7+gZ99D2kezXEqu1BpXozrw65BRRgls9u1
-8g4i1oU+V5+/zqCFlDRSXS3UCoeReHtYdZG6Ve9JhI0xB2eG4LL+n1mAsC810LhCn
-gHIqP6W5LDgufSiWT8cmJIATcVnVF8AgAVCe6qDrkzFL1/KlHUsjdWYdExkERM2mi
-Wt25wdDk5NGUvqs/L6PUVS/0AHZLoNnFmZtUpobIfMXboSF4GxSbC/j2UVrvTnS1g
-NLSPEe26U7gbCTXD+3ixpEWUiTVFsLN9KlS1KpvZO/FHafYqiV7WvdjD1wLeXvPQ7
-/mcZAzRW837FR6ouoZwJnOv5iFAIQFn9Ci0UGtvu6HJV1jnctkkkrfdaK+tf+w2Fe
-gLvisDHWMm2NFX5soFokVkPKPqu+b4HjJhsjv8FWo9a4INiQBSQ60IaU5mIeLC4Gl
-YSf6otP6r74O2TUUZzWEd/vhe0ZoQK/HuAnnibT7ftBHrTfSmdQ258/1mvMB7+sG1
-OT8YpCSM8RqdN3PtKt/qFK6DBXiCkrL45NuarVhu0v0gbN+Wsq4SHiEkK2iDsFZPb
-HLNGqh1qrV23AUKYdxNpsypVboe74DcV3Rg51maiYavMbs4Zk9sy+0b0VjHI3MorK
-K/FV3nr6HeCJEGyV2pWu45wGGfFQ9vZntZxeZ/V6LNd0Dcbp4HgLix4mTA3bz1YMD
-trCRKUt7oY7rKAdTCC+iJzGUUBTquf5HsCEbG+ztY1oHk4uN9IJ1r2eu/38XfUJm+
-4wUyX8mXNOzSPA2SqKrz3gvJRkDZ+E1ZN6KbaEIV17ae7exSWoYyZm3ML0fFrwQG+
-9GiWBmyEqQ8Ad5YxtWOnvCTHvFbEYl0TqpcnPDEhcEoU7Cv/78G+wezq3aUo4ij3n
-7yjyDOW6BphHpA6yMFyx2AAj4u8c/LNpssVBFUwAkh1SAochIN0hzo3Kfx/csJSze
-OSTVUbS1NdAR0Xb/POii7tM/Pka9yUZ6b0Y+5goKBKIpEPxJfb0rLelmLB2DtL0sK
-qHg9BDpGjyHeSffXLCHs9bDP93F/7SFONrDSXoAaVfJuh8duW31lfBoiIEN0X8X4a
-0ZqRPCbMcPgOq5VF3NoDe26SFhnR1VE78u1xdJorNc1yW16fcYDW1mDBLmsZRbTSh
-lACvUoW58SdHPFM5aoZFwhNtqmqzjqte5qdDvz2EWkS8KB+8Z+Ve2UvfQ5yVkyjLp
-3HLo1XJeDphQGdHooYyZBQUtvTDJ1F2ZwfC+a6iimM5SGB9eJfXEHH5uPtJW0Tsgs
-Q==
+pOe3Fn6PHXPKMtNXX1Vuv6wFixN4+rxVLI1gp+FwPdzXwH33Jh3QA9lsE+ra0FtSA
+zVQ+LA/YEm7lIdIUoY5YmeB6Cwgjf0C0kI9hyITBVg/93FDj4QygBhdEydvh35TH6
+e4sT4OavrBNq8MT92YWzyPvwuIVVpSHbVPCCvjac1Z1pWQ9/LH7eWc2c8l5CNn2ky
+Tv+C66WlBbLLxJCQX0VKpQMoVGNEh10Aac0zqcZqyZdQiO1WQdKbrjay30RT+mBoV
+Tq3sjeJBu5HslNsvrD9OiRFD/H0D3VbjO4CpKKyXwgv/4t/vdmkV6+2TgwL5D/MnP
+mjRd+YxGU3pivi8YvXQwI/JdthbRaAfz0EZ8JzqZbz8ODlZTfDX0ypjCOfLk8QbdH
+M0qQVDBW8ZgqbBdpI9uvATNX+0OMD6Cb4pvBpX2wbFs8xWS4WuhxD7oT6Hw1WpOPT
+AqJk/tyGsl8OS8GjQ4U2wnigsCCtnXYi5grZAXFDrI/J5yGgii0mO5pev/f0ipA8H
+dqiqxpHTX5essmE1FWTM1oMJ5H8MTf6raMUkDC5rDhnsUlq+fbU03Rb5nbmgssnDA
+Nsw6uKtY0uTfiUGGlfYjcDH6mREU2zsWAO5/YxjmOYtFTqsJWyiwU6Lx8rCKAEfew
+KuAzjxOD5LGxcyXGkt/H32TWqo7FQzDK4NXKzOqcy9HpVil0wKSnjb5jyjR8RXrYa
+wOR4ndFVlFezeE5Vfgvd7H0x87UX4WlJLNVpubJL+7kkLM4g51+Q2wj0G24oqspr/
+izLclhOQi+ahfotnXoXmif5sWlxgJ5sB1hkqtVxrH2anpsJmKv4sgDbjTX4324pOq
+dHRMyrKudHJ70xQoidzY2Vk/QJzQ93z8t8dkOoLvItCkgrcuPiVta9YBajbRVnoJV
+30gFXF2bstzq66KHa+HHW8/u/TjjBE2CrXcW1X5/trZZoA2+9cDqPtjYGzR2DFRcn
+m7jspHPreq1LMJ0/IjcK/GERpSOkNubDOE+qRp/sVM8Heb4b2KHICNiKCR/j3vwB/
+zb4dx5p3BNS9ntsBJ37AaMpMYaRxnXuyB3bZ6mB6IPEp36smQKrz41TeD18X1h5Uh
+WgPZqBXFP9ynBYnNCfEqHJf8F7trbKYOvTKGzlsUsXeVEjSfjNmbdYergT+mVGF7E
+LK37ApWSTFiYxnn+L+gvpSJs6eoUI0E6hwAFtvTxp8iQcDxO54irMSk5rsxQ1ZjJD
+xZuNMPbt+AklPzoC0WynxBriLWdEE5Yi753RRmboad84I2ZFuTU+ESGf0Eh/XBsao
+P3KZflrYAXT5Qx1yuF6QUYDbdL/InTMvnljbW/QgazoDHzPWRwZEJBdGZ8TwRWf3I
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
 
-      VNag - Nagios Framework for PHP                  (C) 2014-2018
+      VNag - Nagios Framework for PHP                  (C) 2014-2019
       __     ___      _____ _     _       _     ____         __ _
       \ \   / (_) __ |_   _| |__ (_)_ __ | | __/ ___|  ___  / _| |_
        \ \ / /| |/ _` || | | '_ \| | '_ \| |/ /\___ \ / _ \| |_| __|
@@ -35,7 +35,7 @@ Q==
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2018-11-04
+      Revision 2019-11-12
 
 */
 
@@ -1792,8 +1792,8 @@ class VNagRange {
 		foreach ($values as $value) {
 			if (!($value instanceof VNagValueUomPair)) $value = new VNagValueUomPair($value);
 
-			assert($this->start instanceof VNagValueUomPair);
-			assert($this->end   instanceof VNagValueUomPair);
+			assert(($this->start === 'inf') || ($this->start instanceof VNagValueUomPair));
+			assert(($this->end   === 'inf') || ($this->end   instanceof VNagValueUomPair));
 
 			if (($this->start !== 'inf') && (!$this->start->compatibleWith($value))) continue;
 			if (($this->end   !== 'inf') && (!$this->end->compatibleWith($value)))   continue;

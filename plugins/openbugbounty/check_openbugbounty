@@ -1,0 +1,43 @@
+#!/usr/bin/php
+<?php /* <ViaThinkSoftSignature>
+s5JpgBd0w0WnIq8Z3jKgvdRUP550Id1hKjuKC8IKrV7WBrIFmn4PsfKNEjDOqx2BF
+CKCJX5Wfo8J22URNA2nLbiJyzf6ZzIYZmDlke61iWoqv7svXgieS/9dFBbiqTObhZ
+U+VWuN/p5stg7BqEiPoIIZE2C0tv5aGEZGp/f7ksCi6azKS3AMVUf7e+joqh62Ykr
+EqHD+6DATYonW//C2gtsyDFcXVzmYH/ijOF2EiXQu0TFLj4TuYNu9Lxp1SUlF1C+7
+ngKhwo4SdMKkCP7JeXblBD8pV26vdoPLhZjDIG5tYYcQIeuCxJUzH2tT4+5Vp9u4/
+5/jdFCr4Zr7SL4vrnp6BpRIRKRgQzBt9YDxRHKfECCV3Xe65JBiN6xdfbUR0Kk3CF
+g6zKXmseB3ChK2LDAr7LMUwmGBCBFy9nbYFTQdcnMPpcrFNQVfhu6YdbWmGz89Lvj
+crft98ANqxVC4T1mcCQNvmUUOfO7Ay2XbSpH99S9wE4W1O2nStquDN4uIE2fCuX1p
+qqy+QugjLytSGO5ShagO6onLLXAvCiuwg/j7gsp21kcd/RNH3yooQrTUBYmBvlNbu
+onK5mcqt/CLKis8M/Tazw18vV4G7EDRy4LUAQHfH7tEqDYGxP0R49LXImHHjBjgtK
+mHPJ/Kfg6gl/ChHYlvl8WnQTRqVtYfYyqFaQ1cSpkyTreemExlUiuf3T5JkLiZhuS
+x0RvgBWtwBzjdKuVYQr+9qpz9pD/1QqVhYKSMZFaE6oNjfISBgbFkz4WUlnnrlMU4
+6zlx5s67ff3Gi0R88+KEeN4lwptRpDt806PDoKZEzY3anN60/pKtVoIHeJfeCUSH+
+QpmGIisIVk5zEEs0ZxpZHsHU9UxIP3Yv4zglIPrCB5pHXgt2OfqkNipMpVhNw2Sz4
+VVkpY+UjQzsE2h4A3pxUrjz94uto2/kHuX8nmoo5L8l1Us72KDWgCpDd6bWIQeJYH
+psF0MuWGMml37F7w2Kex1w9C5cphh6xK1flZ96hOkLUTwm8hXciLWiBKDCDZJ8QAu
+GiXuQ5fTq72QP3Bc8aeA+GZl7CQnRyNbyU2gQMGGLSaLjMEd/x/QrWa1ZBFd/h3Ys
+2wFZlnm4/qM8eWssEPB+xDGEmonNy8zlAUZejKz8/PZwi1RuTe7YfR5HgOCmqjqvX
+EVotgsf8oqgqkh0COPx++F67NiQE7kSTmk+sNMlAhWhtxHeTaP9REZVSqQbMAbsQG
+WCYNPAFC3fMDstrl78R57mgGF9oF3SNMNrGO1JkwWLUEuAbyNgDIM/CTx9alSnXVv
+G58d4bzKaO13v5CS/YxYs7I0CDhOLPixP1o8WiAZBd0gZwvg16PUhI8NDRgm8fVzX
+g==
+</ViaThinkSoftSignature> */ ?>
+<?php
+
+/*
+ * VNag - Nagios Framework for PHP
+ * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
+ * Licensed under the terms of the Apache 2.0 license
+ *
+ * Revision 2018-07-15
+ */
+
+declare(ticks=1);
+
+require_once __DIR__ . '/../../framework/vnag_framework.inc.php';
+require_once __DIR__ . '/OpenBugBountyCheck.class.php';
+
+$job = new OpenBugBountyCheck();
+$job->run();
+unset($job);
