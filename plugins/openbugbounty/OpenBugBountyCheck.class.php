@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-D5ywBZegRuOX5CT35IVYKi1Y2lmXoGA7fv9U8Xo/t+6u/jHti2GaiazfQLaikgVgA
-NDUvsjLNnYRqk5zx0eFyMxVdtQ8esfJ18M8YvmiZX2eZm7wavgqGTHzTKLOlS3TZb
-WBsQrPgDisqeBjPxKDF9B10ZJNej69YFLZsOrLY35sDIOP9vFkaKleKXXXe+XodxD
-QZGYEwTV3QZV3/gIm3SSgqSChx/15QTV/saxHNe9xEYdn6JPCNQT6u4Jbdx2F1pxO
-4AwSi9g7CFG6IOy859tLRPuUS9/+0j8+VYzvBZWcPq7xbrccJ7Quq9F96H8On8xeT
-m2ekmGVVVUJfpe6bWeOLtESsarOIi1D+Ywlm3Ctk3sZ8+TONrXbaKS5dHeVPKNTdT
-wSDSNwmXgYn/DAMw9JJZOwadiWbE+e7yr3DUUnMpk7PTghSCyf89cqOE7Tk+w/a08
-N6I6Mt7Ad/W7VP14bmepdbAaNp2ihuR9DSkiqd0Q4gPu9HiDwQeFoLF2uARwPYTLC
-uJRu6AE833K8v0DHs/Mt1pKtaiAd90ZElDscbACJWFeQDUpI13/RNiU6zNL/IsyMx
-yQA/2Ehk3kqDKz//EtEev+9wdJBIJeCU8U0+JCrlr1kOJKKo1gbIb+AMsY4ODdw3a
-DgfGCSeEfjE0ar0FtPNyN5/6Zxyf+m1ziJn8xY6r56vXR7+bPb7nxr4gopF04QJ7z
-TyZpn8PJKUKVZDmlO7N12j4HPvM4c/KoGh4GyBmIkuuSQWkm5gZbWZiiC5sdPIoA8
-JYlLd1fkiOZ0o9Vpcdwa6Si93nrmTDP98zg/DfgFtrZjJSpqcbur66ilhgOw8ZLew
-pckJL57zC72nuqPbEYhNmJixcMuLGI29g1ISXkvCAnkdSWH1gwLgJfDCJ9pWAjoS5
-/eqrFof+4OUG7MD0+xmf3135GYwB0mbUQh+4t3pRDQgHnluXtQnb/93XCBX28qyzV
-A8zM9dHEhzeJsHxCthOQQshgSliLfACA/0/CCIoSwrLJr3th8VVNoEy9YN2ovfN10
-1n3t3HOAPU9SiWFMfOVTtqy2OmtBcXvMxBotXRGnHsB5vDeNa9XDuLJEJqeL+FmXp
-sjY5UkayvkliF1qjwVRX7hP64+UDDPVPa+fPg0ITHZTQdawfi8AxRwOzjjH2h/Rbj
-mNsePALoCoVp/0Oq9kIwxCTWYAHjFY81Tt0GtOHV2Yo9Mh9WGg5VHhDFFbHoC6o0p
-S5CUM3HaByKWCfqTgNsR4govazSZKqigbBBA5whW4BPMALNukmU/Fiu5NPKF0S4bR
-xr0g31lTS3K2cTQoKrI8uYbhaG8e53DCkuia3F+/76U2UYV5SelD8/qJO8Z872p88
-A==
+kWqDAxadQcLolAtJBJHGdvsMbOHCDuV7iWSIH/9pscpZ6v9PY00h90t5U+hl0YCMK
+orI+CWgQQn4ezt2thMpOKZT/OtGsjCKGkshY3BFj8go9ESdXLEAX4oUgh3+292zDN
+9RGpJIRljZU1eWeiOxUl6V9lSqhbMdIONuAvK0AfKmEwzIA6NmJq4VaXqUedj54WK
+YcIOot11dUmeYd3H9lOjjc9hEV33ITVLNt9y5uTdhQ87DfxLOHCsyp1fupWw/aPge
+4pNxirv3MdLWu0AjveExwA7X4BbPTwjZtNaa30ZI5gwzbNyCz9U5aSyxo8Nwu5ahZ
+YYMrmjXMVyYtJECtJWmytbE3wlyc7EynAhWSgzZh4Lnlba4MiE9GlTiAuVaGqfibm
+loql5DfTGBxkrIjeBI0ErdW61/7nq+Cj8WYtRYKWTpaUVOkmSs2c7rlzISCQXZ7Rd
+wCH5vMGY5XXs4pxZtu6JXPDf2ziPkbKQrVCWdjq+vGXrxmVYVJc4CuQzyqtW37pOi
+q7zlnDONuV+ps3PjLCVS+7KiOJhlVtG6prcloquABd4ndmE5MpZL7Ykh6h6q8IVVh
+sheMcxihKShMJjBavFImh/pY6sOQ8AFB8piKxOYqUiTlrTeJoXuSL+AjRbt4L658i
+CPq454YuEqvS6BERttgwcqrt6G8ncnUWnICZofe9qBwUztVGC1l/7a4Ef39GKfgYl
+Fu/xPn1dGqEVu3kJfvQPekjd2Qp4IBUu2PotVDxnklrAgv0Fnb5lExJzsyByVp8nq
+mkhNFNb/U5aFx8CjNk8x3oGTnfhJy4e04x9WX0VqMhQ/nqzekJVpzr7mOLBYbI8zE
+jiOtDH1V+b4CLQ6/3jxWL+Vbt37S5gBkNQEynhOed487hSXBDiSog1iPYYtBSpoaZ
+D+G2Cb+wMKRNMNAdL6MaiyYHc0kWrnmfMmxSF0t/Gf6/D7QoJIntAR2QLI9b6JWsp
+tZo8kETGAfWfZ7JhPk4/B2o+PH4oMnd6qoDAJ4xI1MRT3vNYJ1aC/wXYUsbVLiWuB
+edFi8cXLgrKzDU/fDA7tb+LV8yWbbXV9EF8vdlmAEE1S62CWAmRRchblPsPva2N4l
+uigpf38Lk7mLQ7/SamkpAlDXzYUR8cbNEpvUjdeeOTlLf0sWZdou4ON5HDlCnYa21
+D2Hfd+sYFfvfu1u4v7t+BwA/TfC6JV3zChzBtFSq4zrPlpU38duCviCaMlRfeA6os
+AZDhcCxjrdNs6P/xGtMXJqeRl6AGQVm4z5DC6zDpDhMqhVGvZ+LnmYLu+9nWcdOin
+Jx05Jkks5qChGeVhigG0ACWgznuvqxVrzxsQtO3EaAfF12C1Y2M7Hf3u2BsxB4cb2
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -50,7 +50,7 @@ class OpenBugBountyCheck extends VNag {
 		$this->getHelpManager()->setFootNotes('If you encounter bugs, please contact ViaThinkSoft at www.viathinksoft.com');
 
 		// Individual (non-standard) arguments:
-		$this->addExpectedArgument($this->argDomain = new VNagArgument('d', 'domain', VNagArgument::VALUE_REQUIRED, 'domainOrFile', 'Domain or subdomain to be checked or a file containing domain names.'));
+		$this->addExpectedArgument($this->argDomain = new VNagArgument('d', 'domain', VNagArgument::VALUE_REQUIRED, 'domainOrFile', 'Domain(s) or subdomain(s), separated by comma, to be checked or a file containing domain names.'));
 	}
 
 	protected function get_cache_dir() {
@@ -110,6 +110,7 @@ class OpenBugBountyCheck extends VNag {
 		}
 
 		if (file_exists($domain)) {
+			// Possibility 1: File containing a list of domains
 			$domains = file($domain);
 			$sum_fixed = 0;
 			$sum_unfixed = 0;
@@ -127,12 +128,29 @@ class OpenBugBountyCheck extends VNag {
 			if ($sum_unfixed == 0) $this->setStatus(VNag::STATUS_OK);
 			if ($sum_unfixed > 0) $this->setStatus(VNag::STATUS_WARNING); // TODO: Critical, when some bugs are disclosed
 			$this->setHeadline("$sum_fixed fixed and $sum_unfixed unfixed issues found at $count domains", true);
+		} if (strpos($domain, ',') !== false) {
+			// Possibility 2: Domains separated with comma
+			$domains = explode(',', $domain);
+			$sum_fixed = 0;
+			$sum_unfixed = 0;
+			$count = 0;
+			foreach ($domains as $domain) {
+				list($fixed, $unfixed) = $this->num_open_bugs($domain);
+				$sum_fixed += $fixed;
+				$sum_unfixed += $unfixed;
+				$count++;
+				if ($unfixed > 0) $this->addVerboseMessage("$fixed fixed and $unfixed unfixed issues found at $domain", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
+			}
+			if ($sum_unfixed == 0) $this->setStatus(VNag::STATUS_OK);
+			if ($sum_unfixed > 0) $this->setStatus(VNag::STATUS_WARNING); // TODO: Critical, when some bugs are disclosed
+			$this->setHeadline("$sum_fixed fixed and $sum_unfixed unfixed issues found at $count domains", true);
 		} else {
+			// Possibility 3: Single domain
 			list($fixed, $unfixed) = $this->num_open_bugs($domain);
 			if ($unfixed == 0) $this->setStatus(VNag::STATUS_OK);
 			if ($unfixed > 0) $this->setStatus(VNag::STATUS_WARNING); // TODO: Critical, when bug is disclosed
 			$this->setHeadline("$fixed fixed and $unfixed unfixed issues found at $domain", true);
 		}
-
 	}
 }
+
