@@ -100,7 +100,7 @@ class PingCheck extends VNag {
 			$this->outputHTML('<p><font color="green" size="+2">Ping OK</font></p>', true);
 		}
 
-		$this->outputHTML($execresult, true);
+		$this->outputHTML(htmlentities($execresult), true);
 	}
 
 	private static function is_windows() {
