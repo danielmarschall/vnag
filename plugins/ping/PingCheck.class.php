@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2019-11-18
+ * Revision 2019-11-22
  */
 
 // TODO: Also let the user decide other parameters like -4/-6 and number of pings/timeout etc.
@@ -84,7 +84,6 @@ class PingCheck extends VNag {
 		}
 		$execresult = implode("\n", $outary);
 		$execresult = trim($execresult);
-		$execresult = nl2br($execresult);
 
 		// We could also work with $code, but it might not work under Windows then
 		if ($execresult == '') {
@@ -100,7 +99,7 @@ class PingCheck extends VNag {
 			$this->outputHTML('<p><font color="green" size="+2">Ping OK</font></p>', true);
 		}
 
-		$this->outputHTML(htmlentities($execresult), true);
+		$this->outputHTML('<pre>'.htmlentities($execresult).'</pre>', true);
 	}
 
 	private static function is_windows() {

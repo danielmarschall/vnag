@@ -328,7 +328,7 @@ declare(ticks=1);
 # PHP should set this time limit to infinite.
 set_time_limit(0);
 
-define('VNAG_JSONDATA_V1', 'oid:1.3.6.1.4.1.37476.2.3.1.1');
+define('VNAG_JSONDATA_V1', 'oid:1.3.6.1.4.1.37476.2.3.1.1'); // {iso(1) identified-organization(3) dod(6) internet(1) private(4) enterprise(1) 37476 products(2) vnag(3) jsondata(1) v1(1)}
 
 // Set this to an array to overwrite getopt() and $_REQUEST[], respectively.
 // Useful for mock tests.
@@ -341,7 +341,7 @@ if (is_array($x)) debug_print_stacktrace();
 }
 
 abstract class VNag {
-	const VNAG_VERSION = '2018-10-02';
+	const VNAG_VERSION = '2019-11-12';
 
 	// Status 0..3 for STATUSMODEL_SERVICE (the default status model):
 	# The guideline states: "Higher-level errors (such as name resolution errors, socket timeouts, etc) are outside of the control of plugins and should generally NOT be reported as UNKNOWN states."
