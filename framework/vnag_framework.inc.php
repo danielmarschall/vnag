@@ -1,32 +1,32 @@
 <?php /* <ViaThinkSoftSignature>
-Ry2GSL8Q16B8ytPv1LExFhPnZ/J0l8wraAlsDf+DyesnAobgPpfA5R7iP4r3Rigdu
-lFqTnRVRqQCWnqWd6pcRJSgvShSDw7sfIMWP8pg7KKcFlfdx0iZx0Tb7FmHPF4xg6
-OyVue0SgAtQ0qGNBAnE7QSrhScTeZs+bXHO33l+iaJuF1kjA5QELiMtNXjCBr9Sw3
-mcW4oPwc/H1yucGul+N0Wao0OpnZua9ai8afTD23K2ughXU+z/CmDNHcUWhthK7Xn
-T35siXU5uf3Bys2L3raQnaFIGtGTnenNdGKBh+SIHq6uch4YwPEow3waxV2P8HTTO
-lIaeqwQ4oSrCOGMGwuDYgOuX7OueBhvfng5TA7EZ3Q09PSx5t6rEl6Op1P6aXRv8d
-Q4ezHNwucHJPi/JaCzH0Qt4Sj5W4zUKAqdNBtSfRuyIpWi3fJx0bmWoqWy9ufyZ87
-4N0U5XbZOuz6AlCWfFkeOvFqEFT5l7JPUT4PJf1w2/+4uZvRR6JRtlgDy7Csh8LhC
-ARLKDQv4hrRD/p9bIUR3NmpA0EdKD9ybSm8IhkMXxrQkZLP2Ykoc636OQxy1L1qsx
-D49lwQ6MiIe0QKJwNIqrLQWZP+zIGakopg/2abs7S46nrJOOYc8X5kcaEk0GWO2yR
-Nuo0hWdLIaGwoLmfrLOnb1TQV5X/ivP+w/yEnFK08gZ5z2XKJ2Pp2FJfMdihfOWa+
-V7qjFtrrgnEXILsbKK9Vnh6fDq4vL/8EAdkYRfKU4Fu5Rdv1UdeSKGZIorW+IG8nO
-r3VVv6pwDA/heiudcAd5dBsALBQplqFh22RlwtyyHD6wgDhjEyGnMsIsG/V8GqS3d
-Q+H3RfCOdbIl6UzTS9RVgnwiWgpXX4Bvffzo2Re9GKRu+OqT9gXulkYD3tVvVqjt6
-FUFt6sO//PZT1SLfNDGwuxqx8+OMnKQ6PX6F+8tr6tmMwQIS1ZakHq0srVsfF1yUa
-ubX1tshGusLVtgL/y7ZPCXizuMSdN3SZ15YuBJivPCaUSY9R3XUV8QvqKUIRnfC6w
-g3ud8TExKfd+jL4ikOHcBBh7STq4c7AM3S3i6OqhW/B/mG9rZx8PR0JUlzc+HVD+i
-fCUTQKLsDFwUnPsw0vepmR03GRF0xsetGKmQE6eLCrcMUSl8HujehhAm2587JCFBl
-ZqfZPn98kCtxHwak0RORN69/0ciovEh8HaG79Na1m41M3XvH20eqKt2an+xK6HeeX
-h0P9KJyDV45vkgtETbl1EG92Otttdo2NXSsLovHhxbrJP1vQ3dhIoOw3zztmZdaTo
-U3HAJ0XCRwTj1H4KzsPVjvZ7628YX8d5eCcea0wNroa3pBWhEXgC6n7gUO9mXaiWm
-g==
+TMKHe6m9e4EBz6rT5RAMpHJZXV6Oy0+hV2ySTE+s+2C1rOZM2OqsmkOHIJ/twUNTY
+vbVR55Y5YoXXcSVprQ757CJjRHCgVphAJ/H8ObIrfXGOguz5tpdXij29Y94tf6WBV
+NlKZsjIypi2Zo2jqpeCiReJb2qEGP64REC9OVFtQVfFp6LgN1kIjJRpPCFTRKOoVM
+Gyi41SyOPEw5MK512g33dB4yWUbVe3slLobJT4gBmKshvyuNm2P+eDf51hsEf9MeH
+ZrRqUaAbWtM/Nn0px1IPs5Ceudf6AhHIih6pPj4KINt/gYFgDTG0L2XU9myYXTlkM
+ruAssPVyqLY8IrT/B3i7fYYEsIE3N1NC7D3KW8tzaotaRu7IhOBUpd4e1qrmiPFpZ
+DxcR2KctLmZkIygOQZbwQIF7L3DZxzSjp6fUkv/SxlrYtKU+eV5/3HUBBgIZcW+0l
+T1b76Rx505ULlRzl37zGoXi5NFY+ntjGAEyWsxWZIscEdcs5W+hCzaLBcQXzYGkIp
+3a4cyNzMe/aDBAPPHOtefUudiC1PGTBF9FnSlmxWQVMEO1Yq5A0pAIoycENke3Zqr
+fE36xV4eq/kn7Z8pquDvsn9ip8q6mw41beGzZSWSuDAQnJSv+zxgpECZoHCo3ejd2
+v9iJ3wwuLcuY88R4ec58W/po4k6SwoZ1EobTqNS2trhcv7zd/N78NwFqHaYmSxMwh
+RPWLhOCIlPeCyTO2tGWVxCatC9mDY9yXaK2cpWBdJxawZFoEcVvJDkkRqjXbpjbk9
+dbGeI+RecwUqi9/F6dQlKyGdLuGjgLDQBGfeQbeAFFpnO7hMw8jlBS0/pP/PNZAyS
+4zW61qZY8mdSWK2UGh/S3mcfkizFTnHQzqzhNDnfiFkMfIJelPxl+XzCBzemQ1WGL
+n0ejvPQQomKTBN28ue4HflIEnqfhnHycUHv7mONgtbYSxGKolzyLWjzvmexfM4kSw
+SfGx42xckQkmnxAalQHgfb69/6PxQ1tsGY0sovuz10IXSMI9OZCTn0MsgVZ8tjy7Z
+TOTFOmhWHTWyhLpyJTIPNsEjXoXRKPozppUO7JTwXRo8gLPis/YoIZUMSQij12Cyi
+fsAl0m/3LTvQ/VG6ZYMFsnXjglA5DOQ8vkI/tiC75l3ht3v0oUx566uSE30xwkzPx
+OBNfsKJmqn0V4M8vl6tTA9RlzFKLYSEX2ypgFZzLGq0eH5OLKz9YeZ9+uyInLacxT
+RGhwTLWcOzkEizvQONq7Qq/G9JGQgjp6PSO/IbJYMfgPYmtJ727uKn241Z8PVOrTR
+XJeXJvR9MnHrixMbaO2YsImllvHO+wmJvU2JK2wibrWhxx3RW/f+7jch0qkXVVmUb
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
 
-      VNag - Nagios Framework for PHP                  (C) 2014-2019
+      VNag - Nagios Framework for PHP                  (C) 2014-2020
       __     ___      _____ _     _       _     ____         __ _
       \ \   / (_) __ |_   _| |__ (_)_ __ | | __/ ___|  ___  / _| |_
        \ \ / /| |/ _` || | | '_ \| | '_ \| |/ /\___ \ / _ \| |_| __|
@@ -35,7 +35,7 @@ g==
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2019-11-12
+      Revision 2020-04-14
 
 */
 
@@ -335,39 +335,38 @@ define('VNAG_JSONDATA_V1', 'oid:1.3.6.1.4.1.37476.2.3.1.1'); // {iso(1) identifi
 $OVERWRITE_ARGUMENTS = null;
 
 function _empty($x) {
-if (is_array($x)) debug_print_stacktrace();
 	// Returns true for '' or null. Does not return true for value 0 or '0' (like empty() does)
 	return trim($x) == '';
 }
 
 abstract class VNag {
-	const VNAG_VERSION = '2019-11-12';
+	public const VNAG_VERSION = '2020-04-14';
 
 	// Status 0..3 for STATUSMODEL_SERVICE (the default status model):
 	# The guideline states: "Higher-level errors (such as name resolution errors, socket timeouts, etc) are outside of the control of plugins and should generally NOT be reported as UNKNOWN states."
 	# We choose 4 as exitcode. The plugin developer is free to return any other status.
-	const STATUS_OK       = 0;
-	const STATUS_WARNING  = 1;
-	const STATUS_CRITICAL = 2;
-	const STATUS_UNKNOWN  = 3;
-	const STATUS_ERROR    = 4; // and upwards
+	public const STATUS_OK       = 0;
+	public const STATUS_WARNING  = 1;
+	public const STATUS_CRITICAL = 2;
+	public const STATUS_UNKNOWN  = 3;
+	public const STATUS_ERROR    = 4; // and upwards
 
 	// Status 0..1 for STATUSMODEL_HOST:
 	// The page https://blog.centreon.com/good-practices-how-to-develop-monitoring-plugin-nagios/
 	// states that host plugins may return following status codes:
 	// 0=UP, 1=DOWN, Other=Maintains last known state
-	const STATUS_UP       = 0;
-	const STATUS_DOWN     = 1;
-	const STATUS_MAINTAIN = 2; // and upwards
+	public const STATUS_UP       = 0;
+	public const STATUS_DOWN     = 1;
+	public const STATUS_MAINTAIN = 2; // and upwards
 
-	const VERBOSITY_SUMMARY                = 0;
-	const VERBOSITY_ADDITIONAL_INFORMATION = 1;
-	const VERBOSITY_CONFIGURATION_DEBUG    = 2;
-	const VERBOSITY_PLUGIN_DEBUG           = 3;
-	const MAX_VERBOSITY = self::VERBOSITY_PLUGIN_DEBUG;
+	public const VERBOSITY_SUMMARY                = 0;
+	public const VERBOSITY_ADDITIONAL_INFORMATION = 1;
+	public const VERBOSITY_CONFIGURATION_DEBUG    = 2;
+	public const VERBOSITY_PLUGIN_DEBUG           = 3;
+	public const MAX_VERBOSITY = self::VERBOSITY_PLUGIN_DEBUG;
 
-	const STATUSMODEL_SERVICE = 0;
-	const STATUSMODEL_HOST    = 1;
+	public const STATUSMODEL_SERVICE = 0;
+	public const STATUSMODEL_HOST    = 1;
 
 	private $initialized = false;
 
@@ -382,16 +381,14 @@ abstract class VNag {
 	private $helpObj = null;
 	private $argHandler = null;
 
-	const OUTPUT_SPECIAL   = 1; // illegal usage / help page, version page
-	const OUTPUT_NORMAL    = 2;
-	const OUTPUT_EXCEPTION = 4;
-	const OUTPUT_ALWAYS    = 7;
-	const OUTPUT_NEVER     = 0;
+	public const OUTPUT_NEVER     = 0;
+	public const OUTPUT_SPECIAL   = 1; // illegal usage / help page, version page
+	public const OUTPUT_NORMAL    = 2;
+	public const OUTPUT_EXCEPTION = 4;
+	public const OUTPUT_ALWAYS    = 7; // = OUTPUT_SPECIAL+OUTPUT_NORMAL+OUTPUT_EXCEPTION
 
-	// set to true if you want the output being shown in the HTML beside of the invisible tag
-	// set to false if you just want to send the invisible tag
-	public $http_visual_output    = self::OUTPUT_ALWAYS;
-	public $http_invisible_output = self::OUTPUT_ALWAYS;
+	public $http_visual_output    = self::OUTPUT_ALWAYS; // show a human-readable panel? ...
+	public $http_invisible_output = self::OUTPUT_ALWAYS; // ... and/or show an invisible machine-readable tag?
 
 	// $html_before and $html_after contain the output HTML which were sent by the user
 
@@ -744,112 +741,119 @@ abstract class VNag {
 
 	// $optional_args will be forwarded to the callback function cbRun()
 	public function run($optional_args=array()) {
-		if (!$this->constructed) {
-			throw new VNagNotConstructed(VNagLang::$notConstructed);
-		}
-
+		global $inside_vnag_run;
+		
+		$inside_vnag_run = true;
 		try {
-			$this->initialized = true;
-			$this->html_before = '';
-			$this->html_after = '';
-			$this->setStatus(null, true);
-			$this->messages = array();
-
-			register_shutdown_function(array($this, '_shutdownHandler'));
-
-			if ($this->argHandler->illegalUsage()) {
-				$content = $this->helpObj->printUsagePage();
-                                $this->setStatus(VNag::STATUS_UNKNOWN);
-
-				if ($this->is_http_mode()) {
-					echo $this->html_before;
-					if ($this->http_visual_output    & VNag::OUTPUT_SPECIAL) echo $this->writeVisualHTML($content);
-					if ($this->http_invisible_output & VNag::OUTPUT_SPECIAL) echo $this->writeInvisibleHTML($content);
-					echo $this->html_after;
-					return; // cancel
-				} else {
-					echo $content;
-					return $this->_exit($this->status);
-				}
+			if (!$this->constructed) {
+				throw new VNagNotConstructed(VNagLang::$notConstructed);
 			}
 
-			if (!is_null($this->argVersion) && ($this->argVersion->available())) {
-				$content = $this->helpObj->printVersionPage();
-                                $this->setStatus(VNag::STATUS_UNKNOWN);
-
-				if ($this->is_http_mode()) {
-					echo $this->html_before;
-					if ($this->http_visual_output    & VNag::OUTPUT_SPECIAL) echo $this->writeVisualHTML($content);
-					if ($this->http_invisible_output & VNag::OUTPUT_SPECIAL) echo $this->writeInvisibleHTML($content);
-					echo $this->html_after;
-					return; // cancel
-				} else {
-					echo $content;
-					return $this->_exit($this->status);
-				}
-			}
-
-			if (!is_null($this->argHelp) && ($this->argHelp->available())) {
-				$content = $this->helpObj->printHelpPage();
-				$this->setStatus(VNag::STATUS_UNKNOWN);
-
-				if ($this->is_http_mode()) {
-					echo $this->html_before;
-					if ($this->http_visual_output    & VNag::OUTPUT_SPECIAL) echo $this->writeVisualHTML($content);
-					if ($this->http_invisible_output & VNag::OUTPUT_SPECIAL) echo $this->writeInvisibleHTML($content);
-					echo $this->html_after;
-					return; // cancel
-				} else {
-					echo $content;
-					return $this->_exit($this->status);
-				}
-			}
-
-			// Initialize ranges (and check their validity)
-			$this->getWarningRange();
-			$this->getCriticalRange();
-
-			if (!is_null($this->argTimeout)) {
-				$timeout = $this->argTimeout->getValue();
-				if (!is_null($timeout)) {
-					Timeouter::start($timeout);
-				}
-			}
-
-			ob_start();
-			$init_ob_level = ob_get_level();
 			try {
-				$this->cbRun($optional_args);
+				$this->initialized = true;
+				$this->html_before = '';
+				$this->html_after = '';
+				$this->setStatus(null, true);
+				$this->messages = array();
 
-				// This will NOT be put in the 'finally' block, because otherwise it would trigger if an Exception happened (Which clears the OB)
-				if (ob_get_level() < $init_ob_level) throw new VNagImplementationErrorException(VNagLang::$output_level_lowered);
-			} finally {
-				while (ob_get_level() > $init_ob_level) @ob_end_clean();
+				register_shutdown_function(array($this, '_shutdownHandler'));
+
+				if ($this->argHandler->illegalUsage()) {
+					$content = $this->helpObj->printUsagePage();
+	                                $this->setStatus(VNag::STATUS_UNKNOWN);
+
+					if ($this->is_http_mode()) {
+						echo $this->html_before;
+						if ($this->http_visual_output    & VNag::OUTPUT_SPECIAL) echo $this->writeVisualHTML($content);
+						if ($this->http_invisible_output & VNag::OUTPUT_SPECIAL) echo $this->writeInvisibleHTML($content);
+						echo $this->html_after;
+						return; // cancel
+					} else {
+						echo $content;
+						return $this->_exit($this->status);
+					}
+				}
+
+				if (!is_null($this->argVersion) && ($this->argVersion->available())) {
+					$content = $this->helpObj->printVersionPage();
+	                                $this->setStatus(VNag::STATUS_UNKNOWN);
+
+					if ($this->is_http_mode()) {
+						echo $this->html_before;
+						if ($this->http_visual_output    & VNag::OUTPUT_SPECIAL) echo $this->writeVisualHTML($content);
+						if ($this->http_invisible_output & VNag::OUTPUT_SPECIAL) echo $this->writeInvisibleHTML($content);
+						echo $this->html_after;
+						return; // cancel
+					} else {
+						echo $content;
+						return $this->_exit($this->status);
+					}
+				}
+
+				if (!is_null($this->argHelp) && ($this->argHelp->available())) {
+					$content = $this->helpObj->printHelpPage();
+					$this->setStatus(VNag::STATUS_UNKNOWN);
+
+					if ($this->is_http_mode()) {
+						echo $this->html_before;
+						if ($this->http_visual_output    & VNag::OUTPUT_SPECIAL) echo $this->writeVisualHTML($content);
+						if ($this->http_invisible_output & VNag::OUTPUT_SPECIAL) echo $this->writeInvisibleHTML($content);
+						echo $this->html_after;
+						return; // cancel
+					} else {
+						echo $content;
+						return $this->_exit($this->status);
+					}
+				}
+
+				// Initialize ranges (and check their validity)
+				$this->getWarningRange();
+				$this->getCriticalRange();
+
+				if (!is_null($this->argTimeout)) {
+					$timeout = $this->argTimeout->getValue();
+					if (!is_null($timeout)) {
+						Timeouter::start($timeout);
+					}
+				}
+
+				ob_start();
+				$init_ob_level = ob_get_level();
+				try {
+					$this->cbRun($optional_args);
+
+					// This will NOT be put in the 'finally' block, because otherwise it would trigger if an Exception happened (Which clears the OB)
+					if (ob_get_level() < $init_ob_level) throw new VNagImplementationErrorException(VNagLang::$output_level_lowered);
+				} finally {
+					while (ob_get_level() > $init_ob_level) @ob_end_clean();
+				}
+
+				if (is_null($this->status)) $this->setStatus($this->default_status,true);
+
+				$outputType = VNag::OUTPUT_NORMAL;
+			} catch (Exception $e) {
+				$this->handleException($e);
+				$outputType = VNag::OUTPUT_EXCEPTION;
 			}
 
-			if (is_null($this->status)) $this->setStatus($this->default_status,true);
+			if ($this->is_http_mode()) {
+				echo $this->html_before;
+				if ($this->http_invisible_output & $outputType) {
+					echo $this->writeInvisibleHTML();
+				}
+				if ($this->http_visual_output & $outputType) {
+					echo $this->writeVisualHTML();
+				}
+				echo $this->html_after;
+			} else {
+				echo $this->getNagiosConsoleText();
+				return $this->_exit($this->status);
+			}
 
-			$outputType = VNag::OUTPUT_NORMAL;
-		} catch (Exception $e) {
-			$this->handleException($e);
-			$outputType = VNag::OUTPUT_EXCEPTION;
+			Timeouter::end();
+		} finally {
+			$inside_vnag_run = false;
 		}
-
-		if ($this->is_http_mode()) {
-			echo $this->html_before;
-			if ($this->http_invisible_output & $outputType) {
-				echo $this->writeInvisibleHTML();
-			}
-			if ($this->http_visual_output & $outputType) {
-				echo $this->writeVisualHTML();
-			}
-			echo $this->html_after;
-		} else {
-			echo $this->getNagiosConsoleText();
-			return $this->_exit($this->status);
-		}
-
-		Timeouter::end();
 	}
 
 	private function getNagiosConsoleText() {
@@ -1121,10 +1125,11 @@ abstract class VNag {
 				throw new VNagPrivateKeyException(sprintf(VNagLang::$privkey_file_not_readable, $this->privkey));
 			}
 
-			openssl_sign($payload, $signature, $pkeyid, $this->sign_algo);
-			openssl_free_key($pkeyid);
+			if (@openssl_sign($payload, $signature, $pkeyid, $this->sign_algo)) {
+				openssl_free_key($pkeyid);
 
-			$dataset['signature'] = base64_encode($signature);
+				$dataset['signature'] = base64_encode($signature);
+			}
 		}
 
 		if (!is_null($this->password_out)) {
@@ -1238,7 +1243,10 @@ abstract class VNag {
 	protected function handleException($exception) {
 		$this->checkInitialized(); // if (!$this->initialized) return;
 
-		while (ob_get_level() > 0) @ob_end_clean();
+		if (!VNag::is_http_mode()) {
+			// On console output, remove anything we have written so far!
+			while (ob_get_level() > 0) @ob_end_clean();
+		}
 		$this->clearVerboseInfo();
 		$this->clearPerformanceData();
 
@@ -2450,12 +2458,20 @@ class VNagLang {
 }
 
 function vnagErrorHandler($errorkind, $errortext, $file, $line) {
+	// This function "converts" PHP runtime errors into Exceptions, which can then be handled by VNag::handleException() 
+	global $inside_vnag_run;
+	
+	if (!$inside_vnag_run && VNag::is_http_mode()) {
+		// We want to avoid that the VNag-Exception will show up in a website that contains
+		// an embedded VNag monitor, so if we are not inside a running VNag code,
+		// we will call the normal PHP error handler.
+		return false;
+	}
+	
 	if (!(error_reporting() & $errorkind)) {
 		// Code is not included in error_reporting. Don't do anything.
-		return;
+		return true;
 	}
-
-	while (ob_get_level() > 0) @ob_end_clean();
 
 	// We want 100% clean scripts, so any error, warning or notice will shutdown the script
 	// This also fixes the issue that PHP will end with result code 0, showing an error.
@@ -2478,10 +2494,11 @@ function vnagErrorHandler($errorkind, $errortext, $file, $line) {
 	if (defined('E_USER_DEPRECATED') && ($errorkind == E_USER_DEPRECATED)) $errorkind = 'User Deprecated';
 	throw new VNagException(VNagLang::$php_error . " $errortext at $file:$line (kind $errorkind)");
 
-	// true = the PHP internal error handling will not be called.
+	// true = the PHP internal error handling will NOT be called.
 	return true;
 }
 
+$inside_vnag_run = false;
 $old_error_handler = set_error_handler("vnagErrorHandler");
 
 // === End of document ===
