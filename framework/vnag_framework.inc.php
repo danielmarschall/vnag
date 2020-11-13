@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -35,7 +35,7 @@ w==
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2020-04-21
+      Revision 2020-11-13
 
 */
 
@@ -217,9 +217,9 @@ Visual HTTP output:
 
 Encryption and Decryption:
 
-	In case you are emitting machine readable code in your HTTP output
+	In case you are emitting machine-readable code in your HTTP output
 	(can be enabled/disabled by $this->http_invisible_output),
-	you can encrypt the machine readable part of your HTTP output by
+	you can encrypt the machine-readable part of your HTTP output by
 	setting $this->password_out . If you want to read the information,
 	you need to set $this->password_in at the web-reader plugin.
 
@@ -231,7 +231,7 @@ Encryption and Decryption:
 
 	Attention!
 	- An empty string is also considered as password. If you don't want to encrypt the
-	  machine readable output, please set $this->password_out to null.
+	  machine-readable output, please set $this->password_out to null.
 	- Both features (encryption and signatures) require the OpenSSL plugin in PHP.
 
 Performance data:
@@ -414,7 +414,7 @@ abstract class VNag {
 
 	// -----------------------------------------------------------
 
-	// The ID will be used for writing AND reading of the machine readable
+	// The ID will be used for writing AND reading of the machine-readable
 	// Nagios output embedded in a website. (A web-reader acts as proxy, so the
 	// input and output ID will be equal)
 	// Attention: Once you run run(), $id will be "used" and resetted to null.
@@ -426,12 +426,12 @@ abstract class VNag {
 
 	// -----------------------------------------------------------
 
-	// Private key: Optional feature used in writeInvisibleHTML (called by run in HTTP mode)
+	// Private key: Optional feature used in writeInvisibleHTML (called by run in HTTP mode) in order to sign/encrypt the output
 	public $privkey = null;
 	public $privkey_password = null;
-	public $sign_algo = OPENSSL_ALGO_SHA256;
+	public $sign_algo = null; // default: OPENSSL_ALGO_SHA256
 
-	// Public key: Used in readInvisibleHTML
+	// Public key: Optional feature used in a web-reader [readInvisibleHTML) to check the integrity of a message
 	public $pubkey = null;
 
 	// -----------------------------------------------------------
@@ -471,7 +471,7 @@ abstract class VNag {
 	// Encryption password: Optional feature used in writeInvisibleHTML (called by run in HTTP mode)
 	public $password_out = null;
 
-	// Decryption password: Used in readInvisibleHTML to decrypt an encrypted machine readable info
+	// Decryption password: Used in readInvisibleHTML to decrypt an encrypted machine-readable info
 	public $password_in = null;
 
 	// -----------------------------------------------------------
@@ -1038,6 +1038,10 @@ abstract class VNag {
 							}
 						}
 
+						if (!function_exists('openssl_decrypt')) {
+							throw new VNagException(VNagLang::$openssl_missing);
+						}
+
 						$payload = openssl_decrypt($payload, $cryptInfo['method'], $password, 0, $cryptInfo['iv']);
 					}
 
@@ -1060,7 +1064,12 @@ abstract class VNag {
 							throw new VNagSignatureException(VNagLang::$signature_not_bas64);
 						}
 
-						if (!openssl_verify($payload, $signature, $public_key, $this->sign_algo)) {
+						if (!function_exists('openssl_verify')) {
+							throw new VNagException(VNagLang::$openssl_missing);
+						}
+
+						$sign_algo = is_null($this->sign_algo) ? OPENSSL_ALGO_SHA256 : $this->sign_algo;
+						if (!openssl_verify($payload, $signature, $public_key, $sign_algo)) {
 							throw new VNagSignatureException(VNagLang::$signature_invalid);
 						}
 					}
@@ -1117,6 +1126,10 @@ abstract class VNag {
 		$dataset = array();
 
 		if (!is_null($this->privkey)) {
+			if (!function_exists('openssl_pkey_get_private') || !function_exists('openssl_sign')) {
+				throw new VNagException(VNagLang::$openssl_missing);
+			}
+
 			if (!file_exists($this->privkey)) {
 				throw new VNagInvalidArgumentException(sprintf(VNagLang::$privkey_file_not_found, $this->privkey));
 			}
@@ -1133,6 +1146,10 @@ abstract class VNag {
 		}
 
 		if (!is_null($this->password_out)) {
+			if (!function_exists('openssl_encrypt')) {
+				throw new VNagException(VNagLang::$openssl_missing);
+			}
+
 			$password = $this->password_out;
 
 			$method = 'aes-256-ofb';
@@ -1157,7 +1174,7 @@ abstract class VNag {
 		$json['type'] = VNAG_JSONDATA_V1;
 		$json['datasets'] = array($dataset); // we only output 1 dataset. We could technically output more than one into this data block.
 
-		// Include the machine readable information as data block
+		// Include the machine-readable information as data block
 		// This method was chosen to support HTML 4.01, XHTML and HTML5 as well without breaking the standards
 		// see https://stackoverflow.com/questions/51222713/using-an-individual-tag-without-breaking-the-standards/51223609#51223609
 		return '<script type="application/json">'.
@@ -2222,6 +2239,8 @@ bwIDAQAB
 -----END PUBLIC KEY-----
 VTSKEY;
 
+		if (!function_exists('openssl_verify')) return null;
+
 		if (!openssl_verify($hash, $signature, $public_key, OPENSSL_ALGO_SHA256)) {
 			return false;
 		}
@@ -2444,6 +2463,7 @@ class VNagLang {
 	static $convert_x_y_error = 'Cannot convert from UOM %s to UOM %s.';
 	static $php_error = 'PHP has detected an error in the plugin. Please contact the plugin author.';
 	static $output_level_lowered = "Output Buffer level lowered during cbRun(). Please contact the plugin author.";
+	static $openssl_missing = "OpenSSL is missing. Therefore, encryption and signatures are not available.";
 
 	// Help texts
 	static $warning_range = 'Warning range';
