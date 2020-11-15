@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-IAzTNF1qEHv2y4n0Glb5laYTelEJoGnBtHHKP23MVF2MgdGv+oOrnpT9+VMjAwTQV
-e693486BeySKN2EeISBnj12D+7EiDtIXS1Bm9blr2jyNDiotmot36gAPwJ4RJq+ZS
-nCd/EYBvgnK8811fdAV+/IBgeOEZlcJANiOkpR/3tOHcZnJgdd7NM+7gBLhsbwXpm
-glm/VONl1c6b80Ue8Wjk4Xk0WWd3Er+rqdYgxAigD2Rbu/b/Ul5/FKW1ydafZ7QQ2
-WsIrmjF8+Ochcc046kRRgGuKCs3OpJS6YH/k6JXRJlHbpsc+M1xqbgKGKQLqzFmHY
-irP3flIzMXTmwP0JTtuvD0u95J5tonb9zn1N8zOV9muSxk9/s6liTLwC2oQUNRuIJ
-KluFaFgkAQTaLYbe8WVyj2o0KAT55ahH7k2sASwWUVOUqAACCkAFyubeNzd3SaHOH
-f5MULwz7ChlsTztMSARCfdIIJL5pHpjtt7MzSs1jH9+bryKGlHWVLeWZoixGWzfGb
-xGTrxiJSzot3SaCUACB01PFC8/u3BL6oBCr3wkwIX332EVVpel6Xt66v22LInkAC3
-mTMw1ECbSuKPoll0kInbeXNIW91NYXf1uEMcUGoNSRTCA0Jtf06mWxu2hGDUqnSro
-axlG2J/EIMoJ+hw7yV57dYRAloTo/n3dNreJrdg0QkI1wyxgmqVBRbTgLT844Ib7B
-R9ICMqEj91A6MHOAfbPuyHWF+d+pXrsb88OhdhSN82cypzPldTBAdUu6x8bIOyfSZ
-y3ac/jkGtErAQdV0ouQ3GkpyKcXKxBPtRxhahOdWgGLjQl0MPCmuAOmgduQHrlyCO
-tL+3SkRjgX5oFAPzmimOXHJtPBE5j96WEo+lmNbcujs3hx/SQwP5uAODl7okb0oPv
-iQOOfbQXOOZt7xLGQtT70tBKAEJCc787dlAW5pFjAB/KCseLsV7ORVOxfXJJSf48Q
-MbXDFbM+1MMz5BSTP6NGp5sRpVkm8/RTUdSD2nHxzeulmlj5cQkuJGVA4mRhN9Mxp
-hCxwoVeEy6cHsFPAIeF+i2T2Kgf60+10nOo7jiJrcd6ygkA9t69wFR9iT8hQQJ15G
-h1/s9U4QEJer8g+WSChHmZFjBihsWKwndlzX5S25pdsdcImsO/D+GFTV3q3rIQWyK
-cUvgR03Bhj1EyrofxD5JGk67IX0vNjTcarIrAWrErpL9rg1R5CzJ7CrxXJZ3emFup
-T4x5EeaZ1nR6uHb9wUgBedlyjwHhe7+pNQr6kyAFXtzQZssDDdEBnbgUvhR0mHdlk
-rQ/WpUm3i0JxT927DqbvTtiWelzAPhcHlDwwuPo3HUKt1rUQUtrnZdXcr9wC29n3k
-w==
+LokIIP+etCdpnSUT02tismI68sZ0+1g5V+ZF28MVK+BQMck9jMXAB+mK9ie+h8ZLr
+rmnXG74x+9QUw+BKwP7co6qUYXwcxP/De8QctQA460C/S/h88g9mDFexzhtpDsDVD
+jFYa2rWrRssC08O+iNLRG2NGby1r5bsbCOOLJ3sMuKgqxbJU0TQoss5l7BN2TJgGN
+spY3xdu24OH+TQ0TxyehCtiK6DJifyQVLqtdiL+LG+Ae1GG7mEDZ9ocVwh+AC2BX7
+nHnNn763oxjsbXzs9uTQ9sB8FHRBK+aK7ZW2GwLDyIUbTzqlV61NtSzerzPY9etGE
+dDrMxcAY+iXF69U4/FGDdQBFaAgOSpOUad++fy6Gp4biPyKizCXpALnHj+yM57gpr
+TZaWX2d2JNAhRZL2qut83euzwLL9W+3n28+85w0fYpTxYdxygvZodEQEhjbWadken
+BH5NQuqp1y0g7MLOOg2BjnqMi5AT0Z4t2Pl0Uw0QtK/fgLwaoxk6vtRl2dtIBWwAl
+0w5TkV0b8VcJKWogeNhGO4T6vXg1SsOxtppkie5emIriipBZlt6pRjsR6+34WKbrR
+zZU+qV1MOQeljx/YKjhJghj6bC52lDmeQkrOHyY2HjkRhGPHtZZR0x9WSW1bqpu3o
+28l0IB6KTIp6gXnsGb4Eq1ekpNm/GMMPIlphm4gyYxPncVXfbyv0l2OGNGnKw2ySx
+LGP7WyD7cZcR/Vltz29LxfN/NMNXdEjnUS51UCwtegP5fCejTP65isVWwhQhe4syc
+3ext2JCZ+n5vWza560s/x7h1G4FrxBtdoCZO9JafDadVFP/zy/qFVo0ayoNihxRsK
+DSFaLMTjUkTqoRnnqHSU7TZRkBBXBJtXVk0NXTYvefc9ieRo+Pd0tk/xZpT2YAiHF
+o3FCrnuTmx1qIX2zyKmMtxhJ6kG17FHqX64Lc3h11eM87jl4ZGp1kgtskZf6pQMH+
+WZsQftjTRNcGX7ulGfBp/OSm0allGoUU2owVYN2zrKKEAjM4fvIRX+Akp/6LgmIgw
+bHBmNFiwssmatqbM4621/W1lzxEmu0npN+HgxFL1qn2HlLIvx42RHZ8vBYOPpQbjo
+n+ivkmJSjQpuqlecYy5xlLy7cflfwX4+dBgFtaeIaJ1S2NBUgi7RU5Yh6Fin7xKsm
+6n1OAS93qucsHAZOQOon70zDuRqZqnSItsO3vPx0buaNq86oxPP16fo10M37Uviav
+ccwhRxyTtCsQMOhVvL65OK6qeKbPYZ2ut9tII4JTBMxdFFuSDUmIya0Km4yQ8oTkE
+u/m6D/uiqi16tAu2kMycX8c75GbrFwZ8Uw8n2psqC84v3MCFYR8B9gmLtm3JnQ3Xq
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -35,7 +35,7 @@ w==
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2020-11-13
+      Revision 2020-11-15
 
 */
 
@@ -317,7 +317,7 @@ VNag over HTTP:
 
 ****************************************************************************************************/
 
-error_reporting(-1);
+if (!VNag::is_http_mode()) error_reporting(E_ALL);
 
 # If you want to use -t/--timeout with your module, you must add following line in your module code:
 // WONTFIX: declare(ticks=1) is deprecated? http://www.hackingwithphp.com/4/21/0/the-declare-function-and-ticks
@@ -1133,11 +1133,12 @@ abstract class VNag {
 			if (!file_exists($this->privkey)) {
 				throw new VNagInvalidArgumentException(sprintf(VNagLang::$privkey_file_not_found, $this->privkey));
 			}
-			$pkeyid = @openssl_pkey_get_private('file://'.$this->privkey, $privkey_password);
+			$pkeyid = @openssl_pkey_get_private('file://'.$this->privkey, $this->privkey_password);
 			if (!$pkeyid) {
 				throw new VNagPrivateKeyException(sprintf(VNagLang::$privkey_file_not_readable, $this->privkey));
 			}
 
+			$signature = '';
 			if (@openssl_sign($payload, $signature, $pkeyid, $this->sign_algo)) {
 				openssl_free_key($pkeyid);
 
@@ -1275,7 +1276,7 @@ abstract class VNag {
 
 		$this->setHeadline($this->exceptionText($exception), false);
 
-		if ($exception instanceof VNagImplementationException) {
+		if ($exception instanceof VNagImplementationErrorException) {
 			$this->addVerboseMessage($exception->getTraceAsString(), VNag::VERBOSITY_SUMMARY);
 		} else {
 			if (isset($this->argVerbosity)) {
@@ -1476,11 +1477,13 @@ class VNagArgument {
 	}
 
 	static private function validateShortOpt($shortopt) {
+		$m = array();
 		return preg_match('@^[a-zA-Z0-9\\+\\-\\?]$@', $shortopt, $m);
 	}
 
 	static private function validateLongOpt($longopt) {
 		// FUT: Check if this is accurate
+		$m = array();
 		return preg_match('@^[a-zA-Z0-9\\+\\-\\?]+$@', $longopt, $m);
 	}
 
@@ -1709,6 +1712,7 @@ class VNagRange {
 	public /*boolean*/ $warnInsideRange;
 
 	public function __construct($rangeDef, $singleValueBehavior=VNag::SINGLEVALUE_RANGE_DEFAULT) {
+		$m = array();
 		//if (!preg_match('|(@){0,1}(\d+)(:){0,1}(\d+){0,1}|', $rangeDef, $m)) {
 		if (!preg_match('|^(@){0,1}([^:]+)(:){0,1}(.*)$|', $rangeDef, $m)) {
 			throw new VNagInvalidRangeException(sprintf(VNagLang::$range_invalid_syntax, $rangeDef));
@@ -1867,6 +1871,7 @@ class VNagValueUomPair {
 	}
 
 	public function __construct($str) {
+		$m = array();
 		if (!preg_match('/^([\d\.]+)(.*)$/ism', $str, $m)) {
 			throw new VNagValueUomPairSyntaxException($str);
 		}
@@ -2039,6 +2044,7 @@ class VNagPerformanceData {
 			throw new VNagInvalidPerformanceDataException(VNagLang::$perfdata_value_must_be_in_class);
 		}
 		*/
+		$m = array();
 		if ((!_empty($min)) && (!preg_match('|^[-0-9\\.]+$|', $min, $m))) {
 			throw new VNagInvalidPerformanceDataException(VNagLang::$perfdata_min_must_be_in_class);
 		}
@@ -2203,6 +2209,7 @@ class VNagHelp {
 
 		$regex = '@<\?php /\* <ViaThinkSoftSignature>(.+)</ViaThinkSoftSignature> \*/ \?>\n@ismU';
 
+		$m = array();
 		if (!preg_match($regex, $cont, $m)) {
 			return false;
 		}
