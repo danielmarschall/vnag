@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-r7q0bEpdBSOqQOdRZvie6iJ1XrE0O2HPsm5kx0aFBaaDxOwt9rWiO7muKj0YxjmjU
-IBVfS/431xNkhOgbCjG1vHgFYXkFxaty0bhlNk2VIGqDSoQiBJUv0valX0AD/UQ4h
-f09HQkauOD6o0gGnJmfvgJ/w7vbiORappHgnb3WiDvqd9h1CUtLaikxfU9rpD8/KS
-T21R3qdHbbYi8hEyif4ELVxRDy8Lb/kuyjBDqP7C6cHNp7d5ieO+0l9wOtkfYgdd/
-k1hqa6VDz48gyGd7M7OypjW2yoHYj8bbo2agUUNdnkoehpWXm5K16XRpI8W02Q8bR
-OdMZge4S5TEmkWZo3jMp6gsJQdlACxIgulHr3bXn9eqLth9TcePMT6bOq+qYvtcLk
-Bq07ZVvJJ6bcUpFGSmaMWaRB9PUxAwl3agENhIJ1mi+1UKNjKkMaKFT+mQ914yC4r
-AngR5OhzMx5lfTdMRQLC1fJu2+lTH9vyYGZFEU+jqv1JBYJzQ6kzavPyY3XCSesJo
-IbXfPAKnPig38oFzOkvHxR0AfGhdbh1S5mVC4j2j182Evy9ErV8vO+nAU8xp1hzd3
-EdLuHi7JGogtLko33muownng0vVHPPTt/LcFdwQYWIUyPnD49sHq5trN6LYWeWrSE
-IUQlaRimcyN+0hkYAx2njAf1jYFOz0aqypTahrK7RDdspt9tJb7ILZwJBADBwApse
-r8zgXM1RmkuNWxYX1sV7aZLRIWcaJveD/xmucbTdqaYr+W/g6SYws56NHef/hCcHv
-U2alFmLKvBMmfBrb1LRGPx/BZE2WYfoDOLpaRVl1e2xwUOcePm7vltxksTe5rthtf
-mP3JHM7l8SACuH+xdrOQ2Nx6ah3XQ4XVNvb12wMAHij4ArVhFdVizVZSGdcKxt1iV
-jyVlrU7TrmbyMGRyNM3u13iGRFxCihGgV6pSejNGu+G5OWdlfr828mHqn2ZECAbc+
-wH7wVt3ukrY8uvLeCnoC7H8ylPCl7LeFxqZ3PFBHEJflcVkfjnDS5NnJ/JlaBHPA5
-9Ue1EgmqVmHzP+u73pEEWMyqOOAULu52N+X6JWXqSB3dLF+HnoijilSRWAobYCYzN
-H98+mVik8K5I4KW1GdCdexOpMd7cTLKQ8NJCagZzJ5HpX2XBCemlDKoQac1o8lN9P
-EG3ORkajdosJ1wvhInrmBXYwPFbQKst/yA5amjgjX67ptW75fIkZS+zdoUf9cbKrK
-uestRJn83HuMT34ruDmo4FaV4E9kPiSC2GlQ6GFwcrU9dIy2JdRjFNl+6Ywf0LL40
-pglnOhBlEciPIv5VnSWhqe1jxPfIWzmKoZv8wCelXai3BclNBo6gZR3T6majsJcMx
-A==
+HrbDd/amRaxePAB/3etImWReGVZq3Id+EqkkxIqvWfmlR1WSCeAU5Y9tDeWXgBCXt
+x0zArKoecuVT0CCJX0IMtqb2TgnX1/osYvkMsXg9P2pc45hYRmrbaY/I4hU2QmriD
+dOr/ci0cq/HM1pyRVkfcfYY9BMjaqiQTKhMdPcbN57ymI3oYYU4iSby7M1oMa8uE+
+NJrtqJea+GtK269I/Kq3cyiuqDD3PIMMvMoZ+9/64whJng2SQBxwXSnc9bwPYhyok
+R73NF8ovZXsPxVQHN1SBGe9b+x3vkSdxG2P3DUPuIZLVrLQ4UhKIL78bL+nJVHLqZ
+025357ySHaE7meE+KUu79siZ3rZwa+PdHRJFpD6OB+LgsHhe+XovEd7tRgr3M5C6o
+eeXfzrvRt081f16tuUhXp+jjy1G4h9hI/dv09KDsPbEzzQHUkQMJ2J9J7vXtbHB9A
+MDxOoqfF9RzQOY5uAhot3pCabLxo2MIisEAQ1Nah24lm0zpfwjtZZK4hWPuT2z4uG
+XOwTvjJ9omiV8qDd2MrsEuKKd85LDcB1MmVsH3+tgbVrIuUqGxF6q6A43hN8CzUuz
+/vWUMiL87IQH+1a3Tz7tFN9G/+Bl9fdxhCOFoMzs5ySzWfBefF8YyWBagweBDftR0
+tkV8TRSa7OArUf/LU5LaPu1olOZnN2AR/nbyrW6PjFFQu1xXhVic3a0wKePzRdtWQ
+Lm+no5x3Stprvv3bY5q48bBiOKZRH0TSrm7QL6fRPECAigf7lL8bEQOElstLHaRCY
+hNUz/dzZGKpf7IjzetqmeJ9eAy507iq+toV2b5EfA6Gs1XUcMw1phSP1jqX3PhZz2
+yYbwi1JdyWeihrWsuFoP8+aIh9ErRZ85g88mIhvx2cCLrQGcF4rIAxpDslGvZVZNu
+66RBUldLcc9KbtmroVpvvhmyyDYXvSyfi9JSosK1NO/x7/yr5S5Deoc7FBxvEbJNG
+BgJrBuaenOJlIth5QF8Zc5iXELJRci7HdPQ8rdRxrWNWzlnJhsuMPQihkP3/Q9aLz
+hmYHJBIuXhOApuXgHk/uwyimFW/dDdkJbLEdDFvTaCrhbMaqa+MKx23GSGLO/H9bg
+z1IE0Hm4oqiv0qaTLIQ79w45zfo6ecpmGN4Hlmc0QWUhGLotSMJrOwLNiPMTRgBUa
+QNrwpmTHlxke7UjjD7f5RlsqYLIAGpXJKTxMJtFhYHB4v5xf5WQEzyNOxs+aYgrZf
+LZmi2JtO1QbNslOndrAqbEJKe/FAA6Sj4Tj5h8rBKha9mP+A6g5YybMZ3D5RH1S4N
+eM6K7VYei3hoW+1jz8cTDStgaV+2IhNrv96hRH2aMGut+fAwJo/8WDQ3ilsArB670
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -35,7 +35,7 @@ A==
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2021-03-21
+      Revision 2021-03-23
 
 */
 
@@ -224,10 +224,10 @@ Encryption and Decryption:
 	you need to set $this->password_in at the web-reader plugin.
 	The visual output is not encrypted. So, if you want to hide the information,
 	then you must not enable visual HTML output.
+	If you don't want to encrypt the machine-readable output,
+	please set $this->password_out to null or empty string.
 
 	Attention!
-	- An empty string is also considered as password. If you don't want to encrypt the
-	  machine-readable output, please set $this->password_out to null.
 	- Encryption and decryption require the OpenSSL extension in PHP.
 
 Digital signature:
@@ -347,7 +347,7 @@ function _empty($x) {
 }
 
 abstract class VNag {
-	/*public*/ const VNAG_VERSION = '2021-03-21';
+	/*public*/ const VNAG_VERSION = '2021-03-23';
 
 	// Status 0..3 for STATUSMODEL_SERVICE (the default status model):
 	# The guideline states: "Higher-level errors (such as name resolution errors, socket timeouts, etc) are outside of the control of plugins and should generally NOT be reported as UNKNOWN states."
@@ -1167,7 +1167,7 @@ abstract class VNag {
 			}
 		}
 
-		if (!is_null($this->password_out)) {
+		if (!is_null($this->password_out) && ($this->password_out !== '')) {
 			if (!function_exists('openssl_encrypt')) {
 				throw new VNagException(VNagLang::$openssl_missing);
 			}
