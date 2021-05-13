@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-FiyjR9oqgAeei220CERRBiLHuRAHb0/kx6b9OY4Ltv2b0fJO25aP3K18k/KQntpXh
-28Yw3g1W/w807lr4xgRILQhhA3/JejkqNlKMb5bTZMcaNbTxBD44K/AHHXE62HesA
-YgtFyG0j8qRn+MpTEBktuwxUmMqU1HT+SHQYq9Ytj0jVX4o0hbZ29yv23waZUYI7q
-5as5ROs4veCrjPDSlVRty/jjviFe9ercdIta/ihXGfTR4MNymXCLKO3c3Y52yVBcI
-N0xd0D3YvWZb1eyjMT1akpnFWfg+2RSqkwtNJUGHmiTF9m54dE3OfQGLEQhx062oY
-WkbB7/Mc1sSs/U7eBdN553UycFI6j+M5yXhKmcAFTb3RMdiNRL5RsWYkx6u/tvJxO
-CmJZ8Ln41pqdJiXSjE52psHLNcVlOAwzKdjqsC8l4kpYBQJhVMaIkfAiJ8t5lKkYj
-T73QpaJl2db2Z95Skk8Utp+apI2jK/1x6IGE+PXUAIP7luQLPBrSaOrcCRRr1gXzX
-WJJNpDuWMVIfsFqaLblSMcRwEKz8fRHM3Z/fiRKHW4Zo5eBmoq5kqafSHmZnA3jVy
-QkIuqYa7nrwLpmsVT1rHqKWYbj7NduStIm0MNwdkui2AWZsA0G/NsXx08IrZlJ8Cd
-3U0pZ1QGbGrOSfyWzLZh6oGCHnbHFgAIz5x6uWrwLpxXhuTDVws+oiSA02YdC8Flb
-ew71AQKkqVsV0U6hQYFsHsL+pvu04TcqP05xfwBZl3UWtRPuSg5pio5vOdtGIVFa3
-m3D01fQ9F4iRSZJCCMLcndD5F94CSCimd3zUyjNU9fMYaZ1Z9NE7HEt4tzhM7M0wD
-/ea3HhG1cjNfulUFvy+04x0YuS7cIT/zCiDFkAB4T+hWwgbPBIJHumVCVbVhQr8gl
-c+RGWMIrQ1BfHIsxOdnGxrW/jxMpcqzjO9nNB0QDsMSNaAuXQ8EVOMnDmiH8daaQM
-QH2QBKXtgcKPVPJpqSbvPT2WGEAgdlfDphFhOC/L18dt5Ja8KGbBtQ2dhL6FLoPmc
-WPY9jFrxv+eSICvUi5Wc6okClao/ml2xPis+O+kRbve1r6PkfKFhnG3hCQ+jxyO1M
-RM4D+oEOAP/Xbl4/Uc+u5Ot1sbFGs4VoiKibPeiggIizzfp05R+tMgMIz7hUmAM6Y
-FkZzxzKThl8V3s4yXLGv/drBJpSa1fG4lZmmOXfCvsAf15J660ObOxn7AiJN8fT4E
-fLjHgoTZiCFYU2UMFwXpfKedm7u6+0gLyFk6ni4C6DAlUKKEVK5Cm+p/Ql3cNr70m
-UhimfsrB26EYkwFWcfQGWhkUs1F5fmglVC1TSn9MflBEO0hUH2e/ivQIdNssN7Ni1
-w==
+xnimF1hRP8VA+VrRi7BCZ+FnBL8zRgZB2fvCr5qNHNC3yRGNwotUK9Q7F3hNDS1bJ
+Bj023k4NJf8+ADrh4fuvQ9sgc70cX77jtd5Bm0YZHj4ILzetvzycPei4C8P9ix/4o
+Pal++mdjpYc2byRJMwBY+SgbCzudZrck7bBFvxGU+fnT6jIDVklmrQwH7kVUXdggy
+0TCh1323Kuwfu/7t4Z9+tbp2XHDwtQZ5bNZ2O6r65cKq3jg6UTZumb3AQfU1C0qyu
+QyNZYIevVNdnA1NoSl43tDDuAvnUC7Xc+nS6SYDYPTnAfASWIa4j13l+zSiayoxKt
+fCUvHRsMFskQrYJEWWS4MNmqSbxiv/0IQfyPEPhuYvyYiTVBbOOYZv5h83F2689k8
+dG3GhSjpefRfuSEM0FOGg2+Zb8fVU1svESytKNS0UNqgwealisqUiaBxax5nASRHT
+1ygBTDLg9Suore+xEKWWe3c7rpj68lH0XUoCInLizlKpqz7DzqIJfrbS1bLuMSuxc
+fJ1Ddv6Lee6DNtBn0ygUc7Fz1x2Xoa9p2+kK9DqyKqaKn84ne1T+xQZDgC2zfp4fY
+K6Rs9BOKRnmj+zCYXVwm3qe3lWx/1YZwVYklBXMIMBRe+/sXguJarauizmXwyajWf
+1ODM91X3Rxcqt2Tuw0hLrJUqvsKCHN/RxjMZRGAg73UIE0N+WJ38BHNynDWLXvS1p
+5BUbMLylTIgWVsLQb+bAkZEZzdW0ICM0AG2szwjpvC7eGq+Ng68kQCT1sglMr+oRH
+UG92AzTGYDyxhAAJZZtvpR+O4X1sGOjRxXs7l3Votp9lzExWwZ6F9GD0R4HC16iNF
+wp5KhCCttaRAkvSQcssoHnYYDbqVCdvzVDbB12FOz2sG6JfAxkIAZK+b8ePuobMvb
+f8hTv69MgA+n+UlHuWlbCA8Yfv0Zx53m6bD4XA7Yh9b5dcUL52qvKQc50Gt1nvVcE
+ZzAdqrzHiVD32JwUBcTOlg/dF3sz4+S1VlljM4IEtxDTQwQ9a/54Q5cdCBTHbesGt
+yCR/dlsrmNOucjz/DURbLyeoFobJ9fgnD3RbtP/FfKo0jC+xnTM+k6WKhgJdqYQag
+wZDSSuweiwAGfu14ky3b2WCjKbnvXpA7Atr3salnmBOOnwMVMpP+8Gfu+2MrKfBgL
+SUAW6+gi3R+nc2t7862kXyNf0Hq3VwkKsMTFmu/UCqoUuBguV6p6AzLLpttWeeOqy
+/b6wExct+zpXNxcwTEtplKPdh91uCQ/Ww+Qf/yoILl+mz1TkHLZoQANG1Cwx/yG0J
+KpYowYKg7GFc+sg4WpljMU63j1o0nlAw6MiGcEOycq0+hmbGdP7hiSBumE6ZkfC/T
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-15
+ * Revision 2021-05-13
  */
 
 // TODO: Also check extensions
@@ -80,7 +80,7 @@ class JoomlaVersionCheck extends VNag {
 						$detailsurl = (string)$candidate['detailsurl'];
 						if ($detailsurl == 'https://update.joomla.org/core/extension.xml') $type = 1;
 						else if ($detailsurl == 'https://update.joomla.org/core/sts/extension_sts.xml') $type = 2;
-						else $type == 0;
+						else $type = 0;
 						return array($type, $version);
 					}
 				}

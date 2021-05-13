@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-JzjmNSphjJTRHMsIRHh892nocNxwZ2Es+ZcviS31H/rsieUvZmhp9cok7T2tEye/Q
-wVbEbouz4zSVd9vP3Pvq37NJoqHC6s0zttRWeBrXKqkBpJnucsuT1M+OTkxdxu+Cv
-XupKWifcXjUpQF+yxg+rPji/oaF5V8r4BZK7/GgZUyvovpuXSn2e0w91PtkrE7j9W
-eq8LS1SqcYeTh4AeozQC+GjWrrzzW6w90hDM1b4HSp+S5KcBQOTRY1h1umJp41XNe
-Yb7/sPkmCsIbpf4YuzUFg4v7q9epYH/qwnfRI3Ll0jrFNYdGHFbgPGApmNkklNf7h
-SpWMAB1LaUh/4i/gkxceyHA8xt9i2pdHJIRiHoxzUFyIXevst0GOneUoeEUdLAyG3
-xCYxuai85ZvzeffkKQCVbEkQu/vitQUW6JiE3yeOMJFF9mEwPbHFC7uYEpnbV98FE
-segNrxdM8vscinKmr/cGg/P2j+BjPVT+Uag+7ps5xxcmSHFIHZuD0VoKnyyDAyzOs
-8YhloJq0P8ovBTcJyvmj4Qzcs2UaM4WKmkFbFJhos2DxFxoPfh+DfiLVQJaO57npZ
-OkbjX86+ann5OjkgJRgMDc4EFbfApfK1t4L57FTNJwEWIlmUl2X5k0LOXiLl0ShFG
-gpqfAIUvB+K7TQbEh3wRdqSuUhTigUqL/aEFygygueEPh2DhIPc//QENU22fSMcxT
-+Ud+uNJWgXqxCg6NxjyshWTNwvIFWX14LtqauL80TUhXnYZZVtq4tbCNqb3DAxIvq
-K+F1aTbgQnb/JIq+4ntHjR9t2Jp22zQ+EEzdgIabG9YRfJNYLggwgUFrlmmFht0sV
-JVCl4dLPo/CuK6VVTIj1PLSIKpa0mnt+cadUMrJVY1kogJHCmyzLpiwj4sff483Ya
-H5gcOqAdJ1NlvnDJvhxZLV4JSIvuk8dGCdcuaa2HJfoVOxBFUguXB5wHsgTvOT7Ia
-8WpqbF6SJDfH2YqoUsAiifCUxi1C/NHffQ3mZc4ko7nzdTVHJgtfaPT1kkFscH2ZV
-6GZzUdJx0wcSr9e7d2zDCElP7R1rF01aiHCGlMOfdC4GnzxYH5MCgwBL/GNMN9qJm
-BK4sDFwJ6PiuJUlz20NlVlm/rwV0SfVaMHMtDZ7/L+ynva8W13SfsQeYhWoJxH8Um
-0dlvf5DG+Aq4mzMbCShHxG9zIrNSFfmYrKuh5ldot+/9FN6b4WTP7Ej1D0l55+1fc
-wBrXwxl8w9+awryEhXzuRtxuewnkNopqv+U3SEPlqK5nyZt8GwQZpqw1DzdGiA7jY
-7yAx/fTMeMs4ypVpxQJzt3Sct/BUkKHSkhSY0UrHyP2k4k29VGhwaAqZHBChglawv
-w==
+R+VZLh3GAQ/vs4fO8eyTRn1IEqD7XS9dR7YFDqJM3h944GnPQKym1XAkDpiQkswyq
+Dtmsg1r43c/tkzPexDMu8YLjKC2RzT0arj86HzJgeBSoQ4W1ncmmPZ7zsP/2TGJSS
+5rLft8xT2/XcUAi02RaHstg+j3Q6f8+wgcWTj4hg/R/uQaPoR7re27Zwx1+xsH2er
+hq7qo6oEf4kHno2gcLDyoQmUJbL2N7M0xfvrFPLoSSPuIL3EwtF9Cp3LZ3HXkUUnV
+Bqbfnyv59ZKzVcpn9spZZKobiQJFNHbtAc3z61cTilNSvO4/5LhSk17CXtM4kjfLU
+n1ZLgRqNmuiKNv+wPk/H4mM3VPc9DE67VRR6V+HZNr1PEdb9DbSiYgbmCONqs7lX9
+y09sojvRztAemua0M44er/STKnmKpIGigmmMQ4ZBYh4XD34IfLYwVeX2ErK2mnBhg
+DTbsKymyKxBVsDBv2Z7GvpZb3lxIFtZ5cz/NlVAfe5sKkmvO6J2VlaSzka0cl3kj/
+bZuNVjuRwNdD31otYbOkTE69ARnRH2RwqVD927+Bne5OQOTy4w3Tuz3SqJesbAavx
+pGwnmTCQoez+viiZqQBB6B55xBEEzsEVWgHiUmllgmz8xZMxEdNYfcw4H8T8oybLE
+hSQBicFDoZpO8kNSRoU31Q3RDg9l1AW8JyRHxTlV767/JmyFmgvMiKSxZDbvjuzW/
+i0dL1wurRTdfB2cXmfMQhXjl4t7rFzI9rIs4YMSDPDgZEjehYh7twrBZXelinDrrm
+HQkQtRvz2IUGL/5KzXo03Ul7uz098X+uxlL6RMbE+8pYZJp3NuF/G9NXo8pzELlrt
+FhP337/C7ASC6ua5OW9SzZ+EECCcaHWJjG7zZqFgBhzLNjakbA4a4iZHSztWsO4q4
+xyKTOBzL+dtM04ERwiGiCU+yjPcuYjmDmPEZXTtCENUdtDDEm77OvunTI04aFqZST
+XO00CNcCCByM8Q7m8qb06Od/4bjo79qhNPjHx4wYBTgLhYYKoQRTv3MyZY9BDgIE3
+/UPyHa0h2UPhS6IjqLoIuU3WZRh+kKJMExeTNWJ+F9yVvmpDlK2pPNo279g8H7jD6
+Dp5aSDwdwSqGE9mrMgwdDL2qjun8kWg0s69snfXSaI5qSTyoIjVmGIiSlNtdw8VsX
+gW/wO07WOUv+r5qsHkVZgSFKZxeGCETPKyGmGjgy9yibFyDWwoeK2NMijgJlO0QPR
+d02HfMGFQ30TyAnuVDkmZf1a02czFQ/YVQbu1Hq3siQ+gqkCC8ticsBRWux6dLYFL
+cYNvfVYj3c0IwBmxUNtNzFvSZLdJOAkKenk7ODGgrHSZarKNWOl6wkb3IYdNFefgM
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-17
+ * Revision 2021-05-13
  */
 
 declare(ticks=1);
@@ -68,7 +68,8 @@ class SmartCheck extends VNag {
 			throw new VNagException("You don't have SUDO privileges. Please run 'visudo' and allow the command /usr/sbin/smartctl for user ".get_current_user().".");
 		}
 
-		unset($out);
+		$code = 0;
+		$out = array();
 		exec('sudo smartctl --all '.escapeshellarg($dev), $out, $code);
 		$cont = implode("\n", $out);
 
