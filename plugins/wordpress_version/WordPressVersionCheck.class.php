@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-OJBtqRvIU6hU8LTzanZKhpd9dpHHiBOX4pwyUGXYgEltRcNKKASFsv71lmshrkuxm
-gCp2q4aa9jB03T0RPOPXtAulRlFpLvsmD7eXHRqt82AC8H2PMw8uoCMk/bqgfAMqf
-1y0sP9qs5s9faijFgdKlQkJH3nLGDQ3YsN1dYLMwtUQsKtnVobLizdd5tIlyW1OcY
-5h32Yd2z24CjcgBUbknqBD+I6dBx7TBQWXqX4CwC7N2jDXyn7TBN2CHWtYlY1BldU
-ndt6PXEaaoYOtqcQw/cSc7NvOenQFGQt++Kwur1f31+6HiGbLFGLfrA0sXJWUdYWL
-HGkNHKmzmPoDZFWweQIadB5QQGtnLWUpPtIsShIg4/G0+Lt6V/janYr0D/IGVnRyX
-Uikh59qNkx942oGF/ozuu39OYyAhyUTbpCT8/PeDwjS2qPbvsZEq2tUDGHHBxq1XW
-8DmsmLkRCertcVGsG+WLBmxCJLRjI/5UE0zB9XCXwIPOI8+ImtvBgGhEPu63xbORE
-Cr6R0L8FWZ8cjCvnrNEFZOSliTQWwUzpcgJTAFSJPlHEF/X4PbqbhsJLU6Z75Q/jI
-fKWzxzREzkyPKQGDAitKnGwiNZo04tJSxBryd8Vqm0sASmTkSm1TU60C7MOzWCekI
-ekea+lOpoxPwdXuphxwahGTxXkp+FCQ7/K1e/jYOkCgq/Xz7uZRVXK7/bL0QlrwMQ
-tJbbiJHon4pE7aar6yP3mAE6zqXdPzxCRr28ochhY2dFU6RKXK9mMgkAdvalsyksL
-R4ivEOcGrRW3ZasY8RhLu1UiZKGpVrlanK7E8AqL6moXB5xxTmNeBGBPzWmYJaAFj
-Hp+iFNVy11jGTQD9HW4bQ0vqhj71TyCpmXJnsiF0J3Zurj+iB22U192yBVluuOemO
-CTfygSySdZXsQCb2dARjnalkyb9ee5j0VrgeI7FYeVne9PkarpWRgvVhEQzLbwcCg
-RHKpQy0w4V41wx5HdmrcncYntEdbIx0iITKeIFy65VaQYQyk4RNL6PG6jY32gyNqI
-A7OzwnTYrguBlKhf4Fp9ij8g9xPtXp16Jz1AEzxkbxMzIZeSwQXIv14rbZszTuFJ3
-LsjH77agS2Gc6nqframOvPF4YszPJUG+EpSLiiuM/5SAXcTB8pDPoaRSVXSg9ouoL
-jH5BcppDUQqBIaXuJzDvqpfXQzAEBeyZg0jQw/3ylLAIlp4oNmuU+UlmIO4GYlGWV
-o6eAqH/v/g3cffTVce/OvpjUR0+3bTgmlf8/QC9s/rqtYEJ9jB953TfnSkP1RXP2y
-0ZlfuumRB2u2mDuJEZrWbZwXdobkfwwLrxPGeucLqPeY+it+yD6tNguvu2c0/BMuP
-A==
+cBr/EeJSYrbn0QohsdW0hHYWtWWAqn8q8kF1PwyoPJO8iS5d0F14B/jHk9yp6xV74
+nRDRnrvqZTfvH+FtpDCPl6Sp19i8R8aQANgx/lNHk3w0S/d2qtThvfG5FRIOzn72I
+MHxfb3YZTGcGEGb/4f3SdxSIlxVasT0EjV0ygpbpIeUVfiz8cx+2cYyxcpIiO7QUN
+Bx1mJ4rxRgrk54j5x28UqbkxWNSqJ1YAC/gm/yzOXJDzgqnrsILtuLuJb05z5gDi9
+TlVktC8OaKIYEACHSEzjl5t3/nV4EBtnEHA3+ulBqkVi6I8Lw7JSYLvFw912KTrbA
+R/u6p8Hl32Q0BvTx85/5sWiO3pzhcBl8gHtjO8vbH6UrIUM3/cFd29PfcWQXPTaVt
+XAlf7JHLnqLuzCzt4E93P3fHk+uCgniM4pqQEdOhZCpw7KA4SbIthEk9+l8GuT/70
+mIFa7rS7CgO9CQSmbhZrqI3DUW5M8anTR1Ey/OXCZJqJgWlhvgXYFwj7eqhbfI6YR
+EEoUYaWYzoNdB7Cp8t1N6EXXz3/H6c1HClPlqi2oXq+nh7vtUVousbtlAjM0yXGRj
+yOpahsRom6BRRwN9rMmXrdFvZ1XwYC9qkxHGKflU6ljKEFeUu3cB/Ib6jTCcv+EOF
+QmD75X7DajmMRpFEi0o+6hKUmmoYwocBOxxLqr9kcqd0kabaOJjWtiC7Gi0FaGOzV
+XRNw28Fqynmgm48gcEyBW4fHULqaYTbPSpDNgPbnhfms8h9ky319JwjD7yeqY/SwO
+P/zcN7shRyOjdRHbxtkD/sf6Rf8aGtLp8Lwfh2guNtHLF8En0k/GyI0vF8Fg6Qr4M
+3/ucJMEFKQmAy2j+zcIGsp6d5luNlt/f/1i+womQBqbIj7Xf42BrU30i9ko+3pVC6
+Q9afEU7n8WzEtybuVtZWlBrDAJmZBueud9X9FycAL2g7xFq+8vIxaKVBtTIfbX2so
+kQa1R9+HQaBPcd43rczU0eOg/n7mZwU0Oy8UyaNaSvaOsMIPyzFmom8wRqnZ6yH6Z
+jEhHp4XUZ0oGxG0mrMYBvRsR55GE65n2iQ3OiVZngFay12wSGA6EOc2/xbir1dO/u
+EkoYIJuTLEeQxHZFqhE14ZnjJXjIiKd2d2WtS/6MdaX0qNqYDW5Z9wjv81JNthEAq
+v4kbCyYNRc+Lsj56x5mT58FfK0DwVKH5Qcwxv8srQyRmPS8HJ3EfyEnezN2y8Kx7b
+zDqXzpD/hjsumE4SCMn3n9nYBC4zT6vBT/bYG0XE5KegTm7iqjNiMibuGkWj4p5Qz
+XSIs07xKLlLbhzu105richxdAvpJABOVdSs2mSEE7S5FkZRMezB/K8H4iouJvnl1d
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -86,7 +86,7 @@ class WordPressVersionCheck extends VNag {
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.', false);
+			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_wordpress_version($system_dir);

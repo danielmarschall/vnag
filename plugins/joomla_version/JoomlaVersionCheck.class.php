@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 A==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -102,7 +102,7 @@ class JoomlaVersionCheck extends VNag {
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.', false);
+			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
 		list($type, $version) = $this->check_joomla_system($system_dir);

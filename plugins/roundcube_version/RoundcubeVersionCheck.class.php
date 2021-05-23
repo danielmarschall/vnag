@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-1BHpcBSx7ON/HUpCcUkKhSUoiYXQMQtnAdXX2iAlOl/JzKKg6SFnZOPnKWmR7wB3g
-ptP+9uUjA6jE2DUc43XLKjhqhDCzZRlDPpTSxjfIz0b096R2o1AHchZq+IM/CoSWE
-R0vlvFuA6Xw4XT5wT394u1Ndj49cBNf59F3cPnWO+vPK2PZwnKs7jgYAUssOErx5C
-47o2B1iYx5iWZu7TvW/8WKEKXBzHC0rvmT1qF0wvcyx6kQKoRENBHdZsRoVjDAuff
-Y6YRXBiNfIcOWn4lu9hZqyWufxSJ3f18RTpul67YbcI5G+MNUqQmn6aDtf9NSiafi
-RLngQwU52ihlEHHTZWfAu4oKRWXzMHhgvrjel8B3a7nOl3iDUmvCVIw2tjGCCzeS9
-kTDEWBu+Uy6r8T5AjHkYcLRV2Icl4c4qQNQWt68VC2AVUIqIPpHqIITI4tluiY5Yo
-QLiPqNgtI362fWzkMivY4Ybj2+G4llNd4OUCA3ob5jG3CoqNCOt0wtyDnXsMUGzV3
-114FR0TNYkI7SSaJsXZ5kMeUxh1Fq1axclrmL/ABRvmwpYl6OfJtNRTYM+YBh9NZn
-dDDHOZaJkl31q8CqPzSbOX6YNeJx1u/qFPFl1y4LRW+KS9uT3xCSZKfik9gHSNBt/
-bGyytmBpJMSZcLB5Br/qB0A+IVNBdslvoJ02SDLyWLfC8/PffgedJCi1BbFJ3V6uP
-kTlAOiJTKYYB4CMXjlfByMMKZ6WzJR2KoT/yvn3ulOWU4tFK54p+2DTfSQWK+i7Jm
-w8klkRrFNLbUnBnoMSADYFaOEco/6SzCbaWUOWuwBCPk+HmmOTMLUrsGwiyXT8EKT
-eghRtKBb3F8RWVNFN8mW+yraq4a04JZfQQMXUwwaW7Uq9Z9gBsBSkzw/2kbKsqfj9
-TE3GuaNweD9yd3Pfy3j88F9Hx55AsNpF+nxk/3Q4RbiGtE5o7/lD2GG50Jbnvj/tM
-Rxd5jAepzZHcs9SkxHNmGA0DfGHZuDQ53Yx2+KnQKFP3FJ7JKtn3WB6ia3KvafDxY
-qSFaZAiIT7B6Z/7cDIxQ2QJH6F7mh5UXcg06mtoBuHyEiyQnp8vW9ayyDMRR7VAYg
-jTu5RBLZ+9woEBB9/hZv3M79Vzrrvou6/Z2oyoVp2LcOBJlu5HZYClL56s0gXFaQ/
-/7KN6mNB0mB+kfLOHw0Yy9tqh8HPASh51IaLBO1J7b+YErbRP4GSs5zjgcU0rOvBH
-lhcyOpYqm8xlXCtpNrwYfprWXxV7YZdTSGK7vlIq5tIK/C5nkrf4md7gIdzSQ2CI2
-wcTytO6uQWTuNlEm25bx7VJUdj+T+s7em9GLkXyMaI3nfgnU+gl8sr95AEoP+45X9
-A==
+M5s14jZt1LxgtSqICA+mTNwD5gyp7BoQcIZLnI+/UJKBBOucFhN1ZlsZMEnuTBCkD
+2EiOsnpjFqE9AzQA2UyVikHkI+ORmA6NDFEIalPk3hVe2oIC16AFsUPJaJgNix3WG
+/P8uTsuYrdfmMnrcHJufyIhrA9CZproNE/3FdWrRCaRVDGRPmvV4H1Ge0p79oLgAP
+G/9ExglsCV0aBdn/43H3ckhAoovBHfTyepXk45K2++mEF+DIyZhtOa1F3bWRRmVQL
+pT19P96zNcsQSU6IivybRc+dHOwYA6tvGBJftRtBbgkCN/W33FF/YDRAdIRPNIKES
+QOE5XkovdNtpJ+N+SgejYDQGpo9cGD5LVPRWZezXqcj/5DCGh69iYJ3iZrAMYz/v/
+i/f41m6fl+Bv/A9KKKgz5OtjPfiFEIbgBEp1DdnrBHBt6aeF0OLR8Mi97jiV+Q7JN
+QzKyEHTU9T28ie1rE+DVMzukzNPXEULPeGqz0QGpOBFQ7KVu3HbQ5nve9cXUhqKH2
+K7pBrmj6t1Owl+oaX3rIZ0JQHBtZEGbdt+0KxGIqcHh0eYggZiYm8ZMTB8jydjKpv
+lhvAwRlgWDaQ/i/4wNLJDRNgd7O6TPItNTROw6XKxL9GOzP5wKK6ZNEcStp1rUdI1
+rYiqoKhybsiyzmmsoF1AuSt4ya6IYQkV0aOCadpEX33LfzjbeOyM22SNf7FC50QM1
+mo/O7MA5rR5n2bkXe24fhJ9T40jhLvrO8KCDXeLK5v6W/4hfnx6ICx+g9+bHO4d2Y
+0Ij9Ck13oaHmmVNkvbFV24DbIYicyCXJZoXSQSGAs2h7Z8TLKpWHMPtzWNTS0ZuDy
+Erd9kdkpxX0Yr6tkGmSWMX18qV3gVn3DfXTUrG2Lrzq9eGkAqViVXPmCLpbn9EG/7
+Sl0T3XEApLOsJIFCQgIFz1ZqfvkVcyxCX/P8yTa77rz2okroypAw2AHFasw1kYbpb
+yt3TmSDp/H90watdIAs6cvzaQZSPT8sBYr2K85n89vzoznU4YdTc2SawEv8/3lPvw
+WyoDr+A3myYPG0eSwDZLPqzOylaXCu41Rs9Rm8waYplX87HiNz1dw+vJyfkEqW9hh
+kBoMYkBICZuCZ13edXvgutALbJgY6ddmzPqLD50ReBO8ORhWlnq/wrbLJM4WN9h9y
+sBN73TLRlfmfmTF1WKpQu54KnFhj8Vu0SgNk5LCP59lT4a83VVRMMr37sbsBRH+Ye
+E3nQm/+5lQh9U0M2hpUQqkt1IgImfN/ZTN5MYFCvVMsOJ6H0NRAdBmY3Pl1fwy2Xg
+bMvmHc+olwQxf8Ep6bh/yi/+f+X8wLsPvpUbLhCWXeJOOrzOYQwrY9idSuUk6Xsav
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -72,14 +72,14 @@ class RoundcubeVersionCheck extends VNag {
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.', false);
+			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_roundcube_version($system_dir);
 
 		$cont = @file_get_contents('https://roundcube.net/download/');
 		if (!preg_match_all('@https://github.com/roundcube/roundcubemail/releases/download/([^/]+)/@ismU', $cont, $m)) {
-			throw new Exception('Cannot parse version from Roundcube website. The plugin probably needs to be updated.', false);
+			throw new Exception('Cannot parse version from Roundcube website. The plugin probably needs to be updated.');
 		}
 
 		$latest_version = $m[1][0];

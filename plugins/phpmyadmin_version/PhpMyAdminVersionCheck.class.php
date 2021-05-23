@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-GnWfHSoN8khDxWVPk1WtNNb9cya8l+VjuXNZoxpwryMvcMbodkqUTH5PF4+IauISp
-NeDx6OCgFyr8OxWDFI13S827OTOITl9ySe7zQTCY5Ky3rZFomCd3KokM2vlwwtg8I
-CFmNTh7eFvPionKy9orplx+746S8YgRIr9z5kozb17AgDxRjdzXNj9v80aRyRDiUB
-EQ9Z/MAFmSF3Ki6MQOwLGHd+N3XWA7B+/XRlT3XgZ1OqmRabnljWV+g70ynE5gpLc
-oD/pHFQRJwv5O9s9+q7bgeYgPG8shO8Ire53OHgdW168bn7PhahlP95kYwgfkjWSc
-ENR7znWzN4wNHwvn4K/DaDBITibnjeSuHyGX2YUmGOKlnp1J3snx7+egXeOeAq5hW
-93hBXtXTfSUyekp+oMdJgYzbBesas8bDcqRYQfICh8njmCXvigoGUGTd+5Niv46S4
-EguTkX9OMDWJK1ijnBnQsRL4YXaPcK3JPi9tpX30ozKms9zitwsAKBa9jKwn0wHyx
-BvpREKMMpAuqGOYD7CVpwJ1/El7bvc3lnP3L+Lm7NHYk+27AKkchYkziPi/XUqTBZ
-JHKZumfENALE2opVeY4dvRZtTq0HORaX+qZ8mw944T5g9FM9kHafYwjiZakRP97Zn
-R1JnBFQjdlYMF5q7G59WFixNcVuFFA9SC1GNbdZl8EAFI/7RkCpbBNKsXd4RnS3hk
-6yBb+tsVg39B/Qh3HrjaRTw5B/RBkEtDDWfnzWwNIz3qJ/PyobAkXwqZqy4yDPwHV
-TEKrSSNazI4dZ6unWVX+sqovlvJNtSv+O2/l532t4dhS6T79iXAf0lC1LHEo0jz64
-YKBr7wnrG/BPr619KAnO7JUt4S6ab3OSIN2zYdIBVh8wrYPdpvc6WVpKGuhENGlEN
-Va2jIWLfEeo6mhn2BbrNAM9l2gXB8Sm8XRppuWiZUno0CPkNKoq991B3TTAHdNwv5
-vDO7QzrMOXzdT7X08+Eb74BIRds9Uslvye2vLNIrzNmj2b2FWab2benvjx+aTIWOP
-4nMmve3mVmPU3NbaSsul1Mp9lfiqcvgOXoNSd0+7neV+dVVz8QKDlyGDaDjZ99JQ5
-jUMqRHl1tqoMuCFKoJwrjOL5U6xtip+3L7o+rHbd6yzjPB9tKBOY2HQhwpy9gQkw8
-72LPID+KkBzc5+LD6v8gYxs1deBuV5t7HKGAfx1q3+P6b/iW4nfE2VX2vbgFUv0vC
-QtZvuMLD4KYgXyv41WCDgfAIUW1No4WWkr0dQQjhmx+m1rTOQMiz6fCJ06TzJTFQ/
-NLpKercAnfh51VqOtxHeMaxBcYBkKX1V3QiIOYrCG8fXbklFnKMgoLL/cJHd4v4Sq
-w==
+INj8GHKi/MYGHSHlhnJTyKdQEKnHl1bdkvxhTv3oLplJtJije4a7tidEPZqawrFw0
+/wniyLDaIptRhe+x+OStEKG7OckSocxRuxK9PQciJOs+/aE4srSrxKW/mZP8v7gAm
+iuvgRXnoo4VfnNTfAQFLiVcUSRE+Gku4zmPGSHKTKzIWz/IYGeJqc5E6oG47Ult37
+0FirA6ZTpxEYfD+oc156jqcbF1TmJjQsZewR+n8YFrCLoTq4XpwUtVtfGlHgAimQI
+UFgPphkdI6QvrhpNw4lyT1VoHuutzaK6o/q6PdbUfluzwuL0oTll4Sex/AjTmWs4q
+zns+n2/fL6X1L60dqKqYp8oQW2WDw1TEtKdMoPaedjA1TOxvF750SOA22ggv8w3zB
+TyCcAhxag0ZmwIqVYBukASoUNa+YNG8HPaT2kTmRgdqkMUiHZGfaPuvJmGHooVoae
+pyzT4lsGT243Vlm/QKDpGwLfygPKg2RB+lE/VEFP5oRIxVPH+BpFu3jZTlj47Rlm8
+mlpR+5D5iiJYVDzx8JV1sT9lAbP/z552laHjX4p8UXk9MY/0B9UDqb8QFcvJiXoGK
++sFpSyAMNJHwJHXkA0UIq4RFFnCBDu5L8lf9crIpE6sGx6dhrSQGAx8WO+ziYXhN7
+ytCSNLxqt0KNuZfStFw/xf19g2OqN4zv4orimUMBs9qBQ2sDqbWLynqa3MRBPjn4S
+5oR9lTXFtPXSCnnwDmqacbaCci9w/CslQIFoER7QO57cz3AFvNMDfdBIjxdEcFii7
+P+mqFn5nhQE0VdvkkkUW0gdicFJVxT24WPvbIdFII3eYmKNznmEVXcCF5FtrZKmyb
+hpu8GnliOYW1/uL+dQeSEcAgiAaoSg8RihwPvqP8wVNqMR5RXsM3PmIGJqall9ipd
+eVdeMHrNnV3dn55LVwbgcJbLvCGOA7HQ2Afaiwz/I5TsFoMwKKPZUu3ot7LhYasYN
+568Z0OSc/ryiriboW4vmQrbQBr7zv7mZZXN0ZcdJLtWNCS9smf9ahKiE1VB7YqqiZ
+qF0v4arH3ShdKwHK7SircPyAc4XE6bBNjd2Lt54G52lfbuTejgPNdk00RxsjwX1i4
+5iL+gnZ1YH/C7cnXNjPRseGQIwEz55VDexhIO8KZ/GsjPtCSSwPZZ1XLwWV7T6WVo
+zIZYOl0Y8nogn9tOw9KyzZJDe993J2of/jP6uICMsT4UgjMPu/D4M/1mIpjbwZzPt
+mqUKk5wea4a4JKVActG5/UmdoUw5RNlbXOmnWzRTg5isex4E1ORzHQrcjEQDgwia4
+r0k0p2pHueH7bFbIJpBvDLlR/a1zeb26jQk73y27edYh/beQI2WYZWiQarkaR7f/D
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -82,14 +82,14 @@ class PhpMyAdminVersionCheck extends VNag {
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.', false);
+			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_phpmyadmin_version($system_dir);
 
 		$cont = @file_get_contents('https://www.phpmyadmin.net/home_page/version.json'); // alternatively version.php
 		if (!$cont) {
-			throw new Exception('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated.', false);
+			throw new Exception('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated.');
 		}
 
 		$json = json_decode($cont, true);

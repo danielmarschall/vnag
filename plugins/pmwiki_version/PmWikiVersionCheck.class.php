@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-eqUk8Qv5K8hX8WxJgxbENCqVzJJoy0A0HTqnXHFhek/uPLrsQ46mh2QnL/42GCX6W
-VdQVhaNjrzwxA7xM6zsLDktr6tadog/ayNq60usmt0BUXNxLeAa9x3D5FcUSHgnk0
-MnyyqwXJGLUyIBJVoGLYV4EQoQleJXZVV61qReSjgWqKm7Dy+Uzsqfz/FT6LMjgjw
-qAhr02Geht+Ya6WIV7eVNYl99CNM6yit0XCYPS+ategNlwRFvpNZOTV8DWhtTx1AP
-khaJq2bqdPIIrdR39dv8uZ4BbMqlk0ShZ1xM9cTVPeOVtQKwocdsP/ANavzCUTvIR
-9pWud+qGTE31Im5ZV1b9YU4KNv/3wOj4vOLLVA7FerrcL5UBAPTUZOOVGExW6FpoY
-qnVMyNOJR3zx9yN9bWaSjbbbCNYnREA8L2UY6g8VIhPugVY6UmhHD1H9s7S2N7vtC
-AIsKeWGWKEh755CRpadkqX64LpvYuEm2HeQmvFxtpcAN3mw5P6mqloPBtmHlDvJW2
-S3CbXkxkJaYf/UuFFobug2zTv8m0a6+0SPlt9EpFNh8PCXXW4vkiDVUwSbG+D3/Pt
-fZBI2MYhMTG0Lt8HwXKxhFsYySZ3gGq4Go22nM++Ywffyl0WY2R2Rr2LQehdRzyTL
-aNUoWbmeaYEghpRBbTzXi+w3c1z8qd9hicP8sTWxWGfymlLm2x74NerKqgzMnvElV
-n6vO2rR9SyI5pxJIPY6wMCBquNZh93edwn5qo2SGqZlsB4ADdg0FdRV4vTeoUQbPq
-N4RrweV2LF65cO+IZzrXN/srhzWTtN9j7uXCAmDEsb0uWOIoawbSXSZeiNUI8vDCY
-Q7ErXb7382yC2Lrjy7NVeL7fyQA1qRBDtuAbj8/uyqUXsdzPrbS2jFWZj5gewVTob
-5f8z3k5pYS2EQKwFfc1K/wM4oo/ti+4pdtR9/vNba7KDoDe9gb0LjqeYERCwqMIU4
-HCJID5vDXrA37MPT93u51Uy++rVpN8qxDYVCi7sZHZlMmkuowYEVsDWIf1gtFEA3p
-wpJuCV/hkY5tjl3bFXOS9Ds9rQcTcuvN2DFCsMdjIfhgrFnP+Ikow32JUms1Ys2ZR
-N+Jzlld4e8hkoljkCU2J5OEzdb6gHc/wWBr0myonkfKMCN9J6x/WnZFRVmYbQnt7w
-HpfIC0kNm1HvGzryHtCaTI1cADPwpNN9Aq1AqDkXht+RRzOFYlM9kF/hVR3TMGoOW
-Kda3sUa1oJ+hasSD1g3a7DeqZ71E3JqCOpgivU0sHOkcQ1GwCsNyyaINXo3DXDa3+
-l9LUhOFixOuOYgTfMWiSVTt8x3m7M5EUtR6Jek6JVdkclyaPyeQOGN13LtMDzyqc1
-Q==
+NYkLKM16RHNYfXmjgdkPJRDFv60IevURDpDXhislrri20CeCNbL85l/s8qTzwi3B3
+DBka6P0CaPrhOx1eBOTJ1/DgFMP8peQnG/VE+Riq35tzS5m0rX7b8zAt0f14HmuB4
+cpLY91ZtLUEb+KM+rKLu+mn+oXHbUo8+Tti7MAOp+GxR2mBPHJFgW3NgfaFdmBWiY
+MQiVUcpo4+Jc3iLUkMEHvUpspOJLWwXdl5iznN98AvboiMd30qujSZDcFXvyRgsJv
+BMhw8k/snsHTBvsfsDsaluVNGIK97Vuj70fRUeYxhWgLwuZogHu6T4LL0rpk7sMuN
+BM3kZJ8/7o9rP0JiKuEsGchn04sr5DmOL6k3W1DN/BwhUEEjqAqfKD1X06fkXlNeb
+BXOK21kKvjOk3EdUlEAWH+xiMf5eFAYNl4EjKPNwRMZXF4j2oU3VLBqjWWJtUfIfi
+7HaxyNMafm0d0coVgqoTJfnpXGVjPDVsRKJvKhRemjP9orra9Uxi9y3ONKAgB0ekW
+FeoTps5GyOZCRuUPnJ9dAQpz//COJX/AXG8qDYsVxx9CMyEyIvb5dcFF3RVbsYvNN
+i1TpvlVMgcTAzWAmXm0EQ53+Q823Kk3IuYUTUj/W6Azzz5SR6wFjwUumRF0EKsgBW
+zuh7xcXGrVoqmel+qb0vRLWC39sLtxcFEDDPsDHKOS5CsoRT+CbZuLujh6fOz+PMc
+H42WIFPDKVLw/t2v3GFNxwMNCS3B1zazEGzRhuAkZH2tl8+i6jALKalhS9YUpEIrW
+ctW//ddZycxhRcmiRJABCZvKNDNEbWGu2FGvBDyA2tpsNwtrLHl5EzJV/UqusV853
+eMVoCz+QA170yxOgjos91Bizs/AIJnlYTOqXDaJQLA48qwCW+SqDJtnuvVVDwaRPY
+4G138y45OVyg9tEihatiTupXtI30DoAadPZSx2pdEIbCegKrfX5CicjJseIegqTdh
+Dfk6LrTfZLlZH7I3bqTbent8ksfY5HUVBhYDHYxe8WuYaH/JjoQR+OetX4Oc4H7TL
+02J+8ZlRtbPC/RiJBiCvkrfdIKfEgPuAe7tJcak/qkOX732n9YbG57FGkLN8O1UL5
+Zq5JGoraJCPQ7n0DQFVJE6czbagE8qRsIg8vcojkggm3keP1lHLD9d9iCFXxmq3nR
+t48A0i4MOoviV+9b6flfEBzXc2E8QN0fe+7Y/3zBASpBp7y/93dvPJHXHUqQy/3IA
+YE9Pis9ln8iBIlgXycu0PAeeHZgAOoXwxmZci/etLAiSJ3Uy/lfriyBBg7bR0U554
+OofVYwCyRyh9V46ifqhpYVdsqpFllmyiZGdJgm0CfIcAFiEjXAwljH8i0wU+hEHza
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -86,7 +86,7 @@ class PmWikiVersionCheck extends VNag {
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.', false);
+			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_pmwiki_version($system_dir);

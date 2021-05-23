@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-XTWdCCK0FEM0wejpeajPPdpwhBNotRfIAK4cUBRtt32pcQoxsNdP1sU8Zw38IEq2B
-P1pK8ELVVyb20dUZGQouY42DJQaTE0RRDGSfKZVxsYWAdLyiRc1gWPVsj3fHFJHJO
-jey16hbqsdiKLpwT8fHgqaCz0y87oeksLQOmGw1VXfbQECYz3XU1JGie+Mxbx/dZN
-gMb3l3juVwrs9veDBU2Q0HyeVAsV1xebfm+AfKngIV0dBEFW+kkBAcFuwzfaLIlhT
-C5Vt1mvs7ZVbrgFxybkTuPV0J7aHwqt9qrRUiJLCOT6Vd2JuMQisCjVecjKD6XSNq
-2+ZQ/YOuzuQ8HtPm3zKZeyk+PjQ+LqcoRY0i8MEXyxkHwZbBIgwko00Nw9hzSbtE0
-iQfDi/KtAYBr8bb3U8ufMgbRWWf3ayrDOAJ2wNVgt6CqZACtPncvdpEc0fTAMm5n7
-oinbC81zCpOCza9+Wka1Rl3w6forL9vezAG10K+9tn7PyUFKTxJKEUY2agFtumywK
-Dh2tLoODZyZ8mNF3/pUeCgZFzoYgRvdRHBqc4E3Bnqb3ffB1JSaHl0FizufFv1UdH
-rG0EYXL7VARPHjDAXNi9EiPsudZP3XREcQpDSk01zqajMrA4s7PphLKigGcvW9nw5
-BTlo8i10RWzQcSsIqQNP7wibr5TZUrkSVjRZZNOOXepdGiAHapKn9h2tTcYbQb8yG
-5j4bGTzFQsD/9wJql+acM/sdwDR3Gn/j0765eioW3DUCp0QeTmHewerq85aL+T+GJ
-A3cjFkk1yemgOVI9QlDFBrCe1iYnep+XxuN8vEDM/AXy1e122FCDAHACWFTE6qrbD
-SF5Gr92vMoQKyKtTTDJRDjrAIkPtQzSSHeyHUqKAFN2xapEiyq6rbuSQvbBnQPp+z
-DPkJUTV55U84JpRWmVEDe2TdUJcrJKRRGGY0kXZk75M+9L3UUDJljSzTemvMSD/kL
-Fz0tGFHLzLguUZFlKMMQwsV/+WqQ13jl9FO8r7zmEG+9f3S2kqhQEyF+ZjmqBeSh5
-vb6zOzQ5ZSyPMdVcdYtOnPhKAARA3/oj9T9IB0Ybji4bYs7u2cD00yxHJ/f9yR5CR
-Y6T6CJHuY6qduzacD6t8wrigfLQtv2/K27hpdoTOQi6oqPCy1zbF9UY6N4JpBVHns
-MDv7akwPTMNTB0tuYTIHH8rcQudrJfqXUXquTgL35k8KaB+IGtGlrGq0w9OtCA199
-or1heFAvPzi6lGkjF5rftF/V4HpO4JZQ2lKY41Z2ZXGK75oryv2DL79h4cvdFdhR7
-O88AHlwlcodGTMfaKa2o51scaVjjDirWe4lZb0uXXLHDr19dDeajObnBFnukl1FGa
-Q==
+URC5lyHF7B7Z/hCr2eAcYLDKai5MDWwA6NK9uL37gGSh0pfGDEss7/vvlTbfFJPDo
+/4zYu0T4mgcqPs8kKgLRmT4A/Hn0BlQRcaG5MV2r+ypF37avL06BYfsed8DwxXOVM
+ENZ4fTolmbKBGaQ+0BXGgkO9TnXnXP/A1LuOUZj6v0PGrnI6wfyJ8+a0de1lAvXZh
+WxKqN4RcHkbqEQy71Ox5XCS6Wl8ZDp2/uPyoyh8FM1c/XJalnzVTaAkJwjsP3Vtqd
+qVv7QURFmetfkOqqvtNm4N5XGlNhd2/M2QolAJNzjVL4ZLd4hNB2dGlxo7eNag/+r
+100zpq3/ZVJ65YKMfDXAAteHS/k/ajHO6bmh171pVj2cq5NlBqIPm7zk3dIeHhu1f
+WhW6tV6aZu7ChK9waZ1i9G2g4FStOLzQdRrV9rqOqLjfXB4hyfXP9SIwPn+sZ+VxU
+x4+PW9QCZxc16JW6tyik9MFqjmwD5cttzoAwa/EKvuoxXeMz+aIsqXNxv8YfgCUXN
+dyZwWUBb9UTbsVpEZTU8wXNhLwYzLGKuv9t/xWEGr/+bknaEwiMxhqzt9j9P+Blhx
+vw+0V2z6NtX/VOJJ/kaJFPS+U0Zj0M96QB/EUPKzuxtU4MpqyyKxrv4d3rWoH+I2i
+G5Q4TI58+8UNBKG/UZZz6adF0VZ8TwuRxDL07USEgqkIV96NAzTguVhBYRmn/OROU
+qUnfB16vvDI0qXpT/tMuthHWQK/qDkxF6JiBRBGQGSl+a1SBW7peEc7yQvgs94Prn
+eTuisoHyZ6o2UY8iYCulOTiYAjLd6Ob45O0ggu3U2Y8e+avoJc7vZ3ix4AzsFPtLZ
+q1QTSLakzPD6yKwSnr6WHk72R/VlWo3nGF5I53e+32tyqN9bgMol6BxGu6fMx/nAZ
+581nqLgqhI/+WstBmQYysVJXkt2rCowgrtU35ErZD9tKwWC7pBGwJrH2zF88y8nxz
+YmtfL5zdHVU0tY2wStySbWPC77+RWLTRRiNmDmM4xAWiJ53VsKBQiXO+/Ee1XieL/
+s1qGqyUp3ZhWgqZSur1X3MxFnzt50g+VZUJOIYL4/8Zxn/jxwa+SQDazvsnxCQQFC
+9Q43pB304ik4Ps0BBmcUzOIGy3UIzWeWl8p2nLFCJ9UmGoQcwfCAc/1zWdoBnHyNM
+n/0Ody4uqN0qzo9z9B52YJzrTApC2m0EcbpUVCwfWWV0e8UGhw1Y3rR0ovPOHU53g
+wxGtDzQoFySXk2RgxVxWn5DIa8B4gH94aCbQ6C4Msew1iHkYINWp4TUfbyGQDQLNQ
+1ICXmi0Zs3lXHQsjHt/uTb/rjftdUivbKo0V+1AnW/jo7fzegS6Vv5+3A8TdBaa6d
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -99,7 +99,7 @@ class PhpBbVersionCheck extends VNag {
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.', false);
+			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
 		// 1. Checking the main system
@@ -120,8 +120,7 @@ class PhpBbVersionCheck extends VNag {
 		$version = $this->get_phpbb_version($system_dir);
 
 		if ($version === false) {
-			throw new Exception('Could not determinate current phpBB version in "'.$system_dir.'".', false);
-			return false;
+			throw new Exception('Could not determinate current phpBB version in "'.$system_dir.'".');
 		}
 
 		if ($this->isVersionCurrentStable($json, $version)) {

@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-bVXNXMFkwzws1bw2aTgNQAwu+mCcFkvvhz9FqAKANysqdqSs9FdBjBYSFz7gAW9Qy
-fvDHVfMUs+KcUOru3hgfNToru2AH8y/MAY2yTttNH1drSoKqcFPB0ciqLPt4kQ2kU
-EqMlFQLtU5Db4Op6ynEpr4b18N3Rpqia0BkdjmfVtJ2Z/q37hMkXkkGYmUXvezGaW
-uRvfRtTaUkO/G4Dn7XvcHyhiqAqP2YxHAWyNzhC3NV+UkeistXS+3RNDqEthuV/3T
-jXGGcxGbsXhMAKuZTwCuFnlRoHdHd5zanlyQtMzSSmqS/AhOVgoXFQMgNQgnf24XA
-tx+GOM55Bgr6hCaDruIE7HpIJ6fKuUU4MiRCTb6IDoeDo71HqZJCn2j4W5jbAFtx8
-8P+jw4wdbhUt1CiCA2zobgnGkEBAZDhafjTS8xLz0mpBWe09aHVxbqKifKBw80w22
-4LlnmiusrsuJCknOJkSnHrCQbccFwSmqDJS3nPGnreZpZG+wJ/vqI9sQhbLtw5tD8
-1eaQoilL6pYmzVqAD2yXBDOjpYOZaxeHQX+rVYPIOle1Sbj7P/1ZeVdf+NENtmiSX
-A2kdLlDJlqT7l+/+47Dqyh2ebGZND0eB4IAVWqNFT0ofYu0XAuHujf+eFo67Hc/xU
-Eihf5+Jzk/xM6MMhDbrU+drqWoz2mRC3sCGhKgzE/11h04yquozyhZtmxo6ZpdYii
-b+ttCNmObxa920aB4KPgZzhNfky+oCGPiYTlY+lR42chCxITHRatm4ohK9grUlUwv
-E8HBgHgXgGQSDZdG9+CjuU/DKz5xyRIuEVz2pAoQNwWVntGz1rgPFe5InljAwNgoV
-xRYyo3NtRFyxs60QuXwaXLOF4a6lLrTwIMMAMrbq0F1nkdDBRCz39E/60D7I9MQ3y
-ZxwG0Vwi0RDrZRMTBbLDF05haKsdR0hFefoHjMpXi1kuNwRbKPRq+A+3oz+RqK0YN
-EqIN0K4R3iJ4jqO3EduWKhWxkXIgC2KZngVJqnuB/UWITc43Ge9+32ffjCRC71iK8
-FzX7i2kn5FSrIiSAU7S99at6AqhM5GgE/rRqmRgZHMte0io4cksGSp9tgsbH22/WK
-3tlCiJHWwu3JnDhRnI1+aELcBwHUuGoiwB+D0bkpJPXk9yaDJzcdEvskzA4zbOrdN
-DRPvjwxoAIGUx9gxfNUXDBafXyp6nAwGpm5obK08Kzsve9hU6iO+TAna0wuCptVWC
-+/ZKeBU+WvYQGntndRJrEntKftUzUsj0Vde8Bc8qcSxWSIgiT1aWsu6TYfMDniKln
-Wq+SSv3pc1BJX6YdGOgcorgbqLE+sqpQLMqWwwD0vzcC/7LTivSdrIqogz5NOLti2
-w==
+AHwkMePLHKOt4R/D3Ku9ARyOKU1u6VjTtn8dbcody41d7es9OiXW/ta/C9PzlVVDt
+nTya6pH1y0qL7XSbffsFYCKpS9zqJ2akCtZzHJ8ePYp+z/HjuEzAzb2y712EobG/A
+rQSQo+f57P4c0nr5RMfg6b5QTIruKhm3gVwv81QuRm1xI9SApETYOeiBwLowDN3N4
+4x4AVcVXf6GenSCVkSD7XrwjDVI3U4h9m+DLuwuWP6Ti8W3eRRqP5Fp3wxgdbnWsf
+hSgkAqoO0E3sHhcKDRinA5mDbynaRmNrauxSPL11S1WTnnFVDVgPJSIYSKUuxrdpm
+4UKBGHC18CSRlx7Zc7+DNEq+zV8PHgRkmN9lHUEnMx4+Kxkptz1TJmClk8IE2WMS0
+JYdFPd+aW4W/RUzXMmry5Ls6WlMM4wMKv/u4mtsJLKCz+D2ODwdVhDpj5yzdYG1Ox
+UN4HhgKzgeKkCgeZOPUDAxU0LJYhTeC4Lu2gE0XujXTOkko7sPNhK7lEkpXK4dfFf
+2FQgiOwZNho2WhhvU3TWy2xyNMRd9vh0iVbJgE22lx+J40bNBUa44adX1wApq8oRP
+kFiZdV5Xb4xrLCRY8EekO7iiW6vcAM5vzLnzGZ4BhDOLapZrs/TcxpPnbvsH0WXth
+yDduBWJytYpKJ3fTpAUlwJzwKCjGEHwq+SSqCxd2KDCG6+eaARwkcs4wPHYcR0cky
++uqDDmOJT8r62F6tILtfK33SxSDPVTo1CgYmrl46l+Rbm5tqWxdFRQ/1htGJLkD1L
+7DC5pyOrd53GnLvQ6+LCbcFx9D6xT27QjcXEAcGPQ5WTHQbJ2FBBJRJ/giESmEhoB
+nmUXxfrdaSqQ4rrImNckMRpPP01me1XnZSA9l23UTT77UVCktGGW6HXZxvJMi1D/J
+qLb8nrIJ62mhVq1eHboGnR1BJVNXjh2GDShBRcDoadvCLNayp9PkpQJgShkxENzeq
++7xCCWqaVUPprvPwlG/z1kwEnX7BuTLrFmwrsYDdn1zKQMK8o3KckwgWO0ipMcTD+
+hr+OC0LFCn4M4RIo2R+8E3243yCmclkLPaQax+f7I9DKMrKtvVtUpNs9srHmUBh1M
+EZcFE4jFVjOVz3tw1e+u5nugx3Bj9RvPif4hJgkTXIExWAw8CjOJoqxKez46opHXm
+7c3mi1z9L9EbRBBzWPexTUPiWzcna/r1lVVEoAzVGt9SXWRjsbPZr3+rJSxwFdEkf
+JrZL14/vcdh7UZ4QWRcVpWjXPuA7vlWoNb5EBm3acm/mxAVM7kj56HtWOabM9zyFi
+m45gDhw/1XOophKpq824vBfkhFPhLdvWXDYeR+JrFZbSO1i+UwqitRkIarLqHMT8P
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -194,7 +194,7 @@ class IpFlowMonitorCheck extends VNag {
 			if ($total > $max) $max = $total;
 		}
 
-		$num_days_in_month = date('t', mktime(0, 0, 0, $mon, 1, $year));
+		$num_days_in_month = date('t', mktime(0, 0, 0, intval($mon), 1, intval($year)));
 		$expected = $monthtotal[$year][$mon]/$day * $num_days_in_month;
 
 		?>
