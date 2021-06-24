@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+c9r/fj8IW6Nf5LoeSJPY8SFXmPThJNj45cxTdW+9Iot0ccSLSP0kE5U7z3fKByUCa
+9bBmWXRQ38Pv6Ztfmw2mGneTXNwcWAud4NRRlRGSJ5mX3Kn6Db043oqYjl5EAV7CO
+NTXCI1NK1go/2tIh6Cl3OMRS4dyV11F+krGrg6T1+teNJr2zpniNyWDyVImOAMJXt
+VGL6HcXQjApsQ8/x2pzXwFJ6jFZPLZVNLbB5/mhLqiAgemgQAVIGSyJlBmYlhcoZB
+/lCaC4RuSrVqr87d4VxREWMtaRSh0dKShXlmG85gaMnVF3eRGo+yUsw1OutIM1OPv
+EEYRbmbZvnbGjGVnf1uP6gpeTzPQHIp+kFFLDdFus5AflovPYEDi1UHT/Ez4B6lZ4
+HphJOzB5kK4x1/Wurwlzfx7exGsmFElRmFxMD0wXahOpWcOYQ39RcrIrcg1RlEAfM
+nLZRG8BUyRcaefS72jgmOTV/VgB+Ls28AkVdgWOS8eCb4egM7krg7kHHwCDHzuKcV
+S7v03mxZi5QeMEXABJqJUqPN+09xfnkuYkXIRcDBG29Nj8wp3cmt8ND8cCjLR19fa
+KCqKVf6u4V7vw2asKRPyYnMc3FQitwmIxDGsPtREg22wJ/R8zV8WfArNXkcq2Y6tZ
+ws36ogjZ466SI9EQyS+YYay8Tln/wZ9uY7wZf7/L9hAAC77kEhViJ1BfAKXA7O/Lt
++vshYbv8H0gpkhyzgqielK/Ke1xdAiE0NujgBUuOjAWT2/WFj60ln2WRJcwVytJuK
+Dy/VhhrYWkKArp7MNB7YI8Gj/GIvCWCGuIF7+H6tG7aNRmJoC7Tzns+4VQOhIztXr
+rdPcPjo9e3T0zxNbNYKAwxy4QV/cymhoWP8etvPOfycEMhR4BKei+xBAft0TWVKFT
+gxPZQg5y4ZyvpLXRyfwdrU9nncj6Gt4ot6ia7F6ctHWqvOD4y4sZ7QMP8mYsVA4Pi
+Bf388N0mTdmmlr8Zvyzq4TD+wtioX/LmynDYAVDRcoQJOhVsSUz6LY2StolcOlBzm
+rqBsiXEsrgLveb0Vtg93PqGCBRshKWVwOa/bZEBc8zv+4Ia36hL0bS4yLUMvllYeG
++K4sJI2neWKBT4PWJSx7UTKZsMDO3g7MCimfC/2EvVQp3M2Uu49QNzPUTzlHVZvVr
+i1kyEtYaCztE2LIDOFXeeLdvz39sbloz+4/o9TyAsUd+MEXTns0SjA965Vw8bMM35
+CLky/HVnfGoIEo5ekhyuWrdTEgoCc2bQ7XcdoyU28IuqshbRKvdKFqAHeW8en/et1
+Kchk0pi+oQa/68RMxZDpJH6WEMLESPA99Fn+OfoG+j4qex1lCtzjUgvGzIgK8QZ7q
 A==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -102,16 +102,16 @@ class DiskRunningCheck extends VNag {
 						$this->setStatus(VNag::STATUS_CRITICAL);
 						$count_offline++;
 					} else {
-						$ioerr_file = "/sys/block/$disk/device/ioerr_cnt";
-						if (file_exists($ioerr_file) && (($ioerr_cont = trim(file_get_contents($ioerr_file))) != '0x0')) {
-							$this->addVerboseMessage("$disk : High IOERR count ($ioerr_cont), but state is reported as $state", VNag::VERBOSITY_SUMMARY);
-							$this->setStatus(VNag::STATUS_WARNING);
-							$count_warning++;
-						} else {
+						#$ioerr_file = "/sys/block/$disk/device/ioerr_cnt";
+						#if (file_exists($ioerr_file) && (($ioerr_cont = trim(file_get_contents($ioerr_file))) != '0x0')) {
+						#	$this->addVerboseMessage("$disk : High IOERR count ($ioerr_cont), but state is reported as $state", VNag::VERBOSITY_SUMMARY);
+						#	$this->setStatus(VNag::STATUS_WARNING);
+						#	$count_warning++;
+						#} else {
 							$this->addVerboseMessage("$disk : $state", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
 							$this->setStatus(VNag::STATUS_OK); // Note: This won't unset a previously set critical state
 							$count_running++;
-						}
+						#}
 					}
 				}
 			}
