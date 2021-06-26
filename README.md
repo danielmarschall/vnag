@@ -28,8 +28,10 @@ VNag comes with following plugins pre-installed:
 - **mediawiki_version**: Checks MediaWiki installations for updates.
 - **pmwiki_version**: Checks PmWiki installations for updates.
 - **net2ftp_version**: Checks net2ftp installations for updates.
+- **nextcloud_version**: Checks Nextcloud installations for updates.
 - **nocc_version**: Checks NOCC webmail installations for updates.
 - **openbugbounty**: Checks if your domains are listed at OpenBugBounty.org.
+- **owncloud_version**: Checks ownCloud installations for updates.
 - **phpbb_version**: Checks phpBB installations for updates.
 - **phpmyadmin_version**: Checks phpMyAdmin installations for updates.
 - **roundcube_version**: Checks RoundCube installations for updates.
