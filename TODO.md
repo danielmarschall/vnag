@@ -2,8 +2,6 @@
 Important
 ---------
 
-- owncloud_version: Security fix: Parse version.php instead of include it
-- nextcloud_version: Security fix: Parse version.php instead of include it
 - New plugin: hp_ssa
 
 TODO

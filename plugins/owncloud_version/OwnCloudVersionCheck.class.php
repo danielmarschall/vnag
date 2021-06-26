@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -60,17 +60,41 @@ class OwnCloudVersionCheck extends VNag {
 			throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'".');
 		}
 
-		// TODO: this is a security vulnerability if an non-root user can control the input of version.php !
-		$vendor = 'unknown';
-		$OC_Version = array(0,0,0,0);
-		$OC_VersionString = 'unknown';
-		$OC_Edition = 'unknown';
-		$OC_Channel = 'unknown';
-		$OC_Build = 'unknown';
-		include $local_path . '/version.php';
-
-		if ($vendor != 'owncloud') {
-			throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'". It is "$vendor".');
+		// We don't include version.php because it would be a security vulnerability
+		// code injection if somebody controls version.php
+		$cont = file_get_contents($local_path . '/version.php');
+		if (preg_match('@\\$(OC_Version)\\s*=\\s*array\\(\\s*(.+)\\s*,\\s*(.+)\\s*,\\s*(.+)\\s*,\\s*(.+)\\s*\\)\\s*;@ismU', $cont, $m)) {
+			$OC_Version = array($m[2],$m[3],$m[4],$m[5]);
+		} else {
+			throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'". Missing "OC_Version".');
+		}
+		if (preg_match('@\\$(OC_VersionString)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
+			$OC_VersionString = $m[3];
+		} else {
+			throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'". Missing "OC_VersionString".');
+		}
+		if (preg_match('@\\$(OC_Edition)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
+			$OC_Edition = $m[3];
+		} else {
+			throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'". Missing "OC_Edition".');
+		}
+		if (preg_match('@\\$(OC_Channel)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
+			$OC_Channel = $m[3];
+		} else {
+			throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'". Missing "OC_Channel".');
+		}
+		if (preg_match('@\\$(OC_Build)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
+			$OC_Build = $m[3];
+		} else {
+			throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'". Missing "OC_Build".');
+		}
+		if (preg_match('@\\$(vendor)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
+			$vendor = $m[3];
+			if ($vendor != 'owncloud') {
+				throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'". It is "'.$vendor.'".');
+			}
+		} else {
+			throw new Exception('This is not a valid ownCloud installation in "'.$local_path.'". Missing "vendor".');
 		}
 
 		// Owncloud\Updater\Utils\Fetcher::DEFAULT_BASE_URL
