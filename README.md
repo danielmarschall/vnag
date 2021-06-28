@@ -21,6 +21,7 @@ VNag comes with following plugins pre-installed:
 - **4images_version**: Checks 4images installations for updates.
 - **disk_running**: Checks if harddisks which do not have SMART capability are online
 - **file_timestamp**: Warns when files are not modified withhin a specific interval/age.
+- **gitlab_version**: Checks GitLab installations for updates.
 - **ipfm**: Checks the log files of the tool "ipfm" and warns when the measured traffic exceeds a given limit.
 - **joomla_version**: checks Joomla installations for updates.
 - **last**: Checks the output of the tool "last" and warns when logins from suspicious IP adresses are detected.
