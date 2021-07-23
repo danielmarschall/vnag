@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-akRkqMquPkfxpwy3lnAlcQ1qVAUdTJBHZNOG+o13yNrgyHRqadEskkSxmItifQzCE
-NCOBCXf4QUqo8xtFT0uxyzv/R0ZrB8H0dF+2LslQ6eYj+IrPgbiQoFY4FoxAS24ZC
-pH8v+GYD4lq/UmU+c7eggeNGtv9ZYkQaz2ZUS4hT0nrP7qO2quF1dpm+8dsB5pKj9
-iY/ujHP9iEWzn3d8BhgkaSed+GBkqurqY1lc+2l2tCsT1ZPEOR41uWLeSya1WGwEA
-Wy6/2ih4x5dG3lsNgKRcJyDdcDYw+mhXq3vxPeqcMWFiplq6cF9XxxY3NHOk6HcIO
-7qR52jOkU7Kvy31CPso0C12h0xFgo9fvj3BJUJWZvSw00I1SqRMJn2o2+KtVCWSfM
-GJ5brgRCMNdHDiCCbkFaRtElsv1q0ewTLotrRohZxJpRwoOK7dEDsR+V0hhOfYzZ/
-zRaNqG/LPIqSeBsZhA7km8IpZlwSbUom2PKKWdL8YBwSdqjtgM9Z3B0TQDkhSvU17
-mICuIgjQfeMwxyaUHFYvA+yqofcy9g2GQHTj15B2s39gnW9pKgVK35lRKOCoQ6rYp
-tBfHUXH02VjSLqcFgoV7cOamBftfC55+RRpvfZURQUvgWbBIYtQ3HDeze775vdbr8
-5HL6ADKA2Rdd/HSG1E+GMuXUokcWOxg80ih+HnnrGqfFcohmfs1qy6ZZtYQBnJszF
-ZATsMF+AdztxJahbVf7lrM36Zl22kXpkz8lX2lp382bBvBBYwWUaf3j+UBLWHoFfn
-Ojc1BnxECvuAIlgiD7mRIYIx/WQxlF1MU3ByrVuIzfOR2j3Xy+Iv0ettCVNSQdCnN
-+B2WV/Hqtj1qLsXgZcxdYatlqDKLytyk2bSyX/WLnRj5xnjWEGDPAoblIjknHz9Bi
-DWRYNdSqZ1skixKIZTbynhqWrG9dKSPvDfdXpvguRB6tSWK3/70aOfWf3TnmTBHXS
-3/NvGzV+3WtZfujCXTxBSCuV6ReTIuqUbKoVT/rCX5sMNMDuElsbHjg031VKNyqjx
-3L9F/fMopue8G1vu2QCsjiGU59EwtakcrobMyopZwV8eqe3/By7SjVVL11MquTEV+
-qIWV3gNtlFFroCO+ztVdKj1+FMsZtZfDhHkxeHG/sx64CW7B1mw5pPCr3FriDScWy
-3XfD29ah1Tx0/6AsHMViLNCMK65bP5ttp7BBb2vnGX68vc9qMNCBCIhR9lOwPobtz
-B4MpVAHX6dEn/3XVhkoW7O7jcz3CkgZOZJv8ymKE4SUw7s/ns6w/m4wyujDdp9343
-WuALsxrxXMswqiTx7v1hmeJccT9dRMJYGQ7DRnB8Z1K+px6FALfwMg7OMcbQh+wiw
-g==
+bFkiEkyHItv+AQwBu8Jbs+2mPVVp1pljo6oKwEQyS5ugT4dyqfHUANCFJfSr0/Wgw
+IhTtUl9TkfC8ZZ41AZod3llWwMp2qJJ4GaBY2etFvOmRSWhEECLu1z43MCt3Q5Dvt
+FrkzApfPb3bzX4tUFKi4/z2HJhbnOsQQcUFRPznV3PU8A8xEA1sdPOrnV/IcIDKAk
+eMucV6Bch2F6tU1qi7LRlTufNUpqCtPYy1UaLUvzxRLBraLKjdRzVDa06IakJM4OH
+zU0tsg3P3fLwEiFecWSLCjt2dyo6woJgPnxFf6W9qETgNX7ItjiCktf9P6YEd6XQ3
++jWZoIm4/SuQqbWnUxlT6k8ejvfE3iM0WOIv9mfJHcMgwQPCEAPVu7aPazLi/x3Xc
+vHlgHP9A8ED6a+jh4H1bmrZbW+DpOJ8jhvPvr1kdDTq/vJtadPZkONux7XM7LgzAW
+kpQTmRCXh/FkIEOpHWeW/PNKlBqQzPglsi6liiHnN3LMAb9F1PXqMOXxcwbkKGrQJ
+I/pGasdex+fVUI0py45Uost/PWP8P89DIxq4BU5nI8Mki4N1MlPf0Pty1ndFwk3Z4
+kU8/rdYy1/krfwEt5Cz8FhvA2SSgFgzeX4rqly/u/Q8uyzMVoCK3N26EelKfzO8ux
+jhlnBtiwbemDK+pnkLAELbk5pkf158W4Sdl4ejeuVno1Az78w4R5pOatx1Jf6MzIA
+lf3xsFT5aycWk16OyhHIjrITl7UZcb98ykv0FWy7+NqDFM9sK/GSrs52FNPzxw3mk
+YPEofkp1Qn/qxm6+t0TAqFkXBzGEAvkG+xRRDhGrDf6iFx03baortdMxmcHTqsMsA
+BlBxM2VWto7OuTtUgjPn6lFasHERSWoqgUrxomP18OBuh/6Cjb3ajeGL6OQEyvLbQ
+HAcBssnfott7LSgZbsqIMIBT1xrki92FMmN/jzcE8eVZ4Dx0f/+4gyAFyqptE/FAn
+w70HGdVZFy6MBxXUSCt83Wz4uDdIV/SQEOa826pR6X7/Zl7EBRPNJoSnGZfucpau/
++NEbOfp0TZODpbqBeKRLBCyqJFQfwQEhOE97/am30pIrIAob6lAcNXeimgunQawld
+DQLJVhpCbsHYcMHlmIqqKc+jCefCf+T0grx34t9+fRap90eYs0KHxHo9Ubr71I178
+iLWcYrN0mve5cNFJ9aHUg8VT3i1wuJYzl1ZXJeuDOynddmIEmHjVEMIdsA3wKGHIm
+aB9cPgTkw+dkKkkCqpHZYcqeBBvbQZ3fkovhubKfYdwfX1QwtBjFZmdgayL3gQNJZ
+EOr7w8qmnHD+B00v526nYpNqKBWqyQXe5anmrm02e7SC+G4JiMiaLLvy6wo7ya3of
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -192,6 +192,9 @@ class LastCheck extends VNag {
 		$count_warning = 0;
 
 		foreach ($this->getLastLoginIPs($username) as list($username, $pts, $ip, $times)) {
+			// IP ":pts/0:S.0" means that there is a screen session
+			if (strpos($ip,':pts/') === 0) continue;
+
 			$count_total++;
 
 			$fields = $this->getCountryAndOrg($ip);
