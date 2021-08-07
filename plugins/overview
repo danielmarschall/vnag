@@ -21,7 +21,6 @@ VNAG PLUGIN OVERVIEW
 | phpbb3_version            | vnag_phpbb_version         | No             | Generic           |                                                                       |
 | phpmyadmin_version        | vnag_phpmyadmin_version    | No             | Generic           |                                                                       |
 | ping                      | vnag_ping                  | Yes            | Generic           |                                                                       |
-|                           | vnag_pmwiki_version        | No             | Generic           |                                                                       |
 | positive_responder        | (Discontinued)             | -              | -                 | Was only intended as test monitor.                                    |
 | roundcube_version         | vnag_roundcube_version     | No             | Generic           |                                                                       |
 | smart_test                | vnag_smart                 | No             | Generic           |                                                                       |
@@ -31,13 +30,17 @@ VNAG PLUGIN OVERVIEW
 | verteiler                 | (Obsolete)                 | -              | -                 | Functionality part of Icinga.                                         |
 | website_monitor           | (Discontinued)             | -              | -                 |                                                                       |
 | wordpress_version         | vnag_wordpress_version     | No             | Generic           |                                                                       |
+|                           | vnag_webreader             | No             | Generic           |                                                                       |
+|                           | vnag_disk_running          | No             | Generic           | For monitoring disks which do not have SMART functionality.           |
+|                           | vnag_pmwiki_version        | No             | Generic           |                                                                       |
+|                           | vnag_gitlab_version        | No             | Generic           |                                                                       |
+|                           | vnag_nextcloud_version     | No             | Generic           |                                                                       |
+|                           | vnag_owncloud_version      | No             | Generic           |                                                                       |
+|                           | vnag_hp_smartarray         | No             | Generic           |                                                                       |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
-| -                         | vnag_webreader             | No             | Generic           |                                                                       |
-| -                         | vnag_disk_running          | No             | Generic           | For monitoring disks which do not have SMART functionality.           |
-+---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
-| -                         | vnag_faindex_ts            | No             | VTS Internal      |                                                                       |
-| -                         | vnag_bulbcam_*             | No             | VTS Internal      |                                                                       |
-| -                         | vnag_oidinfo_linkcheck     | No             | VTS Internal      |                                                                       |
-| -                         | vnag_vwi_timestamp         | Yes            | VTS Internal      |                                                                       |
-| -                         | vnag_vts_command_listener  | No             | VTS Internal      |                                                                       |
+|                           | vnag_faindex_ts            | No             | VTS Internal      |                                                                       |
+|                           | vnag_bulbcam_*             | No             | VTS Internal      |                                                                       |
+|                           | vnag_oidinfo_linkcheck     | No             | VTS Internal      |                                                                       |
+|                           | vnag_vwi_timestamp         | Yes            | VTS Internal      |                                                                       |
+|                           | vnag_vts_command_listener  | No             | VTS Internal      |                                                                       |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+

@@ -21,13 +21,13 @@ VNag comes with following plugins pre-installed:
 - **4images_version**: Checks 4images installations for updates.
 - **disk_running**: Checks if harddisks which do not have SMART capability are online
 - **file_timestamp**: Warns when files are not modified withhin a specific interval/age.
-- **gitlab_version**: Checks GitLab installations for updates.
+- **gitlab_version**: Checks GitLab install~ations for updates.
+- **hp_smartarray**: Checks disk and controller status of HP SmartArray RAID controllers.
 - **ipfm**: Checks the log files of the tool "ipfm" and warns when the measured traffic exceeds a given limit.
 - **joomla_version**: checks Joomla installations for updates.
 - **last**: Checks the output of the tool "last" and warns when logins from suspicious IP adresses are detected.
 - **mdstat**: Parses the output of "/proc/mdstat" and warns when drives inside a RAID array have failed.
 - **mediawiki_version**: Checks MediaWiki installations for updates.
-- **pmwiki_version**: Checks PmWiki installations for updates.
 - **net2ftp_version**: Checks net2ftp installations for updates.
 - **nextcloud_version**: Checks Nextcloud installations for updates.
 - **nocc_version**: Checks NOCC webmail installations for updates.
@@ -35,6 +35,8 @@ VNag comes with following plugins pre-installed:
 - **owncloud_version**: Checks ownCloud installations for updates.
 - **phpbb_version**: Checks phpBB installations for updates.
 - **phpmyadmin_version**: Checks phpMyAdmin installations for updates.
+- **ping**: Pings a hostname or IP address.
+- **pmwiki_version**: Checks PmWiki installations for updates.
 - **roundcube_version**: Checks RoundCube installations for updates.
 - **smart**: Checks the SMART attributes of harddrives and warns when bad attributes are detected.
 - **virtual_mem**: Checks the amount of virtual memory (physical memory + swap).
