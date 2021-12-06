@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-qWEItTVwmWt4bCuj7GpdpdKLH3wLzHxhgQxr8p/AKPM17DRZoAn/i9x4YUloNuiC6
-ut7naeSIlD/SKCob9Qli9lrbCjlfAsuZUaV1MVuZutycJBp3xSEOLCxLfBWB9DbVq
-pfAmFuS/ukEWAVipyeddB3RPmsAPDnZlNkQyRXXcB/yO31GYANCB5K6qaUPRoHVc+
-7AbZK3WfZBBaILYXdFDzincJfCyVxVOtFqdbuwyIQiJKAf6fmcWqJeEWCOGDMve+i
-bcRpS8QuWbB6rntnmh0NB6JvjpaSkdh0I5m4Qx505OeB6lFgeAVlmszJvUSi3zqVz
-b2zOvnEfm2+QGjrolHyP4vWAQ5ldwoYCXK/9yLsQ7YjvWM8FmgGIyO+E0Gn+diEMo
-PivhhivcOyxpa3O9o03WenONl0ERYB5zzrqzxfqGo5Az4Wluy+8vtpCneUf1VmtRT
-zTLW0KLe/j6OApYgzgKWOxk6cyZMNCpWwDz5jt75xeysEBJSlVe3Z1uNLkD+XFjFm
-b+0TgAwq1hDS0aHbDBwE5dwO3vCkVOGZoANnNZtU4vzs8Oy9GVHmR8muj563Dex6H
-7TygozGMfzI9WxttN9HIvPiA5ncsgHDoA9h7BT+AE1cmwWX+0Cs5m6sqlZZ4dLNsT
-Cwe7vXisS6Q4WTEX9qsldDXrzTgJm7Vmb9wMxwr85nEpViET4uEPbeG8ZsFF1tPIU
-yJPE+yZUCCgml8AWrAcdNaRfx92QFdsYhSOIcypV3VlSjvWm1NE2dStuTo/dqX5M3
-fmNt/04tZnX7Mh7MzgvcXncuprAS6qgaOPWo5uFL8nUU4WIOzxYywNqaSpA2VFCz1
-YewKblZVRJmVMcszKHdpcIWYAqX6UbZ7UGO/B06RoFQ0A7oS3A5aQOuKyjQDIFe5n
-8MZGCBfp+yINGcJe68yBLu853OSxfs34/6MzbdEjdei2+y4OP8yWU0pJ9adj0ZLxc
-Ev2ktdqE10UyiSvdxmCnJ3ti/1aS5IFrXiA4lUzsABnZzIOsc6GmrEjSS/G/64zfl
-eCU3scGGBnD4/YNDtkGoMFOSw5qJUHjaiHWnFHwqov5G8LksPfc7MhZgKqLmadzSA
-uw6ns9crjn/zeppNCaO0RwN/dnRkGS1dIdZ7r7d44zyuxG4HPWeJOi/6a0mtGScrO
-tZRjuLQItoOFAImOgZ3QmQELxUKapDArl/wQDl/J+dg7XGIdocpquWQRqi3gsaiu4
-LW1T0hDvpqEBsj5wgPLr7f4M0hUNzF6sD3WTuj+wZuo+Z2/52/yEqinYUsR29NdJ+
-8mb/hZ6T5atmeGnhS8pG7y7sj2NsanxEtvucQHdCWT3Di9B+jnUGVlfPtr+3jwKW0
-A==
+k+uEiXcN0aT4PYsUqGb3gKHrOpjDtDApXd3rMwzLtCKXbsWeflwJh4zLX5NMIOhKw
+PXfaCSlU+a39TBzemxYztiDZe1LWVzgaY9j4XO9XkMifveFPS9QBVpEPPL/cx0NOk
+fI12a61q6lK1uQueaeeTKsGxj1kC91acODqaAXP3Mf7u9oCd6Tj11uk2zEQY3xyLr
+GPWLuNnMuDr5iIuJYS2ZfUK21jfjbXp0Ukg7cZaZXiE6ud+DyvnNM6/YsHEip0Q+O
+K/PPUaNSbudH3bjnoYohvKC6vhhugHiIBMdInLoua+UpRXDCJ8kViEH5h3k7RK5kx
+l+YGBDbYmEpU/mQaUV9vKnirwcrFot/3ALq81h7EKoO0vBnpq61iVXDGWRNYe+LfC
+bo2C3SXKC6keCbsxsLFgA929b1Bfi0OYRZglQ3Jdpa4upARmZXz0T8Rew+vfxXNKA
+CcnSM4iOpUwJ4ani0zaZE2e4tcXRdMw33ZcvP5jnWstweNMu15uCyAg72E7Su3rce
+g7iqf4/PSysOpDtAErr5UCil4fY3r++J82XV/EQWwlWjYrpQV/YDWogAY3wwtLe8u
+/UwbmaCAJmJ6ZSDmW09xpRvdon82+Dghh3mYX1F6bnLLKWlAukzUiMCv9lo3Lk4m+
+HDf8azuKS/U4b+taRckC5zb2Hv88L1XouBA+xRs2aRtLG2O5F8o6RCUmoeBTGYgA/
+ghc8QJvq3uI55gm80UBPhzf7rXFlF7rbLwvtdkxG7CexeIqfnd1HTJt9Zv7Ykphzg
+OGB8k60gAu1HquY3lu/zAAKOFUTOZDvjqEyJyjnrlJmVqQKGJ52VCqyj77lBr5pMf
+PRHd84Re6PRlFxXHVEl+Y4UYP8SmCdbniNTsc5g4D3d/mNKqKWHtsNzW15NX8Ow0n
+IjXtnYfO+Ig2Bweupsa8Hj2MxCT3gsiSksvCJhcJwRJc15rYMK621eIUx1C827jPv
+CDRwt+17AVRbSVPXIVGU72EqxIitWMInPe3p3Ybud7LeIYPPOYgT0wt9vyndOyqLF
+t+5/ouZVCTxlRFpfUktMbXj1u6lg0fiv7NQK/xj3tkwY+SgEiWkaGPzACUcTw1vR8
+JEjyPUYbfSEA30jAr0AZ+RfgFcBhKD2fPO6rMl4pm2XKENSnetQPvSguW9/sc8sJk
+Kxiu3/FD/XyczOzYNCQyuzjrmrjKOQyUL0E/z/8pS1cdkrzoaRSSBnapjebNhgPW/
+Raf/4nEH2iak6lzJeZCPeuhE5R5o3I4TV+SO9/kcpMRHENWeNpGYQ5M/agHM7cqWu
+S/I8iz8BUghwqydmbIP2Y53VqWTqMV211K2FEMZFvqxxFs5nImzry6EVPIQ1UZMPE
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ A==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2020-03-07
+ * Revision 2021-12-06
  */
 
 declare(ticks=1);
@@ -116,10 +116,12 @@ class OpenBugBountyCheck extends VNag {
 		$cache_file = $this->get_cache_dir() . '/' . md5($domain);
 
 		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
-			$cont = file_get_contents($cache_file);
+			$cont = @file_get_contents($cache_file);
+			if (!$cont) throw new Exception("Failed to get contents from $url");
 		} else {
 			$url = 'https://www.openbugbounty.org/api/1/search/?domain='.urlencode($domain);
-			$cont = file_get_contents($url);
+			$cont = @file_get_contents($url);
+			if (!$cont) throw new Exception("Failed to get contents from $url");
 			file_put_contents($cache_file, $cont);
 		}
 
@@ -153,9 +155,11 @@ class OpenBugBountyCheck extends VNag {
 		$cache_file = $this->get_cache_dir() . '/' . md5($url);
 
 		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
-			$cont = file_get_contents($cache_file);
+			$cont = @file_get_contents($cache_file);
+			if (!$cont) throw new Exception("Failed to get contents from $url");
 		} else {
-			$cont = file_get_contents($url);
+			$cont = @file_get_contents($url);
+			if (!$cont) throw new Exception("Failed to get contents from $url");
 			file_put_contents($cache_file, $cont);
 		}
 

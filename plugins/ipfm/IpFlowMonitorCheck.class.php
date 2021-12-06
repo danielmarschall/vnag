@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-AHwkMePLHKOt4R/D3Ku9ARyOKU1u6VjTtn8dbcody41d7es9OiXW/ta/C9PzlVVDt
-nTya6pH1y0qL7XSbffsFYCKpS9zqJ2akCtZzHJ8ePYp+z/HjuEzAzb2y712EobG/A
-rQSQo+f57P4c0nr5RMfg6b5QTIruKhm3gVwv81QuRm1xI9SApETYOeiBwLowDN3N4
-4x4AVcVXf6GenSCVkSD7XrwjDVI3U4h9m+DLuwuWP6Ti8W3eRRqP5Fp3wxgdbnWsf
-hSgkAqoO0E3sHhcKDRinA5mDbynaRmNrauxSPL11S1WTnnFVDVgPJSIYSKUuxrdpm
-4UKBGHC18CSRlx7Zc7+DNEq+zV8PHgRkmN9lHUEnMx4+Kxkptz1TJmClk8IE2WMS0
-JYdFPd+aW4W/RUzXMmry5Ls6WlMM4wMKv/u4mtsJLKCz+D2ODwdVhDpj5yzdYG1Ox
-UN4HhgKzgeKkCgeZOPUDAxU0LJYhTeC4Lu2gE0XujXTOkko7sPNhK7lEkpXK4dfFf
-2FQgiOwZNho2WhhvU3TWy2xyNMRd9vh0iVbJgE22lx+J40bNBUa44adX1wApq8oRP
-kFiZdV5Xb4xrLCRY8EekO7iiW6vcAM5vzLnzGZ4BhDOLapZrs/TcxpPnbvsH0WXth
-yDduBWJytYpKJ3fTpAUlwJzwKCjGEHwq+SSqCxd2KDCG6+eaARwkcs4wPHYcR0cky
-+uqDDmOJT8r62F6tILtfK33SxSDPVTo1CgYmrl46l+Rbm5tqWxdFRQ/1htGJLkD1L
-7DC5pyOrd53GnLvQ6+LCbcFx9D6xT27QjcXEAcGPQ5WTHQbJ2FBBJRJ/giESmEhoB
-nmUXxfrdaSqQ4rrImNckMRpPP01me1XnZSA9l23UTT77UVCktGGW6HXZxvJMi1D/J
-qLb8nrIJ62mhVq1eHboGnR1BJVNXjh2GDShBRcDoadvCLNayp9PkpQJgShkxENzeq
-+7xCCWqaVUPprvPwlG/z1kwEnX7BuTLrFmwrsYDdn1zKQMK8o3KckwgWO0ipMcTD+
-hr+OC0LFCn4M4RIo2R+8E3243yCmclkLPaQax+f7I9DKMrKtvVtUpNs9srHmUBh1M
-EZcFE4jFVjOVz3tw1e+u5nugx3Bj9RvPif4hJgkTXIExWAw8CjOJoqxKez46opHXm
-7c3mi1z9L9EbRBBzWPexTUPiWzcna/r1lVVEoAzVGt9SXWRjsbPZr3+rJSxwFdEkf
-JrZL14/vcdh7UZ4QWRcVpWjXPuA7vlWoNb5EBm3acm/mxAVM7kj56HtWOabM9zyFi
-m45gDhw/1XOophKpq824vBfkhFPhLdvWXDYeR+JrFZbSO1i+UwqitRkIarLqHMT8P
-A==
+rbwtQLDF4TDJsmJUFAtVZZyvkXjLJCXNsxbQ2JZY3NRRaHHMN8HU2LJAnUV4LtIUZ
+k1hEOd82g+MxSGVYqV9nLJ8lGuPyKJ5BYzhiRpsOzUsW3WFeg1+H59kb/r06Oe19n
+Rq49pfBPbVM97ZyLNNTTbUngaqvvC6RSg9NN4abDAYvwnD/aztJjXZlhCJ3x//6iT
+zDqqgN2u2VPFyYxn23CKGC/fHsO1EdZorZR9mBrEgcmdtDnGz9oew9JZp4byQvFsi
+X9zfCQgMd0R0P9KA2PRwtezwNwoHHLSyMg2237T7gckB8Dz9/nLILUrSu+ixuqJlo
+J+sTYpEW4W64dgEzl0LALDJ7PdV0n6kfm78pj73r9ZyOxjc4q64ppqAkAPrrLVbIc
+v0PVwzzGctmDJP7btS8IG6yUN8gGA37QyYnUNm6x2Yi0isghnZsSZa8oK5KV2MbkT
+hct/zyTkk5NDk4MykEGWYyzyCGN0yjXyGK7FjtFz8yN8l5hMcXqcmgmPV3DxpvBvy
+uH6mFYz++z3uW7TDtZrtRsVAIZb6lZj13FEkgNAobIkEkFGTbf9+FWduCw3wXh5tV
+NhIeG9KUo5Io8jF7QkbikPl37QvCyymeGeW7+zeYhPTyzqvTxO/yMZMI0CFsA2lVW
+16yIwwLPmAfGRnrV8Y5S9CojQ+e/HjZbpjWcQGcIljY/fGb8U69a1gLcszdkpaPnT
+UbZCabrGp/51tNygmmI1fRkcDwCDZHysUYhH6jvRSeWS+iwF7QLmF9FPQF3QvTYHK
+J3X64gz2xRInIVk9cibTrgj8y/OsZJAR66LOPpkHLEoyY5xsaJQ1/S29zPDdWOzVx
+VByeCKnVro1N6gkmAZQs7sf2lRW8dSQaMzrBOumtKnJNXgzdmKPcPECeQOblvS5Lb
+V0opaVR7Jk3fo2RHkrkifp0hFRCsoI7yl3BPK/srID0USOS1gBTxCRaeIRJWQzJlj
+hI+ieLWBb+7kRdScq80+YqxE/Aw/yrqjQDp4+9FvGALW3uhBXK142auA5oJqpVVvS
+Dl7yzjVc4ENpWrkriBIUFZkIrnbRz7oGByWMi8Tl/Bnzh0xiIy3qbUwV0Oxg1iYC9
+qGRi0JIbNSlQ3NQBU87JjcA+Ds6M+odxcTtpbtwgOo2Z1c2LiASGdC4NmHxAYfVZ5
+QfZLn2s7/P3Sh6YHVvWHLm05uaAwiC3NkAVIDKj2kWe4zKfAwO8aELgDs8H4R3Ljc
+azjeT5a2RsTNw0h/ylZ+IlQ5O83eqSgMwf40ebPN9dvSicCZulM86eaGd/zTgZroE
+Njyv5WVv9562mupp1rXaGGFOW87+LHfw6kImXn1/8dZEJrPj89gP1DrV6Fo+uqxIt
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -326,6 +326,7 @@ class IpFlowMonitorCheck extends VNag {
 
 		if (!is_null($monthLimit)) {
 			// TODO: should we put a percentage at "expected"? or if it exceeds, should we show how much it would exceed?
+			// TODO: It would be good if the UOM for displaying would be automatically detected, e.g. 200 MB / 10 TB instead of 0 GB / 10240 GB
 			$this->setHeadline(round($current,0).' '.OUTPUT_UOM." / ".$monthLimitValue.' '.OUTPUT_UOM." (".round($current/$monthLimitValue*100,2)."%, expected ".round($expected,0).' '.OUTPUT_UOM.") traffic used this month ($mon/$year)", true);
 		} else {
 			$this->setHeadline(round($current,0).' '.OUTPUT_UOM." (expected ".round($expected,0).' '.OUTPUT_UOM.") traffic used this month ($mon/$year)", true);
