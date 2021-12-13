@@ -37,6 +37,7 @@ VNAG PLUGIN OVERVIEW
 |                           | vnag_nextcloud_version     | No             | Generic           |                                                                       |
 |                           | vnag_owncloud_version      | No             | Generic           |                                                                       |
 |                           | vnag_hp_smartarray         | No             | Generic           |                                                                       |
+|                           | vnag_minecraft_java_version| No             | Generic           |                                                                       |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
 |                           | vnag_faindex_ts            | No             | VTS Internal      |                                                                       |
 |                           | vnag_bulbcam_*             | No             | VTS Internal      |                                                                       |

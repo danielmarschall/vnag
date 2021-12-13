@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-k+uEiXcN0aT4PYsUqGb3gKHrOpjDtDApXd3rMwzLtCKXbsWeflwJh4zLX5NMIOhKw
-PXfaCSlU+a39TBzemxYztiDZe1LWVzgaY9j4XO9XkMifveFPS9QBVpEPPL/cx0NOk
-fI12a61q6lK1uQueaeeTKsGxj1kC91acODqaAXP3Mf7u9oCd6Tj11uk2zEQY3xyLr
-GPWLuNnMuDr5iIuJYS2ZfUK21jfjbXp0Ukg7cZaZXiE6ud+DyvnNM6/YsHEip0Q+O
-K/PPUaNSbudH3bjnoYohvKC6vhhugHiIBMdInLoua+UpRXDCJ8kViEH5h3k7RK5kx
-l+YGBDbYmEpU/mQaUV9vKnirwcrFot/3ALq81h7EKoO0vBnpq61iVXDGWRNYe+LfC
-bo2C3SXKC6keCbsxsLFgA929b1Bfi0OYRZglQ3Jdpa4upARmZXz0T8Rew+vfxXNKA
-CcnSM4iOpUwJ4ani0zaZE2e4tcXRdMw33ZcvP5jnWstweNMu15uCyAg72E7Su3rce
-g7iqf4/PSysOpDtAErr5UCil4fY3r++J82XV/EQWwlWjYrpQV/YDWogAY3wwtLe8u
-/UwbmaCAJmJ6ZSDmW09xpRvdon82+Dghh3mYX1F6bnLLKWlAukzUiMCv9lo3Lk4m+
-HDf8azuKS/U4b+taRckC5zb2Hv88L1XouBA+xRs2aRtLG2O5F8o6RCUmoeBTGYgA/
-ghc8QJvq3uI55gm80UBPhzf7rXFlF7rbLwvtdkxG7CexeIqfnd1HTJt9Zv7Ykphzg
-OGB8k60gAu1HquY3lu/zAAKOFUTOZDvjqEyJyjnrlJmVqQKGJ52VCqyj77lBr5pMf
-PRHd84Re6PRlFxXHVEl+Y4UYP8SmCdbniNTsc5g4D3d/mNKqKWHtsNzW15NX8Ow0n
-IjXtnYfO+Ig2Bweupsa8Hj2MxCT3gsiSksvCJhcJwRJc15rYMK621eIUx1C827jPv
-CDRwt+17AVRbSVPXIVGU72EqxIitWMInPe3p3Ybud7LeIYPPOYgT0wt9vyndOyqLF
-t+5/ouZVCTxlRFpfUktMbXj1u6lg0fiv7NQK/xj3tkwY+SgEiWkaGPzACUcTw1vR8
-JEjyPUYbfSEA30jAr0AZ+RfgFcBhKD2fPO6rMl4pm2XKENSnetQPvSguW9/sc8sJk
-Kxiu3/FD/XyczOzYNCQyuzjrmrjKOQyUL0E/z/8pS1cdkrzoaRSSBnapjebNhgPW/
-Raf/4nEH2iak6lzJeZCPeuhE5R5o3I4TV+SO9/kcpMRHENWeNpGYQ5M/agHM7cqWu
-S/I8iz8BUghwqydmbIP2Y53VqWTqMV211K2FEMZFvqxxFs5nImzry6EVPIQ1UZMPE
-w==
+RbPHJmgu6/76ESjp6DP2+iHQJB9V7WnEiJNQhlJiVkjcs2nxUecWAEbxuX7/u4zX+
+gSbXQoo75yZD+pgxifWdiFIZjpk5U6NfKyXhLtMy6TG7LF5Ekb8hqDRxNyzIlpin4
+YMVicW6HoqSFDzdO3Xby7UcPFqpP7IqameNwLojYO4ll3bB0uPWh4sa8ybGbelc5D
+oq4EtMpfAsqqq1PNgc77SbHB1RWEf0MkO66khEPI/HGhqh4Du0nrPIehy/HU521ai
+Uz4eiT7jOktWITkAVzbCQJLu3F0lQEWB5zgLKoCAF4qMKbO3Sf8gqnSB9OdzWJerp
+o8ZCfUNCMDUzgujpaTuYP7N38QoUmKJfs8a2LbgoHOWAdP7GvzdranSz8CBfPWJfc
+r1ut45B4Do3Tr1uMn34WhN3qgRldDhVxYvVYAREa0LhKjDXUMVHaY5I/A97JhJ23V
++9bFiLzWnYx+VV0TkddQEPiRDjw7nTnqs5Wuw4cHKOB9sRnWe2BQmoVL4z2aushFF
+hp8ojwt2xEDFigEdsXZQEqklhdJFHygKc81AuWkw/UaTD3OZtMEa7wSLoDZ3WBpqJ
+cPkWqOPOxXseuoFnMmd5xuNZyEOXtFXhobiYnK8n121bhY5TGMs9rT7N+VpzUwJuM
+oEhVXefd/p59f8vYdUyb1C+z2LUK6RZS4mNuCREaJ8QQ9aKULJfhTESjFl8RgTyrv
+FQ4kUAK+OsPusNg72PtR65aYlHIUeUo4wGJJ922tQGxty/y4Kke2i/Wtfd7cQGtaG
+EhPNHgccMSnCxbqjz6y98TletC61sDMwgaZ5EEhlE0zc0X4BWp+fMirf/0s7QBacx
+zuIMuOKTaqevAUcrnXsxjfKtOGydpInLB4v34V1iEhWyvdQjB3Y0tQ0D4zxANQ+2Q
+l/NicUfDOTLYXuyzLYXOSVNwS/vyBW17MMqham+zb3TkhWVTQI3u+1GsC8Xau40z8
+g1iupYXunYD7seuqcV3ZsiPJz8WHBLj4zwTIe2wa0fQ5HTxEVqyZumQdryB2KrmTj
+XUgz5v5zyQcwqrClIAO4XtJO1hnIinMh4Vrj85d5Tqbp38wwhAqeQUxrxwiM+fNKc
+uG0sFOnl7NVeKeB7sQ/rDFevWm8aayHnqsgz0JTnAmEdhzzRWX7PYlFVNfu/E0j6l
+VJlpv4EI+eMoZmGMv3JhNWAp7yhkJqz7Xf5UKsXLi/0bgs0m4gMuSPl/JF7G7njfi
+oEK/dKIblZGsqTOxdgxZ100BHyuOTbHCfRjEosb1xGO6054g9ZI1y1njwnX9dG2Q5
+zF5p/wElp16/VtxftI8yrJtVep/sipCI77lkYEeYLzB+/pMsayvbr5zGT5SYn3QHD
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -117,7 +117,7 @@ class OpenBugBountyCheck extends VNag {
 
 		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
 			$cont = @file_get_contents($cache_file);
-			if (!$cont) throw new Exception("Failed to get contents from $url");
+			if (!$cont) throw new Exception("Failed to get contents from $cache_file");
 		} else {
 			$url = 'https://www.openbugbounty.org/api/1/search/?domain='.urlencode($domain);
 			$cont = @file_get_contents($url);
