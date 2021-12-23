@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-RbPHJmgu6/76ESjp6DP2+iHQJB9V7WnEiJNQhlJiVkjcs2nxUecWAEbxuX7/u4zX+
-gSbXQoo75yZD+pgxifWdiFIZjpk5U6NfKyXhLtMy6TG7LF5Ekb8hqDRxNyzIlpin4
-YMVicW6HoqSFDzdO3Xby7UcPFqpP7IqameNwLojYO4ll3bB0uPWh4sa8ybGbelc5D
-oq4EtMpfAsqqq1PNgc77SbHB1RWEf0MkO66khEPI/HGhqh4Du0nrPIehy/HU521ai
-Uz4eiT7jOktWITkAVzbCQJLu3F0lQEWB5zgLKoCAF4qMKbO3Sf8gqnSB9OdzWJerp
-o8ZCfUNCMDUzgujpaTuYP7N38QoUmKJfs8a2LbgoHOWAdP7GvzdranSz8CBfPWJfc
-r1ut45B4Do3Tr1uMn34WhN3qgRldDhVxYvVYAREa0LhKjDXUMVHaY5I/A97JhJ23V
-+9bFiLzWnYx+VV0TkddQEPiRDjw7nTnqs5Wuw4cHKOB9sRnWe2BQmoVL4z2aushFF
-hp8ojwt2xEDFigEdsXZQEqklhdJFHygKc81AuWkw/UaTD3OZtMEa7wSLoDZ3WBpqJ
-cPkWqOPOxXseuoFnMmd5xuNZyEOXtFXhobiYnK8n121bhY5TGMs9rT7N+VpzUwJuM
-oEhVXefd/p59f8vYdUyb1C+z2LUK6RZS4mNuCREaJ8QQ9aKULJfhTESjFl8RgTyrv
-FQ4kUAK+OsPusNg72PtR65aYlHIUeUo4wGJJ922tQGxty/y4Kke2i/Wtfd7cQGtaG
-EhPNHgccMSnCxbqjz6y98TletC61sDMwgaZ5EEhlE0zc0X4BWp+fMirf/0s7QBacx
-zuIMuOKTaqevAUcrnXsxjfKtOGydpInLB4v34V1iEhWyvdQjB3Y0tQ0D4zxANQ+2Q
-l/NicUfDOTLYXuyzLYXOSVNwS/vyBW17MMqham+zb3TkhWVTQI3u+1GsC8Xau40z8
-g1iupYXunYD7seuqcV3ZsiPJz8WHBLj4zwTIe2wa0fQ5HTxEVqyZumQdryB2KrmTj
-XUgz5v5zyQcwqrClIAO4XtJO1hnIinMh4Vrj85d5Tqbp38wwhAqeQUxrxwiM+fNKc
-uG0sFOnl7NVeKeB7sQ/rDFevWm8aayHnqsgz0JTnAmEdhzzRWX7PYlFVNfu/E0j6l
-VJlpv4EI+eMoZmGMv3JhNWAp7yhkJqz7Xf5UKsXLi/0bgs0m4gMuSPl/JF7G7njfi
-oEK/dKIblZGsqTOxdgxZ100BHyuOTbHCfRjEosb1xGO6054g9ZI1y1njwnX9dG2Q5
-zF5p/wElp16/VtxftI8yrJtVep/sipCI77lkYEeYLzB+/pMsayvbr5zGT5SYn3QHD
+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
 g==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -29,7 +29,7 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2021-12-06
+ * Revision 2021-12-23
  */
 
 declare(ticks=1);
@@ -109,6 +109,7 @@ class OpenBugBountyCheck extends VNag {
 
 		$fixed = 0;
 		$unfixed = 0;
+		$unfixed_ignored = 0;
 
 		$this->setStatus(VNag::STATUS_OK);
 
@@ -129,9 +130,15 @@ class OpenBugBountyCheck extends VNag {
 		foreach ($xml as $x) {
 			$submission = $x->url;
 
-			if ($fake_fix = $this->is_ignored($this->extract_id_from_url($submission))) $x->fixed = '1';
-
-			if ($x->fixed == '0') {
+			if ($x->fixed == '1') {
+				$fixed++;
+				$this->addVerboseMessage("Fixed issue found at $domain: $submission", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
+				$this->setStatus(VNag::STATUS_OK);
+			} else if ($this->is_ignored($this->extract_id_from_url($submission))) {
+				$unfixed_ignored++;
+				$this->addVerboseMessage("Ignored issue found at $domain: $submission", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
+				$this->setStatus(VNag::STATUS_OK);
+			} else {
 				$unfixed++;
 				$this->addVerboseMessage("Unfixed issue found at $domain: $submission", VNag::VERBOSITY_SUMMARY);
 				$this->setStatus(VNag::STATUS_WARNING);
@@ -139,15 +146,9 @@ class OpenBugBountyCheck extends VNag {
 				//       But we could check if the report is older than XXX months, and then we know that it must be disclosed.
 			}
 
-			if ($x->fixed == '1') {
-				$fixed++;
-				$tmp = $fake_fix ? ' (fix asserted by operator)' : '';
-				$this->addVerboseMessage("Fixed issue found at $domain: $submission$tmp", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
-				$this->setStatus(VNag::STATUS_OK);
-			}
 		}
 
-		return array($fixed, $unfixed);
+		return array($fixed, $unfixed, $unfixed_ignored);
 	}
 
 	function get_privateapi_data($url, $max_cache_time = 3600) { // TODO: make cache time configurable via config
@@ -175,6 +176,7 @@ class OpenBugBountyCheck extends VNag {
 		$sum_fixed = 0;
 		$sum_unfixed_pending = 0;
 		$sum_unfixed_disclosed = 0;
+		$sum_unfixed_ignored = 0;
 
 		$this->setStatus(VNag::STATUS_OK);
 
@@ -196,14 +198,16 @@ class OpenBugBountyCheck extends VNag {
 			$status = isset($data['Patch Status']) ? $data['Patch Status'] : $data['Path Status']; // sic! There is a typo in their API (reported, but not fixed)
 
 			$submission = $data['Report Url'];
-			if ($fake_fix = $this->is_ignored($this->extract_id_from_url($submission))) $status = 'Patched';
-
 			$domain = $data['Host'];
 
 			if ($status == 'Patched') {
 				$sum_fixed++;
-				$fixed_date = $fake_fix ? 'asserted by operator' : $data['Vulnerability Fixed'];
+				$fixed_date = $data['Vulnerability Fixed'];
 				$this->addVerboseMessage("Fixed issue found at $domain: $submission (fixed: $fixed_date)", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
+				$this->setStatus(VNag::STATUS_OK);
+			} else if ($this->is_ignored($this->extract_id_from_url($submission))) {
+				$sum_unfixed_ignored++;
+				$this->addVerboseMessage("Ignored issue found at $domain: $submission", VNag::VERBOSITY_ADDITIONAL_INFORMATION);
 				$this->setStatus(VNag::STATUS_OK);
 			} else {
 				$disclosure = $data['Scheduled Public Disclosure'];
@@ -220,7 +224,7 @@ class OpenBugBountyCheck extends VNag {
 			}
 		}
 
-		return array($sum_fixed, $sum_unfixed_pending, $sum_unfixed_disclosed);
+		return array($sum_fixed, $sum_unfixed_pending, $sum_unfixed_disclosed, $sum_unfixed_ignored);
 	}
 
 	protected function cbRun($optional_args=array()) {
@@ -241,59 +245,48 @@ class OpenBugBountyCheck extends VNag {
 			$sum_fixed = 0;
 			$sum_unfixed_pending = 0;
 			$sum_unfixed_disclosed = 0;
-			list($sum_fixed, $sum_unfixed_pending, $sum_unfixed_disclosed) = $this->num_open_bugs_v2($privateapi);
-			if ($this->getVerbosityLevel() == VNag::VERBOSITY_SUMMARY) {
-				$this->setHeadline(($sum_unfixed_pending + $sum_unfixed_disclosed)." unfixed ($sum_unfixed_pending pending, $sum_unfixed_disclosed disclosed) issues found at your domains", true);
-			} else {
-				$this->setHeadline("$sum_fixed fixed and ".($sum_unfixed_pending + $sum_unfixed_disclosed)." unfixed ($sum_unfixed_pending pending, $sum_unfixed_disclosed disclosed) issues found at your domains", true);
-			}
+			$sum_unfixed_ignored = 0;
+			list($sum_fixed, $sum_unfixed_pending, $sum_unfixed_disclosed, $sum_unfixed_ignored) = $this->num_open_bugs_v2($privateapi);
+			$this->setHeadline("$sum_fixed fixed and ".($sum_unfixed_pending + $sum_unfixed_disclosed + $sum_unfixed_ignored)." unfixed ($sum_unfixed_pending pending, $sum_unfixed_disclosed disclosed, $sum_unfixed_ignored ignored) issues found at your domain(s)", true);
 		} else if (file_exists($domain)) {
 			// Possibility 2: File containing a list of domains
 			$domains = file($domain);
 			$sum_fixed = 0;
 			$sum_unfixed = 0;
+			$sum_unfixed_ignored = 0;
 			$count = 0;
 			foreach ($domains as $domain) {
 				$domain = trim($domain);
 				if ($domain == '') continue;
 				if ($domain[0] == '#') continue;
-				list($fixed, $unfixed) = $this->num_open_bugs_v1($domain);
+				list($fixed, $unfixed, $unfixed_ignored) = $this->num_open_bugs_v1($domain);
 				$sum_fixed += $fixed;
 				$sum_unfixed += $unfixed;
+				$sum_unfixed_ignored += $unfixed_ignored;
 				$count++;
-				$this->addVerboseMessage("$fixed fixed and $unfixed unfixed issues found at $domain", $unfixed > 0 ? VNag::VERBOSITY_SUMMARY : VNag::VERBOSITY_ADDITIONAL_INFORMATION);
+				$this->addVerboseMessage("$fixed fixed, $unfixed_ignored ignored, and $unfixed unfixed issues found at $domain", $unfixed > 0 ? VNag::VERBOSITY_SUMMARY : VNag::VERBOSITY_ADDITIONAL_INFORMATION);
 			}
-			if ($this->getVerbosityLevel() == VNag::VERBOSITY_SUMMARY) {
-				$this->setHeadline("$sum_unfixed unfixed issues found at $count domains", true);
-			} else {
-				$this->setHeadline("$sum_fixed fixed and $sum_unfixed unfixed issues found at $count domains", true);
-			}
+			$this->setHeadline("$sum_fixed fixed and ".($sum_unfixed + $sum_unfixed_ignored)." unfixed (including $sum_unfixed_ignored ignored) issues found at $count domains", true);
 		} else if (strpos($domain, ',') !== false) {
 			// Possibility 3: Domains separated with comma
 			$domains = explode(',', $domain);
 			$sum_fixed = 0;
 			$sum_unfixed = 0;
+			$sum_unfixed_ignored = 0;
 			$count = 0;
 			foreach ($domains as $domain) {
-				list($fixed, $unfixed) = $this->num_open_bugs_v1($domain);
+				list($fixed, $unfixed, $unfixed_ignored) = $this->num_open_bugs_v1($domain);
 				$sum_fixed += $fixed;
 				$sum_unfixed += $unfixed;
+				$sum_unfixed_ignored += $unfixed_ignored;
 				$count++;
-				$this->addVerboseMessage("$fixed fixed and $unfixed unfixed issues found at $domain", $unfixed > 0 ? VNag::VERBOSITY_SUMMARY : VNag::VERBOSITY_ADDITIONAL_INFORMATION);
+				$this->addVerboseMessage("$fixed fixed, $unfixed_ignored ignored,  and $unfixed unfixed issues found at $domain", $unfixed > 0 ? VNag::VERBOSITY_SUMMARY : VNag::VERBOSITY_ADDITIONAL_INFORMATION);
 			}
-			if ($this->getVerbosityLevel() == VNag::VERBOSITY_SUMMARY) {
-				$this->setHeadline("$sum_unfixed unfixed issues found at $count domains", true);
-			} else {
-				$this->setHeadline("$sum_fixed fixed and $sum_unfixed unfixed issues found at $count domains", true);
-			}
+			$this->setHeadline("$sum_fixed fixed and ".($sum_unfixed + $sum_unfixed_ignored)." unfixed (including $sum_unfixed_ignored ignored) issues found at $count domains", true);
 		} else {
 			// Possibility 4: Single domain
-			list($fixed, $unfixed) = $this->num_open_bugs_v1($domain);
-			if ($this->getVerbosityLevel() == VNag::VERBOSITY_SUMMARY) {
-				$this->setHeadline("$unfixed unfixed issues found at $domain", true);
-			} else {
-				$this->setHeadline("$fixed fixed and $unfixed unfixed issues found at $domain", true);
-			}
+			list($sum_fixed, $sum_unfixed, $sum_unfixed_ignored) = $this->num_open_bugs_v1($domain);
+			$this->setHeadline("$sum_fixed fixed and ".($sum_unfixed + $sum_unfixed_ignored)." unfixed (including $sum_unfixed_ignored ignored) issues found at $domain", true);
 		}
 	}
 }
