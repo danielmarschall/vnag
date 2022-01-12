@@ -38,6 +38,7 @@ VNAG PLUGIN OVERVIEW
 |                           | vnag_owncloud_version      | No             | Generic           |                                                                       |
 |                           | vnag_hp_smartarray         | No             | Generic           |                                                                       |
 |                           | vnag_minecraft_java_version| No             | Generic           |                                                                       |
+|                           | vnag_aastra_430_voicemail  | No             | Generic           |                                                                       |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
 |                           | vnag_faindex_ts            | No             | VTS Internal      |                                                                       |
 |                           | vnag_bulbcam_*             | No             | VTS Internal      |                                                                       |
