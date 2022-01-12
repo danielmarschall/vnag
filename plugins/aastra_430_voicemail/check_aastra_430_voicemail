@@ -1,27 +1,27 @@
 #!/usr/bin/php
 <?php /* <ViaThinkSoftSignature>
-NBFL1sJcSZ5MSbO8LzKL8Tf809VrTAvlE0IiljnkCFwLn+OHZsp55YOVo859Lw+TH
-Dlkgn1fcB939kXCTVKTw0o+ZVphFoXiduZk2Ib7NYxeQ25rB9fT3/amO3gI/BjshC
-mi4x+cjLV2v3z+Yojh8HU0NsQQcuXUseNgzhwO55ouFpE1uaZoQZNXpgXSKUuuanc
-snFGKsLRTOn8KwmPQQzaK1LLgQ3EKPMk1CsnMxAKLwxpjIdUEUOdR4XQb+1P5S2bg
-xQEZScV7D7hDijl9uyHf8zkNnNNEi7th0tvaTyEDrjlvkB0c0quLzVvGVwV7/yMrv
-6izEFMIBXzYMDT+aqvrOvXujQKpW43MVEOhS6DN+ujN7Z1/73+IeA3RH4eJJZVIDo
-LnIG+Zi9ZKjoLMDw+Vmx5XPF4unEzJXOXo567PjIOU1NWfI6ayHnUR6cltqfEvQ8p
-2g7oYV5iWG3CnSevDKhBgpyazWYDzPWtJy1ksnvJy7RVNDOoLuC9+gwBczC90htq3
-hgzUPK8kaNuNLcwWLdaKAQ5gFjS7+/+U10yYmliBi/Kr3kCcFf9lofDdPtZ+17N+P
-d/8MjrM8pK7hT65LfILLnP7P3fwChRSGDr5R9uokuxoS3+woFQPnzO0oRYWGoGJGf
-zThnNX0tAnQlSA7luAHLUVQmtJTaonlbE3Z1pAcvPGph1aqnK7KzfzIHFoFbGrw43
-1aUT2QAe7yaFfY7Aw4rGo/kjSfHaRrXWC8XI8Xqu9Jeyx4VQi83JOBpzfHpwQq4+4
-HwfAfg86PggddDT7ZxMx3wLABU8Nbm769ZwYWcGhSeY6+eeqj+FohSZyY0hgG9WRY
-iuYOAobirKRUn1VC5+DIFT8CoxaQXLLAJfiz40VBJGvEPVLdDO43HqKMM8yDO3Ely
-wdmuy3aBBZP2+M1O37/iiW1uvDj8z4FwMEuuNbW0fgN2LJAkz5v/y3UKkkJKnQFzO
-GVcrleW08T0ZBY28wY2inRtny8uwOGjXv/R6mBvKkGie2mkp53b6aY3bZvE/atUdj
-GsL0gfI+pNAJkZ5Xkq7WkwgdiJrSCExJB+lcIKauQDOaGxKjrMuOx1hqyKY9MOPIX
-K9pYQIdg86lqnoYqV97++s96++AkmVOrfRq0RyoeV1Y89EqD65AUrod6VU/j1Smei
-HTe52cNAAtzpfng8GgrBqHVdzFOZpSEJawLx3Evm+9tQQZyKjVsepqT/uRkBZAoua
-Lk7/lqzMPYqSktCNgQyh9k0VmcgoYkD5D7gsXPn3c/jyqXFxzzaXG86r1Wp3Bqd5a
-BQHo9pRGi7ZyEShrBhJGCEifg2kSAD7F4VQ9VqvJH0Kk7oN14vncAbnfGfNnTYI6f
-A==
+H9/BJZ8bpI9yMlrEz5VwYUgV1jXji84DfuPGxx/MI9dIk5v+DsXSeOkTwlr7Lyjsd
+iaPAZz9Sc3hJ1Y01+ttC/67RpQMi+U47pvfwHIOcXiIR2CDyzb2sT1RMNFwUajDxA
+TfZhSiNQtKMmRXKyJ/0Di8P2RRC71EFU/aPz9tkxnSqoFSzK2EQ+CLdDcGFLeOgpd
+XFgMol+ydwjQVcqIGF3vbVU8/a7LlwaIG37eul7DepM8x+Nl1iOqmd+gXBLggq/IW
+omhV7SZkGf4G56lqJuApFwRAJtMBP1FhvDXe+iVhwX5lKbvVoKRlEnW7+u7ac2Ini
+3KhXOmE2T8uJm4PbCRqLhfqZWI3jolSNIS7c78PXqGv7oxtz6pRFJrF7lQrc/V6N1
+ahbpu4gH9z22p9LimjFAM3+6AXDwVpdDqATofY1A4J84lxIFqb3HdOPEzw9V5PRWG
+ymqA3lW7NXDPMqnGSGz4L+PAzRoQHlS1ub8qCJcceODJIX/wyTJ6RrXJ5iWSmwqPK
+asQD5DJSZyR9sKDyFsSmeapTgwMfTYPdM+rIJ3i0nA7KDvWpsp0ef0LztJS3h2jkl
+H54Q9qkNZdYiOMt+zARXIJiw+X2/EV/A5+fHx/7CtkhWiPfz4CKX3JJKFNzGAMRok
+YHzsCKrhiw8y/yniBsb3hX0YUBAyLs53vB20QeR4CunqaHiSfe4/LRYvYjl/s2jp7
+kSE1M+2+f5vGzEHqfQJExmkQxzwTKTRuKvdNYkqIaJ6kVGqAC8QidhJPVXxduXgST
+q4xMjyRPW61pa6JCFQn8jG8RysR0FokEPdGMVd6yYXYFjRUpEyala1ct3eYXgk0PQ
+U8xon4Z18q4lLUgt8oqis8x5sUEGw317uW+bhCHhSjgGJyI9yAo43WxqYPJKnQKUe
+OA3wr/6OJ6OtRjI7g/qBYXcv38Wj62G9wQX50xcdo6LdeeLjgRTYO7q7Ypca67ZzF
+5OUtP40xxwODnMuweDNbx8z0LtgdgtwTeNMzodD20aerw6nr3QFrCoBTdZ/eaQM7d
+1F+eH6yTYM7C/1OWoywJCZkjPDan6IaqrFeyza5h5tsCVViXzaZXYZSGI6Q/qzo6l
+xZ95zbFgbwkxQw7QMpbaI4TtMqd2oBRbDjcX5r8FjBW9bo5dseP4YnbrPrXnvoNAu
++9wOSpCSXSdx346aphKsjRKan0ZCKzD/bYrnZJw5wnlUET5h9NWUneKs4lJBAeVjZ
+WkbV+N+967U8zDUBa6Iwp0XnjhRUVJfSeq4mLV2g0V7ZJphAx8oSGuFKrrd3El0hn
+82FiPI8ABBXfRCMN5TFmQMmANBVexB5MvFZOOQVi7u4I2yWOgqOXYeqMDrmtA9Cez
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -30,14 +30,14 @@ A==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-15
+ * Revision 2022-01-12
  */
 
 declare(ticks=1);
 
 require_once __DIR__ . '/../../framework/vnag_framework.inc.php';
-require_once __DIR__.'/VNagWebReader.class.php';
+require_once __DIR__.'/VNagAastra430VoiceMail.class.php';
 
-$job = new VNagWebReader();
+$job = new VNagAastra430VoiceMail();
 $job->run();
 unset($job);
