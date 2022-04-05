@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-oWlckS6PIRQ0p+i9C84P7Tm9qPWTQUJKoU/t1I+E0ripza58ZyM6QdU3kxSKkswmh
-Gfk5BmdJ+8a8Q8mSnywxUcZbsJ6mXtAiaJ9VWIGHWuGAX2CtZrxpUVNDZ2ijoMz5W
-rlh3aKEvzZ0V/lUVpZFWjE9MHYg4djoGbHW5Ql11iuDsjLO1YQBp0rAGzKquPBwaH
-fIvRjdcpy1zLNBIZb8Pz5BuGD1IwDxxGZWeZP0WrNaiZVEaB21FBh8E3Ujr8AOJ76
-WEd2k37tRWh0Yy02n3nLqKitFQYCE1KRmVzlGtH3/4N7X82UnYJR6I0jO7Y+6DjvJ
-nhxdL76/EUlTeuXpF2vR7yjaxXW/3KRBALA7mP4Uq8OsAn+jt2zjZd8KNiC2IPnGq
-aRl3BfLy+z5CyS6v+kTmSUd+a4o+d9D8y+oG2zEl9fCHvJOWJldtCVbNPztr7CrCh
-SMG4kgf0xZtjjj0jPYFoVkYyy7UjnMbQwhrz97f3Sa/QihrnUnfOPrcBD6ebgkYdg
-UKSBB3UWrJCUan8kuI4baf4UYrX8iRUitvNfbp69/t8sfSrJnywxsVgTdxKu/jJKQ
-7LLVb7ivg5xcFpZp2IFeylK+fr/Z0I+T4X2HV624kTrLAzSz4MeorF5+Z8hwBbh1V
-U02NM7HXZ3n9TStjWX+bf11BcOkB/mXXBdm+Pzu2um+xzElWh20vwINcMESLxVC3k
-h4dAKMDqVd10DEoK0uLRHPeDeRz0Yc5GapuhfrpWf+mRhKbSYOzuMDzoLTZjt2xPE
-lAH4I8CkPXXKB1DbHCnj8pEYPP9ul/GGZYVt5eGqJ3zB3oerqa79ftBFvTehJqpKx
-T2lQ6u1r6Y9h/7GtURDFz0pOHqDBNHFvrmNhX8Lw+HRSMYFI6d3GzwdsBtw4Ke4YF
-DWR8NvAzjYGIJJOh9RQHvz8saSNRjM9iMJ3HIi/YW1Gtb98a0xLeyzMtSfrFDWXPP
-uLpZfbtorONbHbF5+ltauvmsDF++u69s80rItJtoggsw5uRXkj6NOGSN19Pw3pqtC
-fF0iJ4/Ir/xcUdzbR7MBL85urAdza/Cim0vhfzTN3SpLjYmf50BrvAU0kAuyKrjHf
-FAq+y8PrxiWRSF5dFt+lZvUBuxc2uau6gOzS6V7r/ZJwu/8wOtHguqqZVoiDrkhO4
-cj09VQOzG3EqWUidlpiDwWKsDLDzrKYCKKSNZt4UjQ5qV8+WgPdh0XT4XSj5nMwt/
-kcBwPCaIeCXMhpktVS8AYSskPaD5RYp8XZjCkiSOI8hFHOKYMl8iaUw7cM6j2YuBn
-eHavCPB03FOK3YvsheEfIYYfNez+vsQqgTXOVWzuGtU1oMYL9fi15mRoQW44bbdxM
-g==
+AGm/a5N2RKsITjiz0KnYh35+TQ7ya4jusXkbmTSo9tutK49ouGx05yBncsc3kC92Z
+VU1rk2Nau7wWDRL942pupi1q/hSDkQjslkvp4j4P093stHeI8QnGAYSyn3F4DJcRi
+AEemHB3cGDkWVR0AK4kW4b9VzD6r1id93T9aCG7eWFWMd4wWE7z/wqVr2cOQrPkrr
+ka7tChyplVFrtq7qeekxSvfWqNu1/lQBXFhVyH85J7ttJrggOvD0WKNCGUCpJm+Lq
+MqbLjBEGa8I5g334BADhJI572aUjhLxBwqh9oL5UDFHLuzFecHbH6PO1EoUfX6716
+eQoX00kWsZi99L7xbRKWKw8Cx+Kf96/Q8aJf31w5wjBi5X/rwODnAXIjxIIZXUH8r
+a6TY2RSmrKlKfxdzmKVlEP6mCPSz1CZQhCJq80/pv8fmSIE9yyIpSMc2acUn62vWm
+ICrDZd/j19o798vHxDZiKurJn+B69yzFdWuR5mpS2M4chXoVeGVofSOJqzRNwgeX1
+r/LUYE1P5Vsy5t2CpzEg2ibcHP+0VNcA6zXvdIN0Cie9Yq6c6X5/nJKDajVjXKBJK
+ytXN7ANThK7FC9SASZZ1aQSKsuj6NNccNp0pWYRuPlidALr9q0+G/8Ea6VYiDNFwp
+Wr0Hk/xGlWBT4n7fGZKwN7ZPd0vwzSWdGtwBLjPWAN9Iu+qzQutAhcJ5LVWbdBsKE
+xQY2C2GDPWkmX5rmETlQ7eaJLrbYqGE+tKTH9nDmExMkecVM+KHbqMhkCS3Fh3ygz
+p+KSgCUB4xkm4KTeLMlb+xoD6G+JsapR3GJ2Ejgn57Vc5ehU49BeI+Sv8X230Cu9T
+C2h/81XipPdrJ7uXkDx2rTBWjQ4wwEQweCFiVUnXQbAGHjkJqtj823Itzi/Si+1Jt
+vOP9L2ByepU82pM3O0arnSJwkJG4LLs2OIYLw0UD6K9rwRPzBM4fODHgIbXmZeH37
+x3m7f3DzuLSLlxqIXNIcP8t5AXpe4YlWs8yczickR2oAqx4TJbaMVhu/SpVm34ot9
+9ryzDnEyfRAIH7cXby0wNaLhHrfGd+mlR1Bgd6bSdd3W9nSLkwqbpVYpC4bB/HgIl
+MY0A4x/nikcHjCh5hpgdRb0AkZsc5K4m5AyWnPloS7/cVytQ/g4DfDSobteOdOkhU
+o9lTyfyDsmAxuxA1JNqVLOYZfcwrtgPBX/V/WphAmrgZGsEwS4PGlGfaKEMMkxxI7
+1zcmxYoNQgVpS2GmET6UOYcRP6FCjNMhp4pSaaQ27GejA5Mc7d0VgkbaNLFW8KaiO
+xTK8JurMkIVeWqLY990VRuJCxk0ncOJ1xqpFXtLXWeeTzallHU3R3UoN5MRuhLsqE
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -72,7 +72,11 @@ class MinecraftJavaVersionCheck extends VNag {
 		$cont = curl_exec($ch);
 		curl_close($ch);
 
+		if (!$cont) throw new Exception("Cannot detect latest available Minecraft version (HTTPS request failed)");
+
 		preg_match_all('@minecraft_server\\.(.+)\\.jar@U', $cont, $m);
+
+		if (!isset($m[1][0])) throw new Exception("Cannot detect latest available Minecraft version (regex pattern mismatch)");
 
 		return $m[1][0];
 	}
