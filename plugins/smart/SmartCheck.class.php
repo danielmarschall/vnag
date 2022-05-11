@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-R+VZLh3GAQ/vs4fO8eyTRn1IEqD7XS9dR7YFDqJM3h944GnPQKym1XAkDpiQkswyq
-Dtmsg1r43c/tkzPexDMu8YLjKC2RzT0arj86HzJgeBSoQ4W1ncmmPZ7zsP/2TGJSS
-5rLft8xT2/XcUAi02RaHstg+j3Q6f8+wgcWTj4hg/R/uQaPoR7re27Zwx1+xsH2er
-hq7qo6oEf4kHno2gcLDyoQmUJbL2N7M0xfvrFPLoSSPuIL3EwtF9Cp3LZ3HXkUUnV
-Bqbfnyv59ZKzVcpn9spZZKobiQJFNHbtAc3z61cTilNSvO4/5LhSk17CXtM4kjfLU
-n1ZLgRqNmuiKNv+wPk/H4mM3VPc9DE67VRR6V+HZNr1PEdb9DbSiYgbmCONqs7lX9
-y09sojvRztAemua0M44er/STKnmKpIGigmmMQ4ZBYh4XD34IfLYwVeX2ErK2mnBhg
-DTbsKymyKxBVsDBv2Z7GvpZb3lxIFtZ5cz/NlVAfe5sKkmvO6J2VlaSzka0cl3kj/
-bZuNVjuRwNdD31otYbOkTE69ARnRH2RwqVD927+Bne5OQOTy4w3Tuz3SqJesbAavx
-pGwnmTCQoez+viiZqQBB6B55xBEEzsEVWgHiUmllgmz8xZMxEdNYfcw4H8T8oybLE
-hSQBicFDoZpO8kNSRoU31Q3RDg9l1AW8JyRHxTlV767/JmyFmgvMiKSxZDbvjuzW/
-i0dL1wurRTdfB2cXmfMQhXjl4t7rFzI9rIs4YMSDPDgZEjehYh7twrBZXelinDrrm
-HQkQtRvz2IUGL/5KzXo03Ul7uz098X+uxlL6RMbE+8pYZJp3NuF/G9NXo8pzELlrt
-FhP337/C7ASC6ua5OW9SzZ+EECCcaHWJjG7zZqFgBhzLNjakbA4a4iZHSztWsO4q4
-xyKTOBzL+dtM04ERwiGiCU+yjPcuYjmDmPEZXTtCENUdtDDEm77OvunTI04aFqZST
-XO00CNcCCByM8Q7m8qb06Od/4bjo79qhNPjHx4wYBTgLhYYKoQRTv3MyZY9BDgIE3
-/UPyHa0h2UPhS6IjqLoIuU3WZRh+kKJMExeTNWJ+F9yVvmpDlK2pPNo279g8H7jD6
-Dp5aSDwdwSqGE9mrMgwdDL2qjun8kWg0s69snfXSaI5qSTyoIjVmGIiSlNtdw8VsX
-gW/wO07WOUv+r5qsHkVZgSFKZxeGCETPKyGmGjgy9yibFyDWwoeK2NMijgJlO0QPR
-d02HfMGFQ30TyAnuVDkmZf1a02czFQ/YVQbu1Hq3siQ+gqkCC8ticsBRWux6dLYFL
-cYNvfVYj3c0IwBmxUNtNzFvSZLdJOAkKenk7ODGgrHSZarKNWOl6wkb3IYdNFefgM
-g==
+q7QvHyotKOTpEs9fbuwcPzqwjSw69WwJkY5ah30oJKbmru7P2dq3T8e5Xz2WZygTE
+JahCPsT59QVwK92IUQQDZwQ5QO1GBwhH9sQ2LoAy7W0X9iGLxwAQM1b0Lalfr22V0
+cct1CBNw2Jyv/jQXDdMGgJ0lEv677xH+zizO86+WahYUW6WZ91dFGp6gw89pMK4QA
+bvk6QnKmIrrfX/m6fA0SENoche/dBwFzSTSScpFCs6Xpy+aQNQUcGWyBKBePosQD0
+YI2TAqf7rnOuN71xgNG0JzNJQf+aBonZeBkxA98Iui4r10ws4iapq7TklJaWoy423
+iHUWx9PU+u5RqnthE98Dmcu/pJmQME8l/M4eSNFssUmc3Oxx3lcSMjyBmlTyOx9eA
+24Fg5xaLH29nGP6XfuFdGrUUzkNZKWqG9jUQ1DBhSs/U3bFIABCIBnSB0kWlT18tP
+c9WLveDfdZG56c8Sw9lKKQZh1Nx1fhPa3Kq/a/JqJnWv3161M4LKSsw9038Qdzqad
+mYA0paiMPS5RLsJmktVn1NmTNudaW1QyLkwqKZAHuSof1M7/KOElZLu20ut4U/BRc
+xWvtQOtgdwE5s79WIzCT72Ycv1OHuwfdrdABwBx+t3gM0nx+EjZhyhcYm/O4j1FMs
+fvVnCkrl6wl1gJSJ5ADLvdaQFA9aGiH7UhBSEL77u6/962qshTaJ//OZhaWdoIIfn
+Dx9iwMjTm/x6qeLgwcYUonp59/76ZPQlFYzjf+M/pcqZ8XManfd9fADrau5+15k2h
+i18FVBi43Ef5rletQM2c39ZOBOlklILKxsQTNUWDjZCsSV7dVxJJq2ykcNruogppM
+hpXPgLBye0dWqxeAixQEoLegUgwxI/X3MP5qJbfxzQfBZYo54yEMaml+T4cGU6Ctj
+gkhxB05CMxaORs5f1dFmKBKKNvZ7pQw4g/GbRxhVX+uAdVf5e4oVFEYBNviCc4tGt
+MEHiPhTEa5PJbfRgxiEfyKkSjDXJeHou5O8mQjD/01cw3VMhuaStcM99DaAVunBWi
+24uD1lLhHXybvwIiJ3OwA/oOmwL47UZ1fsKFHwMfEb4bQ9SiwosESz2V6TZHlQjbi
+1tIfhmrsxG88jtYpBPagTD09afluSRJAmEiMzl4k2+JAts3mvfGFTl5KsGGard3gq
+zR5XlY52le3Oi0MFNQzXi+jeOJdWlIGbTb7z10rwrLemyGzFH4BPhwjV7gOlxpmE5
+xFb/VeAeGCPIh5XxNq34S82EV80MMw2DK1l7T3440cTteSv4byAE2ZWo3/iH1lOXp
+oUEulv7DBhHv1OZHbZsU9klfScZcQVJM+FmVqtK6krBZtx5p2a49N9kD0ZOn2lc6O
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,12 +29,14 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2021-05-13
+ * Revision 2022-05-11
  */
 
 declare(ticks=1);
 
 class SmartCheck extends VNag {
+	protected $argType = null;
+
 	public function __construct() {
 		parent::__construct();
 
@@ -49,8 +51,12 @@ class SmartCheck extends VNag {
 		$this->getHelpManager()->setVersion('1.0');
 		$this->getHelpManager()->setShortDescription('This plugin checks the contents of the SMART data and warns when a harddisk has failed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
-		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ (no additional arguments expected)');
+		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-T <type>]');
 		$this->getHelpManager()->setFootNotes('If you encounter bugs, please contact ViaThinkSoft at www.viathinksoft.com');
+
+		// TODO: also add a command to check a single drive   [ -d /dev/sda,/dev/sdb ]
+		// Individual (non-standard) arguments:
+		$this->addExpectedArgument($this->argType = new VNagArgument('T', 'type', VNagArgument::VALUE_REQUIRED, 'type', 'e.g. for RAID devices "sat+cciss,0" for drive 0.'));
 	}
 
 	private function check_smart($dev) {
@@ -70,7 +76,12 @@ class SmartCheck extends VNag {
 
 		$code = 0;
 		$out = array();
-		exec('sudo smartctl --all '.escapeshellarg($dev), $out, $code);
+
+		if ($this->argType->getValue() != '') {
+			exec('sudo smartctl --all '.escapeshellarg($dev).' -d '.escapeshellarg($this->argType->getValue()), $out, $code);
+		} else {
+			exec('sudo smartctl --all '.escapeshellarg($dev), $out, $code);
+		}
 		$cont = implode("\n", $out);
 
 		$msg = array();
@@ -137,6 +148,14 @@ class SmartCheck extends VNag {
 		$devices = array();
 		$devices = array_merge($devices, glob('/dev/sd?'));
 		$devices = array_merge($devices, glob('/dev/hd?'));
+
+		if (count($devices) == 0) {
+			throw new Exception("No SDx or HDx drives found");
+		}
+
+		if (strpos($this->argType->getValue(),'cciss') !== false) {
+			$devices = array($devices[0]); // we just need a "fake" drive; the drive number is given as parameter to cciss
+		}
 
 		$count_total = 0;
 		$count_ok = 0;
