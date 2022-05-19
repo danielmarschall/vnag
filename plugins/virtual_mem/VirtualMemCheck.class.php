@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-qMJiodDpZAq5lmMr1YTFAzBz7y3WUrxNn6+gko5VdixCfUQEjrRySixRs61b8d1N1
-MKEHjaL2mwgMYT7TsOisNeiTad8iUe4fDBzR7XnyX1LbvmOCDMbvRHwLR/LBf+N9R
-kc3FwU0xmRHLpi5zJ2wwLCGwiurIVyXKoAUuYda8LIuJsg9XyfHiNFoJz91WnLuK8
-FleyiTF7timGeMFMP/FYnIBmuBjWnG5kGk79naWFLML386W/abe5VllqfeQMFGkLS
-BFlExWb5V6qaA/BO+0jheB2LOh6xNMkOEYvCdkKHWDpbdVG/W3gRsnE7cVJV7fKkB
-Gt3nh89CS0XLswUDH3RWA/NCGBj+tc/QcIdFTezu4QSFaUO63OOPusEVrZZG80vUl
-5vKIPtKakVJrix/EYzOBRC6fNRIakkB/q8k1UZD27Fa4ySQJgedJm6hIa7q+3Ln9M
-X6083Cyeu5nMMqQy7emY9q5g6EPJugxO1GsxVegHN800coIlEipLCDANvr/+jOOb/
-K9jf0j4+RhNUdSmXV3HTLvEKOnL6SsPCtFlo9wKOwUBfqrlBBTBV3A4DLtTD1Oc/6
-wJKDPIf04yigCxw+Nn2oK9TZGH8KHXscTPxru6BIn07hZq9oGO5EyW2K2AISY4OjF
-GaMAuns2jAQHPacRWWvc9gp67nk9TfPFStZYLWkSfzeSaAn1NEBncAriGWNOxGnpb
-XAXKZ8EiCQNHrqPnDgObgkgx5/PxhxFoacVUzl9CWZWSiKmbbppomlVDWuPUqJx16
-BNOvWu6H2oWq+sYav1cvTnZ4dpBKiMLNHLma8k6sA6UdSxuRujTSFll9cCVrDlj4W
-MSYJfufXv4pD3Qp5SQLlXj70ioM5jAx04sRSNQg/BDPcdiTzOXGx64B/m0gDb6x4C
-WVBrB0MMml4u3R8NFsCQpmDTAWVICAXdV5nNa8LcXrB5JQz6R9UFau1JuVN7ES6Yb
-Ev1og+Jh3DzY5iumbVWUugAppBV7MdgHN50vIwFC3YrVIfUjSyC4nnr3JZ4uuQfqi
-PY8NvY3RQ5J7avSt7Z67I5lz5swwrDro3iGk8a0tMGHWg8BDYwijuedici0fFpu8o
-K1ss7Kmwpvuti9bk4DvYH4D8gUjN3s8H0fE3D+v6sPNg3FQXs64Ob8jptqEUKMRfz
-XuIYbI89WgLV0TADxTm8kmDAJKOYW9xBQqdJh3UYo0Rwwkd7X3hvAUi8JojHWlizN
-JsqWm+6wv+HfX4105MVNXbANk1w4Go5fJ2xSjXJdKQESoNjhipKgSk7mYbRcZON+Q
-vLaHROFrQ/EK2lAmcDcJUKf+fK0JZGTm7+2xeLwE65jAvwtD40Dkw9JNy4AVo8k02
-w==
+XdqA1AEsWl/tBsy3uppNSoRkapKPN0TaRG6nrsRGwK7u3QG0a9AdlGGtQw57I8Anb
+PB1fKnyyZGFhB8JnoFK3TdoPEA0NVxN2CnMxghYUNjKMfJxbW/PmtDuOF4V+MAJk3
+uriAEkzVBgIgXwQhZ0b8Xkr5x33U1dfKiuhhUlwlEOKIhS7jg4FT50CY2/cCYXW6l
+y+ENDNMHtuPBP/dfq7/8CigPWIfnZDyN/QgaMy/kOGvx8L0K6LyK79ac1TXpStmrl
+puaZYNZGj+TkTh6buDLJXzo8BBGWUMjGybg7La3G25b7CdRkGesL1hFMOeak1W+q0
+NlaVCSlEYkkoARtdWyGMS7upY4vmLYuq8kPg6b9DVudZMXV4gRTkDu2s4xNsOamjE
+Yu6kCFZ/2ZqgeWGWOMDWuE/gKvFIS7RfjPkwjeHvAHqW9wI8BtX53e+yKnE40LACo
+tDQ+fqkS/4C2UJYOZcNVfGlORsxtymmwjCr6OnMdEdImFHmKqo7fKdeQ5cSkj3imp
+qG2z6qLX8clbRqaJU1h+Qdc7i44KvN+/tGDsPvGemIzRvJk4WujpuVrztx5O0ebnX
+uBd6OAGuHJlY3Dkd6B/Tx9/YbsOqUbe8KEJ6TFnQPW+V+njKdTuGmY9F62xNynd47
+NuUZebnuAK4qAVxqMFpRAzW++20tbTMlGcE9EvdZkxKH/2Dl78cWxe8ZO7aagRZ3h
+u7MKV8IDCzwReJqUv6OaUl6XGlviF9PDu+bTCvT+Lzs6f3txYvlJcSXuGT+G/0nyN
+Wyzg49m9jSSAUT1TzHclS0bFWKQFnm7bzrXdNea37+GvFFSh22BkYNTBcvB9o+ZJF
+Juy5DGIEEi+v2UP95BQo9PJDP81+WlR+lsgL1kEjZiprGkrzEso4OubQUuwGW2Xbb
+bFDLSzyQgFiLnBUyEJ/9LwvcF8Vf2bfgTw72vHSovZFP+fOhD60fZoOq5K6NMzlm1
+9TD/3aAZ6MayuBgr55aaPPYMSJuwsyjKqnILxa/YuwZwTsBKrWiz6Osy+PLjSXbfl
+EnKIQ+FBiwqnPur9PTxOwtcYk2dCBknW728M4KYAsYQ7KAEwjqv6unD/uB7+xEk24
+JTTG6pkQhuu3Hz2vf8deR1mgdmE2U8IySOMx5gw72uQFwP8B5dWh+eIcY3PmKvMTc
+8ehGSqnmysjVpsblcjydEALpaRJ626stfmaDn5yZJlBmsplHfqMyFEIE5YiRUqATR
+nAFF0vhlVv5OAcZf0G4PRq8akg4KuprSoIYR7F/Mo6cCLZVn3sinqAfkYadm/KeUx
+IStZou4PvPRjNyenI2EgLmrqHsBaNeMT349346AQ1BZUJIaiEqJ3DaiscN+ZvnQ3o
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-18
+ * Revision 2022-05-19
  */
 
 declare(ticks=1);
@@ -55,19 +55,30 @@ class VirtualMemCheck extends VNag {
 		$this->criticalSingleValueRangeBehaviors[0] = self::SINGLEVALUE_RANGE_VAL_LT_X_BAD;
 	}
 
-	private function getMemAttr($attrName) {
-		$cont = file_get_contents('/proc/meminfo');
-		preg_match('@^'.preg_quote($attrName,'@').':\s+(\d+)\s+kB$@ismU', $cont, $m);
-		return $m[1];
-	}
-
 	protected function cbRun($optional_args=array()) {
-		if (!file_exists('/proc/meminfo')) {
-			throw new VNagException("Cannot find /proc/meminfo");
+		if (!file_exists($meminfo_file = '/proc/meminfo')) {
+			throw new VNagException("Cannot find $meminfo_file");
 		}
 
-		$totalKB = $this->getMemAttr('MemTotal') + $this->getMemAttr('SwapTotal');
-		$freeKB  = $this->getMemAttr('MemFree')  + $this->getMemAttr('SwapFree');
+		$meminfo_attrs = array();
+		foreach (file($meminfo_file) as $line) {
+			$line = trim($line);
+			if ($line == '') continue;
+			list($key, $value) = explode(':', $line, 2);
+			if ((!strstr($key,'Pages')) && (strtolower(substr($line,-2)) !== 'kb')) {
+				throw new Exception("meminfo shall contain Kilobytes!");
+			}
+			$meminfo_attrs[$key] = (int)trim(substr($value, 0, strlen($value)-2));
+		}
+
+		if (!isset($meminfo_attrs['MemAvailable'])) {
+			$meminfo_attrs['MemAvailable'] = $meminfo_attrs['MemFree'];
+			if (isset($meminfo_attrs['Buffers'])) $meminfo_attrs['MemAvailable'] += $meminfo_attrs['Buffers'];
+			if (isset($meminfo_attrs['Cached']))  $meminfo_attrs['MemAvailable'] += $meminfo_attrs['Cached'];
+		}
+
+		$totalKB = $meminfo_attrs['MemTotal']      + $meminfo_attrs['SwapTotal'];
+		$freeKB  = $meminfo_attrs['MemAvailable']  + $meminfo_attrs['SwapFree'];
 		$freePercent = $freeKB/$totalKB*100;
 
 		$this->checkAgainstWarningRange( array($freeKB.'KB', $freePercent.'%'), false, true, 0);
