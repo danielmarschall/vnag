@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-JvUe2EqrSTpzUAa69aGVuvQPVhC4dS9OgSJw+lNJLLFBnB10I8C8EVE5DcrC1/bQ+
-uF7qNulGCHJktHv8GEUhS79S7VzsuwFo8N1GXxRuanRlk3uCrPtOx8kvgdUesL8dm
-fCKQAxGHauSogngnj3qyN6PvcKbcBpp+oFzzQvOJrlb3osfKMcaAtJP1k8UYaNvpd
-T+Osi7jEe6sxRIH4c8iosSumIMHC763S0ngYMFk6i4tzHiyXr3QsfH9afKiVCX+8F
-/Q9zlj83VHNRsJYFk/z83R74nK8ZEmOWqUtlC3WaHN5ieNwOfwgjCQQP6QBOk/Eih
-VvBuT/RXlZxEpzkzkpevkGfPK0c21XFHFmni6zhMx950oKY3lUXhvjesORZ+wVGN7
-CVi/ZjjoP0OAqT0dkl9X9t8LA2zIcN8qcq7kfd1T4ySbu88trlmoM4TM8/JE75B7X
-H/UwsqxX+aG1pqwy9Ea9IkvCRTD1y80bp4HMrrEhStw70j0xPJMB/IxRRQjVoCajN
-4ABpPpVk5cibj3/KLsWDSSu0PkXqkWBi1i1D+PZvDW/pqPTHLkd4wxj+dLp76kAga
-OZ/xKJ6WNXS+bFd95RjURZaOoVYtwSION0tqqtNXTugmnDcrofSAFz+0+ccdLZKXX
-jlqLHs042ZGZCHW76hjvneraHqpM9svGorm2i3ka88nCG72ssNIaGfEGiVIzneSNi
-DHzmL5Qb9YLMa2bSH6CEgYmsaVtYmnwxEAPe2fq73/7pAdLXxRznuu5FbVGkjXXF3
-MjOMEX+EKmIrtaVWvL6ny+EvAI0BYymuuk2H5fvDMzOIGtsAt3whjR2khF/FF1xUl
-s5WgvE7lM6PQftgI11EHNjgjV5EPstThMHuLWbl8GlMCktG/gS8PMJM2arN7VL1NP
-jDvJ3wath3kEUBZxfP0k1C7FhrL12I3PLy931uPMRtFH7em7zmLe76sYmgludGkR1
-W5SZCRXwjk2T8q/fOGV3Ra334cr4ix2gw/EjTK1Ojtlidt3qYeKde1N/WK+n2kihO
-eMjNj28r6l/0ysF5AYL42ZujJnMyyIiOIDEerYNKZKg9+Q5/6fCrTmItuIp0x2SqW
-29b4fwtMFoPXN6a+XB/f09NTjnZ56tsG3EY7AJHGKZ9MjTvedrJ/cch1wr6LuD6eT
-aHlf3zFK3Rgzyp/ixZqjVA4zjSrT/xQnoymLp7PjTK8tKcCOFxm2eJ+u3tsdg/Uka
-Xylt+XPr0/QEXhKheAjug2Ylcqf1Aj4LH/WYVrZcUGAFIH/4Bzy7JEI+KRiN9MO3S
-gSlzEzaQwfXnvm9rMhGawsgbapsRMpAbNDr9qfMO8iSgKy0SBi+16ao0H4bNxPgM6
-w==
+boKKZRVCLt6Pij9GtZwVtVRcuFrDhyTKij4SbspGGs+24F0eeo10iC1wBP05mJ7tL
+WS8JfFSlv7vQDBcdd6sMF+vYQNldSznrK47dbZzQXFxuq26jd6BuuH41aP2pWHv57
+XVCpYf5EPR0gFkyXzrtN/iFSr0kJKWk5iSz/iniucplPitxmXR0EN1qkKmcZgTon7
+hKIjq3kb8RY6U4BFcXujRq7M/SlRvub2erQiWxPv3wKi+CQPRcCvq33/g7bPOTSpY
+1WFCt+3zkCfQUomU27Y7/GSW1V+7T8DjAWUhR4rxO5nXyTx3vxqmv9UjfkKpTUVc/
+TjhyS0mZ78rYX2HYW3+NBQQMMWfGlLKvuhHdJFU2dB9+YvW4Krm/N7xTcwKos3Aho
+vSlnVHDf48KSXN/gPMKC7U3mOH8RB2oyiLJBX42CE+N30Ui+3TyxAj2/YMAjzDPYP
+8b+yRhntXzvGX3wayFPcjBHBBWrchJ6JnERCewVW+/3vDKgjwHhnul4Y/lme79jNA
+1Oj0ZX6rCGow+7z3he7/0ec92Rr8NOE8p7mrQn9iofTZcfFo2i5RDy+6raUvSi/Fp
+2DP2HqwOGp2uHrFemzo9NepjH2DgnK5zMMRR1Q2hMksAsviWMWTUv0fkYZZSsi1LA
+aROWE4CRaEhBuvt0bRIrJGZUbBWvxOE67CVYXHF20YvyKoI5IUN/ZOI2iCLMr+ss2
+wrB5tW4ovYwsjV5nDAK1bg1hsdOKx5xv7PchfhUkAn1J3DoekDl9qECt3LKdKG2hl
+ZwB/HrnuByxgab30wLUFsELT9v/pKJW6/2TFkWEfYw43MQzpsmKs/h0qTKW691GkW
+htPhMbMpSCxgDGloU4z7EcMdnvTEM4ol1GyDn7NZlYhgEHfw+X/5CZNTYH5DJvt8J
+K+aQaZFiZDHa8GaI7NyGERRk34C90lL7pgFEhaNGCFl+Z+YGegxwMjKbFo1xH0YNk
+CMPYX9GGZIEMTTNEySCyuZsDvXpXK5CbQ8ywuZ9/B0avnUWrBBPLh9RchB07S6kA/
+EcH71AxGafK8wDMrPzymdFVsHpwNp6FEvP/EpBHGv0x4/gYpPomUOxmy7uEE1dzdB
+talRGPLAt8a/RXXG3ECsjgo3zDzmc8VYx6m4BPXvLsDX1b9NjN34AtBObE+iLLC3A
+wMd4oQSnOwfDDYNdKg08s43j5m+SQ+HRGQqgGb9A6IcwxuHR9bTidXBgNORbbdjXf
+9I1QW1Za0l5khdpDF/smNPMIwidcg2xBi7faHY/aOpzWTcTviox1ujPJmwaLr0I0l
+DYFlTNaQ0wM+UBE501Lwss8gscs4duuSlBHQLA+ddOKWSd92/KK/JW3uf67rOaqfy
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -52,7 +52,7 @@ class X509ExpireCheck extends VNag {
 		// Individual (non-standard) arguments:
 		$this->addExpectedArgument($this->argFiles = new VNagArgument('f', 'file', VNagArgument::VALUE_REQUIRED, 'mask', 'The files to be checked. This argument can be used multiple times. Wilcards may be used but MUST be passed as string only (not resolved by the Shell). There are two possible checking modes: If you put a # in front of the file mask, only the oldest file of each group will be checked (use this mode e.g. if you have a directory which contains old backups of certificates beside the current working certificate). Otherwise, all files of the file group are checked.'));
 
-		// In this context, when the user writes "-w 60s" then he actually means "-w @~:60s" or "-w 60s:~", so these commands allow this notation:
+		// In this context, when the user writes "-w 60s" then they probably mean "-w @60s". Make sure that the user doesn't do it wrong
 		$this->warningSingleValueRangeBehaviors[0]  = self::SINGLEVALUE_RANGE_VAL_LT_X_BAD;
 		$this->criticalSingleValueRangeBehaviors[0] = self::SINGLEVALUE_RANGE_VAL_LT_X_BAD;
 	}

@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-rbwtQLDF4TDJsmJUFAtVZZyvkXjLJCXNsxbQ2JZY3NRRaHHMN8HU2LJAnUV4LtIUZ
-k1hEOd82g+MxSGVYqV9nLJ8lGuPyKJ5BYzhiRpsOzUsW3WFeg1+H59kb/r06Oe19n
-Rq49pfBPbVM97ZyLNNTTbUngaqvvC6RSg9NN4abDAYvwnD/aztJjXZlhCJ3x//6iT
-zDqqgN2u2VPFyYxn23CKGC/fHsO1EdZorZR9mBrEgcmdtDnGz9oew9JZp4byQvFsi
-X9zfCQgMd0R0P9KA2PRwtezwNwoHHLSyMg2237T7gckB8Dz9/nLILUrSu+ixuqJlo
-J+sTYpEW4W64dgEzl0LALDJ7PdV0n6kfm78pj73r9ZyOxjc4q64ppqAkAPrrLVbIc
-v0PVwzzGctmDJP7btS8IG6yUN8gGA37QyYnUNm6x2Yi0isghnZsSZa8oK5KV2MbkT
-hct/zyTkk5NDk4MykEGWYyzyCGN0yjXyGK7FjtFz8yN8l5hMcXqcmgmPV3DxpvBvy
-uH6mFYz++z3uW7TDtZrtRsVAIZb6lZj13FEkgNAobIkEkFGTbf9+FWduCw3wXh5tV
-NhIeG9KUo5Io8jF7QkbikPl37QvCyymeGeW7+zeYhPTyzqvTxO/yMZMI0CFsA2lVW
-16yIwwLPmAfGRnrV8Y5S9CojQ+e/HjZbpjWcQGcIljY/fGb8U69a1gLcszdkpaPnT
-UbZCabrGp/51tNygmmI1fRkcDwCDZHysUYhH6jvRSeWS+iwF7QLmF9FPQF3QvTYHK
-J3X64gz2xRInIVk9cibTrgj8y/OsZJAR66LOPpkHLEoyY5xsaJQ1/S29zPDdWOzVx
-VByeCKnVro1N6gkmAZQs7sf2lRW8dSQaMzrBOumtKnJNXgzdmKPcPECeQOblvS5Lb
-V0opaVR7Jk3fo2RHkrkifp0hFRCsoI7yl3BPK/srID0USOS1gBTxCRaeIRJWQzJlj
-hI+ieLWBb+7kRdScq80+YqxE/Aw/yrqjQDp4+9FvGALW3uhBXK142auA5oJqpVVvS
-Dl7yzjVc4ENpWrkriBIUFZkIrnbRz7oGByWMi8Tl/Bnzh0xiIy3qbUwV0Oxg1iYC9
-qGRi0JIbNSlQ3NQBU87JjcA+Ds6M+odxcTtpbtwgOo2Z1c2LiASGdC4NmHxAYfVZ5
-QfZLn2s7/P3Sh6YHVvWHLm05uaAwiC3NkAVIDKj2kWe4zKfAwO8aELgDs8H4R3Ljc
-azjeT5a2RsTNw0h/ylZ+IlQ5O83eqSgMwf40ebPN9dvSicCZulM86eaGd/zTgZroE
-Njyv5WVv9562mupp1rXaGGFOW87+LHfw6kImXn1/8dZEJrPj89gP1DrV6Fo+uqxIt
-g==
+yD85WiHZjflrHQ2QRcEofZmKA2Z6gE3vVEx3U/12QhmKLvrHTWhO0HufTtLsvdX3S
++PTIM/wZuGh8LIvrjnmScZ3sDyrM4W7itIipHtLAbvTUBIYqET0dIrj2fV27vFF5U
+I8r3Ggjb9pukb+Pcl1MdGHwikLbZfq8/V7bScK6L8nDFwO6hcIBTfVpnx7GHtHG74
+ycB4X7wNhOb4+PYzoRaezU9U9RMPbk77bmKoTLvGOjdHwBTx+2TwEowHEFnoVpZ/S
+vtTv/qDoz4VRdWa1mDwZILdPnRWGP7AgCBMz/RymwMbk6ClIE+iaPuRBvcJZCcKut
+Nbn9hSPM4lexojx+GTTKUUie0s/VII23vFNWLA5O6f2y8viVnWPCM1CS4bYw0Lvb3
+CWDJye23yuSZmmzb6c/Y/l4iRlJDpVf2M5I9hxlnPfzekN6kRT4z2V0QRyecgsBSw
+OLZm3hdVv3sZu4C8Wm75bZTXiu0SZF2raxKOLoYU84CgldL6utQrnE5WbT3MM7rUc
+v6SQNF8wQpc8kb6uztOb6sQ3n7JBApZIPKrAC/8OFL5vLaUOICQyufbKZAfyeFukb
+0NFGJG764+Rkbxq0fvAu6iQd/WD29PYgu03PjfVM8ybcIB99X07vhADBSk8VnhSqL
+wr9YKiaZlmFu5GHQFV2EMk5I54jpuUOGn4j3+OQmwcMZe1X6kX+ka5Q+Q/iig3hMZ
+jK9fCTukwhpWjUi4gtxT5Pz/WWKi1iK3t/C+5Vn5sPA3icWcHgFbZLpBLP+WRBHg7
+33OUIbSjWQmiQ27zP+3M5caTYnmS/kXGByP74b/+czS7MnYUTehWa/STBxI3rKyPI
+j9qx8PcpHtxgZOZXBBbkYOV6E+7bPvwNaCuFpHEeJ8aZ0twVJFcM0NsSH/UCM9NQh
+ABvciyD646QcnZ/r6x65Vae6Mtd+1c/jgY+aPCYUkCnprGPQ569P/FagxRSf5FhwQ
+qxFDJxkNSdnABnpc5SnwJ2ovm1PuIvnIyhHrL5GZ34oY6qciDn1TGEzd4gsftmiAE
+dZORViwQxXoKi9AetP68mkn68pjfmOrQcInbDXtbWouJ5ran/Z1qslbNf2EcMaUq4
+t7kljW5+C34s3RcSuuUcx6H/KbmfpS5FQDW7Sott5P3j3u3Q9JXXEKn8+Q1Fxd2xW
+W7UhjKp9fRFMb1pvL10n81ZR6xlfp1Bfz1r95MoJtbrFKdVXsbOshm0hIk4Z3iwKz
+iLaTHhoHq+1cT++qKZPaUo46SU8WI+FCBbJO/muY7l/4Z/ehY3IAKv3WMiVKfPkYl
+dY5E3msj1R04CvUsRwP7TzsFrZRaIctF2TSMujXguuBE4nPi0TVp2xRukwMW1I7Fx
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -78,11 +78,10 @@ class IpFlowMonitorCheck extends VNag {
 
 		$this->addExpectedArgument($this->argLogDir = new VNagArgument('L', 'logdir', VNagArgument::VALUE_REQUIRED, 'path', 'Location of the ipfm log dir (Default: /var/log/ipfm)', '/var/log/ipfm'));
 
-		// When the user writes "-w 10GB" then he actually means "-w @10GB:~" or "-w ~:10GB", so these commands allow this notation:
-		$this->warningSingleValueRangeBehaviors[0]  = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
-		$this->warningSingleValueRangeBehaviors[1]  = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
-		$this->criticalSingleValueRangeBehaviors[0] = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
-		$this->criticalSingleValueRangeBehaviors[1] = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
+#		$this->warningSingleValueRangeBehaviors[0]  = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
+#		$this->warningSingleValueRangeBehaviors[1]  = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
+#		$this->criticalSingleValueRangeBehaviors[0] = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
+#		$this->criticalSingleValueRangeBehaviors[1] = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
 	}
 
 	protected function interprete_ipfm_logfile($logfile) {

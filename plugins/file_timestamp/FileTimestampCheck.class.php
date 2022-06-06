@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -55,9 +55,8 @@ class FileTimestampCheck extends VNag {
 		// Individual (non-standard) arguments:
 		$this->addExpectedArgument($this->argFiles = new VNagArgument('f', 'file', VNagArgument::VALUE_REQUIRED, 'mask', 'The files to be checked. This argument can be used multiple times. Wilcards may be used but MUST be passed as string only (not resolved by the Shell). There are two possible checking modes: If you put a # in front of the file mask, only the youngest file of each group will be checked (use this mode e.g. if you want to check if a downloader is regularly downloading files into a download directory). Otherwise, all files of the file group are checked.'));
 
-		// In this context, when the user writes "-w 60s" then he actually means "-w @60s:~" or "-w 0s:60s", so these commands allow this notation:
-		$this->warningSingleValueRangeBehaviors[0]  = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
-		$this->criticalSingleValueRangeBehaviors[0] = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
+#		$this->warningSingleValueRangeBehaviors[0]  = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
+#		$this->criticalSingleValueRangeBehaviors[0] = self::SINGLEVALUE_RANGE_VAL_GT_X_BAD;
 	}
 
 	private static function humanFriendlyInterval($secs) {

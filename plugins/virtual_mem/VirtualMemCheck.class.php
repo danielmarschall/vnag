@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-XdqA1AEsWl/tBsy3uppNSoRkapKPN0TaRG6nrsRGwK7u3QG0a9AdlGGtQw57I8Anb
-PB1fKnyyZGFhB8JnoFK3TdoPEA0NVxN2CnMxghYUNjKMfJxbW/PmtDuOF4V+MAJk3
-uriAEkzVBgIgXwQhZ0b8Xkr5x33U1dfKiuhhUlwlEOKIhS7jg4FT50CY2/cCYXW6l
-y+ENDNMHtuPBP/dfq7/8CigPWIfnZDyN/QgaMy/kOGvx8L0K6LyK79ac1TXpStmrl
-puaZYNZGj+TkTh6buDLJXzo8BBGWUMjGybg7La3G25b7CdRkGesL1hFMOeak1W+q0
-NlaVCSlEYkkoARtdWyGMS7upY4vmLYuq8kPg6b9DVudZMXV4gRTkDu2s4xNsOamjE
-Yu6kCFZ/2ZqgeWGWOMDWuE/gKvFIS7RfjPkwjeHvAHqW9wI8BtX53e+yKnE40LACo
-tDQ+fqkS/4C2UJYOZcNVfGlORsxtymmwjCr6OnMdEdImFHmKqo7fKdeQ5cSkj3imp
-qG2z6qLX8clbRqaJU1h+Qdc7i44KvN+/tGDsPvGemIzRvJk4WujpuVrztx5O0ebnX
-uBd6OAGuHJlY3Dkd6B/Tx9/YbsOqUbe8KEJ6TFnQPW+V+njKdTuGmY9F62xNynd47
-NuUZebnuAK4qAVxqMFpRAzW++20tbTMlGcE9EvdZkxKH/2Dl78cWxe8ZO7aagRZ3h
-u7MKV8IDCzwReJqUv6OaUl6XGlviF9PDu+bTCvT+Lzs6f3txYvlJcSXuGT+G/0nyN
-Wyzg49m9jSSAUT1TzHclS0bFWKQFnm7bzrXdNea37+GvFFSh22BkYNTBcvB9o+ZJF
-Juy5DGIEEi+v2UP95BQo9PJDP81+WlR+lsgL1kEjZiprGkrzEso4OubQUuwGW2Xbb
-bFDLSzyQgFiLnBUyEJ/9LwvcF8Vf2bfgTw72vHSovZFP+fOhD60fZoOq5K6NMzlm1
-9TD/3aAZ6MayuBgr55aaPPYMSJuwsyjKqnILxa/YuwZwTsBKrWiz6Osy+PLjSXbfl
-EnKIQ+FBiwqnPur9PTxOwtcYk2dCBknW728M4KYAsYQ7KAEwjqv6unD/uB7+xEk24
-JTTG6pkQhuu3Hz2vf8deR1mgdmE2U8IySOMx5gw72uQFwP8B5dWh+eIcY3PmKvMTc
-8ehGSqnmysjVpsblcjydEALpaRJ626stfmaDn5yZJlBmsplHfqMyFEIE5YiRUqATR
-nAFF0vhlVv5OAcZf0G4PRq8akg4KuprSoIYR7F/Mo6cCLZVn3sinqAfkYadm/KeUx
-IStZou4PvPRjNyenI2EgLmrqHsBaNeMT349346AQ1BZUJIaiEqJ3DaiscN+ZvnQ3o
+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
 Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -50,7 +50,7 @@ class VirtualMemCheck extends VNag {
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-w freeMemKB|%] [-c freeMemKB|%]');
 		$this->getHelpManager()->setFootNotes('If you encounter bugs, please contact ViaThinkSoft at www.viathinksoft.com');
 
-		// When the user writes "-w 10GB" then he actually means "-w 10GB:~" or "-w @~:10GB", so these commands allow this notation:
+		// In this context, when the user writes "-w 10GB" then they probably mean "-w @10GB". Make sure that the user doesn't do it wrong
 		$this->warningSingleValueRangeBehaviors[0]  = self::SINGLEVALUE_RANGE_VAL_LT_X_BAD;
 		$this->criticalSingleValueRangeBehaviors[0] = self::SINGLEVALUE_RANGE_VAL_LT_X_BAD;
 	}

@@ -17,6 +17,7 @@ VNAG PLUGIN OVERVIEW
 | mem                       | vnag_virtual_mem           | No             | Generic           | Checks real+swap memory. Icinga's "swap" command only checks swap.    |
 | net2ftp_version           | vnag_net2ftp_version       | No             | Generic           |                                                                       |
 | nocc_version              | vnag_nocc_version          | No             | Generic           |                                                                       |
+| open_deleted_files        | vnag_open_deleted_files    | No             | Generic           | To see the files which are inaccessible, run "lsof -n | grep deleted" |
 | openbugbounty             | vnag_openbugbounty         | No             | Generic           |                                                                       |
 | phpbb3_version            | vnag_phpbb_version         | No             | Generic           |                                                                       |
 | phpmyadmin_version        | vnag_phpmyadmin_version    | No             | Generic           |                                                                       |

@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-MxM5IDmxLm4AvC7HzDxuwcSLYq57hKAe+rOy3+J8f3xVocgSffeNKPryAUV1XIDUQ
-GsPaei87WN2j37pzhpMbxs73vTDip4vC5jQzYFurtVyC4JDZ3E4HKI2/X9w94FlI9
-hjEvJ7hJ40i0YFRYhSIfDNqAnpvuWvcSZ4jADiakjVf3YQqfbcjazFX5gyRXH4F73
-Ig+PHVFmhv5lc77x8sZqPggLIdxCCXWtuwPhwr95DTIYMLieIGlKO1uoytcDq9geI
-EM7DWp7JPqECj8Z42jR+5Q4tt+EikyJ1/XX5eHDDI9e3p0bboq3l1SIXr9WQG5xtv
-60EN4EGqCfJdLqDI29ETmH28JTOFReWkEr/Dcb9C569yeOWUi4L9h12BdKT5gxjOL
-GXCHUfmrwss6Fl0s6EYmN03YEkCDsvHRna15Kf59J1r9h1yGrmpeBNLlS5+aHR81/
-KYqeDF+ZMLmk2u1T4EpMVJ+QvLaGc4/a79vniZWZK/HRhIbV74WVu5yqGEzJ0dwij
-QYDjUwRcz8GdfzBkEpUpIasRqWdKSgTAxKgW5GLFEXqJ4g9xsMmr2CD5dpDOBhwLQ
-pHdI6WDGLp1NSts6hWyi7Yv8D+PYC07HMB4Lsk5b03eJ4BdGpyPTFpMKtMgBpCb9Q
-oLU/E+j7Gv4CTJ8HEkg/oX8FGWs/EI1NpPwFa5m1Jb/CDvWc5d/tDUmxed14yxUAe
-vbJbSkUYiULq7bl6nBwGLsaUbL+yrKHxh1ojl2e+/l8YlZAIkW702IZ9lukQ0HNzf
-MHzho6z0UnAior+Y/C8wrGohDvbstBYErkq2MZLLotWy4y265AOi1UvnJXUBefDJH
-j7M9UIkM8kycyplqyWCAWAfjF+yrMXWz+PH6lJm1N5ya0KoEfpLlRTlUcWkZEqOb4
-B6z3AEoNzSmnvF62D0SQcvfY5idHhlOeyAVCCxr6ElHPTrh2TaQHg729OlaIRulvJ
-+KX4hqIbJYHgXtLdQk4bLm+FE3GmgqGb7nAy0QQ/fv6ouHv3Dx3JZvYW1NSSCDSju
-R6yJukTvuiWbwI4VgEDNk3sgqDHJHMg368OiRGSaHhdsssu5TIqA4jR/CxGj8VxOZ
-9dtuoRlXQF16nSdzvx8YcI08c7jiYTffLo0AdYA8SGAqgc3qV2YKT1R61XiaG4N95
-LaM8m4dquy1rJVRb+st4oph51o1cWHm5agHtEKitGOhxVbXE/AWHMiha3BMB9VJUi
-FJKLq8yEQpoUEB45knhFn3/3XZUeWCj5TFy+IawBLfgLWpv9JvTCvHqFQ3DFW8jpS
-OWgW4c7SOTM6yH5uExIRCqp/vbVaNcu0HU/RVU50UrdkkwQu6h+40+7EKFQHie/bZ
-Q==
+wvt5JYOFKaJBLyUvgpwn2+bDeUf+WHsqBRn7PiRv1GfwB1OBVVJvLNeVYYsfX8yAC
+EnvtdEO42wmpGEuegwcgvthOmc9ltwc3XADjReEZtDBtRJqWO9ZyszaH4/Z8cGbJP
+5qlQuIsw3LNkJbJIq+DZl8AoaQmYMkSB7TxDgl8QkQNbkJyynRNYSOq6i3pSkEas5
+Vr4vkFQrer9+XeHPF5tdGtw+hLSbu1Gq7x4jMIpaY0H32F0FrTUgS4UWkxO2jfzPW
+fNkcwGQgBWDpLvno0iE52XSEMlrvpIOQiTCX96QXvBM6hNk3+uwmHG7fhhSUYoagX
+Ol5jeiMyQxHG9Rq3eOL07/1IR/zOI6AHENGsdfb8t3Q2/BDoEAu+B2hFsdZ1U86og
+AoaYXlMgfcB9CAaPgaq1sEV3ZOn+XNHblAKiV7tt5LVkp22TQpgCIbdTJButAl+J7
+1uHYUlHwxNFotjKR1JXQD/JVD+bTOrDLbuDQcUYdbgNE+PkLsqchbQCcfFPjGGUhS
+BiSi4Kica72NHF+t7dgJ5ltT+zjkQBcJdJpdgUMw7HobHNWxVhkrycVIwTN6BWan6
+KsdGJHYLKoMUSnvfFFV0AJZz4v8S+KwrOVwLnGBMHPvnpf9I8qbu42nCcyKnIdXHk
+UNmprr9vnuxb2Dii6tJw8ZW3uvfkv1hFPwiVvazM2Md6nCMaJwnw4iEOwqum6DaEj
+YmW5F2jwx4mSqUZipp+RNxqTGfHLAO+L0x1n//RqIK+ByfVAC0QIaCIY3BtLiOdDB
+G0zHY0uiDUirMbsjK/Vs6bfcCsVZmTrDLPJGHDaHQqfHkGCteEfsAS3KdrGF5t21E
+q6SY+p5lJQOAls9GFwGKfAnSViYH/4CqSNms1o+DbkhcW7sh6/2ljjqxPxl8iVs5v
+HLx6EvKlk2ZMotSFhXBpTVYDb0V+yyIitm19M/vk/v010gkg78GbcxLi0belHX9pJ
+p359eqFMbtqyX5Eiyhml+IFTBqnaFBVGVo40cAPLBjZWrPjvSbmXH5cJekSn7Zlwj
+wRi1Dnmt2WKfB8mxnAPx4SrSEHQRoRvL+6NaGiZsqbGp0ptyHtAJyA6jgSw3kkttd
+i0+tn9KD1lXt3mMkI3SfRTtzd3u10fn6X2OP0+zYXhikLsWV4BQKPB+if72c4HLj+
+4FF2gccV71qzCdQeMFllc0SLmeK1nXd3dMXL7jRuPDAjls1bfqJIwM6gJA2DnKqSN
+8nT4vtZ906bEkKkwDIRO4wDctSxkjvTXPg5hFWa7pgkdmpbjcm5AzM5FfrVKdZYeX
+WbX0s6oima0/lyv2LTr5NDe0+YRMLMB8uPCEqZJKKVcrAhB2zr11GBRpy3/ERels0
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -68,15 +68,10 @@ class SmartCheck extends VNag {
 			throw new VNagException("Program 'smartctl' (usually included in package smartmontools) is not installed on your system");
 		}
 
-		if (!`sudo cat /proc/cpuinfo`) {
-			// To make this work, please run "visudo" and add the following line:
-			// nagios ALL=NOPASSWD: /usr/sbin/smartctl
-			throw new VNagException("You don't have SUDO privileges. Please run 'visudo' and allow the command /usr/sbin/smartctl for user ".get_current_user().".");
-		}
-
 		$code = 0;
 		$out = array();
 
+		// TODO: For some reason, it does not work if "sudo" is added to the command section in icinga2.conf!
 		if ($this->argType->getValue() != '') {
 			exec('sudo smartctl --all '.escapeshellarg($dev).' -d '.escapeshellarg($this->argType->getValue()), $out, $code);
 		} else {
