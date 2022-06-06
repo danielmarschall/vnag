@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -60,8 +60,8 @@ class OpenDeletedFilesCheck extends VNag {
 	}
 
 	protected static function check_open_deleted_files($dir_to_check = '/') {
-		// TODO: For some reason, it does not work if "sudo" is added to the command section in icinga2.conf!
-		exec('sudo lsof -n', $lines, $ec);
+		// Note: Requires root
+		exec('lsof -n', $lines, $ec);
 		if ($ec != 0) return false;
 
 		/*
