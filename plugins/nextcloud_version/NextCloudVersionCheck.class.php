@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-iHvcQ5LzNAer/Ap18FaL5bM2842CWMdX5Gald3rv3jnW8Dl69p7W0T7cUWEPrM39v
-ZUoVTv+XcWGY4v0L1rTx1UOq68z/vGW9dzCLuPEytVjT3SRojx0qhBOZZHkhGgXKA
-EEsEKomsdteMo0aMMq6EiM9HDYLVJXnjkzD9QavXNcXP0B52ChK/DL3zhAVan83p9
-P8zkkRY399qTfoM8IP2vEadUafsYtJewWvxgi/L6U3ogBPTMEF9Ba9iEWBmZCfbRH
-upSkg1aAetrtAs03HFVpKNb2gC1LUCcwvRT8E06yjU3+9vFSfl4YhXiFuMeSIOaFB
-H/ZW8kB+sRwkZQoohBrikbXkgj4mJANfqNx7lRvWBLWoJ349vvh+iJdFIIIoOurc7
-Vlc7MKSRSZ2CNMcTLHLT8pZ5RVdzO2If5iU5diHGWSlX9beliwuZpfJQ86nFOSdIY
-V65Z0U2hlamxeXbAVWYZbAZ4QlYyl7JlJ32QBcKAMgK5DVc83ZRInPXS/0prvrCDf
-h17iTLL27hdx8mXSEgmQgFMBS2fyV6+vJxQpdbwUAZTfIcGXyLPKUgXn3jypSzBt4
-n4a63YcSJWL3iBjQpj1SUYhTCrZ3HlR8OUZ5NRpcUcTwt7TTkNvV3+NAj+LvrAUyv
-iWK4y7U86l2cLO0b/NHHE7BYZkQhnPCjTjR2tKeRAI63A4+2sor8jtaHGCXCGas59
-VHYgwbpOJWe3igTv4n0wshGdeO9VgM0EbpwrgIq3zEzbrl1QbfxO3k8TBRWb8wB/F
-c0zbXJOZqYXdd9eZ6hjxLu/AFjpPJC43PqcVuKHX6Vp3Qwod3zebQxbYl4ajmV3EO
-Q0nAHJKQbrZ/edxOeYA9RhRP9LUp49fbf8e+GjdEcFqkiAPDjtPhPVPi+fBsx+MfQ
-UxF+ZmDgjrxaDeTWGuCjv2BJ+q1uGIBkRN0eo+70cRNaaSppxxPED6DxXEA3sw/us
-OZyvMER1xvTPkLauaNmxZ9zj7nBiyHEO8Gp58XNIkKrNyh1YBYckRmJLCG+x3qP4M
-WD0tZHuUvLWiPDhUYSVKuVq0qjZOsn9qcTgkV/BXSmnPEPutXyZYShnA5/0RlPaq4
-XvrbTSHCvviXvJr/rgDtE+7llx6l+PLujtgm1v049sp+CHNy2312NIC73/HSKWU1h
-GYzKuWt8WOWmVPGNlaQSFEeIkYfZwEp/Og2+QN9TgQsYNcVYBTmo+E7gfgDfj1Lcf
-YDmXLnZJFOAqVMFlHbiX9/rn3VzSwVHNiIOU1qS+9uYezXbKzjnWTvODfv0gS7Neg
-/MbDtsRQWG7UMpTPT96oGjGKxPtuBvNg6YwDxNopSG3AfKwLzVI6imvcMhCug9znS
-w==
+xYW/6C/wvjTZL6NWDg36CNbd8VUdQ+nizmR3DZoL1h5ilQel2IFUN5YWMqw4Tigvf
+ksHsVSaLyt0z5J3jEtgSQmg5odNKw74JH5npY2xfnfeoHbFMQlDdFY4xsZh51JW9t
+xmQWV0B0qASrYDJjZdejxG92UWf+ZrsuOa+3D5t9qZnQsQrIb7dm0daBEY2+bVdx0
+elCVFpdQ/MUcAZI7MKJoPRxbmQpZQiBJRAq1aR6G09srBOZCkzR62x8pVOiFDE/4B
+Y4eo/ZTzcolD97seWeqGODnRFdL7rzMUY29iPZlvk0I6s5KWoWJm1bGMeRqX06vRC
+mZp6bDpaTAoVe1Rh1laJn2+KjLeupsnKCcQncdyy1Y5m9rs+PEia3+ZFRgDmz8p2B
+ClpX1Ko969jtAe2oYQn82rhnbv+w1cSUJyPnn76FmvShXNC7DuFPWl3rPdEjFUXRe
+jZD6HAKumND2IAokTU8P/Mn0Xoqj3gpu23RVByOAU9PHrD4M4vfTPLxmiYvyrqBVs
+rJSvaURUJs4RFvZGlBGjmsRWjOtn6J/1iXiTHk3197IruG/laaBzoBZhOzWv2MV7I
+xddtrr9blabIHkngnwD5XtO40x8P5kKH9qc4l8vBl1MGNvN1BJ2BJPV6X4IrVSmJ5
+sz3SCgXJkEVFth/KZCc+6DtD/bze4gj9Ad212vTkPMsxS0NTALDd6nLdExjj5TewQ
+B0YLmZsn+hltPTbxod6ukis3UTE92GUsN35K/DNyJcfJ/cebbQlcMhcAojLRkUNTq
+1W6M2m24l6CGwkUPM1w0e3RlyQA5TS2PjX8TRX91spRXY8hD8fpNHL9+GOzbEIyIy
+73yeoOGHeB1hSnD4H2LSs3dwl1189PyuNl2jJNVa6cLPy3R1Yixz4q29XkS60Oxpg
+lGme9nlW2S4yJJLB/VWStEXNeCOfTvKIHmTZSEQ1RvxttRBkcjMoJqZbaKpwW8rVB
+PVaw07SCi7IKXWiosY9hMvHbnLU0GkbgkxW09bXw4LkTLwYHEfbGGsBe1qS1IGF7/
+JzfPxj7RX0tDZX5wuolJEZb+rer76VJD1wNdzcpbTAAdu/bf3Ptwblx6eIFQw6+YN
+/eOs1YC4VAUedKGh1FruSU5wZiJJDizP/+33OapudvTaRlK6/AEdSc5JnP5GsFQah
+1CzAU0WekFhFP51SmSMsefVjC3AzWSDJUTa4E+e8SsyYOkHCDAZmcI8wL+KMsbNLs
+0QMHW9GwY+9BP+iGMFBMklBWEFkKkPx/QfbqGW0JB4bjcgB3UVHMAHbJ5+DlN9SZ7
+EUqh5dIkoaQ8FwKIIIa8qw7GCN6F96IKZ+3O80RVSm6ZPDSdd/Z+qgPUg06La0Xme
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2021-06-26
+ * Revision 2022-09-12
  */
 
 declare(ticks=1);
@@ -139,7 +139,7 @@ class NextCloudVersionCheck extends VNag {
 
 		list($cur_ver, $new_ver, $channel) = $this->get_nextcloud_version($system_dir);
 
-		if ($cur_ver === $new_ver) {
+		if (version_compare($cur_ver,$new_ver) >= 0) {
 			$this->setStatus(VNag::STATUS_OK);
 			$this->setHeadline("Nextcloud version $cur_ver [$channel] is the latest available version for your Nextcloud installation at $system_dir", true);
 		} else {

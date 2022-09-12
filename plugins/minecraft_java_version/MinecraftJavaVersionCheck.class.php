@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-AGm/a5N2RKsITjiz0KnYh35+TQ7ya4jusXkbmTSo9tutK49ouGx05yBncsc3kC92Z
-VU1rk2Nau7wWDRL942pupi1q/hSDkQjslkvp4j4P093stHeI8QnGAYSyn3F4DJcRi
-AEemHB3cGDkWVR0AK4kW4b9VzD6r1id93T9aCG7eWFWMd4wWE7z/wqVr2cOQrPkrr
-ka7tChyplVFrtq7qeekxSvfWqNu1/lQBXFhVyH85J7ttJrggOvD0WKNCGUCpJm+Lq
-MqbLjBEGa8I5g334BADhJI572aUjhLxBwqh9oL5UDFHLuzFecHbH6PO1EoUfX6716
-eQoX00kWsZi99L7xbRKWKw8Cx+Kf96/Q8aJf31w5wjBi5X/rwODnAXIjxIIZXUH8r
-a6TY2RSmrKlKfxdzmKVlEP6mCPSz1CZQhCJq80/pv8fmSIE9yyIpSMc2acUn62vWm
-ICrDZd/j19o798vHxDZiKurJn+B69yzFdWuR5mpS2M4chXoVeGVofSOJqzRNwgeX1
-r/LUYE1P5Vsy5t2CpzEg2ibcHP+0VNcA6zXvdIN0Cie9Yq6c6X5/nJKDajVjXKBJK
-ytXN7ANThK7FC9SASZZ1aQSKsuj6NNccNp0pWYRuPlidALr9q0+G/8Ea6VYiDNFwp
-Wr0Hk/xGlWBT4n7fGZKwN7ZPd0vwzSWdGtwBLjPWAN9Iu+qzQutAhcJ5LVWbdBsKE
-xQY2C2GDPWkmX5rmETlQ7eaJLrbYqGE+tKTH9nDmExMkecVM+KHbqMhkCS3Fh3ygz
-p+KSgCUB4xkm4KTeLMlb+xoD6G+JsapR3GJ2Ejgn57Vc5ehU49BeI+Sv8X230Cu9T
-C2h/81XipPdrJ7uXkDx2rTBWjQ4wwEQweCFiVUnXQbAGHjkJqtj823Itzi/Si+1Jt
-vOP9L2ByepU82pM3O0arnSJwkJG4LLs2OIYLw0UD6K9rwRPzBM4fODHgIbXmZeH37
-x3m7f3DzuLSLlxqIXNIcP8t5AXpe4YlWs8yczickR2oAqx4TJbaMVhu/SpVm34ot9
-9ryzDnEyfRAIH7cXby0wNaLhHrfGd+mlR1Bgd6bSdd3W9nSLkwqbpVYpC4bB/HgIl
-MY0A4x/nikcHjCh5hpgdRb0AkZsc5K4m5AyWnPloS7/cVytQ/g4DfDSobteOdOkhU
-o9lTyfyDsmAxuxA1JNqVLOYZfcwrtgPBX/V/WphAmrgZGsEwS4PGlGfaKEMMkxxI7
-1zcmxYoNQgVpS2GmET6UOYcRP6FCjNMhp4pSaaQ27GejA5Mc7d0VgkbaNLFW8KaiO
-xTK8JurMkIVeWqLY990VRuJCxk0ncOJ1xqpFXtLXWeeTzallHU3R3UoN5MRuhLsqE
-w==
+YU84r4UF1RQYMGABCCGu0MB2mvfy3E9RC4oCgHx+trADi3ukDqRO/pQV+NqbQUgWm
+M7brafd901QAYEjRv1U3cqwChtRpLthnkHFWrISIuesN+ztweQ0ZJpzK3U5t3gN1d
+Cp6z3x69BrgC8lmdsZVHn5OKUmneMK+5dEEvlAhXp4y+fsvrAtkqajxfi9lNm4bSU
+TD4OEknecfUj95+5d9exG3ml4UlI6VGDHeIz2GHG1sPy+3zA60eV1Y2xnQS12p9QF
+TZEevtPWG3IqGzsBKZ5OJkeWFi4g5N+eYGZIcQrlV44Qv3gFfj/jGgb1lo/1JuGNA
+VVhE8JJqfuQrus1xtEOU5I22FFoNrcRYmqdaTRQ/VzWbLbkc07efqA+5gpqgL0gc0
+7Y2XwdSoHouXJ3z9OiLvcOntnRmtELyVL3V43MvyfrUtB74q1VL2GfFzMiiDrtZ9I
+kJQ5+OJeD8b2QEn6Ug85So4Pn6Fvmj1oloK7H4kGg/j6TK+s8D30TnsLSLwlr8PgJ
+NMeaIm6ctfA+0za3FGICzmmi7bupNWxHTwppeFEGIFoOXQQbYHQSKpSymkBWhaa9N
+bOXWe+5zapwtM6HNxBomYAeSa5q45TuE8/+Fz2KrvP7oxNVQMO0Vd14PVf5oyPctv
+nmTQwGBft5//WZKAK96srAQPBwySbUGEgJDOc5FboVWPUbGG/zNkfXrYohcexkv1l
+JlihNcLd2/ZnYrvo8ZMfToCGBo8Ie39D34GC3taCMQ73W9TOp446MdndVeIFV4NnA
+VhMddt5cYzrWiS4DfLaCdwvjMmrhvmWiDuSz2syTVlB1dfMSE/kUBQGPdeqj0T9DL
+fVJ3pBYoQ2SnbM65xk3OzPhokuXghM2ViF9laaelD5NIF93xA4EJGxFW5Qx5GYRjY
+AZLjbipIRHvje+5U2Tc46V8XrOjbT3HKJcdwBPDDTHljDZwttXcGjeJj6wJI72hHm
+W9Mjhag8rUwab5Z5c6jE+fuqsE4CAaqADoCuu/GYRjt0bYzoJSoQkX3yJvDf0P6gd
+sIeL079kvHsTPrWegItcL6HzMMQOs8ej63qjFCX6rLzlghxgAHX4g6GiCTL5eRk9I
+TStX3wM5+gyNboUqs3cR1pU2fIlnbWOZy5aEaUDlDWw6OjUvr4ZHmExnAWdMfdUnY
+3mbBb5DHM1ccd0dMvouowi3sOKGPeRVQh09BADaSzhVF7xq6t6mYfB16pTejboFkw
+3fHjYuiSGwsX9ldnhj0QhjO5eKJmQPmWdLCs1bpG3od26aX+Dwxs2gKk2Hk943stv
+L2L7y4yxqO76zPbI660m8JgS/Z9B006pJvJg0wa1u/mXL39mtD8l3clqPJLWZ8KDq
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2021-12-13
+ * Revision 2022-09-12
  */
 
 declare(ticks=1);
@@ -110,8 +110,7 @@ class MinecraftJavaVersionCheck extends VNag {
 
 		$new_ver = $this->get_latest_minecraft_version();
 
-		// TODO: also check/show if stable or not
-		if ($cur_ver === $new_ver) {
+		if (version_compare($cur_ver,$new_ver) >= 0) {
 			$this->setStatus(VNag::STATUS_OK);
 			$this->setHeadline("Minecraft version $cur_ver is the latest available version for your Minecraft for Java server installation at $system_dir", true);
 		} else {

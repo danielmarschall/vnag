@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-cBr/EeJSYrbn0QohsdW0hHYWtWWAqn8q8kF1PwyoPJO8iS5d0F14B/jHk9yp6xV74
-nRDRnrvqZTfvH+FtpDCPl6Sp19i8R8aQANgx/lNHk3w0S/d2qtThvfG5FRIOzn72I
-MHxfb3YZTGcGEGb/4f3SdxSIlxVasT0EjV0ygpbpIeUVfiz8cx+2cYyxcpIiO7QUN
-Bx1mJ4rxRgrk54j5x28UqbkxWNSqJ1YAC/gm/yzOXJDzgqnrsILtuLuJb05z5gDi9
-TlVktC8OaKIYEACHSEzjl5t3/nV4EBtnEHA3+ulBqkVi6I8Lw7JSYLvFw912KTrbA
-R/u6p8Hl32Q0BvTx85/5sWiO3pzhcBl8gHtjO8vbH6UrIUM3/cFd29PfcWQXPTaVt
-XAlf7JHLnqLuzCzt4E93P3fHk+uCgniM4pqQEdOhZCpw7KA4SbIthEk9+l8GuT/70
-mIFa7rS7CgO9CQSmbhZrqI3DUW5M8anTR1Ey/OXCZJqJgWlhvgXYFwj7eqhbfI6YR
-EEoUYaWYzoNdB7Cp8t1N6EXXz3/H6c1HClPlqi2oXq+nh7vtUVousbtlAjM0yXGRj
-yOpahsRom6BRRwN9rMmXrdFvZ1XwYC9qkxHGKflU6ljKEFeUu3cB/Ib6jTCcv+EOF
-QmD75X7DajmMRpFEi0o+6hKUmmoYwocBOxxLqr9kcqd0kabaOJjWtiC7Gi0FaGOzV
-XRNw28Fqynmgm48gcEyBW4fHULqaYTbPSpDNgPbnhfms8h9ky319JwjD7yeqY/SwO
-P/zcN7shRyOjdRHbxtkD/sf6Rf8aGtLp8Lwfh2guNtHLF8En0k/GyI0vF8Fg6Qr4M
-3/ucJMEFKQmAy2j+zcIGsp6d5luNlt/f/1i+womQBqbIj7Xf42BrU30i9ko+3pVC6
-Q9afEU7n8WzEtybuVtZWlBrDAJmZBueud9X9FycAL2g7xFq+8vIxaKVBtTIfbX2so
-kQa1R9+HQaBPcd43rczU0eOg/n7mZwU0Oy8UyaNaSvaOsMIPyzFmom8wRqnZ6yH6Z
-jEhHp4XUZ0oGxG0mrMYBvRsR55GE65n2iQ3OiVZngFay12wSGA6EOc2/xbir1dO/u
-EkoYIJuTLEeQxHZFqhE14ZnjJXjIiKd2d2WtS/6MdaX0qNqYDW5Z9wjv81JNthEAq
-v4kbCyYNRc+Lsj56x5mT58FfK0DwVKH5Qcwxv8srQyRmPS8HJ3EfyEnezN2y8Kx7b
-zDqXzpD/hjsumE4SCMn3n9nYBC4zT6vBT/bYG0XE5KegTm7iqjNiMibuGkWj4p5Qz
-XSIs07xKLlLbhzu105richxdAvpJABOVdSs2mSEE7S5FkZRMezB/K8H4iouJvnl1d
-w==
+a5D298rMx3/qA9ukmfMkxQf4wri7C1GCHanryxaFj+57d4OjKrBALddgP6VyXNkSm
+DI8Y+4Y5Da256sr6AXw+VlL98Z+k8cVCtA4yqRJh+rD17SnkswDvQXeUbJuTzJahw
+4BVhjzgmVsIE88FAA66gSzj8saBEfWMAymFrdxHn9CK4HZa+JBADLmLo9Oc8FlrnS
++OVQ9ctEeCRG+CWoF//2j35SfmN3ivnrvM6tuZ0ZiLOM5JRNSOpeiOpmrLqlqWVz0
+LC6yZ28naCLVyeYf4lwhFXIK0W7KhE2YP3EaUr5Ekd/1sGpr9tQK3rQ+bjvheemTt
+JFKTorIRqzdQt2BzymnyenkTVc9KV51mXSZvXJyDN3Er8YIge3CnTjbtw0HagZ0QE
+4f2FHLYnID3ntwdPGf3kHbSo554CHkgSw2w52ieuCCkf6qNyRohAYfwdRFYar6l6x
+/kJU1nOTdUVAwJLq9HoOvVSeEVM/DTo0CzJDzgjR9KPF7DoiOfHQPakBZnsp1papR
+lJunUkkScFcFfMMp9P05lHThZP9tWTEYuSVyPtuKwrras1TrLohSwE092m67D/efb
+qtTebeokxICDnhZ66ovDcGp69nC2eqB8M0K+Uh9il6zYlbaUDCVq0yCDT1VHXpxRj
+y9ewpQidf3q5Ci8J/Wr67HerQQHKugmrbZlXOmzaB9zppGOhvzCuYCARQj5LPeVz3
+Ep/NQ2M0XH3ustgEip+ybbeTJeYHCzbSlhRZr33Z1oJoMuHDI7g6x0kbc6G9t5fVG
+GTKqZVhW8SLYzOTi+kwy80+JpFUxfy9743fZA5LhPVPNIkuIzX6NWLtsSD/geqHPf
+OX2sdEK7lVTInaK4FVjnbMFn1Q3X4O6F22APlZcX3p3BHcaX3cYg5ZVre8Jt1cNGL
+3JrNzwj15rnZ6KlyfSs6xR2Jr7JVuVvnjT9/aCFWwQ48haRe1j4jfBqNPKHV2wJfo
+o1oJq4kPPQfQIJrbAMQlTR/l5z4VwLbT0CWKKu59SO1+l2y6gL4Qh2FXhYgnSIPx2
+ig7qHr5NAYFLf/Msw0uqsCH6Xevdc030jvqRXr9l+OhdxM1XfnOPCDAudq/+16t7T
+JZMF6XwsjQF+D5YUlU/Hz7fmShkiQ+S5fhIy9gfA1n0M4X2s4/bS6GP3edTPFfKpV
+ZE1EKloQB5SwPXd3iGQRmGA6Lj8TPg7G20NVDBpQACKsHrxc3ULhP0MMnw3PdhHcN
+6mbZkeRiJyJ7dPVwF+XB8Xmd03hZXRR6/xbcy3/3zW373IeFLZ63cU45EHJMM6B4l
+plUjYSAqqVehnWDRpAsBCkqJi3z8Mqr9/88LcEXBZgDk4Pe+csbEQaL919EN+ux5n
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-15
+ * Revision 2022-09-12
  */
 
 declare(ticks=1);
@@ -93,7 +93,7 @@ class WordPressVersionCheck extends VNag {
 
 		$latest_version = $this->get_latest_version();
 
-		if ($version == $latest_version) {
+		if (version_compare($version,$latest_version) >= 0) {
 			$this->setStatus(VNag::STATUS_OK);
 			$this->setHeadline("Version $version at $system_dir", true);
 		} else {
