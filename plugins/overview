@@ -32,6 +32,7 @@ VNAG PLUGIN OVERVIEW
 | website_monitor           | (Discontinued)             | -              | -                 |                                                                       |
 | wordpress_version         | vnag_wordpress_version     | No             | Generic           |                                                                       |
 |                           | vnag_webreader             | No             | Generic           |                                                                       |
+|                           | vnag_websvn                | No             | Generic           |                                                                       |
 |                           | vnag_disk_running          | No             | Generic           | For monitoring disks which do not have SMART functionality.           |
 |                           | vnag_pmwiki_version        | No             | Generic           |                                                                       |
 |                           | vnag_gitlab_version        | No             | Generic           |                                                                       |
