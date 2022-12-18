@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-tnq+qJ0FVMFjtw0VxxXU3yGcuwQtR+YxngRuF612pYRja0m6907iUi6E2uuTAiK6d
-lCx969+n5MBG0N9yM/vPLKowBodxgEAaE5PlS5cfU2WKqbPbrAI6yWjfMruy5OzOi
-KV2wIIWY+QR9HuNDKvO5TQjFMaLvXdOqNZp+bCP/YDiLJ4oq8s470/z4MZu/jz1ou
-2pLzyjyDdaMAjrphpGrG9BY0eS1j9EQo88Kv9sFJrmOR+QNRawiMSL1Vuy5XxbriO
-VH65ZkZ6hs7NPsojgKM50OQUUmRiMi99S2CCqQHPh2O0VaZMB9hQ4NiWN5wyjExMN
-v5vVpWLFDwG20YKNWdfPd/hADcJ+W3E17RuDbRqphzEJlHcgKgLMULmCCT0H7XWb3
-NP3iKqVJOGnt7SVDXPKsNbjP2oA6/gAOpBZptV/i95f0kplJ69T7AxVmoNg9dWJnA
-JMOmpteZCmdZQV7vKbPvCLVOTMh9/Q9OFe877kjRaEAQJaPtrdus4Q8uhvghRFiiL
-yuJbsZgIAnZvliEe9jDBPCFxTC4tMDqoG5rXRltz4J+Ig52L9AWq0bSf9+AywMjdT
-c1jS22mBcqC0rx2cmKZl/AWutrBisVeQweAaipRncW85wyZMWgSB3lowbMKZHNqZV
-YCZt7QSxUGPZAIKy51i6QivhJaaQhvnCZW3lkQGZLqruuXU7QJzw6BzW+aMz+kWqM
-wMHANFDgw/VusaSWW4a+oaYCyygKRiRkb2YQE8U2EObxkaDDEhquWLHhqEJ8F8kly
-2aZghC94ryvIkMmjUCOhxJ9a429MyDrochi4RLI9OkYF4WmF4AkqFnqYJWf73kRUV
-mLpohXJGLaRp5e0Q7dxJto9hy/I/6yntTREvnDkm19cY8lHceJPRv3YbuSVybMha4
-9nf3KgaF4hmAwogIqTcSb5f18uqMC+Pp4sZaChQnpbC+K7StY7lI3dWL/MINHUGRX
-yM702pX2l/WSbflcWcvHaPoOkfkvJwP+R5BZ/GIB5F5Yv5Q4K4BDNs23u2stvbzuK
-6NyheDgjSRF+PckMy8AmIHtGMn4wBTbw+mH+nmBnN6HmQgqM6zHpU1CwVw1Q/c2IP
-xihKexQelORhik6WyUWXR8GPT4PAFUOkIKV3ayKibd2zLDAd3YM3J4uDbEwp3vg/b
-neIWy36vzf6xGnPFig0qobZGIisfVMMpvnZkXA9c67K6LFNEx1eOlW6Cx068NZqZW
-l1s/Q8qJ8UjnPurbrQ4k1v62ZHMy3s9LbiNRyMEt5kdjCMFNuc1jWGpLwp2rw5WKC
-O5yx+62O5GPX+qZpkIjxZwe/3woj5dGiFFdsCo4afv4KitzI3czXMCDgiL4oTanQQ
-g==
+d5Ch9xyUxv3Bu3N2jbIjfBn2mP062FT5Kdj1z31EUW9w+rJMXfvaeidWQfLapqU7c
+uIAztDKoRCMsAsvZYSB1zD8+pi0ClJYGbiB+/7ACt1TSVOvtrWxE9lsWXIOjLA0Ft
+YeccOh4Mf/JFtLbLyo/xQofsIy+9umKQ1fbhgrcmJfaWY07QeoZVE7HHauTZA+ld6
+HyjNklTAc9b3tcFQBp9bgB3p4Pt28y6irIqDhaqvBja8F2oCK7FCZQFwE/JF0UKT/
+PMOJ0VtzC1p72SiOWMg4U0+hMi4Sre48SuSOiUtLaF14GdzfATGOxOqyFvFAFXClh
+qUqgxXmQTFJCZzGW2rga9BJw35zTYy/jtWLN8nGFG+S2c7e+IJAqN+iDMD7I+NyRd
+jjZKqDjXDZrIolL6KP2yl4WPtVD8iaJcgrxUQD+TQiJkcjvSEp2DVN0OETDFUzlx2
+Jr9hc14n7z78ebkTgNToAGauBvfyFRCEyRBcXyS9VluTd23g3ICXY0qdWJUhf4zpz
+PJPdgAVmO1X8kPaVB97GI2iQDqIMFLr6PEre6GTaB893B3lrej8sTdAiV8WPlzKmZ
+LHxxUr2uQdIT2NkLbvvzNSoJKsWXKdmbvWk3Oy+VYGH9LEjw+bRTweubH36gYf4to
+QpoiUcnQ4B1f9GxDUp455aPtN9HmY7dOb4YehyWCFKge/1PUoT3/omz4cRlz5+8QM
+aYOB1/UgdeCUS674R3tzhr28LhNfJ8J4pyXzOVjVsmBkmMd+he/4MJcXWyDYDWpVl
+AMA700hkscLcwktA25TDd/Qh5vjF4i6dWcNlIbFxdaKyN9PTs/0T+Jza0JaDmZagW
+gYD5R4+ei44asrZ37oAg9CjOeDm7FKRuMYiMaw/08LAYGQKFxgIAsMdcKOHya4By/
+5yVVEVLihCLKdvdn0u9d1d2BQHZS0n2KNG4cMQxnNKVjjTXDybRbyB2C0pp2S9YXN
+V9WWzveDY5m8jYrZ9wFjvbHeJHfFNXMrkN1k4U7mYM5Be2Mu2+MYA/Xw2oLtzmmyt
+9WxiCO0B4TrEKOJYV1jC7BDWoAAHNnDxFoOJo+dm/hjTU3XOaWSpsxTURYFR/Ltn5
+G1yakcUq18mS5c2BEXpwXaJq5+f3QP5COzEcrvgGqBJRfpy0JxsRtKAzTQpADzRtR
+8jI68XrP4y9FrcUazM4RPp+U8dRY2zjMas559t7Xb7RysHRpFxf2SZ+Xj0SVQZEsj
+YOATRaQdV+a6haeDvB346iJIjVaNY6SaaMPI5JEhAr79BM6nJCXIu7HT9DCBWvhbG
+MCePzFjOa4XRB1vaCJo5jolQUWyy0pFLKD5VbimI63wd1a5KqRPmtSFAu+/nQ3aKC
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -57,32 +57,6 @@ class OpenBugBountyCheck extends VNag {
 		$this->addExpectedArgument($this->argIgnoredIds = new VNagArgument('i', 'ignoredids', VNagArgument::VALUE_REQUIRED, 'ignoredIds', 'Comma separated list of submission IDs that shall be defined as fixed (because OpenBugBounty often does not mark fixed bugs as fixed, even if you tell them that you have fixed them...)'));
 	}
 
-	protected function get_cache_dir() {
-		$homedir = @getenv('HOME');
-		if ($homedir) {
-			$try = "${homedir}/.vnag_obb_cache";
-			if (is_dir($try)) return $try;
-			if (@mkdir($try)) return $try;
-		}
-
-		$user = posix_getpwuid(posix_geteuid());
-		if (isset($user['dir'])) {
-			$homedir = $user['dir'];
-			$try = "${homedir}/.vnag_obb_cache";
-			if (is_dir($try)) return $try;
-			if (@mkdir($try)) return $try;
-		}
-
-		if (isset($user['name'])) {
-			$username = $user['name'];
-			$try = "/tmp/vnag_obb_cache";
-			if (is_dir($try)) return $try;
-			if (@mkdir($try)) return $try;
-		}
-
-		return false; // should usually never happen
-	}
-
 	function is_ignored($id) {
 		$ids = $this->argIgnoredIds->getValue();
 		if (empty($ids)) return false;
@@ -114,13 +88,13 @@ class OpenBugBountyCheck extends VNag {
 		$this->setStatus(VNag::STATUS_OK);
 
 		$domain = strtolower($domain);
-		$cache_file = $this->get_cache_dir() . '/' . md5($domain);
+		$url = 'https://www.openbugbounty.org/api/1/search/?domain='.urlencode($domain);
+		$cache_file = $this->get_cache_dir() . '/' . sha1($url);
 
 		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
 			$cont = @file_get_contents($cache_file);
 			if (!$cont) throw new Exception("Failed to get contents from $cache_file");
 		} else {
-			$url = 'https://www.openbugbounty.org/api/1/search/?domain='.urlencode($domain);
 			$cont = @file_get_contents($url);
 			if (!$cont) throw new Exception("Failed to get contents from $url");
 			file_put_contents($cache_file, $cont);
@@ -153,7 +127,7 @@ class OpenBugBountyCheck extends VNag {
 
 	function get_privateapi_data($url, $max_cache_time = 3600) { // TODO: make cache time configurable via config
 		$url = strtolower($url);
-		$cache_file = $this->get_cache_dir() . '/' . md5($url);
+		$cache_file = $this->get_cache_dir() . '/' . sha1($url);
 
 		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
 			$cont = @file_get_contents($cache_file);

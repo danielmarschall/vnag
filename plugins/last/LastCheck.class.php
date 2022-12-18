@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-bFkiEkyHItv+AQwBu8Jbs+2mPVVp1pljo6oKwEQyS5ugT4dyqfHUANCFJfSr0/Wgw
-IhTtUl9TkfC8ZZ41AZod3llWwMp2qJJ4GaBY2etFvOmRSWhEECLu1z43MCt3Q5Dvt
-FrkzApfPb3bzX4tUFKi4/z2HJhbnOsQQcUFRPznV3PU8A8xEA1sdPOrnV/IcIDKAk
-eMucV6Bch2F6tU1qi7LRlTufNUpqCtPYy1UaLUvzxRLBraLKjdRzVDa06IakJM4OH
-zU0tsg3P3fLwEiFecWSLCjt2dyo6woJgPnxFf6W9qETgNX7ItjiCktf9P6YEd6XQ3
-+jWZoIm4/SuQqbWnUxlT6k8ejvfE3iM0WOIv9mfJHcMgwQPCEAPVu7aPazLi/x3Xc
-vHlgHP9A8ED6a+jh4H1bmrZbW+DpOJ8jhvPvr1kdDTq/vJtadPZkONux7XM7LgzAW
-kpQTmRCXh/FkIEOpHWeW/PNKlBqQzPglsi6liiHnN3LMAb9F1PXqMOXxcwbkKGrQJ
-I/pGasdex+fVUI0py45Uost/PWP8P89DIxq4BU5nI8Mki4N1MlPf0Pty1ndFwk3Z4
-kU8/rdYy1/krfwEt5Cz8FhvA2SSgFgzeX4rqly/u/Q8uyzMVoCK3N26EelKfzO8ux
-jhlnBtiwbemDK+pnkLAELbk5pkf158W4Sdl4ejeuVno1Az78w4R5pOatx1Jf6MzIA
-lf3xsFT5aycWk16OyhHIjrITl7UZcb98ykv0FWy7+NqDFM9sK/GSrs52FNPzxw3mk
-YPEofkp1Qn/qxm6+t0TAqFkXBzGEAvkG+xRRDhGrDf6iFx03baortdMxmcHTqsMsA
-BlBxM2VWto7OuTtUgjPn6lFasHERSWoqgUrxomP18OBuh/6Cjb3ajeGL6OQEyvLbQ
-HAcBssnfott7LSgZbsqIMIBT1xrki92FMmN/jzcE8eVZ4Dx0f/+4gyAFyqptE/FAn
-w70HGdVZFy6MBxXUSCt83Wz4uDdIV/SQEOa826pR6X7/Zl7EBRPNJoSnGZfucpau/
-+NEbOfp0TZODpbqBeKRLBCyqJFQfwQEhOE97/am30pIrIAob6lAcNXeimgunQawld
-DQLJVhpCbsHYcMHlmIqqKc+jCefCf+T0grx34t9+fRap90eYs0KHxHo9Ubr71I178
-iLWcYrN0mve5cNFJ9aHUg8VT3i1wuJYzl1ZXJeuDOynddmIEmHjVEMIdsA3wKGHIm
-aB9cPgTkw+dkKkkCqpHZYcqeBBvbQZ3fkovhubKfYdwfX1QwtBjFZmdgayL3gQNJZ
-EOr7w8qmnHD+B00v526nYpNqKBWqyQXe5anmrm02e7SC+G4JiMiaLLvy6wo7ya3of
-Q==
+Fm798K8OnhYRk2wZ5LGT1eZv1U9J4+xksI2BNLu4KZxIw2YI06hHPgG9ZkiYp88+Y
+EuW8MeTg1z1ee4f8qNi9ZLLpSyiWEK9sAvJYJeWNq9Nx3avUf10Caa9iU3UQp4cT5
+d2NC00RqKZRtBC5rPZ6u+ZXNoEz1UN6Z3b//FlXtRW1adXqgPpCNhw4HM192iXDld
+5YXYDhEsH7/mF0TJ4bFkRmNG5FDsX9uM0+SD5vZ8VgW4HW0KwO3qJG89QOelc1TmO
+88fFklxG3wmTZU/c1mCOT7tgrl4AVmUamNyZRygaeKWORfTM8m1PrFm86MyGCvLR+
+ZVr8mqtAV5mJt3NR9NxpkxuLJN8qPpEuMzbQV/0MfjsRjdA/bLaXA186maJ7IaS1a
+69+xLqrLbcBn+c4Keej72vAdhSs2HmpPqO6wVTsV24LMVDWgS5IEYDfK5ylHCikTI
+YQesBoQELvXEtKuJI5EJCBsH0uDuIiuL2xe7btJJi8fUYaBHXOW50KoY0HWlIntXd
+UuI/CABDWgVE1XMqUu4xemM6mGoPcZY1V5FtV4A06KtXTEbmqRwileEe12jO3aVKq
+HrOoGY6ZB3gk1AxH7sUeUKFWJ6yS+zzUriEoka0YrJVrBgG3g6yaNDebNU4KVNx+G
+zQalJ6+k0RaWMdysrRy3/IJlDhu9Vt77QRb7twP9c8WARJsGgEKCTwuutlD10Cl8m
+IpJ0CJj4fHDqLJHvXJNb9IH2G1W1YxfmPYqsscfW+n0mVBnp3ZjVo4iuV0Gr4hrS6
+WwBMX6XApPU8shgUwUf3mENE7WY8EKaNpybZsn3OTxAGXnJ2293x+o1Zm29Xv3Ovq
+R9VszqfHCaGq2V51BAPKGydtgF2QF93mL8vwlfqH1v/m/kRujRjLQfYv7T8+6CxI7
+hpXCp9LLsr2KsCNF1B8cxiyBv8fFF1bB9+HpzU+Z5sCIB91XdTs21XaaLHXDg2qJZ
+E9SjmfIK3IqG1AYN6CFsEUX0wCloHI1Ua3XtClBQAJaxbsvRdk0SM0nJjPTxsC9MX
+ZGVlDxPR0RZSA5XD93OYrF28ZWnGMhSyet2zEUSEcLmAKlCO1WJbGzgq9Prd+HvRL
+UJqjbc1FjmPN/ZllnxHiP3/N7Xq307hUmar8lNF4FcLjXcaMzA4umMBUcY2wMxugc
+ENsHEkIBh9jzOFnvRDP1K0T44ZVR4l376Qm3nb2ULcvTA1E2Dq5U0H3t1AuniPgCP
+D62RRZOp3ZH+5RNQnsMHPL87eyK0XA/VAT7wQah9GnL1d54ocXDyDrVGrJXEiq8dN
+J2Zrd6Dd/7TAI1lcPuwUv4BxPP2o2ecsFVC2wi49v/HNPwrpGaRIocVG7XB2/tQvA
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-11-03
+ * Revision 2022-12-18
  *
  * Changelog:
  * 2018-08-01   1.0   Initial release
@@ -39,6 +39,7 @@ Q==
  *                    Cache file location ~/.last_ipcache is now preferred
  *                    A token for ipinfo.io can now be provided
  * 2018-11-03   1.2.1 "system boot" lines are now excluded
+ * 2022-12-18   1.2.2 Use the new cache directory now
  */
 
 // QUE: should we allow usernames to have wildcards, regexes or comma separated?
@@ -55,32 +56,6 @@ class LastCheck extends VNag {
 	private $cache = null;
 	private $cacheFile = null;
 	private $cacheDirty = false;
-
-	protected function getIpCacheFile() {
-		$homedir = @getenv('HOME');
-		if ($homedir) {
-			$try = "${homedir}/.last_ipcache";
-			if (file_exists($try)) return $try;
-			if (@touch($try)) return $try;
-		}
-
-		$user = posix_getpwuid(posix_geteuid());
-		if (isset($user['dir'])) {
-			$homedir = $user['dir'];
-			$try = "${homedir}/.last_ipcache";
-			if (file_exists($try)) return $try;
-			if (@touch($try)) return $try;
-		}
-
-		if (isset($user['name'])) {
-			$username = $user['name'];
-			$try = "/tmp/ipcache_${username}.tmp";
-			if (file_exists($try)) return $try;
-			if (@touch($try)) return $try;
-		}
-
-		return false; // should usually never happen
-	}
 
 	public function __construct() {
 		parent::__construct();
@@ -105,7 +80,8 @@ class LastCheck extends VNag {
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-v] [-e] [-u username] [-R regex] [--ipInfoToken token]');
 		$this->getHelpManager()->setFootNotes('If you encounter bugs, please contact ViaThinkSoft at www.viathinksoft.com');
 
-		$this->cacheFile = $this->getIpCacheFile();
+		$this->cacheFile = $this->get_cache_dir() . '/.last_ip_cache';
+		if (!file_exists($this->cacheFile)) @touch($this->cacheFile);
 		$this->cache = $this->cacheFile ? json_decode(file_get_contents($this->cacheFile),true) : array();
 	}
 

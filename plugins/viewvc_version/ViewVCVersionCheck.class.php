@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-O3yOuJ0uY8SaZtsrvzay90oQ6sp1M+CxL4k53lThK/mXA4x6XNuTX1K8OygUl0swc
-+yV3RRKNVNaLXMxKBOhRVC1SqJi5jDM+/AN0vJ2j0fjYcc0mXbuy4amScMq0wFBBq
-0Kf2mqWu4QtZiZ6PQo+SoUuoR5QsN4IQkOKdj7cdluNFClt6uar2ZPNEGeHFGt0eT
-ddCEJf13rjkpta4FUjjPr1eN2uWE7qFIAqgYbx1tW7+fX3iFOOcnd9F85hbvGQhpY
-LJgFwwsFbfgH26E54Za6ynVJ5yvZ3FBFItO/UMtuiAqjFgsv6tmU49B7NxzzFeAln
-xTPhhF5SILLJr/aKkMhNd1vWup4s6ZW+HWlwxd5kRdNedGPiWExZZuGDfdorycLLo
-kiP2xEHVhMFlOFtBsprOwF8ZjkQ8Jhak+MmUyXIPyhPUPWIyow8kttnBhw2QNxwI3
-9l/7Z/HNj+XYcJq+lRPLG7CGzmD6xBDgjhLMVGTb2ZSqR6Y0YVpd8Wsq7zhok5538
-YhE0jtLjaX8U99Y5l9hwJnLZJH7POHbmR5GFAyxZdH08E+nboIwlV5LJrFYb6odSC
-S2zWC1PCr3fvSErp9ikEE+GKvsvDviYymcR3rd8xxlsUFi8N/gOKgLY1cobY2Ic2s
-jtdinhvnoKU8Fmmc9qUUNJcFS2dyM3uv1CSvYJp0iFcMqEZ3G/FcM3/octYhl1hl1
-vPJRe+0Xm9O0T6VqhWNvAf6MjJ2FQGMRAKWkP4NGuP1jOkN3yU0GjP0nc3ZXY92r/
-wGnYqLTFh4c3WiGRjNJOmWHqSy1QCVKz13lqVTa4/g6RK0dNVphvTjCcpB6/VCAtw
-II0K/y1ZJ0JmhWUbN7JXULyB1Ghy00WUZa3XPZCfCGWqVT/KtPkZgL/8zBzg+NFkF
-ZNINJsjM3aFebt2yeUn5E13WCOCFsm6fqhhtNBe14tn2b/AEew4gZfuitFuvbPtY/
-gPSqg8EnJ2qmoGJEQhgmkLdmklBLQ/Xtyf68kYFGeoRU/IPVnsODqytvS/J23v0vF
-f//VIjpE2vmrRi7aE1QmnT+JIKqq1HZsUPnuEjpIWhdH1W+sztLSbYHTmVG89QOeT
-cQzGPitGrPgqqSuVJo0q/zYdXDjE+Y6kbIj8QrK05N6MfhCeund5JvTab7AQlg51n
-BSNXZFMdena5C5QTXGwU3BQwBpvr92YWCj7EXzGU8N5XTDULiyInNNZ0xOULA+AXP
-aV79sQdctyrWEkll9ykl00641y3jdJl0b3FzFy87v9OoRLj8vAsvy2cUmRykRjyJm
-Uc8V1D7xjhvuxa5APwrpcaULIpOSiC3upgmNYlZIODV2CKixY5csoo7Ka2wnAttss
-Q==
+CmjFiZLK2FpfPQ5dciAKEBihjx7LF9tbFssLowaSzj20S0kXMd/vQEZTVivanUr2+
+sCRxMjiFbCZT2X7YurXKAvvr2i/Rdh5lyedBddXrwrbhrGhomKtE/iKGHsJuUIyNs
+1GEOY8m+mQD5Dxf7GFE4xdGUkr8wRc/whKv/f4VTVm3S1PCBWlEfv3RHqfkOw0x1d
+g5Yo30yTk5nEGZuoxRjCQPkXgvPLHoiRcsKq22xzZdCREL0ujlK7AGWuPIVOxk7q8
+qmtzF48LIfsewV3O6U4uW1yfJyqwbHFtMCpePxHKeuTkkOs7ZLFwEL7vOaKvMwKcf
+F70BW62yltBl02IliqsCIluQ177KXf2RiXduj19sU71Gb483J1JjK2/wu2SNJg6oH
+GEcaQ2bwOA+Ymj4EmZsczTJLmKuf0fPYVdUFY1gzpmAg7tyT6HO5r9SgIw9Yfcbbq
+ExcCGFMYPVMWG4ahddZDDjGhbDlXbFhRikzO7EOvea0K1IWb3moavg2GOCtDkQy7B
+YnErR/3sL2q7bzaAW68Rlzg6jVm/DGH1apx1+FLFr+DEoFs6TS//JW8sDiqCcoU8S
+K72tyWsN3wz1qAVoFn5inm/uqk8mV+rlht4jBoTnYedz1xbdequkPCX2Y2UCMEp00
+PGf4oP/oUJ5UwT3/AC3XX+kDNDIDEOHQtzIhTg4CPnno2Y21uULgVb94RPr8zJ4gV
+LtWZd6B5vso9LJJaOrYgL5SjkVxLfMEJvOQV97S0ZTsbZ4gYjBzRnBOARmsz5858V
+YFdvv6i3xNdPbF6NH3icQIZeVScKEdBPd48d8nSBx4DSJQlzuSYv4ANc+YH+adDv+
+52jk1o4d73vvraqcwSWHWIE1DB3ma1DgDfCiCUqubboyh3OxgNIshEZqClNE6xDTa
+v1iViJbS4j76tpGmPyFFba/tzIoJigBfECYAIDEmQlKLui/18tSeZizymQDHySLpj
+yTQir2F2HyVFYE/CH9RV0QigP+Vx+g4uXEN0OPGCE7Lh6V/d6Yg5mBuYWHd0z53+Y
++HoE0bPGcAkRKSPLWQe8Nk5yDnJPyz7sG9XHpvoRl2NxDhW78Xr6yFhhGuHu0W92K
+4xiVRCd8UDWdmrv8uwUdubP8bPtDsTdll6MGVZj5zr1n/tI7dKj8M0FITpW0o0o8u
+rpc0NiH0iu/NRTzeqrGehA14SOrM/q63+jpX76iCBIWJG2QXvyd/lBdfNI/SASN6o
+Pat9Itt0QC7YH1g9/15d1rcPxVEZua3m+rjMtdqnyRgLQqEH6DWkDW1ixnX7EdVnP
+0kiVuMKY38aSkTfEAcG6utYsDY2LY/AkOvOItfXBMuTxiddC4VffmissJHHP+Y3jl
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -34,7 +34,7 @@ Q==
 
 declare(ticks=1);
 
-class WebSvnVersionCheck extends VNag {
+class ViewVCVersionCheck extends VNag {
 	protected $argSystemDir = null;
 
 	public function __construct() {
@@ -42,35 +42,35 @@ class WebSvnVersionCheck extends VNag {
 
 		$this->registerExpectedStandardArguments('Vht');
 
-		$this->getHelpManager()->setPluginName('check_websvn_version');
+		$this->getHelpManager()->setPluginName('check_viewvc_version');
 		$this->getHelpManager()->setVersion('1.0');
-		$this->getHelpManager()->setShortDescription('This plugin checks if a local WebSVN system has the latest version installed.');
+		$this->getHelpManager()->setShortDescription('This plugin checks if a local ViewVC system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');
 		$this->getHelpManager()->setFootNotes('If you encounter bugs, please contact ViaThinkSoft at www.viathinksoft.com');
 
 		// Individual (non-standard) arguments:
-		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'websvnPath', 'The local directory where your WebSVN installation is located.'));
+		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'viewvcPath', 'The local directory where your ViewVC installation is located.'));
 	}
 
 	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
-		if (!file_exists("$path/include/version.php")) {
-			throw new Exception("Cannot find WebSVN settings file at $path");
+		if (!file_exists("$path/lib/viewvc.py")) {
+			throw new Exception("Cannot find ViewVC settings file at $path");
 		}
 
-		$cont = @file_get_contents("$path/include/version.php");
+		$cont = @file_get_contents("$path/lib/viewvc.py");
 
-		if (!preg_match('@\\$version = \'(.+)\';@ismU', $cont, $m)) {
+		if (!preg_match('@__version__\\s*=\\s*([\'"])(.+)\\1@ismU', $cont, $m)) {
 			throw new Exception("Cannot determine version for system $path");
 		}
 
-		return $m[1]; // e.g. "2.8.1" or "2.8.1-DEV"
+		return $m[2]; // e.g. "1.3.0-dev"
 	}
 
 	protected function get_latest_version() {
-		$url = 'https://api.github.com/repos/websvnphp/websvn/releases/latest';
+		$url = 'https://api.github.com/repos/viewvc/viewvc/releases/latest';
 		$max_cache_time = 24 * 60 * 60;
 		$cache_file = $this->get_cache_dir().'/'.sha1($url);
 		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
@@ -95,13 +95,13 @@ class WebSvnVersionCheck extends VNag {
 			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. B');
 		}
 
-		return $data['tag_name']; // e.g. "2.8.1"
+		return $data['tag_name']; // e.g. "1.2.1"
 	}
 
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the WebSVN installation.");
+			throw new Exception("Please specify the directory of the ViewVC installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
@@ -113,7 +113,7 @@ class WebSvnVersionCheck extends VNag {
 
 		$latest_stable = $this->get_latest_version();
 
-		// Note: version_compare() correctly assumes that 2.8.1 is higher than 2.8.1-DEV
+		// Note: version_compare() correctly assumes that 1.3.0-dev is higher than 1.3.0
 		if (version_compare($local_version,$latest_stable,'>')) {
 			$this->setStatus(VNag::STATUS_OK);
 			$this->setHeadline("Version $local_version (Latest stable version $latest_stable) at $system_dir", true);

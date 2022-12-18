@@ -32,7 +32,6 @@ VNAG PLUGIN OVERVIEW
 | website_monitor           | (Discontinued)             | -              | -                 |                                                                       |
 | wordpress_version         | vnag_wordpress_version     | No             | Generic           |                                                                       |
 |                           | vnag_webreader             | No             | Generic           |                                                                       |
-|                           | vnag_websvn                | No             | Generic           |                                                                       |
 |                           | vnag_disk_running          | No             | Generic           | For monitoring disks which do not have SMART functionality.           |
 |                           | vnag_pmwiki_version        | No             | Generic           |                                                                       |
 |                           | vnag_gitlab_version        | No             | Generic           |                                                                       |
@@ -41,6 +40,8 @@ VNAG PLUGIN OVERVIEW
 |                           | vnag_hp_smartarray         | No             | Generic           |                                                                       |
 |                           | vnag_minecraft_java_version| No             | Generic           |                                                                       |
 |                           | vnag_aastra_430_voicemail  | No             | Generic           |                                                                       |
+|                           | vnag_websvn_version        | No             | Generic           |                                                                       |
+|                           | vnag_viewvc_version        | No             | Generic           |                                                                       |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
 |                           | vnag_faindex_ts            | No             | VTS Internal      |                                                                       |
 |                           | vnag_bulbcam_*             | No             | VTS Internal      |                                                                       |
