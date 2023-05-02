@@ -29,7 +29,7 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-05-02
  */
 
 declare(ticks=1);
@@ -60,10 +60,9 @@ class MinecraftJavaVersionCheck extends VNag {
 			"Accept-Language: de-DE,de;q=0.9,en-DE;q=0.8,en;q=0.7,en-US;q=0.6",
 			"Accept-Encoding: none"
 		);
-		// curl 'https://www.minecraft.net/en-us/download/server' \
-		//      -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36' \
-		//      -H 'accept-language: de-DE,de;q=0.9,en-DE;q=0.8,en;q=0.7,en-US;q=0.6' \
-		//      --compressed
+
+		// TODO: Version is currently not shown anymore: https://bugs.mojang.com/browse/WEB-6497
+		/*
 		$ch = curl_init();
 		curl_setopt($ch, CURLOPT_URL,"https://www.minecraft.net/en-us/download/server"); // TODO: make locale configurable?
 		curl_setopt($ch, CURLOPT_POST, 0);
@@ -71,14 +70,29 @@ class MinecraftJavaVersionCheck extends VNag {
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 		$cont = curl_exec($ch);
 		curl_close($ch);
-
 		if (!$cont) throw new Exception("Cannot detect latest available Minecraft version (HTTPS request failed)");
-
 		preg_match_all('@minecraft_server\\.(.+)\\.jar@U', $cont, $m);
-
 		if (!isset($m[1][0])) throw new Exception("Cannot detect latest available Minecraft version (regex pattern mismatch)");
-
 		return $m[1][0];
+		*/
+
+		for ($page=1; $page<=2; $page++) {
+			$url = 'https://feedback.minecraft.net/hc/en-us/sections/360001186971-Release-Changelogs';
+			if ($page > 1) $url .= '?page='.$page;
+			$url = 'https://webcache.googleusercontent.com/search?q=cache:'.urlencode($url); // Bypass CloudFlare...
+
+			$ch = curl_init();
+			curl_setopt($ch, CURLOPT_URL, $url);
+			curl_setopt($ch, CURLOPT_POST, 0);
+			curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+			$cont = curl_exec($ch);
+			curl_close($ch);
+			if (!$cont) throw new Exception("Cannot detect latest available Minecraft version (HTTPS request failed)");
+			preg_match_all('@>Minecraft: Java Edition \\- (.+)</@U', $cont, $m);
+			if (isset($m[1][0])) return $m[1][0];
+		}
+		throw new Exception("Cannot detect latest available Minecraft version (regex pattern mismatch)");
 	}
 
 	protected function get_installed_minecraft_version($local_path) {
