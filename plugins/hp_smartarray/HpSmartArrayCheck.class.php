@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 g==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -107,7 +107,7 @@ class HpSmartArrayCheck extends VNag {
 		list($ec, $cont) = $this->ssacli_physical_disk_status($slot);
 		if ($ec != 0) {
 			$this->setStatus(VNag::STATUS_UNKNOWN);
-			$this->setHeadline("Error checking physical disk status: $cont");
+			$this->setHeadline("Error checking physical disk status: $cont", true);
 			$ok = false;
 		} else {
 			$cont = explode("\n", $cont);
@@ -116,7 +116,7 @@ class HpSmartArrayCheck extends VNag {
 				if ($s == '') continue;
 				if (strpos($s,': OK') !== false) continue;
 				$this->setStatus(VNag::STATUS_WARNING);
-				$this->setHeadline($s);
+				$this->setHeadline($s, true);
 				$ok = false;
 			}
 		}
@@ -129,7 +129,7 @@ class HpSmartArrayCheck extends VNag {
 			if (preg_match('@Smart Array (.+) in Slot (.+)@', $s, $dummy)) continue;
 			if (strpos($s,': OK') !== false) continue;
 			$this->setStatus(VNag::STATUS_WARNING);
-			$this->setHeadline($s);
+			$this->setHeadline($s, true);
 			$ok = false;
 		}
 
@@ -140,7 +140,7 @@ class HpSmartArrayCheck extends VNag {
 			if ($s == '') continue;
 			if (strpos($s,': OK') !== false) continue;
 			$this->setStatus(VNag::STATUS_WARNING);
-			$this->setHeadline($s);
+			$this->setHeadline($s, true);
 			$ok = false;
 		}
 	}
