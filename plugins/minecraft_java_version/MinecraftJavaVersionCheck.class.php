@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-R1byw31mTTINoOFpCUaDZk9PM8lgAl7cFUGkK3R+yrE+NnO5O3OwOyY3XQcOV2kSd
-d21IoZozk4drHLRhiDzodcjBas3+QfWpKVwfxjX0vkgtgIO38a/AhR4inB/dLiLQx
-Wi8xTyFJdmfOKP5QH0mlIAhhM5RccMTV14klhw8g+l4VPMlS9jjKbSIX/1T3+EGnk
-iAs8SWn5YiK91gMLCpQwvkDeGZjk9usuUnplW7UmhEs1fRXU0byNC3VX2sdSMIoPP
-OziyMTzuJIsOm1ihFY34V2093JAWKWLgS9pK4jhXZ0amqIjwh+4PAnNXK8My9QkCr
-7z7WB4r1ZuVGCRMW5q1DD8hdyzuo4+Yn8wmrzuYsnFbcZtpUtxSedTRQyoFgQLMWx
-oq9txiiqjbNUeRCRJ2SJvzvP6niDK+Yqb8ElkcjzN7HButAok3DQDhXdfCqbAeWpQ
-z/4vP9ruYoo3YHIxnXXLJyrSSbklsCPHTEDqpeSq2zty+/1Z+YCpY1YRTTlzpv9V6
-csChl5vJmXdyJrpKTHEOjbyJPhhW4MJoJMjyIQ7zFVZTssLhMPGuYx5VRcUJ4PBhO
-iSQilZlSG8NR3wxnAXP1xEFNtZbbBW+C3062/+tvwWATIFuhBuIdQyAmDr30mSaKm
-PmgWft5w9khqRlM4nJe5g+P2p5GG5JgrzoVM6FnhKRH+XAjlHavZAPlucTZ1X3S07
-5ZkED9IQzOREIE73mshS/j1bATWrEQFdiWJCohN4L2QhIyVORzXJQztAkvOzjSqVE
-s1vMsVLTmJAB6pzt8RLxqE0NAlzyF11l/9v1/LdxfScmPFt0CDcz2etBVM1yFWEtz
-9RDguHEytq4z5dXvojoOUHvhLFVQGC4jH+k0iaooc+EtaU3/R34knaJGJppOsA03y
-dkxDtv/T2iKwFCXTB3vF58fl2wAJXxnubc6AT1UgQJSHMNRvppkhUpFUcxdYc4e7Y
-lkG7fnbxz/Fvxof1p/H1lPfTPSNxoJqn1Ogeb4DcW3XhKbe51R9X6FgMUeOE4NmoG
-CJx9Bfs2gXhe+iU62GDUOzgAp+IMoE7Vjw8vQqTvfWqvIvSDzIR194o1ajZ0I2yEy
-B3VbLvLP12ppwTI2MkhMipU3k+VlPo8Wxs0FKMSNlRxIJ5rUspnspgPfsgX4Iz7b+
-SCIejj5xCDZb/EbMzoAaE+rzOavtf+uhPZv+/HecrSyVff4VxJsfbNueLRgaxdyBm
-2FHJHaaZfGxFBUdsV70C4zHNFItmkgiqXO4JGgJH2T6rd+0uRkutLs9ko8MSjwCvi
-QkRrAii8ODm2ryWJXahOAVWERPIcvyahd2gjPeseOUZgKBnSFh3lxG3bBdhuIG9d8
+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
 A==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -74,10 +74,16 @@ class MinecraftJavaVersionCheck extends VNag {
 	}
 
 	protected function get_installed_minecraft_version($local_path) {
-		if (substr($local_path,-4) == '.jar') {
+		if (strtolower(substr($local_path,-4)) == '.jar') {
+			// Single JAR file specified. Search it.
 			$files = glob($local_path);
 		} else {
-			$files = glob($local_path.'/server.jar');
+			// Directory specified. Search the server.jar
+			/*$files = glob($local_path.'/server.jar');*/
+			$files = glob($local_path.'/*');
+			$files = preg_grep('/server\.jar$/i', $files); // case insensitive, for Windows
+			if ($files === false) $files = [];
+			$files = array_reverse(array_reverse($files, false), false); // make that array keys start with 0 again.
 		}
 
 		if (count($files) == 0) throw new Exception("No server.jar found at $local_path");
