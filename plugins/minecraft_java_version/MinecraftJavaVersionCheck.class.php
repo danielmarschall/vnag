@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 A==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -54,8 +54,18 @@ class MinecraftJavaVersionCheck extends VNag {
 	}
 
 	protected function get_latest_minecraft_version() {
-		$cont = @file_get_contents('https://launchermeta.mojang.com/mc/game/version_manifest.json');
-		if (!$cont) throw new Exception("Cannot detect latest available Minecraft version (HTTPS request failed)");
+		$url = 'https://launchermeta.mojang.com/mc/game/version_manifest.json';
+		$max_cache_time = 1 * 60 * 60;
+		$cache_file = $this->get_cache_dir().'/'.sha1($url);
+		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
+			$cont = @file_get_contents($cache_file);
+			if (!$cont) throw new Exception("Failed to get contents from $cache_file");
+		} else {
+			$cont = @file_get_contents('https://launchermeta.mojang.com/mc/game/version_manifest.json');
+			if (!$cont) throw new Exception("Cannot detect latest available Minecraft version (HTTPS request to $url failed)");
+			file_put_contents($cache_file, $cont);
+		}
+
 		$json = @json_decode($cont, true);
 		if (!$json) throw new Exception("Cannot detect latest available Minecraft version (JSON invalid data)");
 		$version = $json['latest']['release'] ?? null;
