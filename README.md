@@ -16,7 +16,7 @@ Beside developing normal Nagios/Icinga plugins (PHP will be called via CLI), you
 Pre-Installed plugins
 ---------------------
 
-VNag comes with following plugins pre-installed:
+VNag comes with the following plugins pre-installed:
 
 - **4images_version**: Checks 4images installations for updates.
 - **aastra_430_voicemail**: Checks Aastra 430 phone system for new voicemails.

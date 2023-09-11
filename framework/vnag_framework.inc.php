@@ -1,32 +1,32 @@
 <?php /* <ViaThinkSoftSignature>
-QoZ88Uk+0bsqwHYjMZ5dp5xPx6r1En9+loEwswsXD8grSVXtxqkcuW/iu7bJNusTk
-aufV9B2vIRXketty/Elm2F19KtbS9egj8AWXQ76RUfJ7hDVdzfvABjKxpLxNzb1SN
-wn3Fa2t3V4Li/UEJlSoNUtmMSWYpULwwpBQeZPjCtF6iRwP6nUgFQczREnuYKDO7W
-S43iFGwAQPHZ3UgGQDxO3EBNZn5SzzgngwhIegSYVKVV2oQjUHD0Qnp7lDaJIwlE0
-4vq2Mo/TiltvtryEiwn6xJbs67+qtC8FdJKIzy+q6TnHN122Zrk+qwoL6MqlFhvXv
-mMHtf5bc/0+4BpT30EjNtHWpDmDae9uFO0fjeotMGAnhG/FAHqiRvHPYL62xyG+of
-3kooFcSVXYcFjAnIWMoGSOl7VcJ4yRgO3sW6atLQmSQG5vEBTP9ZzLXbd6NDSxuVa
-5Sse9JGELVW+tAUJux99LpMveKi37X6frXJyPcVdrsz68vqtQrTOwKq5yZ3dEfAVM
-H6sjhMh4tGCVI88jak6TbRIzNgae0xT0BegBE5sxYxA5+ZmwqBuFNYmUtm1rsv/Q1
-SQy+i8uvS7DdVo29ZD/+hn3ebocOx8GEA5jXzJtKik3IgGHlLF5XFycoRbSt72z2/
-Ik6PK4osg2gQnTUY0++XLdGejEg3Mja+aOvSyXDd+gJbT3ed1Fsv6CXmIa2cmt82c
-P2YbR/Eqbxu22lKXVq0iqnN2vigtOvUIHey4Mi/A0zzCYBARBzMMzlahJQH5R24ub
-y63OylvBLtuu66PWB1ebZnnPLEzBdU5YzFiHkS+xTgDqjNB4BlTGmHwGbFujWUcwi
-JKUbPBjFguVetaedI6kMe5D6BMdK+UBk+rhV3M7u0r/nV6S0RqK0tOKZSmZMhiECn
-GKgMPVoiroN+DLSC6dlc/uVMdLD6pJHmcNht8ExAwe214w9Afr/uNCkrpJBX/B3gu
-sLtBmAlXXUiHCXzD+uN1/QK1ZG5npIgPodDouWDg8nSnokK4XcxqqpfnUSk67qeu7
-r0wIFCRCLyBceUAeGSZyqgQyP8wZ6A6+9+or/jey0E/pCDUhqB5gjVyYrp8UNG54X
-EHv/hM6EnaoZwbOptxKkVwkzXrT1Fj2W6BfnFme6xSqSi7MkkDpfsVoNYqamabWGp
-A6Pn/wW4XdJdoUOZ4hVR433AnQl0Yl9u2qQwUO/nFtNYPSxitH6h8CMjN0A1OzZje
-IBUfyPrItQhMAUYBOewxXhqbRF0NrNxW7zHBtDn7jmZnJFzM0d0JGmTvBIwVr5nxD
-OxPQ+uJpangO69Nx1KTWTlwmav8V3lfcS2rJrh0s8N+A7CBgZ+YqdCgga6mt+JEMe
-Q==
+UKoF6Z0T9jlHfq7rAGW4ECi/PYJOQ6Cc57SfgHXGux3c+ve8T++uihQgz63HCF10W
+uqpwgkc3XZ3nPyOhnmQf8pEvD1rQeNFH3xkRD26/CWYvRk5qgDdsG7393apWW1bHt
+2+pt8LIa5+8lvJMPnyB+eOGMNV0Vfn22SUTVpO/uiWc7mdiko6Rebf4mG4AmHZ0Ih
+AeDBkDgyttU8bkcLzMulrkdNr0/FjXoOLGT/qtmfUd4RjYxybqpIksha4uPIkZ8XR
+zYkjfpezPUlO8qSD8DutIrSyMSNQYoA3fn5QaXr/G0LpODBp8Ln+/zrO1LqPFKidQ
+3KMNKzZpYrUo7cizYxod0woh0SNXRoPSGUtZK9Qvqko699jYysQSOLezmCB8s0VGL
+AW/do9Ev5y47B374uvOc0BjeNKCM1iS7/q+Mt9p2VT25Kz53xletL4uoUmx0rqRqJ
+XV4Im7MAZOQQE66hSfIXjUaX9iRRxo0OxYY9eQjpImsckuV7QUdXqPw/QexpDghhp
+Yfp3NFcm6lewzZz9mbcLJtCP+GMuqHnn9Q+BNZdcDNIBp9D8AdJ5hl5vU5g6N6QaW
+yUSGiBtOVmr+FR0UHufvIq0FUG2qGVhkHpZgMQRzbuN49ED0trdAbfyiZpj0hU3ae
+2/Mar7j/hVqbQ5wCqQNQH0J2O5vkWBK3XyuX+h6BghSLwh74fyIbxsiayrjPYRFjW
+eMEurQhKV5y4Q23uNrTb+/8eHhfbZC8oWVrb2SX65Unmr2z0zEwZfaLmQ3que9DvR
+/wE6VNHIF3Lj+0kX4KkhM69Xs3NM2xBSTd8WG/VWmAlDa54Pm9gvXsO9t12PJP3BJ
+Gkfnea37MHNpRCtmZoccgoHmBbUt14KNvJ8EC+O9OapMU0tl+pxT8Uc/8W2f9QDK2
+wRj0wf3VIlCPnf0pzQmr/t+EYCAU6imG6U9LrLt6G6JcUsZy10K1pIKLajpegznpP
++cBPuVssIX+wRyVkB8YYY0qAWKl/svmRpEfRNucjvcxc+38DF/NIvTLgj06+r+a6P
+tUq0ce0H8/De+0olz5h/NcvTr+7YC7Pn4fwk+OZnlTfW0Fs764JPQObcmvAgquLKk
+EBSoSLZODN50NH4Q/OjE8xa8aT7wHFNt0bHd1qdDjEup+3VJrEyyN4oO/LOlpDRkM
+Gl7sc3oLNXP49ASz+QEaxcJZ/N60rvRB+xwnvWVpYmu/zOp63IFhd2c2cmelDzI7f
+4xfXT3aFJZaGQi3NRKVzT9Pti2EA0PPD52unTMoYbh8C2fofCpw4Z+5td/wLLgTLH
+pz1x1/GYfX/NxmLhz/Xo4cES0mr7/TddLNBB3AQs9P2z6iIUID3cL0duaPNJ5W7FS
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
 
-      VNag - Nagios Framework for PHP                  (C) 2014-2022
+      VNag - Nagios Framework for PHP                  (C) 2014-2023
       __     ___      _____ _     _       _     ____         __ _
       \ \   / (_) __ |_   _| |__ (_)_ __ | | __/ ___|  ___  / _| |_
        \ \ / /| |/ _` || | | '_ \| | '_ \| |/ /\___ \ / _ \| |_| __|
@@ -35,7 +35,7 @@ Q==
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2022-12-18
+      Revision 2023-09-11
 
 */
 
@@ -343,7 +343,7 @@ $OVERWRITE_ARGUMENTS = null;
 
 function _empty($x) {
 	// Returns true for '' or null. Does not return true for value 0 or '0' (like empty() does)
-	return trim($x) == '';
+	return is_null($x) || (trim($x) == '');
 }
 
 abstract class VNag {
