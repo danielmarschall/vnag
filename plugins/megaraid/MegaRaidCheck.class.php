@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-x0TUq9AscwEzm20qbzj5jrBoiQchEvHi00gPikIfDMz66iw1W2/4y8yLDOjOX0AV9
-tbIXflk2weq0JcUeJPVH9k8TKqt3Oqh8nobvSjhGmO/KxG/QiDVcw82lER9ZDVcc7
-OhB8nsWDQ2xxkfgv4ZEv1rdmLP0AuH5tEHv709eVGYWZf5Fd9EFJ++TtKS16lwim4
-AUYIOYPCTjbD/J+7KtY3uxc4QV9am+EyLRIkeBeo1UcjccWhfh7Yw8OfTh0RDinzH
-1rkMCRC4cSSVXQlkLOfJkPSNrgwyZ6i61hB5W3CwFFefaXEkzQfcwtQnz9GrzK5U4
-6LV+gHa+QSaSSoyBg4VJ+kYhyfzXHR33LTURSnSHZpdjzQ+cR3SVDxUhJNcx1b+yj
-Zhl4hwlskI83FVLweCjz3lcGD259Uy62WOYwZFOMjpUVjyKfloMRJFsoqOKYjxv9V
-9SriY8A0GDaWq9XML3CuUtSs2hPAK024uxMY8NfppLi7F0jEioOwyILekWB/HioYa
-8JAyRvDqgUCWWU10Uw7PlH1RUmkbL1bcMmiD29BxZh+rp/dJ/IdZ0BCUiXtcs5jgR
-K4STam7277Fh3Ok5i1n/TkHM/Mk58ro/6HmBKpPnlMn16Z/dPzQXKlsIT/swRyIX9
-G+hTijkSgtBa2QJ30OQr1+EM4l0sGSlE4hb+DbWwmplI5yz8asTKlE7DNXonPmNBz
-9WUsAzsxQIsgaWY3tBHPss/shcOIeuotAsuoquhdnhBbcr6tAFDIuDsG4EqoljpBh
-b8yIjNSJdy+d7lBK+tY5u8zBlN0UO8A4E5pEKk+YvPrMV+O/Hu32ZH2y+DuvfWojC
-M60ueYnQ4+hbczVLVTnjkofyCbkLxCZHoUyLoVsdyLP7ViOaAZiriZnO5aXT5WPfG
-b929o+LO+sP37d7UC0Npl/j9GJeIcLxqZcTO+XBt5tHwVtDOam+H/WW0FuZUOo2bQ
-Ex1MM9EKoUhfcTAdD4mlgcLKLqRvZIvDLSxvAxkEsBlSP8pA4QJGcUP9Q4X+5dgdg
-UFpn6i94DGA5CLtfzRRtZXQ5ynZyIxOU893kd6ZLQkPhi5aRuBUWDGAktgPfWUphl
-+Ht75rsaU2kd1nwaeH/90Aftxzek/bBtSHR7EXK5nBESw41SITuAdVrr6wi5VSqjy
-mqeVW0cPax89e26uqnwBTP+RuZ1TOy8eDAV+2KwQKBtS9lIw2M/8e3YsSfcT15tZX
-yQ6sk/UXculG71x796oNAdu8mSLrN03WTtO/4qLfIcX2/MunIm0MwudzYa+fzHzWh
-nkv8NryrsTKNAKl00WCJWlSJeTgDSY/jHeJUWDzJijkZHA8daZyCOUwL79przBhC/
-A==
+jq/ej1RUUthsz1FZirM8duHgne60T2KTbQhO51DfGBEjFOFE85A87oHVBm2AuqjwL
+5FpCdrGNPxR0bSOOrVg5Sa7sgg/L2x/c/XltvFiWd5PCp3xX7mH5Q2g3G3IZtRoYB
+aNOxv4dadjGHr4tqw2y211Nb9/dsSm0K7+zRXu5jJGki7T6mrVSc0FnYNE+1IL56A
+Pz55VEuqzIhGfpe9W80mzx7j8naQTk9l50sF5MrYNhe7sypVpaqPzdWuvCe2xJ3x2
+ui1Z1hZ0tNHcGpyqtB2SYj20E7du9q8ApCS530YSLjvOlttnDQOM8FCEiBJMaqo3K
+ZAjRgUeiS8WRwfyIg5FaT+4fojL/zYxW/bbpFeA/5s5IFIGCY6zIt24eaUbryd8tr
+EDa2uj5yDS6Hbg7p+W71kZ393OH8YKcHUEdY3i9ZigkognQfpU427IzqbG8AyQVNc
+SnZI69IomUgPQan7oRB8EoW1JSOjTjoG/uOdJTtr5S2L+Jn8VwScAvnBubwUEFi/K
+7odB2qIyba6M7vB7c1ZuvrZIpncUPCaEeheo49u0hcF9Uq6Ot4HCeuiA/ks9omQm5
+dzpjdmPYk1ESWGT2OEnnLNHDHdKc2zppYlUSEVqoK4wSW+Mz9dOJejuM4WzFD+2N0
+YlaNG0Xxc6622ToU89iAEc1pnjdObl9HhIneLDygoqy+1KP/kp8rJCz+aKz/vznoY
+qt+P3W51tGq53ee0fvhscILuHjLLTlWUhCUizKXIz8xaksM368lQUwPyX/Lt05DNu
+jrGmEGfTc3gE7rHrSHP4CM5gMc2Qx8z9O/klINM/tdFTZ5v6/MuCaqCudBnTFM8Ya
+9y2uOrv8nAy6c6Rse5JnE39TakJ8dg5cym5LlY83ZA2iIF5I3sg7nZv9/EySintwg
+47/AfqdAd/3Oi3pjh2C3kHGe9jUKaBHqjA6CXwmgb+6GccXDuxgeA49UOYEaR8VOU
+QJDK/FN/PsM+lnG5l9IZKuYHbDFvyF6dcwmJCh4ssfhLBuYY5nkmFDlUNCicJnd7t
+HOyDK82jw7Eixyx5n7BpB6lSFa2sfTJb6XEDj4mmH7ZdV2z2HZ9qS9BFCz9/BE+Lp
+pp3dPr/rBMX+r3c4ou/PMuDC+eiGbUy8v53wqUoUdDDJxM1q46fhbrv5zqA64W8OY
+PyEpOkvGBGBLi+yRoclqYAk3mxr/AOyLj2fsUyOavj/i1I7k/F7kuAbHmmEToxsQU
+78DzGjFPNrLvWoqi2EIsaSJuw+9OhJSUFgBikRiT4TP0OIInaZaDzCvEq4X78x+IK
+ICn+us9G5Ay/qnfHeBM1CA8/S+Qc38YTAvA/AHVUEqAgX8yXJG1f6YE8RHM3GHBb9
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -84,6 +84,9 @@ class MegaRaidCheck extends VNag {
 			}
 		}
 
+		$drives_ok = 0;
+		$drives_fail = 0;
+
 		foreach ($drives as list($cur_drive_id, $cur_drive_name, $cur_drive_status)) {
 			if (strtolower($cur_drive_status) == 'offline') $status = VNag::STATUS_CRITICAL/*?*/;
 			else if (strpos($cur_drive_status, 'degraded') !== false) $status = VNag::STATUS_CRITICAL;
@@ -92,12 +95,17 @@ class MegaRaidCheck extends VNag {
 			else if (strtolower($cur_drive_status) == 'checkconsistency') $status = VNag::STATUS_WARNING;
 			else $status = VNag::STATUS_UNKNOWN;
 
+			if ($status == VNag::STATUS_OK) { $drives_ok++; } else { $drives_fail++; }
+
 			$cur_drive_hf_name = $cur_drive_id . (!empty($cur_drive_name) ? " ($cur_drive_name)" : "");
 			$msg = "Logical drive $cur_drive_hf_name: $cur_drive_status";
 			$verbosity = $status == VNag::STATUS_OK ? VNag::VERBOSITY_ADDITIONAL_INFORMATION : VNag::VERBOSITY_SUMMARY;
 			$this->addVerboseMessage($msg, $verbosity);
 			$this->setStatus($status);
 		}
+
+		$drives_total = $drives_ok + $drives_fail;
+		return "$drives_fail/$drives_total arrays with problems";
 	}
 
 	private function megacli_smart_disk_status($adapter='ALL') {
@@ -123,15 +131,23 @@ class MegaRaidCheck extends VNag {
 			}
 		}
 
+		$drives_ok = 0;
+		$drives_fail = 0;
+
 		foreach ($drives as list($cur_drive_id, $cur_drive_status)) {
 			if (strtolower($cur_drive_status) == 'no') $status = VNag::STATUS_OK;
 			else $status = VNag::STATUS_CRITICAL; // unsure if there will be a "yes" or any other output
+
+			if ($status == VNag::STATUS_OK) { $drives_ok++; } else { $drives_fail++; }
 
 			$msg = "Physical drive $cur_drive_id: SMART alert? $cur_drive_status";
 			$verbosity = $status == VNag::STATUS_OK ? VNag::VERBOSITY_ADDITIONAL_INFORMATION : VNag::VERBOSITY_SUMMARY;
 			$this->addVerboseMessage($msg, $verbosity);
 			$this->setStatus($status);
 		}
+
+		$drives_total = $drives_ok + $drives_fail;
+		return "$drives_fail/$drives_total drives have SMART alerts";
 	}
 
 	private function megacli_battery_status($adapter='ALL') {
@@ -165,11 +181,15 @@ class MegaRaidCheck extends VNag {
 		$verbosity = $status == VNag::STATUS_OK ? VNag::VERBOSITY_ADDITIONAL_INFORMATION : VNag::VERBOSITY_SUMMARY;
 		$this->addVerboseMessage($msg, $verbosity);
 		$this->setStatus($status);
+
+		return $status == VNag::STATUS_OK ? "Battery OK" : "Battery has problems";
 	}
 
 	protected function cbRun() {
-		$this->megacli_logical_disk_status();
-		$this->megacli_smart_disk_status();
-		$this->megacli_battery_status();
+		$headlines = '';
+		$headlines .= $this->megacli_logical_disk_status() . ', ';
+		$headlines .= $this->megacli_smart_disk_status() . ', ';
+		$headlines .= $this->megacli_battery_status();
+		$this->setHeadline($headlines, true);
 	}
 }
