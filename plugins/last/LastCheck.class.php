@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-Fm798K8OnhYRk2wZ5LGT1eZv1U9J4+xksI2BNLu4KZxIw2YI06hHPgG9ZkiYp88+Y
-EuW8MeTg1z1ee4f8qNi9ZLLpSyiWEK9sAvJYJeWNq9Nx3avUf10Caa9iU3UQp4cT5
-d2NC00RqKZRtBC5rPZ6u+ZXNoEz1UN6Z3b//FlXtRW1adXqgPpCNhw4HM192iXDld
-5YXYDhEsH7/mF0TJ4bFkRmNG5FDsX9uM0+SD5vZ8VgW4HW0KwO3qJG89QOelc1TmO
-88fFklxG3wmTZU/c1mCOT7tgrl4AVmUamNyZRygaeKWORfTM8m1PrFm86MyGCvLR+
-ZVr8mqtAV5mJt3NR9NxpkxuLJN8qPpEuMzbQV/0MfjsRjdA/bLaXA186maJ7IaS1a
-69+xLqrLbcBn+c4Keej72vAdhSs2HmpPqO6wVTsV24LMVDWgS5IEYDfK5ylHCikTI
-YQesBoQELvXEtKuJI5EJCBsH0uDuIiuL2xe7btJJi8fUYaBHXOW50KoY0HWlIntXd
-UuI/CABDWgVE1XMqUu4xemM6mGoPcZY1V5FtV4A06KtXTEbmqRwileEe12jO3aVKq
-HrOoGY6ZB3gk1AxH7sUeUKFWJ6yS+zzUriEoka0YrJVrBgG3g6yaNDebNU4KVNx+G
-zQalJ6+k0RaWMdysrRy3/IJlDhu9Vt77QRb7twP9c8WARJsGgEKCTwuutlD10Cl8m
-IpJ0CJj4fHDqLJHvXJNb9IH2G1W1YxfmPYqsscfW+n0mVBnp3ZjVo4iuV0Gr4hrS6
-WwBMX6XApPU8shgUwUf3mENE7WY8EKaNpybZsn3OTxAGXnJ2293x+o1Zm29Xv3Ovq
-R9VszqfHCaGq2V51BAPKGydtgF2QF93mL8vwlfqH1v/m/kRujRjLQfYv7T8+6CxI7
-hpXCp9LLsr2KsCNF1B8cxiyBv8fFF1bB9+HpzU+Z5sCIB91XdTs21XaaLHXDg2qJZ
-E9SjmfIK3IqG1AYN6CFsEUX0wCloHI1Ua3XtClBQAJaxbsvRdk0SM0nJjPTxsC9MX
-ZGVlDxPR0RZSA5XD93OYrF28ZWnGMhSyet2zEUSEcLmAKlCO1WJbGzgq9Prd+HvRL
-UJqjbc1FjmPN/ZllnxHiP3/N7Xq307hUmar8lNF4FcLjXcaMzA4umMBUcY2wMxugc
-ENsHEkIBh9jzOFnvRDP1K0T44ZVR4l376Qm3nb2ULcvTA1E2Dq5U0H3t1AuniPgCP
-D62RRZOp3ZH+5RNQnsMHPL87eyK0XA/VAT7wQah9GnL1d54ocXDyDrVGrJXEiq8dN
-J2Zrd6Dd/7TAI1lcPuwUv4BxPP2o2ecsFVC2wi49v/HNPwrpGaRIocVG7XB2/tQvA
-A==
+Dn0TAtS8an72QeGrW4rRe6KqVYdOn1iBSJMs07mG3B21qZSA77cSJqdqIvni4+mQ+
+k3ee/H/eGuu/j6XsdzIRNXk+p+CjfSaXf9jn0VwWXhurSgRzF7uOIbhv3jpKI9mss
+dY4aQVblJiTTKuN27AB7LjqSSmJyEidWDYVe35g79sj76MJMP5Dz3+dcZSlcqhDrH
+6T+uR5aoz09Kzro50iZ3M6n1e4EY9hDJH+Bqdj8kJRk0qGGt+XFHwqEAahJMiE1Sq
+eFZmiwhEBmck70HpC2gcmrm5L3cp5pv7z3UFGXmi2QoKyzZMQKfyw2BD+uGv9uKR4
+LE5sdpJy4ZsHjRzKuKXmu+eLNEh8loDzYzIRBnikk9NV9FrO9Rraw14aVhcRvxY5K
+j3CmReIweYJRqJ9kfEjTh5RMMut33ZazaIw1rgGvKSNq5HVgP/tPc3Nx1RIEmgBu5
+e5gB+ou9i4w01gi+b5Akw/yWsTrr+JE83j1BXWaDXLtenaCRAMGB7/q/kEcFgoJlt
+qSxcMFmvTExlFldfF9ohXlE52F9AVQJv76AYu86FTZH8qQFMn6Z2yL/HHrBJvpEsW
+AsKOWsvKH9x8EZLQKzwuaQRGX01Z936d2V/e7Rb+EJjmUbQ/9TJrpYSzAZB4PCPnU
+YHeWNMwIHi82MDwG+7ey+bF9A0DJyosa0f+tgQ0szpoOJgCXZNm+guCYFkp5rnbWs
+16VlVsqYxn20yFUX3uci7s31ToIqJfLGpZKi1yaWtavhW2Jb6SxuMU7nsaQgsyv6J
+VR2eJ49itgeTpArGWLscTJ9BHDeOjhkLqoVPVWut2XJF8mJTn26pnvIn04997JL+I
+e7FSV+6mtWLae+fh7A/aASM/4PJQhKqBARZtGAsgH111z4iqE4psACt6Z62ekgO7O
+/slAwR+9Je7VT/CZdOoNnShNIYGlVgm1cKnHxAP7H7vBDhMmTbTeZUtdZU2hOAJME
+1C99Q4btFMnE1nW5oB9jQpeKXZ6DEivyNsy7gG+YPqauMlOu30gXYx7V4juAaBvlO
+kGwJ1jpqsaPI4C0o7smkksy6WHWGsRioTgxc+vOBnqOczYWaste5TlFIEaW4KAHcg
+3hEeebMPeNWhgUp/uJnfpEuSt3M89tEhD6Hr1LxNY5dflperss3LeXAtCuuqdT6qu
+STrB6iTCcAvngMfqyZKrnrq1xhraH+b7iC8qpmDZIPM1pjoCTJjVa6DrEmmh/3+mQ
+ZuOwqRNWSmhvMf4V1gzx4py7KCPP+bwMe8fphXG9Qu3Drl0vV13PB1QXzDkMAQ5zn
++LZva+1J5Q33Xu1DH8ih2rqFYdhKYS+Er9KP1iJsTmpFoJHe+b8IXzI++MeL0WGEV
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -131,13 +131,17 @@ class LastCheck extends VNag {
 				$cont .= shell_exec('last -f '.escapeshellarg($file).' -F -w '.escapeshellarg($username));
 			}
 		}
+
 		preg_match_all('@^(\S+)\s+(\S+)\s+(\S+)\s+(.+)$@ismU', $cont, $m, PREG_SET_ORDER);
 		foreach ($m as $key => &$a) {
 			if (($a[2] === 'system') && ($a[3] === 'boot')) {
 				// reboot   system boot  4.9.0-8-amd64    Fri Oct 12 02:10   still running
+				// reboot   system boot  6.1.0-11-amd64   Fri Sep  8 13:10:27 2023 - Sat Sep  9 17:40:50 2023 (1+04:30)
 				unset($m[$key]);
-			} else if ($a[2] === 'begins') {
-				// wtmp.1 begins Fri Oct 12 02:10:43 2018
+			//} else if ($a[2] === 'begins') {
+			} else if (substr($a[1],0,4) === 'wtmp') {
+				// wtmp.1 begins Fri Oct 12 02:10:43 2018   (English)
+				// wtmp beginnt Wed Aug 16 11:43:03 2023    (German)
 				unset($m[$key]);
 			} else {
 				array_shift($a);

@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-ISLdljjtzCdnwu/ldQDVktIeOGgqR6kkmK0B//MwT0fqh8qhLOqyRpLJnVMxaN6Ta
-bfjTM0gb/OhxWiU3+WDI4bN+jwuk+X5j3NVre3JiTKXr39WoxF/aKIUuloeej931e
-mXu1CGjaXC2xp7B20vMkf+wfLNnwebMKvIgceR4Qwq76FRSygPeJtfcWIaG1oWywT
-Rz1laiI5VNRaBHqVjfcdo4zCVkpwepC9SHICrTsD3cfBe+p8t5jsbYd5g2Z6V5u2r
-zvGXA3oZowPTiw+ZnhPiIqdQKshFhEsnfM+unpElkLwM+4a8k+JPYSbNAjhqdL8XY
-CE32SAY2wsH6CAIhOpwRN2p4QDs8Kk0U3EeIq6vONyjP9WYj7SWkssnZtQA/5K93O
-0uLhqcXCnsWKFzwuuDfIQGdfnkyXyoKp55Gbl23KHSOrKhEokwd7fxS1nLAgDGQUm
-i3XZumlRJwPVPaCOcmYwJIGGp8r5+EolOL2g/404Ymogo1B/fs6SAHmoutddnStgL
-xgJqxMmNvilf5TfAGU0RRdFkcXMIjv0fCY5LJWO5Mklqyym9ryZecNV/+KEd1btNH
-IP5LXQGo91eO12HsfwLN6D0ImsKQmcOFFf6Nh3sePFJN+d60C5NKBuW7Pl2TEMgi0
-3bCxzlBtJkfkuCA8cx+N6EIOANUYgbBs0MU9f13VQoPku/0cmFM0n1fpuJ4FdEirx
-i3pEr0WJVOa8LFpnw/0o7EgRy74TFnOna+w6B2dt0VR1AEl8kFEAC1vpjzNEoNbEn
-a71r9gUGfbwXLmqym4w//T01lYgE/g6nyyyjRZFoKx4z78NQOEEKjGGSAR4IL9Kc/
-msO2x7cWsop16o7vimaQad5B48vrE3dQnfI/8r5Zlv7iUZQ654IqFZiR0bCCDlyuv
-u8FOnIcK2koM/FqZydvbqC3AYcoxSCccsogc7KARUMtKt7v4OY2HvTZ7IMudoRmtS
-FfJzwMZHzv/eqgTlgBOoG9xmtdn04nYucEUss9Pyv9eAb17wDa5x88cTldkCacPy2
-ub6eVI9Z2GKSGHpz9+IPY9XwXxn69lVIHmRM2Ngs6qP2lOsseQZmUABt6lXtupv4W
-qlPMjP67OcVFGUgqMABxOm+ooRtUiGeKEUF11qxda9bF993Kco6QLDUU/ggXt5lhL
-qK4+EnLjPpMsqGa/EOe0kcqBS/+Goj/yz7ot50hZTxDWs7lq29VDZqdaYvdKmrYyb
-h169//lL0XytrNCDyZE3WiWUnKvS0nl3gfpOxWPI4vflx2rli8mF56e7COgAASlNI
-K9TsrfGFmZ+yfK4cgHRehkAVq85Ym8KLfoZQOGDRpi/ZVeNHJhRfacyBow5pteKVL
-Q==
+Q5Qtv/JGX2tdxoEqxXuF2TaMaX26SuclN68wP5pYOwMe01/GepIHEZNJU6vFf1JO/
+Fu/OZ99tRamEa1ckOEdCR9R/oiadNqQ/3U56/qV0/9NMbVcaETamUFImUm3ztpvFN
+83t5S0DtVqqVfCQ08UpJCUTsgFbztlOILKK2yfyIPzwK0vQFAza98fRCZfidJTxYm
+xPuThlzLFoVlxyczR5OiCKdwJm1UzZhRCToIbLMU6dIwkx8mE0CBGYcR1sUVBeRoT
+Wjqcz4JN7lGNihUYirTZL7kNTllu6lcGIUIQtDGwLw8vYEeUr3XoGvUKZwQtqd6Yn
+7/Bw9UmDU2/lNHdMtSgzMRVa7m8hXSApdjKxzzvnoK1qU4bBxaiiCAUSBq1K9hfRf
+9oRx5Kea3Jl/uV7aAsr5MMO45CYUxCwPMS/KykTXMAtOe9Yr53GAciQZbxTKCen6G
+Wh1wxImMEoFc2m1axWMqzmvsNJw7ZGODbYGgY351htsVhgTdZLxPJOGt5dLs9zsQA
+b9/+lMyejv/ZVZ5zOLpfIilbAOZaTSh834YNY2PciKIoPsg/umIYPx2ELcsmgtOrN
+nIjvvGBK3r18QBJUN3y9SlEwm9ej62hU/PvQ1HiG+iqtoE86BzxhcUkDn6WUXOlaa
+fB4BgETjG+RwX9Kj+h2ZTTiKqoPN1BlpxlUKrQ9ZTLdpy3PHdkA35N2EEFPcCVdf3
+ada6oDhmPhvhXbcFZ29Ip100I1L4lxHJcU5XCHJzEaMLkIX5nyT1tPZL1XnV5fOyH
+l/LxR/H+t5cvDw4ybqPj11XshtQvxGxkLDyMB2ZUU0mpiUJyxePdAXXPPmOpdO37I
+MCStMGQxqrvIJL/EdQn8BVQuDBKm53lXNMGlt1tEky6w8ikTYd+HfSbt/S3yWQATn
+elVfQfyEB4+GR/bckylsoirQQpiFZONMIV+iCEE7QUFdM7ms933hRP4Pg9rISaP3i
+t7jk7v4Ad1AF9JQLP64cyQdHJaaR97nLYtSYp7WVj9VEMb8WdB21wjBecsJktqdTv
+E/gj8a3X71bheeSMc9ZS4sBGhkTryhEb3R4i6yLyyrCJxc3P2ZSvEvkj7OKmHhlWA
+nKBhH0Ka4Acv82FFu34hcwksCVf1otQlfAP867EoKRTN9Z5gq0ljpj6Qya0OFuXsV
+PVs2h4B4qXqxWD301tYkP6YChHTGLXmo3LAje1OgqOIrivuP7hvZ4v8awaLn/xIFc
+REMolTxoQTw+C7F5NmUyy6/1WgpFCQzKcMGxZu+A/xG0G8SwhY5+tlMtWMGUWupyG
+RTb901U+uuLs7trE2qxfOq567wmYLdXhU70RKxq1yrGopr2CTGK/g0So3+MqRHNkv
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-07-17
+ * Revision 2023-09-13
  */
 
 declare(ticks=1);
@@ -73,12 +73,15 @@ class VNagWebReader extends VNag {
 		if ($this->argPassword->available()) $this->password_in = $this->argPassword->getValue();
 		if ($this->argSignPubKey->available()) $this->pubkey = $this->argSignPubKey->getValue();
 
+		$header = '';
+		$auth = $this->argBasicAuth->getValue();
+		if (!is_null($auth)) $auth .= sprintf("Authorization: Basic %s\r\n", base64_encode($auth));
+		$header .= sprintf("User-Agent: PHP/%s VNag/%s\r\n", phpversion(), self::VNAG_VERSION);
+
 		$options = array(
 		    'http' => array(
 		        'method' => 'GET',
-		        'header' =>
-				sprintf("Authorization: Basic %s\r\n", base64_encode($this->argBasicAuth->getValue())).
-				sprintf("User-Agent: PHP/%s VNag/%s\r\n", phpversion(), self::VNAG_VERSION)
+		        'header' => $header
 		    )
 		);
 		$context = stream_context_create($options);
