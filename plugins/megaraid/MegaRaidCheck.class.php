@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-jq/ej1RUUthsz1FZirM8duHgne60T2KTbQhO51DfGBEjFOFE85A87oHVBm2AuqjwL
-5FpCdrGNPxR0bSOOrVg5Sa7sgg/L2x/c/XltvFiWd5PCp3xX7mH5Q2g3G3IZtRoYB
-aNOxv4dadjGHr4tqw2y211Nb9/dsSm0K7+zRXu5jJGki7T6mrVSc0FnYNE+1IL56A
-Pz55VEuqzIhGfpe9W80mzx7j8naQTk9l50sF5MrYNhe7sypVpaqPzdWuvCe2xJ3x2
-ui1Z1hZ0tNHcGpyqtB2SYj20E7du9q8ApCS530YSLjvOlttnDQOM8FCEiBJMaqo3K
-ZAjRgUeiS8WRwfyIg5FaT+4fojL/zYxW/bbpFeA/5s5IFIGCY6zIt24eaUbryd8tr
-EDa2uj5yDS6Hbg7p+W71kZ393OH8YKcHUEdY3i9ZigkognQfpU427IzqbG8AyQVNc
-SnZI69IomUgPQan7oRB8EoW1JSOjTjoG/uOdJTtr5S2L+Jn8VwScAvnBubwUEFi/K
-7odB2qIyba6M7vB7c1ZuvrZIpncUPCaEeheo49u0hcF9Uq6Ot4HCeuiA/ks9omQm5
-dzpjdmPYk1ESWGT2OEnnLNHDHdKc2zppYlUSEVqoK4wSW+Mz9dOJejuM4WzFD+2N0
-YlaNG0Xxc6622ToU89iAEc1pnjdObl9HhIneLDygoqy+1KP/kp8rJCz+aKz/vznoY
-qt+P3W51tGq53ee0fvhscILuHjLLTlWUhCUizKXIz8xaksM368lQUwPyX/Lt05DNu
-jrGmEGfTc3gE7rHrSHP4CM5gMc2Qx8z9O/klINM/tdFTZ5v6/MuCaqCudBnTFM8Ya
-9y2uOrv8nAy6c6Rse5JnE39TakJ8dg5cym5LlY83ZA2iIF5I3sg7nZv9/EySintwg
-47/AfqdAd/3Oi3pjh2C3kHGe9jUKaBHqjA6CXwmgb+6GccXDuxgeA49UOYEaR8VOU
-QJDK/FN/PsM+lnG5l9IZKuYHbDFvyF6dcwmJCh4ssfhLBuYY5nkmFDlUNCicJnd7t
-HOyDK82jw7Eixyx5n7BpB6lSFa2sfTJb6XEDj4mmH7ZdV2z2HZ9qS9BFCz9/BE+Lp
-pp3dPr/rBMX+r3c4ou/PMuDC+eiGbUy8v53wqUoUdDDJxM1q46fhbrv5zqA64W8OY
-PyEpOkvGBGBLi+yRoclqYAk3mxr/AOyLj2fsUyOavj/i1I7k/F7kuAbHmmEToxsQU
-78DzGjFPNrLvWoqi2EIsaSJuw+9OhJSUFgBikRiT4TP0OIInaZaDzCvEq4X78x+IK
-ICn+us9G5Ay/qnfHeBM1CA8/S+Qc38YTAvA/AHVUEqAgX8yXJG1f6YE8RHM3GHBb9
-Q==
+Tc+nyWiSG99g+rn5Kxz4Qq1U8OIq3W83DIzZN42wndPJit2lZMknPYjt/OUTmtTcv
+u/8ef2+7k7VFr6pzqlVi2lfG9FcRwSl0BSXfs+b5Aw0y4YVdM3k0IE+XJlOmJKhuO
+TrNHq6OCIoA4bJlSOgJ02PSy2LCReAsEQfwfCsQy+j1WAm0Pno8PB/PbBhxGUoO3c
+f1O/DbJh17NfcQNzfulUBFYwGx3mBnNg5JqE4H435y/A5irelloX4GgZJjq6YJu8p
+rzgLCHgaDdAlbypK3YFxlQWmMI8yfUwaaX3DDT276lBeA7TjSj0iwQu1VnSux4vmb
+AjHGkoexDa6JG7qHoNGG8LF5JTQ+35f4hcTwUWwkWts5N3yQ+xOP6MzBoL0oFtQZS
+s3amlKuiWmtk3Ft45hnoq0KepEGgMFnEdz1AmeZ+HJc1gYTuPmhF0XGq8bBPhA0GL
+OIqo6AIhBzAcpFyad6Ag+Wkq3OEmpDv+5NjR1Fd/p6968oGVTPjPCjyw122PxfqzJ
+C3fGEQWwKisoMOwg/4wDJP8bUDOgeb3U5OGYJ/p4dHI5Em2vHCAHJk8fEWpaMFk8j
+3h+3+8RnVxllVx3qeIpdoMEeHZn5olToa+5yM2puf9aHbJD9DB+g68zLLjRH5May6
+fkGKlJ2GiIX0+JUy2PCnhI5lpwweBA75ADAZLfcmgxJNSsZYOYE1RwcfdCRMU7wA2
+BAD+A3PR31LZpAy5mPtStCwlMO2W3BcLv2bZGpNnExoAiL5YqoPhVGMF4Xer3SxlP
+uxFhzAq0RbG8fXGr9w+c+gh2hV/LO0G0qwJV9mBmlg2ZBUO8HN6Wi+Oe/NfZg3IOo
+z7cSzkWdmfY6m1PwKcDIae+EAnfqr9jN3CImE7Yt8pdSwCC4aEN3d+/TQtrimOlxT
+94fg0z0+5mgve7AEQaieINSlDkJAARaYQVQvRrYryMmhjjSYQCXuMjXYu2ZOTvtgy
+wbNfOWPT6EKAyxRiL8X2R6L5kSozABxonkKycrXX6uEel+MwVNs6ymS0czt8skInk
+8+Q2KxH6PDjYU4iRxtSpCRhwCBC9vgrHGNi+sgx+EN7aU7/bgCN/7ZjxFJYPYn0mR
+2rezG9g0sWospPHhMetHf170FQXdS4OCLxIfcqwrGXEIb7nNQl1hXrw2Gg1cFEGtN
+XJOOeTSszuPBH70JvqH+dRaZB44pyF0pMbcyWD3lJi6DIckzgHQQg/DiIgjLLRX5v
+g+E81ICL86W+q3sEhbtFc0XEFpOBdB4TRxS02vAZP0pyUPTX1P3YIcguS12E+yzwT
+VkeVK2fFuhi03QuBiJIMnBlP7g5MwtMyxjuLcT8P7BTH5GnlLrv0idVO00maYnv9Z
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,16 +29,17 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2023-09-13
+ * Revision 2023-09-14
  *
  * Changelog:
  * 2023-09-13   1.0   Initial release
+ * 2023-09-14   1.0.1 Executable path is now configurable
  */
 
 declare(ticks=1);
 
 class MegaRaidCheck extends VNag {
-	private $executable = '/opt/MegaRAID/MegaCli/MegaCli64'; // TODO: make configurable (Also with sudo?)
+	private $argCmd = null;
 
 	public function __construct() {
 		parent::__construct();
@@ -49,6 +50,8 @@ class MegaRaidCheck extends VNag {
 		} else {
 			$this->registerExpectedStandardArguments('Vhtv');
 		}
+
+		$this->addExpectedArgument($this->argCmd = new VNagArgument('E', 'executable', VNagArgument::VALUE_OPTIONAL, 'executable', 'The path to the MegaCli64 executable.', '/opt/MegaRAID/MegaCli/MegaCli64'));
 
 		$this->getHelpManager()->setPluginName('vnag_megaraid');
 		$this->getHelpManager()->setVersion('1.0');
@@ -64,7 +67,7 @@ class MegaRaidCheck extends VNag {
 		if (file_exists($mock_file)) {
 			$out = explode("\n", file_get_contents($mock_file));
 		} else {
-			$cmd = escapeshellcmd($this->executable).' -LDInfo -Lall '.escapeshellarg('-a'.$adapter).' -NoLog';
+			$cmd = escapeshellcmd($this->argCmd->getValue()).' -LDInfo -Lall '.escapeshellarg('-a'.$adapter).' -NoLog';
 			$out = array();
 			exec($cmd, $out, $ec);
 
@@ -114,7 +117,7 @@ class MegaRaidCheck extends VNag {
 		if (file_exists($mock_file)) {
 			$out = explode("\n", file_get_contents($mock_file));
 		} else {
-			$cmd = escapeshellcmd($this->executable).' -PDList '.escapeshellarg('-a'.$adapter).' -NoLog';
+			$cmd = escapeshellcmd($this->argCmd->getValue()).' -PDList '.escapeshellarg('-a'.$adapter).' -NoLog';
 			$out = array();
 			exec($cmd, $out, $ec);
 
@@ -156,7 +159,7 @@ class MegaRaidCheck extends VNag {
 		if (file_exists($mock_file)) {
 			$out = explode("\n", file_get_contents($mock_file));
 		} else {
-			$cmd = escapeshellcmd($this->executable).' -AdpBbuCmd '.escapeshellarg('-a'.$adapter).' -NoLog';
+			$cmd = escapeshellcmd($this->argCmd->getValue()).' -AdpBbuCmd '.escapeshellarg('-a'.$adapter).' -NoLog';
 			$out = array();
 			exec($cmd, $out, $ec);
 
