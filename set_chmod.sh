@@ -4,9 +4,9 @@ DIR=$( dirname "$0" )
 
 setexec () {
 
-	svn propset svn:executable on $1
-	svn propdel svn:executable $1
-	chmod +x $1
+	svn propset svn:executable on $*
+	svn propdel svn:executable $*
+	chmod +x $*
 
 }
 
