@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-UKoF6Z0T9jlHfq7rAGW4ECi/PYJOQ6Cc57SfgHXGux3c+ve8T++uihQgz63HCF10W
-uqpwgkc3XZ3nPyOhnmQf8pEvD1rQeNFH3xkRD26/CWYvRk5qgDdsG7393apWW1bHt
-2+pt8LIa5+8lvJMPnyB+eOGMNV0Vfn22SUTVpO/uiWc7mdiko6Rebf4mG4AmHZ0Ih
-AeDBkDgyttU8bkcLzMulrkdNr0/FjXoOLGT/qtmfUd4RjYxybqpIksha4uPIkZ8XR
-zYkjfpezPUlO8qSD8DutIrSyMSNQYoA3fn5QaXr/G0LpODBp8Ln+/zrO1LqPFKidQ
-3KMNKzZpYrUo7cizYxod0woh0SNXRoPSGUtZK9Qvqko699jYysQSOLezmCB8s0VGL
-AW/do9Ev5y47B374uvOc0BjeNKCM1iS7/q+Mt9p2VT25Kz53xletL4uoUmx0rqRqJ
-XV4Im7MAZOQQE66hSfIXjUaX9iRRxo0OxYY9eQjpImsckuV7QUdXqPw/QexpDghhp
-Yfp3NFcm6lewzZz9mbcLJtCP+GMuqHnn9Q+BNZdcDNIBp9D8AdJ5hl5vU5g6N6QaW
-yUSGiBtOVmr+FR0UHufvIq0FUG2qGVhkHpZgMQRzbuN49ED0trdAbfyiZpj0hU3ae
-2/Mar7j/hVqbQ5wCqQNQH0J2O5vkWBK3XyuX+h6BghSLwh74fyIbxsiayrjPYRFjW
-eMEurQhKV5y4Q23uNrTb+/8eHhfbZC8oWVrb2SX65Unmr2z0zEwZfaLmQ3que9DvR
-/wE6VNHIF3Lj+0kX4KkhM69Xs3NM2xBSTd8WG/VWmAlDa54Pm9gvXsO9t12PJP3BJ
-Gkfnea37MHNpRCtmZoccgoHmBbUt14KNvJ8EC+O9OapMU0tl+pxT8Uc/8W2f9QDK2
-wRj0wf3VIlCPnf0pzQmr/t+EYCAU6imG6U9LrLt6G6JcUsZy10K1pIKLajpegznpP
-+cBPuVssIX+wRyVkB8YYY0qAWKl/svmRpEfRNucjvcxc+38DF/NIvTLgj06+r+a6P
-tUq0ce0H8/De+0olz5h/NcvTr+7YC7Pn4fwk+OZnlTfW0Fs764JPQObcmvAgquLKk
-EBSoSLZODN50NH4Q/OjE8xa8aT7wHFNt0bHd1qdDjEup+3VJrEyyN4oO/LOlpDRkM
-Gl7sc3oLNXP49ASz+QEaxcJZ/N60rvRB+xwnvWVpYmu/zOp63IFhd2c2cmelDzI7f
-4xfXT3aFJZaGQi3NRKVzT9Pti2EA0PPD52unTMoYbh8C2fofCpw4Z+5td/wLLgTLH
-pz1x1/GYfX/NxmLhz/Xo4cES0mr7/TddLNBB3AQs9P2z6iIUID3cL0duaPNJ5W7FS
-A==
+BEVRboq5hkwbOT0Gkx96NQV+AryItRRkSW10PEkTSbC55Oe8geeNWyFnN0b2BZmYw
+Dbrw/pEuTs1J8Dyu0yEzZBu0JtxVRdgOtJJSMM9PM/FV+holxrFR8UALRJBL3Masp
+Dp/yCpP+R/X0osOMz+rKW+T3RfnwM4hQ+QyFlXy9wEYFhxUBVeoJZFvcFGGnWR8DT
+bQqKGdD+VIfQlX9FO0r93Z2xJVfGMZ+QSzh0+8yCGPJqI6yAS4YWjnygH+AxYuA/t
+R4hUG2bfbsQiEa2Ix8GlmvfCQ5mWhVgYkzSom1nAorhDnTZrXXhHbaMPIeMXyBxky
+bT6JGZV2VjWg6UqDZTPMlqAJ+QAQ+W9rJBCwtBIGUzokqYtAf+cW0+GRQSgz7G8NU
+hnKqzbsrn+ogfDA4PRP8P6IZI4qY9XcsMm6Kxw3Aw9wQ6qtkQwhu2ixrLUPjIYN4Y
+KFJuV4FIv2J5gHEtKclx1SrqewOoXcJ4kicrBT8rK4f7jXHjGua5FMROIB/Ihny73
+DxPewkiV5eZSQouasg5du+3HGswsUfhjHyVn5Q3TH0CL/qnTM+NMchB4PXtsfPDUK
+S7F4c4yZ1kCdEtoELPx2IwM4WaLEn0bXo4ZxOmbYd1WBzFkpkFO0wRNpNBMU50NVd
+HGygyWSfwzfE947fP3sIZ67fOKyJQ07AjS7JamjfLRFHF045CfKQsrsSdMBmUfCpY
+Kd+UJK/UBPow2cRS01mbJrsHF/DZlykRPzNLjgqioSPxoFK1q2TEQ786hh4hsmbWo
+SVY6jA/6ONoNI94Telzwe73xMe+lmGBUV7zDLe89Mlp9GndlhZTLRti+KY9yoVArg
+xUnLBKHVhvXFzOtYtwY4lhtTgoqL9mx4lqzPQaaRRZ3rqLwE8uFXKAuwNrwC5PAIs
++x8DQ2KM5mYPo3jqyBJoW4fipm9NULuiVxC8i6UP1B4/5bSdK3OFUB5lLMXYNzyfI
+9r70N4t9tnSS08CUQwxZlBUq2pPZqYyJXYRrLuuJcsuZNaun0pLcncp2aKOB6MBPd
+Y6GgQt4QBZloPZFmF+Uw6AXs6KhiOc44VPzJLm+cwjKWYo+CIR112hBieVTRGDCPH
+51+e5dJVhqV0ZyOR7E4B4IPa6lq6Up2Ei5+8xK3Mi1lH7iGBydx8AoQ4w0Nn95w5o
+nk6SLdi5k7713yxkqjZ3zsfYGJwQrSE2dAjnoDFeIQtJjClx2119Q3eflOYj5Ihke
+ZkdRgRWLKod00NIy3rLCJQdSt7AFTXJwRPJzh15vuLGELAPC2mW6Rn+fqRY+pKmd6
+8oQEQw46/GHOyTyMHfJKqIfxlVOVlwAdKoWjTnQ8JtP4aBD3LQkfmZ89Uw7lujBir
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -1314,7 +1314,7 @@ abstract class VNag {
 	protected function get_cache_dir() {
 		$homedir = @getenv('HOME');
 		if ($homedir && is_dir($homedir)) {
-			$try = "${homedir}/.vnag/cache";
+			$try = "$homedir/.vnag/cache";
 			if (is_dir($try)) return $try;
 			if (@mkdir($try,0777,true)) return $try;
 		}
@@ -1322,7 +1322,7 @@ abstract class VNag {
 		$user = posix_getpwuid(posix_geteuid());
 		if (isset($user['dir']) && is_dir($user['dir'])) {
 			$homedir = $user['dir'];
-			$try = "${homedir}/.vnag/cache";
+			$try = "$homedir/.vnag/cache";
 			if (is_dir($try)) return $try;
 			if (@mkdir($try,0777,true)) return $try;
 		}
@@ -2381,7 +2381,11 @@ VTSKEY;
 
 	protected function replaceStuff($text) {
 		global $argv;
-		$text = str_replace('$SCRIPTNAME$', $argv[0], $text);
+		if (php_sapi_name() == 'cli') {
+			$text = str_replace('$SCRIPTNAME$', $argv[0], $text);
+		} else {
+			$text = str_replace('$SCRIPTNAME$', basename($_SERVER['SCRIPT_NAME']), $text);
+		}
 		$text = str_replace('$CURYEAR$', date('Y'), $text);
 		return $text;
 	}
