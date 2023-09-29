@@ -1,0 +1,32 @@
+/dev/md2:
+           Version : 1.2
+     Creation Time : Sat Jun 19 00:27:09 2021
+        Raid Level : raid5
+        Array Size : 3220963328 (3071.75 GiB 3298.27 GB)
+     Used Dev Size : 1610481664 (1535.88 GiB 1649.13 GB)
+      Raid Devices : 3
+     Total Devices : 3
+       Persistence : Superblock is persistent
+
+     Intent Bitmap : Internal
+
+       Update Time : Tue Sep 19 14:01:51 2023
+             State : clean 
+    Active Devices : 3
+   Working Devices : 3
+    Failed Devices : 0
+     Spare Devices : 0
+
+            Layout : left-symmetric
+        Chunk Size : 512K
+
+Consistency Policy : bitmap
+
+              Name : viathinksoft.de:2
+              UUID : 80a32d07:7e82fda1:b6ca50ba:39a56a1d
+            Events : 8681
+
+    Number   Major   Minor   RaidDevice State
+       0       8       65        0      active sync   /dev/sde1
+       1       8       81        1      active sync   /dev/sdf1
+       3       8       97        2      active sync   /dev/sdg1

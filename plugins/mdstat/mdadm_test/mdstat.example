@@ -1,0 +1,18 @@
+Personalities : [raid1] [raid6] [raid5] [raid4] [linear] [multipath] [raid0] [raid10] 
+md1 : active raid1 sdd1[1](F) sdb1[0]
+      1953349696 blocks super 1.2 [2/1] [U_]
+      bitmap: 15/15 pages [60KB], 65536KB chunk
+
+md2 : active raid5 sdf1[1] sde1[0] sdg1[3]
+      3220963328 blocks super 1.2 level 5, 512k chunk, algorithm 2 [3/3] [UUU]
+      bitmap: 0/12 pages [0KB], 65536KB chunk
+
+md3 : active raid5 sde2[0] sdf2[1] sdg2[3]
+      685473792 blocks super 1.2 level 5, 512k chunk, algorithm 2 [3/3] [UUU]
+      bitmap: 0/3 pages [0KB], 65536KB chunk
+
+md0 : active raid1 sdc1[1](F) sda1[0]
+      1953349696 blocks super 1.2 [2/1] [U_]
+      bitmap: 11/15 pages [44KB], 65536KB chunk
+
+unused devices: <none>
