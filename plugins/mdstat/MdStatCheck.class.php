@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-11-04
+ * Revision 2023-10-02
  */
 
 declare(ticks=1);
@@ -128,7 +128,7 @@ class MdStatCheck extends VNag {
 
 	private function get_raid_arrays() {
 		$arrays = array();
-		$devices = glob('/dev/md/*');
+		$devices = glob('/dev/md/'.'*');
 		foreach ($devices as $device) {
 			$ary = explode('/', $device);
 			$arrays[] = 'md'.array_pop($ary);
@@ -146,7 +146,9 @@ class MdStatCheck extends VNag {
 			$level = $this->raidLevel($array);
 			$state = $this->raidState($array);
 
-			if (strpos($state, 'degraded') !== false) $this->setStatus(VNag::STATUS_CRITICAL);
+			// https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git/tree/Detail.c#n491
+			if (stripos($state, ', FAILED') !== false) $this->setStatus(VNag::STATUS_CRITICAL);
+			if (stripos($state, ', degraded') !== false) $this->setStatus(VNag::STATUS_CRITICAL);
 
 			$disk_texts = array();
 			$verbosity = VNag::VERBOSITY_ADDITIONAL_INFORMATION;
