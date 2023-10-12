@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-oaCDAKN7XIqonGgZV3naE1MsJxh3TFaZyTKTdLYx8hr38k4cg/z79ACGiN0STlaW+
-LIDKKalDDRBbOk3Obk/Ld2TVSyEpu91BL1BD1RCotns/cqfqCW+4L5tLxGfRvb/qf
-2s68MrVY4FdhFDfMX8j4XKnwcGCAKp8QQuiwZwHNiGnHzbfTU0dXIAn1LXMjqBQ9T
-cfkT7rqiQ2uG7PTgWWkKWuw5+06WO5vyF+aPtXRNGVJjz93FwBzR3QFl2PLzMHEcc
-M38HFs25OYrBSBHS1HzPxt7gDE7hLZYZzSHxfodZq9dwCqqmsEx5aVkDx3tY6flWR
-I8jTlQmQUj8EEFv1UJzp043LIt0+jRdWqisVXBjmqzhB0i7ipr/LJezcTphodnhN3
-eaRhZc4Hq3DblBTuui6GALJk/S+RX2VUSdVEmE2OUd7S3BL/Hb9WWY48N1RnI2hs7
-FI17sRDc0O7pHtQ/EU3Z186kptI/kmPYfL2MygIBq00Eu0SK/g+4zWzI0aazKbWl+
-lQUvE1xe8FIAn2nsICvrYNnDo8qhwQ2SMsL8/fAraNcJSR7QCSzVYuGFPivzdMkc7
-NkRvVv9N9llLUov0NF5DsZEacgJiZcCgQk1wEwQB2xBdKcYU8jKoX0D94dkEYU7ua
-ED2Nqon8PsQx4IAlsytyvhvYf7BsHJh2RTEZDZLLBs6vIgGLPdMkf/++n8jS5UwHU
-8hYrxVGbHCAaZK+YLMwqztO6GoK5lvT+YYXXjTiuGTLOkGcfnW6+NMZAD65KavESG
-7hG9p68HXRJOweOM2KeCQ60+kG51uEA5po1JHrXC5JLwDXlns9HjoSpjJhlQ44f+S
-N4whZlpOOYOF69qlVZJkVQYzMzwc+TgcmErOdZyfXkQivI9L3ajTZV/849Csc7dnH
-ks17XdTf0BlXes5sarBU31FLmM40mmnzNWhrDF7f0+hH5VOK2Jge2keq2DlBpIlOx
-zkXs8XjzJEE09O0TMqN+zOHupJRV73d7y5RTnnQFJ+NRZdeXo3AwBWlNkUQIGDJZb
-bTjwv6utl1djL2HYgownc/aEJo4pWUuXoNRCRwxCKfYOPTAzLh7YvLMQ6aeMJUmYG
-X6X1rqMrFXlCECcXFH8UKD3ToCmLDEv9GmkkBvRu0wJuKr2ecqFt5qMKyXH+DMqxz
-xAcmtc4EfTDRgpQoPqzfWHvF7dBTt1UD2mC2YKuTcsU3H4huzU3L3DlPFdo/kWxGw
-P9qHSDMANNVXkPPm9OL+MUq0f42uaVBZY7ylpvvnJyQYTj9Uk/tbsFqIQYUcESoO/
-UHE2JPHs7GI7ByjsYdnIDRGmvREGbPrGCMx0VSQtN54Cc+FjWdClfZWEXznOOZRV9
-Q==
+M5+YhhUygumyDtPS4a66WBocZDh6eW5QS3W3UiTvc3lMfo+epXCDhkO5F6Rd2pMX1
+1opoSnc9AGCKequhuGjOq9PCgAM0VScCmRk4J0U1oj4fzAzXW7GQlg++UL4OQ3Dg/
+2ya6GzYOxoK38T57W7WZr4U6Te1+nT0wcc/kpfYOLAQSePjzT6S2ErRUp5RUjEy9l
+g+5dBcDFZ0kmVpjyRg6kPubiW5HntmQczkn0nRfUkW45TZFs7LwbTk+CI7+fbRokm
+s5mt0DIiZPZckelCfszWVHHRhumhazpp+B9rOL/FYj/jle/27z9n3VbCdc7JVhppo
+KZ6ReahFS6h1vn9mo0o4Adzj9YnlfMgeb8AYftDzmdIpJl/BYZfdqOfjt0osffJdl
+ahvduFCvLt1lR6hVNJes+h6mSigq5+EO6C3fhsmOGFfvs3DEXljqy1LLPySbHAFQQ
+eYDrY3Rac9Y2uPSkZW+YJkiVTrvBT30T14Z59YA/4UrLTkVPAS5Rmg6tJc1KjNuWk
+AQ0xM5wI04DWI383qXhbh0inBZWAJJNUX4H2VAVnbIuj0wmvI2/sif5mu/o+rkfKf
+tDwR9Tzi2sr8J1byi5CJksH6h8XN+ro6bkg+Z0N1ztRHKo49gjhJFSj0XSss+hWNB
+bXwp/oHRS8Krdu1DFAYCafGs4T4zuMoOW1F1mLg/hkARI/sO4dWFRRT/AMkhAZLaD
+6IqmrTNY0QT6Rn0ByajSr+7Onr8efgRmgZr+ZG2GDxTMtJYhoG+3szOC/bDWsq6IB
+tdyHTg7mkL4zYsuAtCH9DUDKtGr4Ngm7ejzpo3LgWXLxFBqM9KN0AGfgld+m1OH0D
+pzjg2WEYfhksndhOqzetaEGqIiLCkpZz2lZF979eeNwAEqSXgaRSypi3tNzjddlGc
+gtx7VZOIqBEmlnBLZ83k3FPC73C+EMPCqw+QFVryC0c9FvInuSRKc9/e6ssE8f6qu
+SljEB4+Z1N4SE5yO6bfwKfznZDIZ5YsdUMYsgD7XsxKpomz9nmfcxoU9vKtnuIoy5
+gJ4Ca2xhbfyrJ7X1fk6+5301fU6czjn/zeweXLbdaD+CbCUc7TZmsCxC86otmWF4S
+Kx0MLHCSA8T94bNY0ia4ncWo+CVjUMmZbu5QE1QBWuklzlfFZxpIx/rgnQFrAv4rD
+qbPsplr46kzlcZCQkLVBfI/O6a+0vPXT9JjH+wxcsYRHuodLmPAQlpaFkO6C4Kq+e
+ocOj5OGWD/wSXB8ZSX6HnYdJSHHZm8E/Vl9LXumhjas+2LgaSa6RosW2KVZY0DfK8
+U+j/QJ7KoFQ+srSvhUySfXEpwSbcQgM5zH7DAZXT0FxDHit2iimANwxgtla+u7G3S
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -35,7 +35,7 @@ Q==
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2023-09-11
+      Revision 2023-10-13
 
 */
 
@@ -347,7 +347,7 @@ function _empty($x) {
 }
 
 abstract class VNag {
-	/*public*/ const VNAG_VERSION = '2023-09-11';
+	/*public*/ const VNAG_VERSION = '2023-10-13';
 
 	// Status 0..3 for STATUSMODEL_SERVICE (the default status model):
 	# The guideline states: "Higher-level errors (such as name resolution errors, socket timeouts, etc) are outside of the control of plugins and should generally NOT be reported as UNKNOWN states."
@@ -1309,7 +1309,7 @@ abstract class VNag {
 		}
 	}
 
-	// This is not used by the framework itself, but can be useful for plugins
+	// This is not used by the framework itself, but can be useful for a lot of plugins
 	// Note: For icinga2, the path is /var/lib/nagios/.vnag/cache/
 	protected function get_cache_dir() {
 		$homedir = @getenv('HOME');
@@ -1335,6 +1335,28 @@ abstract class VNag {
 		}
 
 		throw new VNagException("Cannot get cache dir"); // TODO: translate and own exception type
+	}
+
+	// This is not used by the framework itself, but can be useful for a lot of plugins
+	protected function url_get_contents($url, $max_cache_time=1*60*60, $context=null) {
+		$cache_file = $this->get_cache_dir().'/'.sha1($url);
+		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
+			$cont = @file_get_contents($cache_file);
+			if ($cont === false) throw new Exception("Failed to get contents from $cache_file");
+		} else {
+			$options = array(
+			  'http'=>array(
+			    'method'=>"GET",
+			    'header'=>"Accept-language: en\r\n" .
+			              "User-Agent: Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.102011-10-16 20:23:10\r\n"
+			  )
+			);
+			if (is_null($context)) $context = stream_context_create($options);
+			$cont = @file_get_contents($url, false, $context);
+			if ($cont === false) throw new Exception("Failed to get contents from $url");
+			file_put_contents($cache_file, $cont);
+		}
+		return $cont;
 	}
 }
 

@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-lAkMAIwL5Eb71IHJLCJVhuS1bw1OUs8gYlJMpZhoPHf6dARxLpWHATIIiIzdP9qsX
-LYl24sYg3jpuSUCwTyJlJp3BZn9D3pJPQrU7AI02eBd/9h5Mz7nXxExIfOUKamtYC
-RS82nKHZhKO8j24sVfQclA0I6zWEOzBMmpRoL3r2RkTNJl9EtbgGS85UnRVFOkx68
-V0P5mCGIoqbrvdQgGKxsk4b8T3+x9M7L7NZTNimQQgSQ3KfehELyVPxAPJUs+LGBn
-+hTdAZWG7I++aiBGpzB6kWZ4WRdYn8Sd4OhIiiS3hRxKOUhxJWGLjbtBRLVR0GFUw
-UihDbY4jnts6vx+wFzd4/DGi1jlIyJZIKENgPsOnoz3mizSlFJOxKYTBzL5CFTes+
-AdpF4jbh+i+r3elB6llvUfTUxji7VxFPUNlgr3A+OfNU07SNh532Hxw1TLA29zUaL
-n2ng2h23TW06qlVW+D+7x7yU+7UieBvpt+m8kX3a9Y8O44ZOenpxYthw/6htw2RqJ
-0yhzLDfklZSs4cDgY58PqTmxRYxpuzN9A94ef+Gw3D5subQY8VXmNouPPsYAopJLQ
-KA66wCvI0ceg3qbID6dIFZ32XlLLcIV6vAtc5hFhJh+uWbuP0r3t3IBfxmCDCbqVT
-rX8aCG4KoDujMXdDNdgL3LWcWdbyiiADo/CNIOtYlNv8ePhVmX6dpGToOfhEoGVCO
-MzuaQGt3jQ6W3lDyaMqxQuPSREdhGFWLiolTfxECayaLWcy8hQ8AQxMA55d9V3x6K
-FZUycEjLe1HoASe7dXPVsMCg+iuw8/A1BDZQXSulNq86NVOrnQrXmJFUrBd+Wy7mk
-MeFl8Leckma3kSh2IYgcuhUn67vE1bXaLHEs1PYvn91LPoROKodDYhyYSuHDHTgMe
-/B4nCqwkL3oUGlNsMcvXchwTFy6PWEMuw2+O87MIPlbNRdS6PVwIvRu5+SXDMYxgi
-X+QyexhefP8HIcDzHdtK8Q9ATLfrhsSNhyYHnFG2Q1E2a8eR0Gg9IUYgUjaCnp0WP
-o1tvBqQoNxuM8FwtJEaDLLJYGI8SM7pRj1bNtekOoNrC2EWmATpXpawSEhVD/4FGh
-tsfXhp3uGM/7mtnQgBS6N2rBN1zJ0qTcT1RxTmU9CcY2odrmAcI7cRIoBphdkaE8N
-v5IA5ODOpT9F/ZMmo38FPrKLSNGbcVWIjhBht3tq8EVK3+sO0CjUgnBX46vVkQtzZ
-3coIm9KhY6VPW8//Wugby2nG3hOFqMEPYVfCfUNj+7Fsw0gWTnhvpZITKjW+hjccC
-64d8LOmGGCYpRSn89mItof6I0EDvXR99Sd6eMEuQGLyijFcBbWQePuiwda1sDNf9U
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -53,7 +53,7 @@ class FourImagesVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, '4imagesPath', 'The local directory where your 4images installation is located.'));
 	}
 
-	protected function get_4images_version($path) {
+	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$cont = @file_get_contents("$path/includes/constants.php");
@@ -65,8 +65,8 @@ class FourImagesVersionCheck extends VNag {
 	}
 
 	protected function get_latest_version() {
-		$cont = @file_get_contents('https://www.4homepages.de/download-4images');
-		if (!$cont) {
+		$cont = $this->url_get_contents('https://www.4homepages.de/download-4images');
+		if ($cont === false) {
 			throw new Exception("Cannot access website with latest version");
 		}
 
@@ -90,7 +90,7 @@ class FourImagesVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		$version = $this->get_4images_version($system_dir);
+		$version = $this->get_local_version($system_dir);
 
 		$latest_version = $this->get_latest_version();
 

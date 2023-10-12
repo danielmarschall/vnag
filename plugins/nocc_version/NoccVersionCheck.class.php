@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-USMXmEZw3BxLtCMYVFw3pNRfut91obKVEaTFxBoaMCPTpOUfsqHIIwwwTfKc5C9Ij
-uLzcD6jaorajF2zyS6qWSauACaw3jPpulkF66pSgETrNWAzaWlVanmll5gD0pE0j/
-FTJ7GBD5+3qHz3aF5DPzncqP3l5G8AodOPDHvD15lM1e/nI4JAW0Pgsiot9AOpV0e
-UBmi6uYOGgiuiLI3ewpyWY252aJsAhVlvRRHay23pKZkMpcZBQ2eqd4uv68s71iXd
-YCpT5ApoRt+pDXHVg1yUvNsz+lIVentvSMXsKMvWfJpThAppoNIDRgbYcKodEn8Gf
-0Smk5ldkuhryswCSO4RYHVW7XEF/ZEuQt2ID3Sx1AQBlJl6i+/eZ7fVTyNQtoezEx
-BljGD3rYxPcJ8eIYoHJf26OamG9z/mm64iNBJ5Pf6paNazV2fqLZCPZNcQzbiYlzE
-cNJPmC7nCib59enEopIQkdLnu6HFhTjVru+yCWT8V5b2zHE/u5kEclTVpdXwHeBvN
-cDGrTe32lCA3nuN/5FFv/C1WH000p0oy2nxZoLNg9nAkCvJ/KWj6PKA4sW+zAPleB
-mPOK+F413X37Poh7eRS17cqYegQYkezpegXIASLiKNo0Oj1C0nSzhHnBhLjDCnG6R
-E3JAiP24H+WPxJsiW8W1qVtESwYER8A9NVYGHNWdHPaV9tyBwap9qLfUHXjfkTuJE
-od0Z4ZSmxHIVAN53Sd5r0MceGJmI3Uk1L4FGdyIJd/peWNaWHroVsFtporI+XsjSV
-Gk6KORxLERNtIAi4q0BVcBCjSeY/CP+o7UwkMzp1m3v+3xqP1YBO1gg/i5FGZRh5d
-r7MRbXoVgsTWA9zYeSDFwdkFpUuc9GwdZN6lIFTWAYl8VAhG5UiUs7WAN5dj+Xfrx
-DrXLXxFY5/BYd2ggm6G+LiVQenvsiMtdR5sQNsJRgJdtYvcOljfyiMK4OPdMsokIM
-09FtFavsOVDhMJjnkr1UlzPC6tXS2b5sgE/xTbNtm0yV6ji6DSJnMjg0nyj0E1/vf
-afqNx8l0Zqojhal8N02LqXMIZVxeESLwxqqS2mZtPQo9gPdz0Bgq+ce3BXnXohsXZ
-F81JQYQoMoNCcH3WlaD+YSQnBxsKNb2qerGStGPEVsjLWJQ/1b3gwAvQvMjSvcDLc
-G68YdiuJwf1Ipzo5MVlM6fWzR2JlyG96CXi2j8tqpeZsW42Q09A6liOR3jyY4dhbG
-0wBsj34RTl+btsXE1xG2P3TwUDaMsZYO8QWfF+m+68piAZ53ZM2vXa9BJeTRl2kHo
-Zc0uoIndnbFONE3K2Hi0FUMo25brvirV1VVSb2DW0hZbeXj4PDCtgY4tiMMEIo7vc
-g==
+amj1ap5xi11PgKFXmnp+OofR+MgQ+MlW0OAGQr8Ue78IyqsrLk8ANMI7lKoU26DW7
+ucLqa30BFp5Feb1f7WRH3g6DtmeFydD9JIZyej+DcGbRMEewH8yrqhnxYHxCuDIgR
+3MU1Sy8sZnUzOvqsNduecmgKpveLr2MLfPHQgJM3/ormY9wIs/uIWD34ufNElL22k
+yrt6u9BrBIJeliOV9mjxgzd/mMyPdYqdNM2M+6na7RjfP69bx4Qa3soVD4K2h0ZZ6
+Kjxv0Be6db3rCUTT0vF71PA6OfB8ku8u2kyRRedULGlPMoCTX20B67ioTjIGdygwX
+vTblMAhDpCdi2vDgs9FzjYc/GxZnT7i9dab2oDt2JJ3mcoXzHED3DEh2f26t4SfrS
+DWdyEzPeiqGQV7hXiiD5HpfgMzvaXWx6bSAug4LmjV+RKKdiJ1DUNAtPtLHTpR6Qo
+oMnUNXIi2kjjgKykNv4VcoCmcKe6XqFTrqo4Zr45VzmbRfwTL42xQD1Q9HmL9i9+W
+XNRbqbCNJbOy2KPwTtt6Dma9nhc3cwwTmfHum/egCVb0NdKHpiA48C5Cy+G3bYE/5
+4RNuW8djJhEAmCMznMrUwxjiYnEFYBtDHzdlMokRruYUux/BEfPp4yy1Jo1lWOTx9
+/MVSzUnnJIC/WGvJ+NSgM3I7KXHcZq6sbEPH7TUZ0RF/fIBlOCP8dFqjasiWyFGXe
+bDrAeYJDzrQazWnv0R0i+ffUH/ZL2wzq9HdsWvNG2v50swaCgA7ON+mPn5hj/B4bV
+BxaYfIH4ib8O2ClgkjwaVSyp+kTkroWQNX7Q0YwQDBYM2NkqzrAV9++hpYkH5MXjM
+NDq2PhlIBCorp/+Lr+dCBM+LIffXba4+unPQ5pO48EsNcHZNAPw1o2riUyQLVsCxf
+zn2KFLHA+K+8o4z/SW+iSurQSAgW4HcX4kS5etWG+XDn8tvGb2rVY6+CDnoJ4yq1s
+Be/M9JYml6etP61CIf9rvLhqFkvstk/ST15DPYgfF6CqHcQleqas+vvX7UXGvQ8x6
+nCKMXy7xQmAjF4J6et10PgXdalsGOsMelQVT4LA1tufiPYQbUAMiV1NbG1oKLWa3C
+KJuelWtWun/VWkdbYEOR4Ylj7Q2xz5/80wEKIRNatr4DpfrOcTPk6oJG/FRx0ZkVe
+hT6P9t0q2pAGT1Ne1KE3AnEKZB1kyeuF/wtQ9uGso8/LS2XH2oF0oZ5XS91Jawshr
+nCZ+H95Yx2woaIB+q5oacBlh9YVvzZ0J5cdnS+C2r63yCdJbQBd7WAu+ngFADt6TJ
+VsjrRrrm4/sIw9netkDZLPE8WHjsGe/b7B0AC7WdYUAdYTBgWlcv6c6/dVAgZobB+
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -53,7 +53,7 @@ class NoccVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'noccPath', 'The local directory where your NOCC installation is located.'));
 	}
 
-	protected function get_nocc_version($path) {
+	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$cont = @file_get_contents("$path/common.php");
@@ -66,8 +66,8 @@ class NoccVersionCheck extends VNag {
 	}
 
 	protected function get_latest_version() {
-		$cont = @file_get_contents('http://nocc.sourceforge.net/download/?lang=en');
-		if (!$cont) {
+		$cont = $this->url_get_contents('http://nocc.sourceforge.net/download/?lang=en');
+		if ($cont === false) {
 			throw new Exception("Cannot access website with latest version");
 		}
 
@@ -91,7 +91,7 @@ class NoccVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		$version = $this->get_nocc_version($system_dir);
+		$version = $this->get_local_version($system_dir);
 
 		$latest_version = $this->get_latest_version();
 

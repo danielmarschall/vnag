@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-tCxWODVQjpp/mnpKKNqXZG1LyUti7FjIhQIkV0I7YHQb5pKovjP1jwQMLMrtdKt8j
-fQEvKt1KGkeUcZfnQ1nU/7rXZ62zVgioXw35IodxQahtohyXErvCCAQ2e4Kh5UKMD
-R5sC13rlgK2EGHwLJbLt6yQL2jc6sDuV3QyT/ggNTsGtOjSsQXHCSu0XywMEabcO0
-ESELIgGC9w4T7nPbXFKx8c49j1ZFfJZeqFVnSpVXxj59Qpn1WS07fRndrC3hzFlX7
-ds3q9Db/k74qPhzmvx9dZFFXLLhnP0l7GLVkmSBLiyO/wl7WBjIklL+ZTfFiyLMqb
-B14YZfULwH2z/Y226IrcTt+fiz3muuNjLeIirfhlvv54pTn3a/8C0yp0qNGaINghX
-LlWUxm7Jw0O5vLl991LHstIqZEr6uacFNF3pCyrHRTBuvUpBs1Wa+xLNQdRBfj9hd
-7gJhVpYB1bJXFFx5XVAHmCGehPvQb36r2dnX2p9pD7qC4gmEZJgsYSomsc9STN064
-dl5CKg5lDW8ZKew7D1rNKN47eoms92IWvHxkkgWYHGWCOKlZV2Ia5HtJYHsWjSz59
-pEaJ8+LLA9hL9cRHQ/iMp9d6roihJrjPYm8dkvBHntSTSoX50XFUHiOsgANnauOf+
-MuFhVFgdYyxPtTqcEhj9+cbP0G4C1CUgRZz9wSNc6n9qEOLYp4QbeD13wGic81BJo
-tGI0p/eDhIewo4z4vPvDmquVisdvdZ/vIVXQcN9so9AwANqmaJaqhGyEFfh97uowD
-S4SHOLcx195V42G5yo2x+nvkcDS0zewT832VG+mc96lrr0sWGNKndO42gtR0X54Q/
-Ly3c8MgEK8mu11J+Yz7R0G/OkL2nPEjPSdKP/2lM7t8zyLevIAI8O4vMAeSu3iChQ
-DAzvDB4ZL5FhhQkujATeEKj+zdz1AvY9AgLSLB/20fYnb0B+dEf4STeGOojsQ9Y62
-+LwkLd4Qm9etkXElZMsP9lY9C3pTzDb7HBGvRgqgI3B5BOXV1SuBOEsdHKO2q+eQK
-2oB9f6ILFjiY927T7E8qFjAEpwLyKs6NgEvmhcIJzpWl8MdW/N68BN18h3DErrj6F
-FNOAQmncJioW66h5vkBukmw/Gxwmq4LhKyBrFH0GsJ4kJ46jtsVqQgWyClTODlcyl
-KNlxvUVaqneVyEQJ57+QXrfZx0p3cOT8UiZD6TsngfXa4vu82ZDQi7p25LMwd0xfn
-ToWOh0AdSXLS9QtL1dK3X7dJrwLSeFuVFTIGdvn5WuOmgon4QndNpYBxE9L2BJUL7
-/kGYskQXghIAE2vr7oQGNSeEPGb7WAKb4+LMd6jpvVMDIK26tnL+eXz2TURMyE037
-A==
+KLQMkPW4o7zx674hFhk10B/LYxV/kdtFQre2WriSVPxQi/olKlHbxrJorvH9dIWfc
+tyDGq8bXKHpHGne0KXEfL2/VqgFqZfgKIBtt+RptLxMZ7JtJmhn32YBC3yYMJSanD
+PHlvnyzv+9jj6De5gjfeVjJEpDrz4Vji3s3unZG5sRuF1WCtMW+f5OpxC+IzfLgDZ
+lGbrhXGxObTb8/ho0KkcCBYg8v1A5emxWhNxbnvLCHwIwTzxbFcop9u88hlJGoMec
+j5BJ98cyg16WYVnie67NQ+MIZqUHILN6TLG08PetoGuYEIwfjtRr5a2Vc8lFztcpF
+OfCJlyQL9Zg+yhfF3K/t3ZEIxoRmxMVxPceI7FGff1Rpr2Fj/wQtiuO0s/9S/IyRv
+3S0Z64y3BOlAamSwiT00Vu0m9fZ6tS05cEoxKmiVBbuDlZoa+KMfxvl9bzWLr0E9T
+DB/Ib90JoP9+/5Vw62g1PY2SSg8SikdvLPUFKfBa/etyZiwOaJ8TKUz0coFIS4bOA
+umUITN1vmZoVB5DHYa+eKZIJ+YY6Nsp4L675QdHxSKi2XdEi+Vrlq3ndt14mIs1Ai
+f1tctDt4+YrPo/0JuATApm6201jaL45sEaDlNi2/6Km1v2m1im+lUY6VrDlMzyV9W
+LSLqlKAKMdnOPkVcHkYtD3DS92+bkS46dMuZtFdG3Q0Ia1eyb30QO35KQqFo++H/c
+3Yjx4GXUo9MJHgIoh0JyBCyaDtlo3PposuG3soS2c+37q27CtDfx8zLWvTQeqI69e
+8rPyZ8HMatXF3750QNCcODVD3mvTJJuXdJaiLr6IGgWaSinuiqJZaMXSSE8eMWea3
+/69ViMld2tkEuBeZAE2Cay+fHFMK6+RSeCOGO1xUTBlBDFHbRJlXAl81EVfCuBzqu
+5o/a3Y+CgARGsmIjMNutFlYgdOFSZKKIRxUuGBCJqQ6H0xKqtsrRJUAmFpMop2HCh
++P5WD7iIUgP9bgoI7gMJqTlCOqqCT/upxUkx9pRDEGcy59JLn+3Yb9gV0ffG5OQH7
+waSmvKz3vIyVHowCxeU9ZZju2ou5rMpip6Q5gjNO0tDpagH7Sj8oeYcRuk2KJOZ9m
+KSkThtscqVbjZLS4UYUpvioA/WQ4ad+k7LZOTs4LfDPXDsu5e1lKaO8j3dBWgr+Th
+YZnRIravq6mNmfjmcJD/S9BpY4fqsjZRpT3Rf0GGkZX5dtPxKlzILu3A/5PlCJTNz
+ja5LZxO0P5sJBnx2YLmaNYxWTJILhR0VtPJejYazXjYhYX5iMX4f+pvALwm+gcBIV
+U9sNdc9z0cPxjiIWwPEXSRZZx3BwGc+YYDeQio9HxgvEOlBuCaU8TjPFPcfQFYIsy
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ A==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -53,7 +53,7 @@ class MediaWikiVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'mediawikiPath', 'The local directory where MediaWiki installation is located.'));
 	}
 
-	protected function get_mediawiki_version($path) {
+	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$c = @file_get_contents("$path/includes/Defines.php");
@@ -68,8 +68,8 @@ class MediaWikiVersionCheck extends VNag {
 	}
 
 	protected function get_latest_version() {
-	        $cont = @file_get_contents('https://www.mediawiki.org/wiki/Download/en');
-		if (!$cont) {
+	        $cont = $this->url_get_contents('https://www.mediawiki.org/wiki/Download/en');
+		if ($cont === false) {
 
 			// The server replies to some older versions of PHP: 426 Upgrade Required
 			$ch = curl_init();
@@ -101,7 +101,7 @@ class MediaWikiVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		$version = $this->get_mediawiki_version($system_dir);
+		$version = $this->get_local_version($system_dir);
 
 		$latest_version = $this->get_latest_version();
 

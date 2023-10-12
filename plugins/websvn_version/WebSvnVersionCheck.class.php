@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-O3yOuJ0uY8SaZtsrvzay90oQ6sp1M+CxL4k53lThK/mXA4x6XNuTX1K8OygUl0swc
-+yV3RRKNVNaLXMxKBOhRVC1SqJi5jDM+/AN0vJ2j0fjYcc0mXbuy4amScMq0wFBBq
-0Kf2mqWu4QtZiZ6PQo+SoUuoR5QsN4IQkOKdj7cdluNFClt6uar2ZPNEGeHFGt0eT
-ddCEJf13rjkpta4FUjjPr1eN2uWE7qFIAqgYbx1tW7+fX3iFOOcnd9F85hbvGQhpY
-LJgFwwsFbfgH26E54Za6ynVJ5yvZ3FBFItO/UMtuiAqjFgsv6tmU49B7NxzzFeAln
-xTPhhF5SILLJr/aKkMhNd1vWup4s6ZW+HWlwxd5kRdNedGPiWExZZuGDfdorycLLo
-kiP2xEHVhMFlOFtBsprOwF8ZjkQ8Jhak+MmUyXIPyhPUPWIyow8kttnBhw2QNxwI3
-9l/7Z/HNj+XYcJq+lRPLG7CGzmD6xBDgjhLMVGTb2ZSqR6Y0YVpd8Wsq7zhok5538
-YhE0jtLjaX8U99Y5l9hwJnLZJH7POHbmR5GFAyxZdH08E+nboIwlV5LJrFYb6odSC
-S2zWC1PCr3fvSErp9ikEE+GKvsvDviYymcR3rd8xxlsUFi8N/gOKgLY1cobY2Ic2s
-jtdinhvnoKU8Fmmc9qUUNJcFS2dyM3uv1CSvYJp0iFcMqEZ3G/FcM3/octYhl1hl1
-vPJRe+0Xm9O0T6VqhWNvAf6MjJ2FQGMRAKWkP4NGuP1jOkN3yU0GjP0nc3ZXY92r/
-wGnYqLTFh4c3WiGRjNJOmWHqSy1QCVKz13lqVTa4/g6RK0dNVphvTjCcpB6/VCAtw
-II0K/y1ZJ0JmhWUbN7JXULyB1Ghy00WUZa3XPZCfCGWqVT/KtPkZgL/8zBzg+NFkF
-ZNINJsjM3aFebt2yeUn5E13WCOCFsm6fqhhtNBe14tn2b/AEew4gZfuitFuvbPtY/
-gPSqg8EnJ2qmoGJEQhgmkLdmklBLQ/Xtyf68kYFGeoRU/IPVnsODqytvS/J23v0vF
-f//VIjpE2vmrRi7aE1QmnT+JIKqq1HZsUPnuEjpIWhdH1W+sztLSbYHTmVG89QOeT
-cQzGPitGrPgqqSuVJo0q/zYdXDjE+Y6kbIj8QrK05N6MfhCeund5JvTab7AQlg51n
-BSNXZFMdena5C5QTXGwU3BQwBpvr92YWCj7EXzGU8N5XTDULiyInNNZ0xOULA+AXP
-aV79sQdctyrWEkll9ykl00641y3jdJl0b3FzFy87v9OoRLj8vAsvy2cUmRykRjyJm
-Uc8V1D7xjhvuxa5APwrpcaULIpOSiC3upgmNYlZIODV2CKixY5csoo7Ka2wnAttss
-Q==
+fqkUXo8Mk3LMsdasFOvKADgY4gxxGTLbE4cM7AU1uo+PpfVGfzGKeXsOUYoPivmg7
+pYb4KCOneJ5ifN35ujcauLXaaAvthxv8staBS/hHck3SWFCMCoYB5Y+7FYQyAupS1
+bqjrkwBWHhjB1RpzheGenurqG/Cbn6vB0XlC9uE2AN52b/kmctIKdsgKfy6ojPfm1
+NMOfJ3x7O1Z4+NPla0Ga+ezSScZjARO9jMBYN76FdDpioaa2t1J69rN4Ce7rj8A0v
+d0+n1hLlXuIC9PBH3hzVdDbBTdkWDTlIjwr1Hr8+dmyqU7s24ww+55GrAjKNHOr4N
+lwyatuMn4bBCT/vsdGZLAsaeC60ug9gHfjGvqXfTykUmVgMJNs+zSy7d5HLivoFsL
+lQG1ioDxRr59BFF+St2a+rDjWLlafd7IayZbvUrGwGMeX50r9vEIo7gd7YZk2yyh0
+Y+pQ3fENCLkl71COn0aYSRgHWMwL+IZwYV6/MZTC48pKO2U+EYY1GB9OrSMnPTVed
+lLS/rJaBi9MEJina93RfHif16A6mn2wy2HkUrFg0FCgXsTEUlDBGlowmYFqG87LCG
+vQf6pC+AUCZYCN52nkrwwEJGEgcwRQLq8IHuxrKMI+4HjBuSbdD3qSIl4RZYsJRAL
+l62kcZpaF3a9t3oC1kBEiahiLjh7qIkFcTPKJm0Bi1iNAYaApO4qJHHvhT7MuimKV
+mtAKlbFThGBIs9qHCQi0VzFwOHjKgFE8rGtA8EQGhs2MD5KdxV1JY4yr9Uj2fcgoJ
+7TCOIejx5loBNSi4kaCCN4B4bye3B6fdptCtss/szKjiv4hftWycMartrxCHIHcUZ
+FXTYLmDhmzp2fu85CZZ8tqHD/2GECGdqSQRjuWSXpmikzUAUNXnGFTMewHGuzOtiK
+Vjhap3cydy5FfeyTxQunwdtiNM/xD+z9s6XICNgM1ur5rt1yGmtA8jJnao0okIBF8
+yEjfW2NfK1nTeI6pvmcmWC0G2kHfuZrVnT7kxkzSBd/KDUhbKvYbNkWGQAKNeqMH7
+AFYui87Iu4Rf8A9Pvt4unFSzCCiJ0mJO1//re/0IUWCIh8wjLejwPIpYcKDXBngf0
+EF1IIbS76kfZ//mDcvh9k5ViCEeMcSSPKwQ6jiOqI2u0bal7IWWhbmwakbEwmE0ZJ
+EIumubK3UL2+RKwUNGJ33yrK05VtQmkpqqa4KHvj5QVvnCpSXJu84+dTpW0TMAmKq
+6Sh8HDFZIpqiBPUCa3Tug//WNf5xsYLxSrVl9YqsMiGBsPIM4f4J79uB672Azs0lE
+1vb4opB5kNRk+u5+EPkY7rddApLDMh55Fda+37CC0NpCXdoo/vwnwXi8Q+4dQxmsw
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-12-18
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -70,28 +70,13 @@ class WebSvnVersionCheck extends VNag {
 	}
 
 	protected function get_latest_version() {
-		$url = 'https://api.github.com/repos/websvnphp/websvn/releases/latest';
-		$max_cache_time = 24 * 60 * 60;
-		$cache_file = $this->get_cache_dir().'/'.sha1($url);
-		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
-			$cont = @file_get_contents($cache_file);
-			if (!$cont) throw new Exception("Failed to get contents from $cache_file");
-		} else {
-			$options = array(
-			  'http'=>array(
-			    'method'=>"GET",
-			    'header'=>"Accept-language: en\r\n" .
-			              "User-Agent: Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.102011-10-16 20:23:10\r\n"
-			  )
-			);
-			$context = stream_context_create($options);
-			$cont = @file_get_contents($url, false, $context);
-			if (!$cont) throw new Exception("Failed to get contents from $url");
-			file_put_contents($cache_file, $cont);
+		$cont = $this->url_get_contents('https://api.github.com/repos/websvnphp/websvn/releases/latest');
+		if ($cont === false) {
+			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. A');
 		}
 
 		$data = @json_decode($cont, true);
-		if (!$data) {
+		if ($data === false) {
 			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. B');
 		}
 

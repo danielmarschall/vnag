@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-URC5lyHF7B7Z/hCr2eAcYLDKai5MDWwA6NK9uL37gGSh0pfGDEss7/vvlTbfFJPDo
-/4zYu0T4mgcqPs8kKgLRmT4A/Hn0BlQRcaG5MV2r+ypF37avL06BYfsed8DwxXOVM
-ENZ4fTolmbKBGaQ+0BXGgkO9TnXnXP/A1LuOUZj6v0PGrnI6wfyJ8+a0de1lAvXZh
-WxKqN4RcHkbqEQy71Ox5XCS6Wl8ZDp2/uPyoyh8FM1c/XJalnzVTaAkJwjsP3Vtqd
-qVv7QURFmetfkOqqvtNm4N5XGlNhd2/M2QolAJNzjVL4ZLd4hNB2dGlxo7eNag/+r
-100zpq3/ZVJ65YKMfDXAAteHS/k/ajHO6bmh171pVj2cq5NlBqIPm7zk3dIeHhu1f
-WhW6tV6aZu7ChK9waZ1i9G2g4FStOLzQdRrV9rqOqLjfXB4hyfXP9SIwPn+sZ+VxU
-x4+PW9QCZxc16JW6tyik9MFqjmwD5cttzoAwa/EKvuoxXeMz+aIsqXNxv8YfgCUXN
-dyZwWUBb9UTbsVpEZTU8wXNhLwYzLGKuv9t/xWEGr/+bknaEwiMxhqzt9j9P+Blhx
-vw+0V2z6NtX/VOJJ/kaJFPS+U0Zj0M96QB/EUPKzuxtU4MpqyyKxrv4d3rWoH+I2i
-G5Q4TI58+8UNBKG/UZZz6adF0VZ8TwuRxDL07USEgqkIV96NAzTguVhBYRmn/OROU
-qUnfB16vvDI0qXpT/tMuthHWQK/qDkxF6JiBRBGQGSl+a1SBW7peEc7yQvgs94Prn
-eTuisoHyZ6o2UY8iYCulOTiYAjLd6Ob45O0ggu3U2Y8e+avoJc7vZ3ix4AzsFPtLZ
-q1QTSLakzPD6yKwSnr6WHk72R/VlWo3nGF5I53e+32tyqN9bgMol6BxGu6fMx/nAZ
-581nqLgqhI/+WstBmQYysVJXkt2rCowgrtU35ErZD9tKwWC7pBGwJrH2zF88y8nxz
-YmtfL5zdHVU0tY2wStySbWPC77+RWLTRRiNmDmM4xAWiJ53VsKBQiXO+/Ee1XieL/
-s1qGqyUp3ZhWgqZSur1X3MxFnzt50g+VZUJOIYL4/8Zxn/jxwa+SQDazvsnxCQQFC
-9Q43pB304ik4Ps0BBmcUzOIGy3UIzWeWl8p2nLFCJ9UmGoQcwfCAc/1zWdoBnHyNM
-n/0Ody4uqN0qzo9z9B52YJzrTApC2m0EcbpUVCwfWWV0e8UGhw1Y3rR0ovPOHU53g
-wxGtDzQoFySXk2RgxVxWn5DIa8B4gH94aCbQ6C4Msew1iHkYINWp4TUfbyGQDQLNQ
-1ICXmi0Zs3lXHQsjHt/uTb/rjftdUivbKo0V+1AnW/jo7fzegS6Vv5+3A8TdBaa6d
-w==
+Q+LgiqdSfhwY9Jlcm6yUYFLgrqbkPTtbTn00IzB/vNJZ7UwGuMZBLm/3wdSqobOjO
+aYwaWnxIqvl8IplgQf58a/wO1PS1Abz+T0yUL9bNL71JcJauTqNqNeSQUcPjDDn62
+tF5FiEhtVYPhiWYdY8O7hF9xOIot9XBjN6KPXOaOqRFreKgeF9P/WNIzHSdnDaZDX
+TP+tEvtCijPbcw+1n00Di0h5K/LBFXuItJvpeHmtew3XgBxQXedndOGA8ZVIo3tmH
+/n7s5s+CZboe+h/Ds9BMsAcEKv++d+9bJuPd/YsmwRrB0j22KRfyJmKKm96UBL/bs
+ORF5cb/f+Uqd86kpVk1MXY+CXARVNVrB1huyo7AZgvXePMkcTKSJBiHhfhNCjmrFy
+g8SkllXByUiyceZazlvxWCRpzqGzjXGw8ZWWjVIASP0BhgxIDwhtGBADs0c9SuWDa
+Y5mJ//E517rQm2uq9bQqmJ3JTPHB9r41VxO17hzlP9AZafo4ISLgiqghElKSvgcOy
+8D1DYbVeYnoBK13GObzixhA+p+/Gs8IL8aiuFrffLU3aScwjvmNRA5YEVIM+QCyfX
+cbkQ5++1sqdNJZO5MufwVRJEjidvZqrsVEVdT8Oztu47v+8pA/RMabOVkR8TMAZB4
+PtzcM27uOUANXJlXbnyUQrA9qiyrklVY7mphdCrq2GpfaXWP5vYaRyV6BrooAJWSO
+0Rl1nd2aIxjxb+tDWCgiXi9+bBTHAiqvj8jHSKlZqye+ECmdrsejBRqGKbeaws92v
+L3H152X+5VG7kni4xQEO75w+gNifzN6fUJNnk6/aIv5sOhiQcXAaOL5p0tUPTlvmG
+eerZGQGTGa5JW5Ns1zCiihoTpQ1VQ39gPntz3c7hTuCspMdSqB9nH7YylhRqt87Hv
+KzBXsNLnHbwrPLN5n2V3dMgC9pbKTXZ4pEYkVvn4/prIpscDlKezS7NXMz98gdNbV
+yAEItdnBK4zjUj8PnBKN579sU5+3NgkNRJrmsZJWjDDp5fwdpTTbHAbnixgfIKtI6
+fptjBozyBjzK+eXrPUhvseHg3GytlNoX3BLBNis6Ya917D79qiGpJlMjL6WX+EXpR
++bYWChbMqJVxQC4z2Ui6PDtGj6v0UCiW5p3ag5zlJkJHVEUpbj1gFRVPb0LpJk676
++lKqKQIrkHdOHwIN4yr6vlL2j95tCI4NF0+QSjvEGAORJJsmr8RoX30S1g9GrSLNI
+hhKaYpZ+wAteNYBIQ5b/O2F+tTnu4iw/Zc90jNtqGKP8S9Rgro4N6MDwk841jc7y/
+biAkj6zKbFNfaUhIqjPh+355VUWhzoYowY0sGST+v7+6NzIGHIW7+eMzta1aKbnBj
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-15
+ * Revision 2023-10-13
  */
 
 // TODO: Should we also warn if a newer major version is released?
@@ -55,7 +55,7 @@ class PhpBbVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'phpBBPath', 'The local directory where your phpBB installation is located.'));
 	}
 
-	protected function get_phpbb_version($path) {
+	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		// Version 3 support
@@ -108,7 +108,7 @@ class PhpBbVersionCheck extends VNag {
 		// More information about the JSON structure: https://area51.phpbb.com/docs/dev/extensions/tutorial_advanced.html#extension-version-checking
 		// (Note: We should check regularly if the fields 'eol' and 'security' will be officially implemented/described)
 		$versionCheckUrl = "https://version.phpbb.com/phpbb/versions.json";
-		$cont = @file_get_contents($versionCheckUrl);
+		$cont = $this->url_get_contents($versionCheckUrl);
 		if ($cont === false) {
 			throw new Exception('Could not determinate latest phpBB version');
 		}
@@ -117,8 +117,7 @@ class PhpBbVersionCheck extends VNag {
 			throw new Exception('Could not determinate latest phpBB version');
 		}
 
-		$version = $this->get_phpbb_version($system_dir);
-
+		$version = $this->get_local_version($system_dir);
 		if ($version === false) {
 			throw new Exception('Could not determinate current phpBB version in "'.$system_dir.'".');
 		}

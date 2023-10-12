@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-x8VDWLNVIBuTV+Bwn57lv0/eS256StHnC4d4Jdcpmn2mhOKU9INdgEdQWaRVsqPdL
-v7ML2ZSeGQTO7E3rHtXvlhbFikllomsC8MiR1Ja+LogZR8VHpnAE29g6l+llwQYBq
-F5UoDQQUHkxVf6fA2wcGfvzt3CjS4Ab1wcGerspjywQVDWHNFuTXYB7VzziAchJBv
-dgTbzsW0LuNK9M09ve8szm8mYdQ3DbUo9kOOudmrP7jVm3FPowFcFQyI+XVooNwxq
-0bt5HWWdn3iklgCdbK4I0PfFom7IIRmWLQcn+O9Xb6hsJNNMwzBtFRt6KqjrOJnFm
-ENr0cMMDMt4rZlSLVP7MQL9X20/L8Sx6x9lSLe3L0kjRsQk5OtlzeP15ntjd4wYak
-rDIj/nUQ/Fejkv210s6DJTtPFLCiVN6UlMfooL1Kp439HYfSko0QFTK3Szc7shsDg
-QOWcEnheheJ4pUm0GsvSvikKz+MVMyygp0FLxe4j7/Dt8hR6y2sbC9X3RffRh+OHK
-916LMzW0zowM8lc5+Orw5iZHpk5hFj19p2TN9cAzWWleGLWWBWFZgqIZVPbLgV5pM
-tVRHHGTitZ68yU6U0fcDbafd4Fs4BIACMuAo3aR27PZJMKYWphLhwbhfH1jUQ+a4p
-sxGCViiUSy+Fi2rl9T2glCKxwQmzZk3LQwbX37Cf+bCUV4u+x/vFrHPdKbbipP9XU
-gjzXnWk/rytrXtiVJgk0R/nWq6KuzvMeivvQuPcJvtjbNWeSa/CCI33oBGfBWqOWf
-tHYZ2ygQ/gkyD6Sjls5+3G1M6m5a3evgib4hSqXWIo5rmDtilSZ3pUOFpcsGZ9O1j
-cMgVq78ErkEVJonNwoz1L2de6ArqF5IflG6vqDCwmm/iJNazwth1mem4S/O8HFMVZ
-PVCslXsikJSFiN7EthHA4iGrMvZnVpT0OBaHSXcIRWiB6goIiKC7GgqiRx5Ho+rC+
-h4DiSJ1lI6AbwWI+ATkGlLzLvjVb3ESmDXSisBVE1cMrh3TK/MJQ8XRRRfwNxzYT0
-EOC1nZ/RSgjrilOqJbRlmXAqIv0vTSbIFpyYolOZjMVDZ9IluWy6sCErfuR/XHXYa
-3oSEAlmpCzMkberpuVWCRcbLDMI+jjtx1J5SKn/IVMsNyB4ygi5YCuvqKxRge8rdq
-GByaLxhO2ziDQGAK08+PHCLD19n9APbtyplEiX6wA5Mv2F2rEenuSbIAyXCxC4WnD
-dyHau/7F2y4uyt6F0eD8PmtFYDtjH0RIGFtwqnmh61JChfxymXogN7Ee7bMqWJFe3
-Ksd0egFhulWY9ox4KdDpUXDETfM3pIYnHKI7FWe2/4zqdUgA7sT/14ZuCdqXQJmsP
-w==
+HlSVetfv0XKCBAHe5nbDalbR8T1VTGwFp5Sso+NV+Ai6FGDOxUZ5V74bkZm6zjj0l
+geBvlNO5x4g5a8VBt1g5p0drOul4hbXTSX8GtOzNGLWrglTmsF3RHDWUMMKOI4EMq
+lqi7fUsppvUJ61PnR+XFIx5zNomQ3FNI3NNPnfHiN4O5c0Rz6WzEF5TVT2F7DPlDo
+ZbEdmo7cXZuSJG0fGpD6Qelkq2eKNxkE0DyNJrLAcEnntvuTYpoc06QYiNJk+OIED
+kd5i0KB9poE5BORsGMhVMwWK2s4ajE/TqZ9fGACbyk+lbinTMJ2VAGzR4KTSThJfb
+KbavleaX9ITi9jbBVxGorDiFY2Ly8BvJ0gaJmSXwjUDSUsLdJuMruNVULjhoGgzAs
+lXGu6RZ0GvuPly6jBkXGqdguqrjBvczkGLc+SQM1TkxafWK3rjnVlL3NcAVeNp1mm
++F+UawOvT1nBNXsAodiv8G5Vt75t9/KxPZ/9pSfoui2efNodb+WWUVM5y2/2bSuWR
+7jSuquWKooOdHa3KIppD4RDhV2q2eq8AQhP2d+KihlJCoPMB3BZgmut++BBT3K4LN
+vp084TEGxwi4vJmFXBuHMzLBG5I0RFaAdtiO6MFuJLfYx2Y1A+rP5C0dAlnqQSD45
+KF/ibeJM0FP+9XxT4OhGxehwbKTm9waBBqc2k7d3h45XTFZ3ygP9UmffI1Nol9N2g
+kWFAdelxZxiMX/AOl+kGm8lv1oCJbpdFWle6YSunl7PUV38llVeFMcNsTf6rM+ZdG
+c2O3bHvcVt39tRBS2eGDwg90dxCMUwVu4k8DbmU0ga5FyjfvEZLDDceYFR9xgu3TT
+p+62MtDaxkPIku4XinpH95FbF/m/ZETBM1r1wMa8+C7qp6exBmrKas1e7cy482Sx8
+MoD6prrA35xL3dUnr7dZJwtVS68Znpb1hy/adYKNCOnzidZYsK2e+BcnY9IMaI3aX
+4B6ZNoJTRVxFKTkgNx6uZC22HVwcp/EtOW0SAHUGax7ICDY7f2FhUnTOXh3pU3KBW
+9h0MgnzC4jjE96F1ROUw0gGT8wA+a6yugaPGjaKVVWWJiyEikHofPt3YkEVZUPOV0
+q7I0kgW0PqqqzzlMu4rJicTWEWXofYAI6j4zuTZ9XrHNPp0vw+f5stt/zYqAJ609h
+VhL+iYaqO2r+3p+YMDLzL7WQCQA2VDNpzV9XVrQEAPLYkSgS9ZFZ/o8TgjgVpGnv/
+AfEwJned7Te2NDzlIAcg4UoEk3NL8sCcIyPvwxf2zbzceqEAlnfryacxS3Tt8vrde
+F31XxnfmY43Tzzoa0I0P5xPRAhmcwnraY/emXTAcoAYmkJpO1fp7mqDpDPHHbydtv
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -53,7 +53,7 @@ class OwnCloudVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'ownCloudPath', 'The local directory where your ownCloud installation is located.'));
 	}
 
-	protected function get_owncloud_version($local_path) {
+	protected function get_versions($local_path) {
 		$local_path = realpath($local_path) === false ? $local_path : realpath($local_path);
 
 		if (!file_exists($local_path . '/version.php')) {
@@ -108,15 +108,18 @@ class OwnCloudVersionCheck extends VNag {
 		              $OC_Edition.'x'.
 		              urlencode($OC_Build);
 
-		$cont = file_get_contents($update_url);
+		$cont = $this->url_get_contents($update_url);
 		if ($cont === false) {
-			throw new Exception('Could not determinate current ownCloud version in "'.$local_path.'".');
+			throw new Exception('Could not determinate current ownCloud version in "'.$local_path.'". A');
 		}
 
 		if ($cont === '') {
 			return array($OC_VersionString, $OC_VersionString, $OC_Channel);
 		} else {
 			$xml = simplexml_load_string($cont);
+			if ($xml === false) {
+				throw new Exception('Could not determinate current ownCloud version in "'.$local_path.'". B');
+			}
 			$new_ver = (string)$xml->version;
 			return array($OC_VersionString, $new_ver, $OC_Channel);
 		}
@@ -133,7 +136,7 @@ class OwnCloudVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		list($cur_ver, $new_ver, $channel) = $this->get_owncloud_version($system_dir);
+		list($cur_ver, $new_ver, $channel) = $this->get_versions($system_dir);
 
 		if (version_compare($cur_ver,$new_ver) >= 0) {
 			$this->setStatus(VNag::STATUS_OK);

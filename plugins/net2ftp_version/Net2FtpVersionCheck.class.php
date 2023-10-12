@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-kaYU5Ej07R4JWIYY77+1u7d9Z/suFEbhvcni+GKz0Y7j5W4RUkmYNGW72dwGJODn3
-4cbFalcSOJ1X+6RSelabpkRbEAT7xJDYIsZKq4n28PrYYmVoHLgAlQpTC36iFRxqG
-NsZuDj8iAOaBiaUlB30denRyvP6YYIdFa0hlHY4nK3eqptbS9F5PTxtjB1reHwTOK
-F4kEhznuZY5POdGnrRNAlB4s5wc70Qqn6JiRtZHtKU1reX//Jdq3FP2HAc82P4izE
-AZsmJbY5dQwa7YMWe4n9AcWHyXr08zbHqYCzCTgEmLgPv0Z4RsBXSMq9JfseHl19i
-R8mCQF91/N1vMpnSRhmBEj5p331jHcCwe3w7eQHFJriT8zNosRkeBTYGEowNI3EcO
-nYRgWfxdpBujU/Q1ES2P/te8efclnVdCGfhlOK21Y6qj9P45mZdnqS1C2YT498N3s
-AYrl5q793aujZyZ+tZ6SzVTsb7EYYGXkjMmkqFsz1sLNe4Mwmku1gVo1dZKqF/j+8
-tSl8RgHA5NUzu2m+Rhu14CnBQ36904vN1I/dpbAYnk+9tbCNywuPlPaJtpTpmPQtb
-TyhZTdL+0SK90O4IhFcEugFBsw+b7LnaqOPw7GwOHXBHWM9xePZ6r0K49/0rwvMyH
-1j0096b+EAw/hCOf3ic9cZh/rpO9IcOcOJI0zsR0Mta1dzujnzjY66VPt0TCYjWPu
-chqcU2Re8YuSmIsmkHWOuEJRVDYE/h/2yHNdcdo2ev90DYIjP95UHi9ZxCKoJDEG2
-aac0WcNMrxEFgmYM8p8v4Bg96x0o+Y16xxMc2T3NeT6E4HrZAx8Sq1hkl4+D0RRid
-ibXuzxERmDu+DFeA1d+WRLCv0vIFaQHVVx79HiA/U1TdMqbvSv6TPMEX3etjwo9gv
-4hZ4Io9npHprocFcLLPzgfCBmOGBinvmUGwnw+iVTTK08SVOTPPkT4sOdwiBgRysw
-F3Bj2O2qwOOkH+1lscTogldQQMvLYQaL6K3RvUHNede2yxnjowjfZBFLdZQVZvvhH
-cc1QuCqsrU9cmsUPSGd/hkvAlS1a2dk2TLPJTkchxb0Q/hEcl+zwYnW5ZMj8Uvbkj
-TFnI0XV6upG4WTF53ewPR4dZMfdBzboMFglDFGg7MJY6tkZzwrxTAFmVQSGCUgcVn
-rzL0NWyivR24OA8cQ2CRe3X4bmJQ4bHuZZf6dLLbbyJJV3x3QwFw1BQCUiJE1mBQH
-ZfOqsdqwmvVH76R6DStD1BakkjqfB/Q4A2ghRxTqsESMj/KcC1Rj0YL/RbWQGKWb0
-b+OYXtEHghPQPLH9nUU6wH0pi4zG80rFG1nrOQTYEf4PfyqkdSAa5jK0HTxLIASpV
-g==
+Y47HtMofXduSMBqHYs0A2zUutszEFPtnTiplJnrXJJCTA4aIl3/mw1UwycL+xmcvG
+eeO81pkefEWiXtWhoRqX4MIBUv7zZ7Yp+O9/uUs/l+++WvBHkEue++SyuJXgRlYOS
+14NGZl2w4LJjLEw6RYFtq7UhHlojVrFfysBXgbzYyvMx+mbkstNLTwJZ34T2wJCAK
+b3bYzIavozAoSBPiyq1LblDE+EMFbVEdHvRzNTNrcc7fVcDuZt3pzbHkXbJzAbIT+
+8s5ZCwxrzuy+Q2kq4GCeiTUdpneq8UwWFqrM5pgSpjLP0MM8DZMVJeYcm5KWomOnO
+HjGhU53upbQkMpadXJOU8eLm0XSD8WwxK6cWiZTGyS0Vg22Hepgv5HDobHWk3Dt7I
+8ryhwdS2wtfvioWcabm95coxWIayQq/49bW/U0iBZCUlizpkLFVQiqFrPV7BpMN5G
+tjdJBjR1Hg5E8ALpa19v4B6TCb/ujGTlZkVqQbNBhrTH1VuJ7UNSx9Lnt/Y3Jwss8
+63HHSs1nG5cnCgpef0ojH20aLk7N7k7DwWMYovOlx/LpfmgK3iYTBo4UlwBVTJByk
+nMK010KnruouDT5alpeZ/tvSYWzWakgqaOMCd6IaDhDt+v/RZXtXuvSOjV+tfX1nF
+rATHyku3y4dH09uirH9AHuN1PfFi/mjXiOPlUjHdgdih/nTmKFxDJhi7qX1Cbrch5
+L0Rq7nPTD9R4B7k8YwmDmMWAY/+XPTg0Y+J+ivCVnNkReqsEDLS/fMGu8VekBhxIh
+WoivFYr62IdEMfDdK7usvVY3lA1xSS4X/bg9OixwTVyjyiZjYPGpilR4q5rB4LrDb
+Jn8JuB2jFLFCAABeNbLd76Cz35CVhmNm1VetFhBYlVG7k/a7PZgH79GZDXRpzYCOP
+mMCYYNgCJ1RDXZeeKsTD+gZ/VjAS/XvUgVCN/Du37EW/IsMPoOQNVKbWOEj3HYbwi
+7wr4ebqMtjMxfikc1uUu2WIlnooYDF5NusE3y24Vok0sUv3qqZ9nDrI6tOG1wFUSx
+CYyJVAUV0tgjOeixgzdseR7oi5pT8RjUHg3Y/EOHDMg3ZXPZiJzITQaprkB9Zu3Kg
+v7ks3PZqxBRxYtCBsMHXmKsWavRBmL7NZP8ETk0SIXmhpK45LHh/LkD/8KktRQ8Gx
+PRfqK+LWFmAOBfCABUt0ZsN6lA0u5U+ddOMl0sSTsSn7C3mCnTwmFGroGR0gWUQhJ
+wJ4tagVYOJUxgFOa0TiNTttVrYTx+DPfjm7F6c3yjaTg/MKBf5eOKvNPlD22lnsNh
+pkWe14wIwYN7nwVGe6+5IR6GpuYCvfQ0tMTg3NEwraHl0U/wtcGbraAgQQZWoTqNg
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-12-18
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -70,8 +70,8 @@ class Net2FtpVersionCheck extends VNag {
 	}
 
 	protected function get_latest_version() {
-		$cont = @file_get_contents('https://www.net2ftp.com/version.js');
-		if (!$cont) {
+		$cont = $this->url_get_contents('https://www.net2ftp.com/version.js');
+		if ($cont === false) {
 			throw new Exception('Cannot parse version from net2ftp website. The plugin probably needs to be updated.');
 		}
 

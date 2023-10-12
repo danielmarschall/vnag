@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-cGW8X73co5z+uum9rrdEPEHmuDBAo+pukQfYDBdqlYGcl33wNfhUwLtwwntxMpDWP
-+M05qfvdttLd8tIQEbmRp+rRgzTIqifraqe4TYBZ+yHqKLoadnepZndKc9DzXzGBm
-Zt8t1ByTLihOSHaDcUcoNViSoVnUQhUHuBljS1axSydVPkm3eFNBhJpvlNDLGDhGk
-nqRVJ2MFcpEs7wCXKznjhBNsNygJxkmDniDVvlCVK/45o0QlHr1oV7SJ1EoLl2+Qb
-kKtgZDNDVtsPPnUtoTjh7Zl2nwNRqtyOb6Cvacc+oFi5z8x8yss8jIWzvl3VVJLAt
-gA1jy4fak1qwQhS+nQRNksbBs3eTnIDUl13wlztX3Ats9oW/hbkr0MqpoAp0aP7yU
-kxe5YLPM/4v/8ZOYEdpP3Vk58ss6OlQTOkbTHhw9HPPlK34sf+e//EIxa/bdFGDPL
-4sRiIDVCGU7K/m7UxOYZTR/XxwrUzWf5sOpGtklMjMzpQfEJvig3j7ymAx/plUCyI
-facgGRhC7vA6XrWj1F6MfAZ2QgJcAPAZl6gpfFaJ1WcqzzILZmkGP4FLHt+Vr6n78
-GM2+RSSmf7NAUxHhrDQu7OAHaZWBdJL7Bk1FZqrLuj9k8BZzqbdPEykVZYr6VVXzS
-6xoxR/KCFcyB/l9anxML1xmHG4/OdcMH+QhSPXL+of0KxM/GP+JhtYsR0cMoj6dB1
-+k/0idxXXvdqrRGxDCUacL3YAQl5SkiKwGUKvDE+Ix9KCzRYEneZu6iTLNar6bpMu
-Vq5opP4yuYmMyw1E/Ugng4j88m2kFsKOsmrOEzCBTxnHCT36xPLLw5J2+Qg5uNIkR
-zLl25Va7k/OfHdgihR4wIpjqD/xX4hSsc4DyQu0qpXAGSx1uAeLY5Pnr83yQo/DKQ
-3ErDKwx76L/kkv6WUBRT/V7NY0i+/UsifyKSIWMtX2aQVbxd3kbwu+9Yk+VIkc/L0
-FLiRix1W8e7BEJu4cbU/e+ME1bQpWP4mzFTmSNQxF0dlyAtvx+i09r1CV8JLqLgkA
-W6aSJLau6mayaSxJBC1got8I4NiQDqRmx9TXErYO2pyQ2uPnoVamhzxSBV0kEnfgD
-rWiDLLbMiDQ5YPUtO+W3uW7nZ4JL/Nj9fpmMBjMSWTVVzWtOT5+dsDsjaBrJ7v5CR
-YRpXFC7WPU9/O2+RuuDWebxvJvF13bYkuCNyOc7Y+sUl3gEKMXtK7WaYn+hJVscwX
-0MZaBmfRaLMIVaM4fKRlY6ltaxKxZLmWtN9tcCVQjK6X19iytYQwsTlTjO2+sSftH
-pYBgkcSCH68g/f1JClxtfClqM8xJNr1proltFplb8URLPIwEuDkKnnZE+VJR1ICZN
-w==
+xIodU7lBP0sOx3e6CFtClkfp/bVAPoqGDfH9rytWnT4tezmk0METjFW5UfkfEhftq
+60M3zCwBU7WMH+RrYyyzTLpbya28xsj7VQTnI4QTNfawMGEUrHBRtRtG/Eq/B2HLn
+sJ/ZpLwpipTVAnt9MWsKmkz5I/7BfOJwjrH2BlLTDxmHk9SoelvAyR29n2kmfsRty
+J5miiW628U/lKRI2N53K22DFKBYVwvN8YQzhbfZrwnyNzrfOdvfGZ6DINe/CtjYGi
++u06hJF0q/hceMw3zln3lKNz2bhW9XJ2K8CGtimj1OVjZlhc+Pw9RF46X/SDeaz5Q
+nlNoAde16v9GP2cwTEXjnicMR3g7PJdQjiHxj/fTCg3C1BIUQb7kJXsYKe9HlYijD
+ZQGDMout6gg1oc34ZCwWttYjo54FlB6t/BKdvZCgPjKqC6DcP0JE/29a+Nb3XhYV7
++juV3nnDAGv9vHtRgZoBlTuLiSRKurhECMhnQO4IAHxSC7pdUiglEG/LJ7CMEyh5c
+VJQkq9LyVC8koExrzGiMUBCXh8QC64UWL5LTX/diSn3AyLXX6ZNLXBtV2mmHwGAl/
+d+H8Sw8IganZPfNwFcKT2hvj05GalidbNgFMXqOkJBGT7gOrVux6jmUfFuOzeXjHG
+qNpPF6e4D3SDv7iCsEOKmM1ueWeawFLnz2tub3NINgRqt91GAULsA53N2tv7qd3ek
+1ko5NLT2NFIxkcz0BlDSyhhMu8etDQBQtY+D4g7z879LLREgdrw58MAAhrk/f5np7
++eXVh4qTuGIsJyYoXwCzgDZ9RcZmXfDZ7x9CLJTgpp5YhRzutYiqrgxw3Nkn3R3Jk
+9GpVuaRymb0fz/FT/km0rsqKChSaazTeCUxhZF0+vAbLDHurkw5G34IkbypJHdbKp
+ny+/83ktrxwLG+2ICHh4WLFDKWmbwepPePqH8fqKy+oi+7xsUJB0Z1joasD9WYxme
+SoTWBC9js7r9KpXnuvD6DaTHoYaowLZlo44guo0O++6gFT/Y1Cv6YXqNbNJeOQ8Nc
+yxVYXzdTeKO4lixezSI/K8/OeeHEyLhjHMb4kUcEOCuXFzQcO9jPd9pucOZVdwSvB
+M2pDAOcrhFWiSFQiwx826zEyY5J+MwTuewOJrJKXNIaMxzu55ZTPKy8qfPma9jvrY
+fwDy9ZnDvb7XKHgJIdBdrPfq7fkPVvd2pYYozBvQaYDdrZvapixhy4300Iqx8fup6
+pW8xfN+HvKLUWt4NFWojvmIpSp5egb8DGRzBChgLVktI+2Q64cXGXOrfhR1sIK2me
+XMs33vPVTK5t1obSksMDCf/9dJmjRQ+XtS0+D2AsWdkD2MUJhoHLJE6spl+h5dQ+7
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2021-07-01
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -68,19 +68,19 @@ class GitLabVersionCheck extends VNag {
 		$opts = array(
 		  'http'=>array(
 		    'method'=>"GET",
-		    'header'=>"Referer: http://example.org/\r\n" // Important
+		    'header'=>"Referer: http://example.org/\r\n" // Important!!!
 		  )
 		);
 		$context = stream_context_create($opts);
 		$url = "https://version.gitlab.com/check.svg?gitlab_info=".
 		       urlencode(base64_encode('{"version":"'.$version.'"}'));
-		$file = file_get_contents($url, false, $context);
+		$cont = $this->url_get_contents($url, 1*60*60, $context);
 
-		if (!$file) {
+		if ($cont === false) {
 			throw new Exception('Cannot query version.gitlab.com for version check (Version '.$version.')');
 		}
 
-		if (!preg_match('@>([^<]+)</text>@ismU', $file, $m)) {
+		if (!preg_match('@>([^<]+)</text>@ismU', $cont, $m)) {
 			throw new Exception('Server version.gitlab.com sent an unexpected reply (Version '.$version.')');
 		}
 

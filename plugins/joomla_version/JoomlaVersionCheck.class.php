@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-IVBwOjr3n/pCZ7PzcZqZdKFy6ibL85VvOoRY3/b9Y0f46+8ggo8jVRVChw9BQ8BEl
-tAr7KvfpxAcNf5TXhbrYurHeIJT2hM2x4ReAPEMcwxh7cdBYuaXAfq2rMKILRAKTy
-p+0M7thMCz5LUw+is5DWWtpuW1oaW6obOzJ43+y0QPz0EGE0RbUTLFyeTHmHTdCHk
-rETmMwty+s7tzdthAEB9fCviq34QlKiBmqMlw5DfwDJmLh+NK5Y441M8pJ31EZQvP
-nyyGab+i7ZukBApllkdzYyLWy0xVSHK8DaZ7qLK3Lz6t+ClZLa/1N3HsIiRLKYYZ/
-LAFZJyETaGaz3DrrbsdjtpKKEWe1GHIRLqW8h6ENFK9nBYC8NOSSLSt23W9B9T3RY
-pD4CrdxlOog1hEeAI5HBvJ0h9W8x2MvHPk9K2EgIQ2WR1ThwYjykuf2ohfukPe/zK
-tWUxYaAwzTOVGd+I/PGgEKFEbTa2Wk0cZJCSSkR7Tn67HpDle2Th6/KKq9se8GlMb
-dfs4CDulmCpoDslnBPxsdNMYQCJSTAVooVEPywg/MZsZUEgMn8kXDMNmPAVTz29Tr
-YCjcXRyiz3eWrCTyRpPCoAttfQnxdtebZi43rsI51wuetAzYUlmDxNMSfbfzyrIMN
-HXovpWmjaFni8unCe7KUNxwWZlEUnj06SjGrFCWpSmYBdKRt3k0cJUs2lEjVhiQ6W
-mNLLizMlw4/s5B5T8+P52+wcwGX8++etkM1GMDTnrA8yBH37gtOdnvOe7kr9pLO0Y
-8zk5rJxBfQtc+eIflITiyrUNzLE3cznNzYPay2STW6v+iuRfXCPWEvxJbIOCcuwW4
-DX0cfCzhfoL1IuSAUVK8D7eoafnebdKJa+H8wNnK8SWejwa27z2HXXYXeZ4BUcfL7
-ubKtxOLRQLuqjKo5O3U9o9vMRi/OZLuBwYuabg/qYcPFEtBbI7JnyauU4qzWqL5m7
-dC+aWrvbhn8hHqMB8p9A3PilL0NlVBlQXwZfYxYIanfooxpVPiJHBjRafCjEBQwsq
-YYgDlcGfCl8r0yyw5Meq3hE91F1MWyW74nRzJPZElOCNmvAMxxdMk0N5Db5/KsC37
-mKb/9o6R3fe9SsjF+C189u6yXomVmJJPQc8xWvQWEZ/i3MIGwtGrMpEBMKCU2Qbxu
-mrVSsFzSZBBThut0deDgoTZ3B1VwJ3fcZdYCy7hsMBTtAxZbC/rtkMeUvSTRiHM0d
-fpMIt0utv9dF+nbnnx89k6W2ML+p3ZkfoRJ/0ANYUAyPG+tjpuB31t9FkDHCQBKdB
-0A9IO8pG7STLiEm73ZKxF7oOZ8xwhaUqBr93brTRY1fmsKgRo7lAlHcSGe4viwDP5
-g==
+hKnF6Hd5bzvvU4SQOXMtp89OAgeryMb2Ob8UKCrzfHkJ5uAchpNs6JBzm8YFh3mW6
+Y2Q5dME2QNcDxmEQoWfq6++2/5ln/6a1o43BxWKUZVW2QGg+8TKgJU7NVcEDP/L9/
+cO9dP5aYSp97qXgm6WO7a65s8FmSQN7LYJZquQRR7FFKALvzpOlGLlzbspEORbJdm
+6+3cVC9iCZOTYkho8ISqAxvf4pIFJ5onDHgwjyQXZ2wU1CVzVcwM3t70wZ79dbvIX
+oHKmrFBNLHZIDnRtjo6wMctjxFrofXNXreTxzS3Dum2aUfQJSceLusF1VFvZ1iBra
+gZRKjFlvj2J1VIKE/2tpQ2odYzmTq/jUHZdZCmtT9vFx9pH8elsTC0wyiMehyy69m
+tGChnZW9wjGQtKrVuk+47UQsjbuZJsTIQxw/D6+fbMxPr0J9HwtmNqFc5VRfs3Cd4
+biSdnAUV0TkZzQ5ISxfDHX3ywDKWxd/BqlB5zUkIU5/rZM/rD/Q1bb/uKOVFtRavi
+ZDLbtPfXU3NMhf3kbfiEzR7tHWBYL+Z7JWiSVGdHhFvfLzqQh6hHDG5XIOUf+TuWh
+On48GsqQVwO/qmyOUOjxwBXAWfGhIVnp/coiu2YYJfYcSuLzVzxLIys4VqCk0/zTD
+PhjP7jui3q/abeFfsWOddcGOaFik/V29OUhGK1nNGOZRIC+NSTOYTmR5B3DCRKQi+
+kZaOTJVUpwaOZybp9Lln2zlbX53ulu9eXhkldtVGqm/pEDVVPVa7uRSgBTPvtpLFf
+BWSh0tAuKAEI/9Qpu+BIJSdCdGxiZpbVt2unMo0vrQV3Vy4+rXvtWuJjyFX55nEQf
+5wBp/unxyBmNm8cRvGmzmy1J0t0mB3nkiAj1UAEKRFYnN8Owb47mB0q/gvE4HtDof
+LS/IT5ECgJyVxNpWESR5Dx3fGKVr7G4ihvzqC3jkCj7FldaVLyMZqTiU5fRkOnvnA
+0joAJvJx3rPryvcfez1iXrUVRBH6y8MFVs9GeLlcNkdtWC5XlY0j8VozMJ/lrgXGB
+N9wjXvLgZK1W7Db07N84Qo2gBcut9HjK3g04au3IcPGpkT4HEe1R9l2khYITemAWQ
+o+vMnuxxpwqbs1g7xlKIkglUsplQrbEub1huzWyEY4H4UAEKibFLGF/NjNmJDceV6
+ornstaiXrBUlc9lCO4RmAwOpF5JhCDe/XYjON7biT/9Yp08IAHT7CWgtqEeod6vzJ
+Fj+qUgptMRfgwoslF+jA66bOzSDs5A0LMynv99yFvQ7IWjkL28zNXnsfP9y06ZyyN
+VMv1/pNRYq2/T7H5cVzotED8BXkvR1N3NpGxCYziJBGD3tlcjzFPdPyMhsQ8DFewC
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2021-05-13
+ * Revision 2023-10-13
  */
 
 // TODO: Also check extensions
@@ -55,7 +55,7 @@ class JoomlaVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'joomlaPath', 'The local directory where your Joomla installation is located.'));
 	}
 
-	protected function check_joomla_system($path) {
+	protected function get_versions($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$manifest_file = $path.'/administrator/manifests/files/joomla.xml';
@@ -71,8 +71,8 @@ class JoomlaVersionCheck extends VNag {
 
 		$count = 0;
 		foreach ($manifest->updateservers->server as $updateserver) {
-			$cont = file_get_contents($updateserver);
-			if ($cont) {
+			$cont = $this->url_get_contents($updateserver);
+			if ($cont !== false) {
 				$extensions = new SimpleXMLElement($cont);
 				foreach ($extensions as $candidate) {
 		                        $count++;
@@ -105,7 +105,7 @@ class JoomlaVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		list($type, $version) = $this->check_joomla_system($system_dir);
+		list($type, $version) = $this->get_versions($system_dir);
 
 		if ($type == 1) {
 			$this->setStatus(VNag::STATUS_OK);

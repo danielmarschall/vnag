@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-xYW/6C/wvjTZL6NWDg36CNbd8VUdQ+nizmR3DZoL1h5ilQel2IFUN5YWMqw4Tigvf
-ksHsVSaLyt0z5J3jEtgSQmg5odNKw74JH5npY2xfnfeoHbFMQlDdFY4xsZh51JW9t
-xmQWV0B0qASrYDJjZdejxG92UWf+ZrsuOa+3D5t9qZnQsQrIb7dm0daBEY2+bVdx0
-elCVFpdQ/MUcAZI7MKJoPRxbmQpZQiBJRAq1aR6G09srBOZCkzR62x8pVOiFDE/4B
-Y4eo/ZTzcolD97seWeqGODnRFdL7rzMUY29iPZlvk0I6s5KWoWJm1bGMeRqX06vRC
-mZp6bDpaTAoVe1Rh1laJn2+KjLeupsnKCcQncdyy1Y5m9rs+PEia3+ZFRgDmz8p2B
-ClpX1Ko969jtAe2oYQn82rhnbv+w1cSUJyPnn76FmvShXNC7DuFPWl3rPdEjFUXRe
-jZD6HAKumND2IAokTU8P/Mn0Xoqj3gpu23RVByOAU9PHrD4M4vfTPLxmiYvyrqBVs
-rJSvaURUJs4RFvZGlBGjmsRWjOtn6J/1iXiTHk3197IruG/laaBzoBZhOzWv2MV7I
-xddtrr9blabIHkngnwD5XtO40x8P5kKH9qc4l8vBl1MGNvN1BJ2BJPV6X4IrVSmJ5
-sz3SCgXJkEVFth/KZCc+6DtD/bze4gj9Ad212vTkPMsxS0NTALDd6nLdExjj5TewQ
-B0YLmZsn+hltPTbxod6ukis3UTE92GUsN35K/DNyJcfJ/cebbQlcMhcAojLRkUNTq
-1W6M2m24l6CGwkUPM1w0e3RlyQA5TS2PjX8TRX91spRXY8hD8fpNHL9+GOzbEIyIy
-73yeoOGHeB1hSnD4H2LSs3dwl1189PyuNl2jJNVa6cLPy3R1Yixz4q29XkS60Oxpg
-lGme9nlW2S4yJJLB/VWStEXNeCOfTvKIHmTZSEQ1RvxttRBkcjMoJqZbaKpwW8rVB
-PVaw07SCi7IKXWiosY9hMvHbnLU0GkbgkxW09bXw4LkTLwYHEfbGGsBe1qS1IGF7/
-JzfPxj7RX0tDZX5wuolJEZb+rer76VJD1wNdzcpbTAAdu/bf3Ptwblx6eIFQw6+YN
-/eOs1YC4VAUedKGh1FruSU5wZiJJDizP/+33OapudvTaRlK6/AEdSc5JnP5GsFQah
-1CzAU0WekFhFP51SmSMsefVjC3AzWSDJUTa4E+e8SsyYOkHCDAZmcI8wL+KMsbNLs
-0QMHW9GwY+9BP+iGMFBMklBWEFkKkPx/QfbqGW0JB4bjcgB3UVHMAHbJ5+DlN9SZ7
-EUqh5dIkoaQ8FwKIIIa8qw7GCN6F96IKZ+3O80RVSm6ZPDSdd/Z+qgPUg06La0Xme
-g==
+cMU48trGvkbMlzRpC9CObsZaTJQLSX+W3WA0s/ipwluSIf5e1oPV/8hsf/xQ8Jdoy
+md+onDcvBYBvQRK/eb9NblY+OVHpQyBTmeFabsnWFzAL4cR6IDUh7Wi7Mv8z30tIu
+bHIGsE1zP8M02Sm1Cy/LEAHrUSzTum4vCZ0Ur7IgWqVJyvmwyLS3yMUu2ozk1fii6
+PjlciD5Oe+DiNsVERv5/YtirDychwrUz4lPOWnZQebZsMEmNHCWZbWree1WYCV4u1
+b7JaROxuZRfghe3vxTigLrDG2emmKanw6+W9dfaQEfsQDF0kn2UNYquj+IjmRWkQN
+bTLJzV2SJwr+ayyIWjJXuKTS+OtMI2PEFvqC1WdGC7HSvlE68fNXZcZzuS2dxUGeO
+IiSfmD6eKfHs5JtPQrY910QgvqGFtd8Rdvfi9KUrXUP2YXuEiL/A3+vXoGg2eseEd
+aDjte0ZFJratQXBR3tp/1+lXGwkRv+1016kqprH9jaqubbTz98waLllyxBjG19mZD
+S85CFfL6kPiWInCdMSRsytG4h5T4w3CZsPTwnP0MOekO1j0eXncoeCMVr4AO5j6wl
+4jdv4NAO0o2YJrmDaC6gV8N0aGlCArC1RRk49fExUFyHMOuO99ZY4gqyp04JhQzrX
+9Bgj7sa3zsnrSAfCCgBf9o62OZUUypiuRNrfpj+DLYyaeIe2MUBhlFFOWEN1XLbev
+5zvWLFJyfcw+b/iJSViKu8PTyHJgu5ZBCMhyJ2WD7AX+wwPKFjFI7f5CF+eZj/n4Q
+LDzc7LvTjQ/01hIGNZNRvGsyJ1YvVkrfZrIpFmE+X77IQRhpRoQv0gyb0sutQ/bAF
+qeQyb449/UZk8hXBxlYi6AxUQhFPx1jNCG8q2jCKDPkRo5BrHRsORNFKlQiQKHuWi
+zrm26GiJRUhryn4AScMwWBXDYMLV5i+C5zYOnfI4SMQJurgPHr3lhELHTB6C6IeKL
+s1kVHLbPqTCNr3dWK46gtGGoMwvjEDTcPyiEOxERZuYZ/BNxl6P+G0E+oNeBQPVbG
+9e7vi7SQeZrEhqKn8gNQx5DQyOdP7PsBmHJG8th6Tr77YktIE+yVRR8rxj0tHvqrY
+ppdYUl/rIpj1LyYS3MyOXneekAn/rnEOe0lGM5sIM4/pI4oK03snEY9ngD9X7xNm3
+lUWz/1tWfJFYolMVQOdEfHU5rvavSJASlUihm9tcuIM+jAJDSF+UMR7sQ+n46VaaB
+2u/aP50UMrtU1FVoooXeB6uSH/EGesTmYREA13UjmVz3gIB4QT9m/XVZ5zkRVMleM
+b9sCS5/IGoiyhR3ge17fVPUmRsdI7maW5t+v5FxM45qv2t0hFGEfoBFY03oi+Mjdr
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -53,7 +53,7 @@ class NextCloudVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'nextCloudPath', 'The local directory where your Nextcloud installation is located.'));
 	}
 
-	protected function get_nextcloud_version($local_path) {
+	protected function get_versions($local_path) {
 		$local_path = realpath($local_path) === false ? $local_path : realpath($local_path);
 
 		if (!file_exists($local_path . '/version.php')) {
@@ -112,15 +112,18 @@ class NextCloudVersionCheck extends VNag {
 		              $php_version[1].'x'.
 		              intval($php_version[2]); // Last part could be something like "28-2+0~20210604.85+debian9~1.gbp219f11"
 
-		$cont = file_get_contents($update_url);
+		$cont = $this->url_get_contents($update_url);
 		if ($cont === false) {
-			throw new Exception('Could not determinate current Nextcloud version in "'.$local_path.'".');
+			throw new Exception('Could not determinate current Nextcloud version in "'.$local_path.'". A');
 		}
 
 		if ($cont === '') {
 			return array($OC_VersionString, $OC_VersionString, $OC_Channel);
 		} else {
 			$xml = simplexml_load_string($cont);
+			if ($xml === false) {
+				throw new Exception('Could not determinate current Nextcloud version in "'.$local_path.'". B');
+			}
 			$new_ver = (string)$xml->version;
 			return array($OC_VersionString, $new_ver, $OC_Channel);
 		}
@@ -137,7 +140,7 @@ class NextCloudVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		list($cur_ver, $new_ver, $channel) = $this->get_nextcloud_version($system_dir);
+		list($cur_ver, $new_ver, $channel) = $this->get_versions($system_dir);
 
 		if (version_compare($cur_ver,$new_ver) >= 0) {
 			$this->setStatus(VNag::STATUS_OK);

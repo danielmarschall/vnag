@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -53,7 +53,7 @@ class PhpMyAdminVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'phpmyadminPath', 'The local directory where your phpMyAdmin installation is located.'));
 	}
 
-	protected function get_phpmyadmin_version($path) {
+	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		if (file_exists($file = "$path/libraries/classes/Version.php")) { // Variant 3 (5.1.0+)
@@ -74,6 +74,19 @@ class PhpMyAdminVersionCheck extends VNag {
 		return $m[1];
 	}
 
+	protected function get_latest_version() {
+		$cont = $this->url_get_contents('https://www.phpmyadmin.net/home_page/version.json'); // alternatively version.php
+		if ($cont === false) {
+			throw new Exception('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated. A');
+		}
+
+		$json = @json_decode($cont, true);
+		if ($json === false) {
+			throw new Exception('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated. B');
+		}
+		return $json['version'];
+	}
+
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
@@ -85,15 +98,9 @@ class PhpMyAdminVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		$version = $this->get_phpmyadmin_version($system_dir);
+		$version = $this->get_local_version($system_dir);
 
-		$cont = @file_get_contents('https://www.phpmyadmin.net/home_page/version.json'); // alternatively version.php
-		if (!$cont) {
-			throw new Exception('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated.');
-		}
-
-		$json = json_decode($cont, true);
-		$latest_version = $json['version'];
+		$latest_version = $this->get_latest_version();
 
 		if (version_compare($version,$latest_version) >= 0) {
 			$this->setStatus(VNag::STATUS_OK);

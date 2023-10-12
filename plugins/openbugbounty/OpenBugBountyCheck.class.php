@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-d5Ch9xyUxv3Bu3N2jbIjfBn2mP062FT5Kdj1z31EUW9w+rJMXfvaeidWQfLapqU7c
-uIAztDKoRCMsAsvZYSB1zD8+pi0ClJYGbiB+/7ACt1TSVOvtrWxE9lsWXIOjLA0Ft
-YeccOh4Mf/JFtLbLyo/xQofsIy+9umKQ1fbhgrcmJfaWY07QeoZVE7HHauTZA+ld6
-HyjNklTAc9b3tcFQBp9bgB3p4Pt28y6irIqDhaqvBja8F2oCK7FCZQFwE/JF0UKT/
-PMOJ0VtzC1p72SiOWMg4U0+hMi4Sre48SuSOiUtLaF14GdzfATGOxOqyFvFAFXClh
-qUqgxXmQTFJCZzGW2rga9BJw35zTYy/jtWLN8nGFG+S2c7e+IJAqN+iDMD7I+NyRd
-jjZKqDjXDZrIolL6KP2yl4WPtVD8iaJcgrxUQD+TQiJkcjvSEp2DVN0OETDFUzlx2
-Jr9hc14n7z78ebkTgNToAGauBvfyFRCEyRBcXyS9VluTd23g3ICXY0qdWJUhf4zpz
-PJPdgAVmO1X8kPaVB97GI2iQDqIMFLr6PEre6GTaB893B3lrej8sTdAiV8WPlzKmZ
-LHxxUr2uQdIT2NkLbvvzNSoJKsWXKdmbvWk3Oy+VYGH9LEjw+bRTweubH36gYf4to
-QpoiUcnQ4B1f9GxDUp455aPtN9HmY7dOb4YehyWCFKge/1PUoT3/omz4cRlz5+8QM
-aYOB1/UgdeCUS674R3tzhr28LhNfJ8J4pyXzOVjVsmBkmMd+he/4MJcXWyDYDWpVl
-AMA700hkscLcwktA25TDd/Qh5vjF4i6dWcNlIbFxdaKyN9PTs/0T+Jza0JaDmZagW
-gYD5R4+ei44asrZ37oAg9CjOeDm7FKRuMYiMaw/08LAYGQKFxgIAsMdcKOHya4By/
-5yVVEVLihCLKdvdn0u9d1d2BQHZS0n2KNG4cMQxnNKVjjTXDybRbyB2C0pp2S9YXN
-V9WWzveDY5m8jYrZ9wFjvbHeJHfFNXMrkN1k4U7mYM5Be2Mu2+MYA/Xw2oLtzmmyt
-9WxiCO0B4TrEKOJYV1jC7BDWoAAHNnDxFoOJo+dm/hjTU3XOaWSpsxTURYFR/Ltn5
-G1yakcUq18mS5c2BEXpwXaJq5+f3QP5COzEcrvgGqBJRfpy0JxsRtKAzTQpADzRtR
-8jI68XrP4y9FrcUazM4RPp+U8dRY2zjMas559t7Xb7RysHRpFxf2SZ+Xj0SVQZEsj
-YOATRaQdV+a6haeDvB346iJIjVaNY6SaaMPI5JEhAr79BM6nJCXIu7HT9DCBWvhbG
-MCePzFjOa4XRB1vaCJo5jolQUWyy0pFLKD5VbimI63wd1a5KqRPmtSFAu+/nQ3aKC
-Q==
+2wqycRfumOucELwlNawMn9GhkBhvG9p6LgHGfuTS6Shfc1innJ/zOmA8LTXeIkwM0
+XIPKVZzyyDRNkXG2qQYuHRg16fMliE9GzfvMvnL8LPzfFc6Q6R4Ww539h3mz160ru
+cS0BEOR2Gy+EJYXUcIrBd1Q6BK/g+YRbQOMFollNe1lz2CQK+6DgU9Qk55rKe72vp
+2Z+4lH4qGNXCm7D07cqUun28uddcYcSruB0j4DzJ5xAhfAhl5Z/k/3SNttIFRj6KB
+kV+tTEXQ4V8EGVEOk0jdeD/tF0aydJVS+wM+S888Mo9diURP/nBXOBi6hOguRjgYS
+c5ue8JxxBUo6nJhCPDMKm7OHozXyai0WypkZiHFVHZ5ylvPLHpjbltVZalmH52YZt
+93hJGWKl1ZykflKPfqNFmRaU28/vBdN5UoC8jo9W/SlcSjaK5PKby7USqh+dR+RSD
+W6/H/SSiF9fg/qbTQ90KBHEBifYPDFyBBIC2pGwV7IuDHeBo2G7KYlrHBj+ONNOuL
+fU9x+5kSWwP7ybtemgLAK7QdJCxvFXb4+maIfTQALCJGpiT2//qEScSWPUaQuL2Zf
+QopPUiOANe4fm61JvmYsQ3K385e96fcoqNkeygXkKsbsbNzf8h4b9wgCVuThZ/2zS
+YGV+EhyCXOsS3XRyUobe58Yq03vg8Jfr4N3Dcc8YOPc/Zftu/TYR69/jtCSjWZX4/
+7VsjYhZiBsLtCEPZOMVlqtou0j727qZW+j/1G8yQ/seZKenU/dFTAaVDLnyL4Vjsq
+1oz/DEaLAwXGnigRZwC2rwn5An4WiXahSm9ci92ElvNk9SdR7BRbCM+JiFauERJda
+LHEefW8aInsrXaCJeF9EDtyVKaGr3QIwrNX3sOl86sWKv6485EzTrsK5MGPIj6Rbw
+y+p8AAv/qyH6xxLlHM0pG89W8eWXt7Pd/CBexcfINNO11E1kTvFs+3TkwYdLN8Ppd
++QHZqCLEi4cyyymRnSKMO5D0FPvTUUu6HrriUnX3KIJ0Wmmo7FVs8YvBoHYFYVaDo
+3SbI4bPhayyn5jh3SjUfuojHpAuAGTeTXbyqOqdvLowV91nuaIEpi7duEgOotJpMW
+pCuerdxtjIm9/xDR4rfV5z2VDO+PbKqcMC+HckfYDq1IGuqwPJbAZL9Gtw8NJ+ieQ
+OaFUt332WVJcNcwDyHZH4TRc7pc9T6pB9E0GVyREMgGIbnngcQm4Dp5wXvwCJwcgy
+nERbiPtpIJ6fo1//0h/jhNYFCs+OkFEqMXTSKRhHulRP325DIY05x0bjWbXZjIO8R
+j0XtvsYhgWnS3rdmw5Xii4FTkeko4F8A5K2JCZA1rgSxqtNW3MzP1o6l9yZ5CkA2/
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2021-12-23
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -88,17 +88,7 @@ class OpenBugBountyCheck extends VNag {
 		$this->setStatus(VNag::STATUS_OK);
 
 		$domain = strtolower($domain);
-		$url = 'https://www.openbugbounty.org/api/1/search/?domain='.urlencode($domain);
-		$cache_file = $this->get_cache_dir() . '/' . sha1($url);
-
-		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
-			$cont = @file_get_contents($cache_file);
-			if (!$cont) throw new Exception("Failed to get contents from $cache_file");
-		} else {
-			$cont = @file_get_contents($url);
-			if (!$cont) throw new Exception("Failed to get contents from $url");
-			file_put_contents($cache_file, $cont);
-		}
+		$cont = $this->url_get_contents('https://www.openbugbounty.org/api/1/search/?domain='.urlencode($domain));
 
 		$xml = simplexml_load_string($cont);
 		foreach ($xml as $x) {
@@ -125,24 +115,6 @@ class OpenBugBountyCheck extends VNag {
 		return array($fixed, $unfixed, $unfixed_ignored);
 	}
 
-	function get_privateapi_data($url, $max_cache_time = 3600) { // TODO: make cache time configurable via config
-		$url = strtolower($url);
-		$cache_file = $this->get_cache_dir() . '/' . sha1($url);
-
-		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
-			$cont = @file_get_contents($cache_file);
-			if (!$cont) throw new Exception("Failed to get contents from $url");
-		} else {
-			$cont = @file_get_contents($url);
-			if (!$cont) throw new Exception("Failed to get contents from $url");
-			file_put_contents($cache_file, $cont);
-		}
-
-		$ary = @json_decode($cont,true);
-		if (!$ary) throw new Exception("This is probably not a correct Private API URL, or the service is down (JSON Decode failed)");
-		return $ary;
-	}
-
 	function num_open_bugs_v2($privateapi, $max_cache_time = 3600) { // TODO: make cache time configurable via config
 		//assert(empty($this->argDomain->getValue()));
 		//assert(!empty($this->argPrivateAPI->getValue()));
@@ -154,7 +126,12 @@ class OpenBugBountyCheck extends VNag {
 
 		$this->setStatus(VNag::STATUS_OK);
 
-		$ary = $this->get_privateapi_data($privateapi, $max_cache_time);
+		// Get Private API data
+		$cont = $this->url_get_contents($privateapi, $max_cache_time);
+		if ($cont === false) throw new Exception("This is probably not a correct Private API URL, or the service is down (GET request failed)");
+		$ary = @json_decode($cont,true);
+		if ($ary === false) throw new Exception("This is probably not a correct Private API URL, or the service is down (JSON Decode failed)");
+
 		foreach ($ary as $id => $data) {
 			/*
 			[Vulnerability Reported] => 21 September, 2017 05:13

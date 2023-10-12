@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -53,7 +53,7 @@ class PmWikiVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'pmWikiPath', 'The local directory where PmWiki installation is located.'));
 	}
 
-	protected function get_pmwiki_version($path) {
+	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$c = @file_get_contents("$path/scripts/version.php");
@@ -66,8 +66,8 @@ class PmWikiVersionCheck extends VNag {
 	}
 
 	protected function get_latest_version() {
-	        $cont = @file_get_contents('https://www.pmwiki.org/wiki/PmWiki/Download');
-		if (!$cont) {
+	        $cont = $this->url_get_contents('https://www.pmwiki.org/wiki/PmWiki/Download');
+		if ($cont === false) {
 			throw new Exception("Cannot access website with latest version");
 		}
 
@@ -89,7 +89,7 @@ class PmWikiVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		$version = $this->get_pmwiki_version($system_dir);
+		$version = $this->get_local_version($system_dir);
 
 		$latest_version = $this->get_latest_version();
 

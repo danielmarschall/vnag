@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-a5D298rMx3/qA9ukmfMkxQf4wri7C1GCHanryxaFj+57d4OjKrBALddgP6VyXNkSm
-DI8Y+4Y5Da256sr6AXw+VlL98Z+k8cVCtA4yqRJh+rD17SnkswDvQXeUbJuTzJahw
-4BVhjzgmVsIE88FAA66gSzj8saBEfWMAymFrdxHn9CK4HZa+JBADLmLo9Oc8FlrnS
-+OVQ9ctEeCRG+CWoF//2j35SfmN3ivnrvM6tuZ0ZiLOM5JRNSOpeiOpmrLqlqWVz0
-LC6yZ28naCLVyeYf4lwhFXIK0W7KhE2YP3EaUr5Ekd/1sGpr9tQK3rQ+bjvheemTt
-JFKTorIRqzdQt2BzymnyenkTVc9KV51mXSZvXJyDN3Er8YIge3CnTjbtw0HagZ0QE
-4f2FHLYnID3ntwdPGf3kHbSo554CHkgSw2w52ieuCCkf6qNyRohAYfwdRFYar6l6x
-/kJU1nOTdUVAwJLq9HoOvVSeEVM/DTo0CzJDzgjR9KPF7DoiOfHQPakBZnsp1papR
-lJunUkkScFcFfMMp9P05lHThZP9tWTEYuSVyPtuKwrras1TrLohSwE092m67D/efb
-qtTebeokxICDnhZ66ovDcGp69nC2eqB8M0K+Uh9il6zYlbaUDCVq0yCDT1VHXpxRj
-y9ewpQidf3q5Ci8J/Wr67HerQQHKugmrbZlXOmzaB9zppGOhvzCuYCARQj5LPeVz3
-Ep/NQ2M0XH3ustgEip+ybbeTJeYHCzbSlhRZr33Z1oJoMuHDI7g6x0kbc6G9t5fVG
-GTKqZVhW8SLYzOTi+kwy80+JpFUxfy9743fZA5LhPVPNIkuIzX6NWLtsSD/geqHPf
-OX2sdEK7lVTInaK4FVjnbMFn1Q3X4O6F22APlZcX3p3BHcaX3cYg5ZVre8Jt1cNGL
-3JrNzwj15rnZ6KlyfSs6xR2Jr7JVuVvnjT9/aCFWwQ48haRe1j4jfBqNPKHV2wJfo
-o1oJq4kPPQfQIJrbAMQlTR/l5z4VwLbT0CWKKu59SO1+l2y6gL4Qh2FXhYgnSIPx2
-ig7qHr5NAYFLf/Msw0uqsCH6Xevdc030jvqRXr9l+OhdxM1XfnOPCDAudq/+16t7T
-JZMF6XwsjQF+D5YUlU/Hz7fmShkiQ+S5fhIy9gfA1n0M4X2s4/bS6GP3edTPFfKpV
-ZE1EKloQB5SwPXd3iGQRmGA6Lj8TPg7G20NVDBpQACKsHrxc3ULhP0MMnw3PdhHcN
-6mbZkeRiJyJ7dPVwF+XB8Xmd03hZXRR6/xbcy3/3zW373IeFLZ63cU45EHJMM6B4l
-plUjYSAqqVehnWDRpAsBCkqJi3z8Mqr9/88LcEXBZgDk4Pe+csbEQaL919EN+ux5n
-A==
+kIPLa/arm33y/tKdRQOo0OrLc7J0AMf8QkJIHHxuxu0gIy130GFppwRrCySj2ZygP
+B8cdjiKqbOmfnXNeOVWYcw7fEvU/Qt5dyI6b/JL17hv/aZPfj74pfIKuy+gfNwGsS
+PxFFtuU3U8bqs8nzK8a/Z2sLjY+jdAjiB9+SJJngBMPv9mjTmXAw5w5hlKTrIt1ed
+CHwtEg5ZEFHZkwkd+fwWwFFsfU73r/hXxFxeK9r4Y/JG5EJMzhlXHHerJSSw1Y7LZ
+pNwQjAfCbqeueh/BfI7Rt8MvFQopGp4ryKp7kUWhxcvhWSgIXP4y099rt4Md3QAK3
+zzYSE+S6gVz7nUKZpKKjRcg4Q+j2eGIYR6FKd9OQRdfBxcR0wP4wBcLbVLnFrHLLu
+bd/Q9pvBbraeZ0T/WRHWu0+P1MRAyi8vUufAbmzsxrc9xjTVwpWRHdgnHQfll2WD4
+gNqRV3frkYsXR6qWhq8I5s5v8Xbukk8dEQcC9kz9PM/109zZdpLPpExPqjI6+KgZ8
+y49DOdVzJq4oAFNNVpQKago6z8xeGV2R4q11/qXAWE8Vi13F98LZXZBHMw5rA/9jD
+y4Jo7PfEGFqIZj7eL8VNCA3UsC0gYI5cjeH7RmWsrwwqFIs0BZ5ahztXHZGdorvvS
+FKrLNsp+mqZ/b8HcsP/lIhxZSPnkCh2Jyun/BQT/CN5Dg+pGU5wtYNmSJQXZbEoIE
+hpZ3tFJtHVEO0WQPzUxfRbAmo8fUXATTuCiqZsdYhtH/D5pygpUxr2qPSkpTt2Hus
+Efe8niyZ+6BDkeTynlsERWtLe/INYJptsMdf/7MMkFRHqQv/mWjapxFfiz1Xssd9D
+ZW9XyED1SLx6i1ACNT6+82GCmEe/Gkx1V0vuWgyZcEgHUJtzbrYY+ZuWXM9xmKfLP
+R8QwI/BMeHH8LxL5zBOkM7hV0aH6rkfq873J6O6iJP9j/Di5XTZqsutWiBAFhuQKZ
+ukryuJ1gYqMjyg/iVntyuZNiVvOBq7sjNv9asmln4G49DK/wVClPVf0oufI8CNCWA
+g6yUzaa/JZvk8xOj1Bfs+ImSfgkWMTIg4ODv85A3mZNE4oYXkFgzXYUbsuvV+FXhU
+FIdKNSyzi+39AUeEtXsz9JS/O8s7e57nwXQgauhtiVY/sUYxNwLluKmTfAzR3dzTT
+lxnG4lEJMXvBJEyFlEuevboXRXlAyDUQEdl5HtwJvU/fxz2asvisTs5iMmWkb+GFv
+S4XD9FoQWg5FHvN6h77Xyoo/8MtdUKkBElB5+F8ZjbBwdmJp7GV39XC6TIhxMNuTB
+kxyQLNXrbefpBNy2o/JlPu97V79Q+wcjqwLZMJ4Zs/lghdnUDw24iL/YZXtKADFYY
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ A==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-09-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -53,7 +53,7 @@ class WordPressVersionCheck extends VNag {
 		$this->addExpectedArgument($this->argSystemDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'wordpressPath', 'The local directory where WordPress installation is located.'));
 	}
 
-	protected function get_wordpress_version($path) {
+	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$cont = @file_get_contents("$path/wp-includes/version.php");
@@ -66,8 +66,8 @@ class WordPressVersionCheck extends VNag {
 	}
 
 	protected function get_latest_version() {
-		$cont = @file_get_contents('https://wordpress.org/download/');
-		if (!$cont) {
+		$cont = $this->url_get_contents('https://wordpress.org/download/');
+		if ($cont === false) {
 			throw new Exception("Cannot access website with latest version");
 		}
 
@@ -89,7 +89,7 @@ class WordPressVersionCheck extends VNag {
 			throw new Exception('Directory "'.$system_dir.'" not found.');
 		}
 
-		$version = $this->get_wordpress_version($system_dir);
+		$version = $this->get_local_version($system_dir);
 
 		$latest_version = $this->get_latest_version();
 

@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-CmjFiZLK2FpfPQ5dciAKEBihjx7LF9tbFssLowaSzj20S0kXMd/vQEZTVivanUr2+
-sCRxMjiFbCZT2X7YurXKAvvr2i/Rdh5lyedBddXrwrbhrGhomKtE/iKGHsJuUIyNs
-1GEOY8m+mQD5Dxf7GFE4xdGUkr8wRc/whKv/f4VTVm3S1PCBWlEfv3RHqfkOw0x1d
-g5Yo30yTk5nEGZuoxRjCQPkXgvPLHoiRcsKq22xzZdCREL0ujlK7AGWuPIVOxk7q8
-qmtzF48LIfsewV3O6U4uW1yfJyqwbHFtMCpePxHKeuTkkOs7ZLFwEL7vOaKvMwKcf
-F70BW62yltBl02IliqsCIluQ177KXf2RiXduj19sU71Gb483J1JjK2/wu2SNJg6oH
-GEcaQ2bwOA+Ymj4EmZsczTJLmKuf0fPYVdUFY1gzpmAg7tyT6HO5r9SgIw9Yfcbbq
-ExcCGFMYPVMWG4ahddZDDjGhbDlXbFhRikzO7EOvea0K1IWb3moavg2GOCtDkQy7B
-YnErR/3sL2q7bzaAW68Rlzg6jVm/DGH1apx1+FLFr+DEoFs6TS//JW8sDiqCcoU8S
-K72tyWsN3wz1qAVoFn5inm/uqk8mV+rlht4jBoTnYedz1xbdequkPCX2Y2UCMEp00
-PGf4oP/oUJ5UwT3/AC3XX+kDNDIDEOHQtzIhTg4CPnno2Y21uULgVb94RPr8zJ4gV
-LtWZd6B5vso9LJJaOrYgL5SjkVxLfMEJvOQV97S0ZTsbZ4gYjBzRnBOARmsz5858V
-YFdvv6i3xNdPbF6NH3icQIZeVScKEdBPd48d8nSBx4DSJQlzuSYv4ANc+YH+adDv+
-52jk1o4d73vvraqcwSWHWIE1DB3ma1DgDfCiCUqubboyh3OxgNIshEZqClNE6xDTa
-v1iViJbS4j76tpGmPyFFba/tzIoJigBfECYAIDEmQlKLui/18tSeZizymQDHySLpj
-yTQir2F2HyVFYE/CH9RV0QigP+Vx+g4uXEN0OPGCE7Lh6V/d6Yg5mBuYWHd0z53+Y
-+HoE0bPGcAkRKSPLWQe8Nk5yDnJPyz7sG9XHpvoRl2NxDhW78Xr6yFhhGuHu0W92K
-4xiVRCd8UDWdmrv8uwUdubP8bPtDsTdll6MGVZj5zr1n/tI7dKj8M0FITpW0o0o8u
-rpc0NiH0iu/NRTzeqrGehA14SOrM/q63+jpX76iCBIWJG2QXvyd/lBdfNI/SASN6o
-Pat9Itt0QC7YH1g9/15d1rcPxVEZua3m+rjMtdqnyRgLQqEH6DWkDW1ixnX7EdVnP
-0kiVuMKY38aSkTfEAcG6utYsDY2LY/AkOvOItfXBMuTxiddC4VffmissJHHP+Y3jl
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-12-18
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -70,28 +70,13 @@ class ViewVCVersionCheck extends VNag {
 	}
 
 	protected function get_latest_version() {
-		$url = 'https://api.github.com/repos/viewvc/viewvc/releases/latest';
-		$max_cache_time = 24 * 60 * 60;
-		$cache_file = $this->get_cache_dir().'/'.sha1($url);
-		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
-			$cont = @file_get_contents($cache_file);
-			if (!$cont) throw new Exception("Failed to get contents from $cache_file");
-		} else {
-			$options = array(
-			  'http'=>array(
-			    'method'=>"GET",
-			    'header'=>"Accept-language: en\r\n" .
-			              "User-Agent: Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.102011-10-16 20:23:10\r\n"
-			  )
-			);
-			$context = stream_context_create($options);
-			$cont = @file_get_contents($url, false, $context);
-			if (!$cont) throw new Exception("Failed to get contents from $url");
-			file_put_contents($cache_file, $cont);
+		$cont = $this->url_get_contents('https://api.github.com/repos/viewvc/viewvc/releases/latest');
+		if ($cont === false) {
+			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. A');
 		}
 
 		$data = @json_decode($cont, true);
-		if (!$data) {
+		if ($data === false) {
 			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. B');
 		}
 
