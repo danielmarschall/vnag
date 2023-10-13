@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-KLQMkPW4o7zx674hFhk10B/LYxV/kdtFQre2WriSVPxQi/olKlHbxrJorvH9dIWfc
-tyDGq8bXKHpHGne0KXEfL2/VqgFqZfgKIBtt+RptLxMZ7JtJmhn32YBC3yYMJSanD
-PHlvnyzv+9jj6De5gjfeVjJEpDrz4Vji3s3unZG5sRuF1WCtMW+f5OpxC+IzfLgDZ
-lGbrhXGxObTb8/ho0KkcCBYg8v1A5emxWhNxbnvLCHwIwTzxbFcop9u88hlJGoMec
-j5BJ98cyg16WYVnie67NQ+MIZqUHILN6TLG08PetoGuYEIwfjtRr5a2Vc8lFztcpF
-OfCJlyQL9Zg+yhfF3K/t3ZEIxoRmxMVxPceI7FGff1Rpr2Fj/wQtiuO0s/9S/IyRv
-3S0Z64y3BOlAamSwiT00Vu0m9fZ6tS05cEoxKmiVBbuDlZoa+KMfxvl9bzWLr0E9T
-DB/Ib90JoP9+/5Vw62g1PY2SSg8SikdvLPUFKfBa/etyZiwOaJ8TKUz0coFIS4bOA
-umUITN1vmZoVB5DHYa+eKZIJ+YY6Nsp4L675QdHxSKi2XdEi+Vrlq3ndt14mIs1Ai
-f1tctDt4+YrPo/0JuATApm6201jaL45sEaDlNi2/6Km1v2m1im+lUY6VrDlMzyV9W
-LSLqlKAKMdnOPkVcHkYtD3DS92+bkS46dMuZtFdG3Q0Ia1eyb30QO35KQqFo++H/c
-3Yjx4GXUo9MJHgIoh0JyBCyaDtlo3PposuG3soS2c+37q27CtDfx8zLWvTQeqI69e
-8rPyZ8HMatXF3750QNCcODVD3mvTJJuXdJaiLr6IGgWaSinuiqJZaMXSSE8eMWea3
-/69ViMld2tkEuBeZAE2Cay+fHFMK6+RSeCOGO1xUTBlBDFHbRJlXAl81EVfCuBzqu
-5o/a3Y+CgARGsmIjMNutFlYgdOFSZKKIRxUuGBCJqQ6H0xKqtsrRJUAmFpMop2HCh
-+P5WD7iIUgP9bgoI7gMJqTlCOqqCT/upxUkx9pRDEGcy59JLn+3Yb9gV0ffG5OQH7
-waSmvKz3vIyVHowCxeU9ZZju2ou5rMpip6Q5gjNO0tDpagH7Sj8oeYcRuk2KJOZ9m
-KSkThtscqVbjZLS4UYUpvioA/WQ4ad+k7LZOTs4LfDPXDsu5e1lKaO8j3dBWgr+Th
-YZnRIravq6mNmfjmcJD/S9BpY4fqsjZRpT3Rf0GGkZX5dtPxKlzILu3A/5PlCJTNz
-ja5LZxO0P5sJBnx2YLmaNYxWTJILhR0VtPJejYazXjYhYX5iMX4f+pvALwm+gcBIV
-U9sNdc9z0cPxjiIWwPEXSRZZx3BwGc+YYDeQio9HxgvEOlBuCaU8TjPFPcfQFYIsy
-g==
+Lme5HcTC/7qI1KUKY012sAKAHRs+Xe2raUjKRYPkpBP0vUbn70cyw8Lql37CmVH4h
+9eJ9Gs3tCYDZdslW42Rh/WNFVy4hMsyhLUzwvp8pks//pqoAgv3fVDit1x5z8NxIP
+5EWxsAEOWp1ty2aNF/lD9aJHGjq+IZb7fMq5PLWoFMWQGukZovbI+dVBkhiA/2AMZ
+r2xie9GESJlyAVfhDtQEiMFSpgpJvbd2SmzJoJg+3aLfpVj6Ro4HF/7KY+kjJxFR4
+rDmK5lmyQqfuwUfG0cqOnQQjODi/LCFSOgF7hyboMT+wAztkMAHhiSWrWd2jgy9Mk
+PV1L7ktcyoS+RwFGAJznRG4PGAb7kE4ygS7CMjbh/yGrerOhdsFgI0URBx6UE2Dgh
+URlefSxPODIxt7ol39bN7IDJHjz+z1xPDKP9VgACuaNue/oZfrc7gyAjvWJrIahLe
+/tPsrn0HURYLZflCSy7VtUKpMtu4RSAKOaM2DJRWR7XAC7LoQWQg672JtK4rHzMX1
+cEKlCM28C+JRTd+FH5V3iLOoLjgGrGQr9coZPJ2r8s8pGNic1L/d2x5YUFWSwv74H
+WJuMe8zQ8f541RKFZllU4OueISitWVUd1KYLHEpxa/ioDDXnpH3xD4ILDhrwng67B
+1eabFPtNNHgahtvePAzRlmE+hOKZitOsEOI8bB2IbYAyYbluaj69b8JOWDpWVWiqW
+n9g/bXhQu//7CY+X+9p6Lsm5mwtQp2syKe29MSuOYRT3eBRFDs0D1sBLREiivoX1v
+1U6vDHHndtPq1UeaNB3UHxM3Wdmc0X3VDDcGn3qPnl6x4jQSB1Gp9QCIpYprNOLyd
+RCVnPwy+qgfU97iEEpDxduJRSaQrmr6KximkE3GrFHxp3j8fwHGA/ryvNK9CRXII+
+tetvf1f60+gEPsrmxziPZgVLGfko5lmugItSXFpS4xdyrtk/pUSHE3cG0Ke2yt25M
+f8jGG0nQLLsaUA+6zbPBfMCP3niT1OzoHV4domlqak7KOpmqbjlJoEHrEptDQGnB4
+It41TI37j/7qIfVAJkkpTAWFsOuLd5dwiPBp6JMF7apf/n8rnpXWNDAT8N0NeIGpN
+B9lBll/jtnSBVn9hD6zQBt4MkP62gVevLfA54gRqjTAeb+JDM8E4aeQ60n0p3P7lO
+PhOPQa2K13nyXaYxL0ogu634jdiN4B8aBlK8UUWFzEE5VFNTIg7tr7bEHd+MeadCt
+YUKMq0372Bgp0B3cqfnTC+946xsJYnMUGnqM4A/haK6ttiIpf5w/0O9+uRIf8Fixr
+5blWfXw2HvRuIz2uAoiu+Tk3luxH/SHazJ3FiXgV0TEEzo8/GPH8cHFlFnsKXJB7L
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -56,15 +56,17 @@ class MediaWikiVersionCheck extends VNag {
 	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
-		$c = @file_get_contents("$path/includes/Defines.php");
-		if (!preg_match('@define\\( \'MW_VERSION\', \'([0-9\\.]+)\' \\);@is', $c, $m)) {
-			$c = @file_get_contents("$path/includes/DefaultSettings.php");
-			if (!preg_match('@\\$wgVersion = \'([0-9\\.]+)\';@is', $c, $m)) {
-				throw new Exception("Cannot find version information at $path");
-			}
+		$cont = @file_get_contents("$path/includes/Defines.php");
+		if ($cont !== false) {
+			if (preg_match('@define\\( \'MW_VERSION\', \'([0-9\\.]+)\' \\);@is', $cont, $m)) return $m[1];
 		}
 
-		return $m[1];
+		$cont = @file_get_contents("$path/includes/DefaultSettings.php");
+		if ($cont !== false) {
+			if (preg_match('@\\$wgVersion = \'([0-9\\.]+)\';@is', $cont, $m)) return $m[1];
+		}
+
+		throw new VNagException("Cannot find version information at $path");
 	}
 
 	protected function get_latest_version() {
@@ -79,12 +81,12 @@ class MediaWikiVersionCheck extends VNag {
 			curl_close($ch);
 
 			if (!$cont) {
-				throw new Exception("Cannot access website with latest version");
+				throw new VNagException("Cannot access website with latest version");
 			}
 		}
 
 	        if (!preg_match('@//releases\.wikimedia\.org/mediawiki/([^"]+)/mediawiki\-([^"]+)\.tar\.gz"@ismU', $cont, $m)) {
-			throw new Exception("Cannot find version information on the website");
+			throw new VNagException("Cannot find version information on the website");
 		}
 
 	        return $m[2];
@@ -93,12 +95,12 @@ class MediaWikiVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the MediaWiki installation.");
+			throw new VNagException("Please specify the directory of the MediaWiki installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_local_version($system_dir);

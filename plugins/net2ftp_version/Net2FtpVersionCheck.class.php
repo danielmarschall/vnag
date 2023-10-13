@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -57,13 +57,15 @@ class Net2FtpVersionCheck extends VNag {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		if (!file_exists("$path/settings.inc.php")) {
-			throw new Exception("Cannot find net2ftp settings file at $path");
+			throw new VNagException("Cannot find net2ftp settings file at $path");
 		}
 
 		$cont = @file_get_contents("$path/settings.inc.php");
-
+		if ($cont === false) {
+			throw new VNagException("Cannot determine version for system $path (settings.inc.php not found)");
+		}
 		if (!preg_match('@\\$net2ftp_settings\\["application_version"\\]\\s*=\\s*"([^"]+)";@ismU', $cont, $m)) {
-			throw new Exception("Cannot determine version for system $path");
+			throw new VNagException("Cannot determine version for system $path (application_version setting not found)");
 		}
 
 		return $m[1];
@@ -72,17 +74,17 @@ class Net2FtpVersionCheck extends VNag {
 	protected function get_latest_version() {
 		$cont = $this->url_get_contents('https://www.net2ftp.com/version.js');
 		if ($cont === false) {
-			throw new Exception('Cannot parse version from net2ftp website. The plugin probably needs to be updated.');
+			throw new VNagException('Cannot parse version from net2ftp website. The plugin probably needs to be updated.');
 		}
 
 		if (!preg_match("@var latest_stable_version\s*=\s*'(.+)';@ismU", $cont, $m)) {
-			throw new Exception('Cannot parse version from net2ftp website. The plugin probably needs to be updated.');
+			throw new VNagException('Cannot parse version from net2ftp website. The plugin probably needs to be updated.');
 		} else {
 			$latest_stable = $m[1];
 		}
 
 		if (!preg_match("@var latest_beta_version\s*=\s*'(.+)';@ismU", $cont, $m)) {
-			throw new Exception('Cannot parse version from net2ftp website. The plugin probably needs to be updated.');
+			throw new VNagException('Cannot parse version from net2ftp website. The plugin probably needs to be updated.');
 		} else {
 			$latest_beta = $m[1];
 		}
@@ -93,12 +95,12 @@ class Net2FtpVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the net2ftp installation.");
+			throw new VNagException("Please specify the directory of the net2ftp installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_local_version($system_dir);

@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -56,10 +56,13 @@ class PmWikiVersionCheck extends VNag {
 	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
-		$c = @file_get_contents("$path/scripts/version.php");
+		$cont = @file_get_contents("$path/scripts/version.php");
+		if ($cont === false) {
+			throw new VNagException("Cannot find version information at $path (cannot read version.php)");
+		}
 
-		if (!preg_match('@\\$Version="pmwiki-(.+)";@is', $c, $m)) {
-			throw new Exception("Cannot find version information at $path");
+		if (!preg_match('@\\$Version="pmwiki-(.+)";@is', $cont, $m)) {
+			throw new VNagException("Cannot find version information at $path (cannot find version string)");
 		}
 
 		return $m[1];
@@ -68,11 +71,11 @@ class PmWikiVersionCheck extends VNag {
 	protected function get_latest_version() {
 	        $cont = $this->url_get_contents('https://www.pmwiki.org/wiki/PmWiki/Download');
 		if ($cont === false) {
-			throw new Exception("Cannot access website with latest version");
+			throw new VNagException("Cannot access website with latest version");
 		}
 
 	        if (!preg_match('@Latest <em>stable</em> release \(pmwiki-(.+)<@ismU', $cont, $m)) {
-			throw new Exception("Cannot find version information on the website");
+			throw new VNagException("Cannot find version information on the website");
 		}
 
 	        return $m[1];
@@ -81,12 +84,12 @@ class PmWikiVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the PmWiki installation.");
+			throw new VNagException("Please specify the directory of the PmWiki installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_local_version($system_dir);

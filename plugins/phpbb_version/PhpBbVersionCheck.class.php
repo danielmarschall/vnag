@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-Q+LgiqdSfhwY9Jlcm6yUYFLgrqbkPTtbTn00IzB/vNJZ7UwGuMZBLm/3wdSqobOjO
-aYwaWnxIqvl8IplgQf58a/wO1PS1Abz+T0yUL9bNL71JcJauTqNqNeSQUcPjDDn62
-tF5FiEhtVYPhiWYdY8O7hF9xOIot9XBjN6KPXOaOqRFreKgeF9P/WNIzHSdnDaZDX
-TP+tEvtCijPbcw+1n00Di0h5K/LBFXuItJvpeHmtew3XgBxQXedndOGA8ZVIo3tmH
-/n7s5s+CZboe+h/Ds9BMsAcEKv++d+9bJuPd/YsmwRrB0j22KRfyJmKKm96UBL/bs
-ORF5cb/f+Uqd86kpVk1MXY+CXARVNVrB1huyo7AZgvXePMkcTKSJBiHhfhNCjmrFy
-g8SkllXByUiyceZazlvxWCRpzqGzjXGw8ZWWjVIASP0BhgxIDwhtGBADs0c9SuWDa
-Y5mJ//E517rQm2uq9bQqmJ3JTPHB9r41VxO17hzlP9AZafo4ISLgiqghElKSvgcOy
-8D1DYbVeYnoBK13GObzixhA+p+/Gs8IL8aiuFrffLU3aScwjvmNRA5YEVIM+QCyfX
-cbkQ5++1sqdNJZO5MufwVRJEjidvZqrsVEVdT8Oztu47v+8pA/RMabOVkR8TMAZB4
-PtzcM27uOUANXJlXbnyUQrA9qiyrklVY7mphdCrq2GpfaXWP5vYaRyV6BrooAJWSO
-0Rl1nd2aIxjxb+tDWCgiXi9+bBTHAiqvj8jHSKlZqye+ECmdrsejBRqGKbeaws92v
-L3H152X+5VG7kni4xQEO75w+gNifzN6fUJNnk6/aIv5sOhiQcXAaOL5p0tUPTlvmG
-eerZGQGTGa5JW5Ns1zCiihoTpQ1VQ39gPntz3c7hTuCspMdSqB9nH7YylhRqt87Hv
-KzBXsNLnHbwrPLN5n2V3dMgC9pbKTXZ4pEYkVvn4/prIpscDlKezS7NXMz98gdNbV
-yAEItdnBK4zjUj8PnBKN579sU5+3NgkNRJrmsZJWjDDp5fwdpTTbHAbnixgfIKtI6
-fptjBozyBjzK+eXrPUhvseHg3GytlNoX3BLBNis6Ya917D79qiGpJlMjL6WX+EXpR
-+bYWChbMqJVxQC4z2Ui6PDtGj6v0UCiW5p3ag5zlJkJHVEUpbj1gFRVPb0LpJk676
-+lKqKQIrkHdOHwIN4yr6vlL2j95tCI4NF0+QSjvEGAORJJsmr8RoX30S1g9GrSLNI
-hhKaYpZ+wAteNYBIQ5b/O2F+tTnu4iw/Zc90jNtqGKP8S9Rgro4N6MDwk841jc7y/
-biAkj6zKbFNfaUhIqjPh+355VUWhzoYowY0sGST+v7+6NzIGHIW7+eMzta1aKbnBj
-A==
+MUPXG6vL9JioMaRfRc3zp3JGGHwaqjaAYeFbI8+lHpt8PoGtKQgp0YInngx8JaSlQ
+nH0uTLeLmJGjSxc37BCxSuisNrYO2DkHGpIUfx37Qvo82uUhd6q4AYl+WOh1kRgEH
+y1vwejbwwyR/K825roWiQ8D4gFprcJ0/Es7uyMFRnHbulg+F2epESceAKnWOzOIYY
+jD4B34AcYxjvl9KppU1i+l55/wgxr2VlhOQGeEN0aJjHFTrLB+LdMftrSwCJlnQGZ
+lHQ4FiEvMKYHXHNLsga/weiTdjP9Xtjmg1S4/dA/dhq7VFUXv043xkOSjR7KL+BRN
+Po3crLkxXHLQoNl9xrE+fRV99F8cLmKSD749OwWrAdazKkwXILSxFOAvMF+h64Jcp
+m6KBaDxDp56bpMsxj1+UYksb67ljCkwOgXfZ6lWuZr6leEDpo8bQmY53iggNVCOwU
+j0gIX1yDN1RvkXX9yp8xwpLuaJmfRIJ58/FtfJ9YnG0P25MI9ozNYTeQ+JN96LQ7e
+JgWgTGLEEq/geau/r18CzW39PL1+9qy19VYab/dcapX75ZpRBq9XgeMU6sP8Fdt+v
+zNBedk+UnvOxWXJUohtLIBKArw0/cO9sW8CtqIO4MVctFAry8hqMXU0qpMf4EBbZF
+/PwK0jax74ynKSXeyp3lAJfcy3EJVjKWtFonbHvlbMr/MvTtfDHuOpu/hRxRZhppm
+nhQxUF8fqfHpxHpCo6B28XBQHfQSCkhWEahpsCoNXt91WGWLSpYwB508MijucNaWS
+1qM7D84P03CPbDDJGLZU4/V++foeiM9R2QcHaq6SdImcLfRRBbWQbR9bHRw1OHOoA
+X/piaytbGhJvOpbqLdpCeXtNP+bLz5lwC9dKFehPhY3Y1GG2FClpwabiRqk9jGQXL
+55mLIEPrN7yHMh/ITMlMRVQed8liJT2BDpF7ZbeCI6rOaczRSoNTMdsw/9k46Cc1Y
+qAXb1C0Wp5TUl3AOs6Y3cLgRqLZ+3LZ568YwiJvo5Yf+PpE6J/5iow2c6prxVjHqA
+uxaNy4EzfvD6j3BpB1/y5IzbzsCmRefFMyRVeAl5VSSk97zrJ+uS5woEbT5684HVO
+U11S5+KHkubSOz+4UJgBmndGT9cppIOFXaOy/ioWAMN8tAqKmo6Q12j1fFirh6r4Y
+MS8eHTS+QmSlPE/CMl+8/vlbeKKFtWpjPb6RX4E3FwkQi7xLcsoqXz0iWRVyEdG+u
+SD+kM/qF8d0VepED0J5xwHa9W04Hr4MIpYMB/47isd/QP+gx/Zo+AANzkg1PzgrHL
+FKp6AVbsjfbysvP8wC70+2jKNAgpSG1LMFqRr6HfPqb/waxawAw/YDt+c2mKRykDB
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -60,21 +60,17 @@ class PhpBbVersionCheck extends VNag {
 
 		// Version 3 support
 		$cont = @file_get_contents("$path/includes/constants.php");
-		preg_match("@define\('PHPBB_VERSION', '(.*)'\);@ismU", $cont, $m);
-
-		if (isset($m[1])) {
-			return $m[1];
-		} else {
-			// Version 2 support
-			$cont = @file_get_contents("$path/docs/INSTALL.html");
-			preg_match("@phpBB-(.*)_to_(.*)\.(zip|patch|tar)@ismU", $cont, $m);
-
-			if (isset($m[2])) {
-				return $m[2];
-			} else {
-				return false;
-			}
+		if ($cont !== false) {
+			if (preg_match("@define\('PHPBB_VERSION', '(.*)'\);@ismU", $cont, $m)) return $m[1];
 		}
+
+		// Version 2 support
+		$cont = @file_get_contents("$path/docs/INSTALL.html");
+		if ($cont !== false) {
+			if (preg_match("@phpBB-(.*)_to_(.*)\.(zip|patch|tar)@ismU", $cont, $m)) return $m[2];
+		}
+
+		throw new VNagException('Could not determinate current phpBB version in "'.$path.'".');
 	}
 
 	protected function isVersionCurrentStable($json, $version) {
@@ -94,12 +90,12 @@ class PhpBbVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the phpBB installation.");
+			throw new VNagException("Please specify the directory of the phpBB installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		// 1. Checking the main system
@@ -110,17 +106,14 @@ class PhpBbVersionCheck extends VNag {
 		$versionCheckUrl = "https://version.phpbb.com/phpbb/versions.json";
 		$cont = $this->url_get_contents($versionCheckUrl);
 		if ($cont === false) {
-			throw new Exception('Could not determinate latest phpBB version');
+			throw new VNagException('Could not determinate latest phpBB version');
 		}
 		$json = @json_decode($cont,true);
 		if ($json === false) {
-			throw new Exception('Could not determinate latest phpBB version');
+			throw new VNagException('Could not determinate latest phpBB version');
 		}
 
 		$version = $this->get_local_version($system_dir);
-		if ($version === false) {
-			throw new Exception('Could not determinate current phpBB version in "'.$system_dir.'".');
-		}
 
 		if ($this->isVersionCurrentStable($json, $version)) {
 			$this->setStatus(VNag::STATUS_OK);
@@ -143,7 +136,10 @@ class PhpBbVersionCheck extends VNag {
 
 		$ext_json_files = glob($system_dir.'/ext/*/*/composer.json');
 		foreach ($ext_json_files as $ext_json_file) {
-			$ext_json_client = json_decode(file_get_contents($ext_json_file),true);
+			$cont = @file_get_contents($ext_json_file);
+			if ($cont === false) continue; // TODO: throw exception?
+			$ext_json_client = @json_decode($cont,true);
+			if ($ext_json_client === false) continue; // TODO: throw exception?
 			$extname = $ext_json_client['name'];
 			$version = $ext_json_client['version'];
 			$total_extensions++;

@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-05-11
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -91,7 +91,7 @@ class SmartCheck extends VNag {
 			$status = VNag::STATUS_OK;
 		} else {
 			if ($code & 1) {
-				throw new Exception("smartctl reports 'command line did not parse' (code $code).");
+				throw new VNagException("smartctl reports 'command line did not parse' (code $code).");
 			}
 			if ($code & 2) {
 				$msg[] = "Device open failed. It is either completely defective, or in low-power mode.";
@@ -146,7 +146,7 @@ class SmartCheck extends VNag {
 		$devices = array_merge($devices, glob('/dev/hd?'));
 
 		if (count($devices) == 0) {
-			throw new Exception("No SDx or HDx drives found");
+			throw new VNagException("No SDx or HDx drives found");
 		}
 
 		if (strpos($this->argType->getValue(),'cciss') !== false) {

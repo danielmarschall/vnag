@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 A==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -61,10 +61,14 @@ class JoomlaVersionCheck extends VNag {
 		$manifest_file = $path.'/administrator/manifests/files/joomla.xml';
 
 		if (!file_exists($manifest_file)) {
-			throw new Exception("Manifest file $manifest_file not found");
+			throw new VNagException("Manifest file $manifest_file not found");
 		}
 
-		$cont = file_get_contents($manifest_file);
+		$cont = @file_get_contents($manifest_file);
+		if ($cont === false) {
+			throw new VNagException("Cannot read $manifest_file");
+		}
+
 		$manifest = new SimpleXMLElement($cont);
 
 		$version = (string)$manifest->version;
@@ -88,7 +92,7 @@ class JoomlaVersionCheck extends VNag {
 		}
 
 		if ($count == 0) {
-			throw new Exception("Error checking update servers");
+			throw new VNagException("Error checking update servers");
 		}
 
 		return array(-1, $version);
@@ -97,12 +101,12 @@ class JoomlaVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the Joomla installation.");
+			throw new VNagException("Please specify the directory of the Joomla installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		list($type, $version) = $this->get_versions($system_dir);

@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-jydfBN6uGeOsmJ2sQCYrVU6Fhhm+W4/+Hwbi9sIRfC0J5fPbgWYBzV7NKSBoLgLg1
-ZYzK0fmmPjyyE0qY/z4UajUP4K4aMC/TcVJi3v8fKoG4Akdkkx83Wr4OV4Q+ymyoK
-Cf6OWkxNhgnkUzfrnWBOVwf0Asg4+pISKrIdOUPIsh3XucB8XFdi1S5pvl65VUx98
-Wg+RStjDSit8lsTSmuyuS1Au61Kv51g8BTtgN1eVJwnpB1Svp0SQ3P2Exb7U4ptbQ
-Bqb5pBsHFksVn9Fl8O4cEJD2oMOcKu6vy+CxXGdmWPlKaERhu+FRPUl+pq1KQi5ku
-UFyY3Jhc1lMGKo/p3815aZOlDWBOQYnIOjVPUzrzMhB4RinbUBfFjIzjNh/6+SV0e
-jqdApFx+4tMKxGgBXgViWQqSFSMHIiEnsogJdZXpy47vtuj28ED1tMTuRr8dzwaXa
-5V9HGzTdRcnlLJt4h+piKGcej6G6qDk9M4uuXLDMRd3yscArIsqk5j66Ygf0wUJGN
-5mT9kRQlEERS2YBNzx5CYogRp9pHCXcQ2t6hfjWVI9w6vkev/3yNR22T6UAH05Gmb
-0rPXR90QqCaGslpfptT8mxJO88RA0njI7NfQWFGXrpC3k7dwLb9yWQTZqroDzWTkA
-NnIx92/WuwAfSz7T+LuTsxC/rQ+cInMdMEDmToPrlDbJ1xlob7JUOENbzCiKGqrag
-h6V2hJzgkOa/u9J9hDJoDU7UcS54d4PushUHMepEN6iGOnPC+EHBDpbsJIlJe48Mi
-GlNqTvhuwoxjCqVwv9xhplISBXwXO8Z9g8i8CNsVOfVCKX++8iqEqGOc5BAzyN3Nx
-fvB8wet3lgsvZVOFDo1up/WtVmEkyvjnFotaHG7UfhIh4UEr7Bovn0f9F+RQSVl8f
-vEsH7mr2klolxUPkE6dsIM0dB27EmNH+qtlT4lBFNNEGeQV4Y+CVYJGmAs48DPM2W
-KqGKH3vY/lI0ZRe0RP+Ps4zIV2gtzK18spuuM2S6zO82GiYq/1cVX0U/pPP+0ETJo
-lgvOxGX0TstcI7FJmh+aoGJOZHqOXaM7xzVba6/AcrYnhEVNEmTGqzGeRs2WLG+88
-OilicfEIlewemF5HzqULJlWoP8pPf6fV65LrhP5zQwhhipq4//apcMz2RwSKraADG
-rVy/bBAwJvozyh0LoqqT5C8o+MtWL/0GFok4R71XytM0m2J7+cq3ZLm0gk2DA5rE+
-n/UooDZRQ5JuufbEPsbUscBpX88fd+6KqfCPV5A/U3JttZK6jYZnPiVRsthEtQj9y
-2YTLNXOlIWeVaSiZzFcmW5QlCGEiPQVZkHsgfccQvfj1CvWzufU022mTwBTHRtmV4
-A==
+cNxgmYaPudAjw7GVR3a8SaJwW1pTIXIVKgsgZHEZ/F+STg0sfH7Ulvmikp0JAFSf5
+96xzM57qOw5v9UVkE20zL56ZDyc48D1nrtBsNp6Pf22UVC3Kg2x+MYiOo06oV4WgA
+9aA8dsyf4m0sqifbQPmSh7IXq3ZSp/nnpYSgbLGRvLr/LshnRIohLrbcFd0oaVuT+
+HPtvUsOLgKMXYa8U5U86aOvW0aAMDOxNDassNbYLwcp+shNWiMwi4TVKtGbzIThYM
+hCCvo4JuCKqEYbvMKT8SwbPP00DUCjnxPkytagC5Y4x5L5Hqu8z30fxB/aiKclJ1L
+DncG4NrCvBfg/O589suxghv1AOThIxi+hcRDyy/+VX3Lk/FPkd8XBbTQYPp8KIOij
+TyOdBhr3mHtRsmWvHhwhFo4H0HPA9d1rfAoECuvk6MLcTO2x7nJByA+WG3SPZkOn8
+N24+SAaM+DxR086kOl3sxLd/khWZgp35mObWyKnH0gZ9038X9k2m5qXnRkssVhLih
+Ff4BKOGcMrigx+xcteJp26AUJo6YCxvlobCSEo61Dm1bokv/xSawA8fexpVCSNOhR
+F/eZM1DAoxR7oMQRNcnZQYcTlLhmEOdcARRGJa03EkAVNYAdhDB9Fw1dUyZ9GI0M7
+ElQ6zj6djPZBzEOVjhbTwc0RlbrzFi2EDilZxmeC+dy/lp+w60xe0AgZ/xjM8JRFc
+vWWGlQ9Y94nPeEnqz7HjWijzCAXinY76WBjK298SF/df5yfDgKPf4xCaNS5OaJwMp
+IcE4g2I4UHhhRyA0FLaP8kqwHIqYJGO+fKA8034IWFjUIJmA14H9lpd1dxVnQ7hNp
+3tnW71tluuT8Xuz++qkGFXAIqV8WefymZbNPgWyCoyuC91F9l3+4eoUXGU9R/dqw1
+AbtPWmttngs96Ico2U972NfLf/PTwWuElSccHwkHCTSEmtEmhwCxRVMFDG8wvm8sg
+HFam2Y8ObeeYc2UpDP1lsRXsNMNLjvdi/MuF1qeATf/4oqAjnxcZg5qTCH8VVa1iL
+CNqa+SqazNKOmpSOALRAw/tr9fJsQyvdAF0mE7JiAdvyRgiTG63ab+Dc0njHWeTOC
+Ol4D7NgtY70pIwB8DKteivgLOZU05Pp4LGlYcvQCRreTNqRD0kv83zxogpT4kGnNS
+htJA0k484/KFe3lNLzKe7b7xH7CoBOKnEdemaMGDds8bc4mHDN2i0cBGuqQW9URTo
+vwGF46UgiE4DcRBEOrTeZ0e8h8I1Zk6ZhXuM3pX2sOhzPlq+JCCQ6LIsjirPVTEPS
+mrBfP64pFDKeXmMcdiYctq29dlaZtcYohUm7bS5V5HcEWk6LlNYv+XoPmsL3wzHX8
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -30,16 +30,6 @@ A==
  * Licensed under the terms of the Apache 2.0 license
  *
  * Revision 2023-10-13
- *
- * Changelog:
- * 2018-08-01   1.0   Initial release
- * 2018-09-02   1.1   Added argument -e|--emptyok
- *                    Output a warning if the Linux user does not exist.
- * 2018-10-01   1.2   Fixed a bug where too many unnecessary requests were sent to ipinfo.io
- *                    Cache file location ~/.last_ipcache is now preferred
- *                    A token for ipinfo.io can now be provided
- * 2018-11-03   1.2.1 "system boot" lines are now excluded
- * 2022-12-18   1.2.2 Use the new cache directory now
  */
 
 // QUE: should we allow usernames to have wildcards, regexes or comma separated?
@@ -101,7 +91,7 @@ class LastCheck extends VNag {
 		// fwrite(STDERR, "Note: Will query $url\n");
 		$cont = $this->url_get_contents($url);
 		if ($cont === false) return array();
-		if (!($data = @json_decode($cont, true))) return array();
+		if (($data = @json_decode($cont, true)) === false) return array();
 		if (isset($data['error'])) return array();
 
 		if (isset($data['bogon']) && ($data['bogon'])) {

@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 A==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -57,8 +57,11 @@ class RoundcubeVersionCheck extends VNag {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$cont = @file_get_contents("$path/program/lib/Roundcube/bootstrap.php");
+		if ($cont === false) {
+			throw new VNagException("Cannot find version information at $path (cannot find bootstrap.php)");
+		}
 		if (!preg_match("@define\('RCUBE_VERSION', '(.*)'\);@ismU", $cont, $m)) {
-			throw new Exception("Cannot find version information at $path");
+			throw new VNagException("Cannot find version information at $path (cannot find RCUBE_VERSION)");
 		}
 
 		return $m[1];
@@ -67,12 +70,12 @@ class RoundcubeVersionCheck extends VNag {
 	protected function get_latest_version() {
 		$cont = $this->url_get_contents('https://api.github.com/repos/roundcube/roundcubemail/releases/latest');
 		if ($cont === false) {
-			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. A');
+			throw new VNagException('Cannot parse version from GitHub API. The plugin probably needs to be updated. (Cannot access api.github.com)');
 		}
 
 		$data = @json_decode($cont, true);
 		if ($data === false) {
-			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. B');
+			throw new VNagException('Cannot parse version from GitHub API. The plugin probably needs to be updated. (Invalid JSON at api.github.com)');
 		}
 
 		return $data['tag_name']; // e.g. "1.6.3"
@@ -81,11 +84,11 @@ class RoundcubeVersionCheck extends VNag {
 	protected function get_latest_versions_with_lts() {
 		$cont = $this->url_get_contents('https://roundcube.net/download/');
 		if ($cont === false) {
-			throw new Exception('Cannot parse version from Roundcube website. The plugin probably needs to be updated. A');
+			throw new VNagException('Cannot parse version from Roundcube website. The plugin probably needs to be updated. (Cannot access roundcube.net)');
 		}
 
 		if (!preg_match_all('@https://github.com/roundcube/roundcubemail/releases/download/([^/]+)/@ismU', $cont, $m)) {
-			throw new Exception('Cannot parse version from Roundcube website. The plugin probably needs to be updated. B');
+			throw new VNagException('Cannot parse version from Roundcube website. The plugin probably needs to be updated. (Regex mismatch at roundcube.net)');
 		}
 
 		return $m[1];
@@ -94,12 +97,12 @@ class RoundcubeVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the Roundcube installation.");
+			throw new VNagException("Please specify the directory of the Roundcube installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_local_version($system_dir);

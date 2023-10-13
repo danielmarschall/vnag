@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-kDLkg8lpkGUPmjU+Y6sWh3rOd8GSVnmq9wUcKJ+7XiVweZiNjoyUTZvAw/58fhWmH
-N2+qCMoFCeFwxbBVxgROA31xaIDWbWi9i+iYagX9OHF+BA5ZAHhpHscbOxaCiN+iN
-FualKnWi5rgleimA4mvhvaDRHXOw75McTTWssIuxMU/SaHwNKYS8AIDj5CPtlXMdV
-Hd+yC82qk0hRAnlptRT9wc/J4NvmB3r02pSIOk0x5OqdyAID4ijiXLy2erM7UMwIY
-MRwWHKIbxDGW4YgaP3E0kYp/ARenaouE9dKmzeBAmuLDJRs9gXm9GMQMbUwjdQIA3
-qC1eSYAbojcwAH8cjmfDOeQt6ro6igMKBAzZEqRJKOk9LGpeP2mTg8zQzYX3ImST5
-KmVW7KHLtvxxCs9fLyZhrwbt98Etx9zhd2ObeS5RFzJV7JOoEc9wHbtkCWNhFAUqg
-PEzB1kpjhibpA23aZZL2Zz99TWKRqscxy2Rzk1U6eIHt6jhQY6sQHjJN8rgZIXHiJ
-QFQFKF8COYgiO4a7UhKbJKvaeQqaA91NZI9mvboyNUQidi9PUV0stzV7p6XTJEFrq
-WyyQdqrsWJ7jtvBl+zMjwMmtFlnWH51niI8KqhiOXdHN68Kc56FhPN4EBiadriXxN
-LioxFCijfjn+748jXRBCjE//raAvvvMuW+SATPMQ3Nz7qqsFaqbhcvWMW8j1aGo2i
-7h/lRGuSgFG+WUpJ+N7VTVLVsJBYq8lHsMdiqOtyK4FqCLLXSbxiFKi09jEaCUsnx
-p7sjiVts/+oclV2QyPJ1ZvXDZCd4D9cXFBMRmFFd8vSV9DIZYavewd2NgrJFqGvAU
-fzZTI7G88b/Zlq8aoTT/iueMg51yTGJb+yKKq8jDf+SS7YnrePSrUBC87oBZQYlmz
-Sk1HU1hek7JRwL/8HOv/lK8Rv/V2Kr6Tykl0dG/Cha0M3cr8SCIYRFx6wXnecXLxX
-mqZns0JHW8VCyzStM69o0P81dKnKTV1/PgWMeGtx9ZUL8DqZUQobHOiU1lfvclsLi
-XnrNBkCDc8Vvfxqs14Nw1AuTRRhWAF8SXremC2nxTsvOrjDk/xqonDosLN18U/QLY
-sdxoGGbgZ4sOb7IxjkdpzA9Y8xIuAZrs+w+uDHPpm986G4Ey354eQW+lmtE2CZmIb
-wwIJwpUJxhpsT0KZkn8GpGhYt8V+xkvg5UIlexHLXT9m/YX+Q9x5vG1Q0z2Wx+hlH
-acKXH7LKVVBeGwgyCHr7Isc/6ZFc6ft4MBXDuji256Jrur8RTIUmHMUSOD22Q8kBr
-bdxGFSsI1eigrjuTwSOA9wGahPGgJgrfrUxRZJoGqttuqq8APlRYaOck1ZjoKPLQT
-g==
+uj6Nn/5AixWCYFnSHOzNN+6Lcdw/Lq5AZkZbw5P4dDOh20Fsd04emPXxNgG7g754j
+qEnVgpmfgMIh97e/MpIvUr3RxglnNvz+ZiJywZZZGQj/wN3rHyn7UsjOq1CRts1LN
+qG/NObM5JVTBYCZkjSK6U2lxmpTgKZgwAwfSaSvp/KIChenFdvAVYmCMU/kJddMp1
+b44Y96U1JziUMe4VoMnCFzeO7YKHmlfmoJJKvSEQOOKBKcWny0yqh/uv8mK40F5Wg
+OP3zBBp+vMrvihBFvHJzewwBfud/FXHFWhsSuAj1NzllmDJ0G+59h52DYzWigoOsJ
+HeqVo3bsqLIJdeM/vZsZkZfl3uDBtK2brEUAKsu09s/k2uz+WwmGPu7Nnk8z7n/qo
+R6WIWABQ8/8ltd9/GF2uuaeUH4I/vfad8rbKQz9bkhtpIhZpHbXc5UdxTqdzG1z2e
+QRpiPkWuqCTPV2bAMq1IJ0W0A37Q0lDE990O5UXWYnvG78MVk01IBpJnoJswXvHkT
+69H4aeFEWaQbqoAkELbua6CEXruKCVKAK7t67Qfv3yoNSMD0IHvHpKQc2TRG89mAf
+WY1+h8AY3WNHAsjRSeS5p6cPaU6kfcF6vDfY+j20KYdZCyTd0tm4QTz0WC7ONz5aW
+ZIQT8U/g05EYJgwWL533V3QcgNFgL0h/ee3LtKAHE0e16q0OkZWx8ZxN82zh3aJmc
+c88lK4zzbKpMSi4vYcmlfpnCQIdMuq5NKWDcB5xErbKaLNuTnYYoKNxSnMMTwbVkG
+efEzMBp4j6cfA5tYlyldW+odwRjvJyKyGtfXQspeuL0hPeG7978+L3bPIDbiWdYlR
+a3md3Nibaxf1IW4pW7WL8QvHQlp1EV1ji/Fj0en44+J9+vdVRIimXBSZcy20sxuP/
+vFnn1QY1Vu88dAGgtaFw0JA7yam51QN8mwxb3LHHaouac596PaogZxytkbSdLEkYt
+/ERN0rDeV1z0c+IkIbUFeiYsZGMWQJOYWgxpT+2G9RIrtKTvws+ys7G0nJPMd9uO8
+9zIJCNwoxJIdact5pQ+JM/ty14u7i3QSX6QpAQ51FZyzWjYtpk6VCwplrfgD7qnW6
+Nz0OKVUszbNLvoT40s5rJR00AYY0vdhppa840Mx8gpZRmf44aFh37sZ9LwLAYSM2V
+XCxzpoH3/Xd2zqhvwXNBXV4gifLI9igRJOrpLA6lskdDaTfeNmmcTKKMaayX8mg5R
+H0i/e+ZHyuKpVEYdoee4wFjX4k0UIsUYvKH/VNVNkRnm8S0ENYv+RQcPv8xNaHiwL
+zRPKlv2dUaWmz0d0oOrYRbgesS+TLEMxIp5zGx5qlKqLSz4xW9EPm+kJFTYP2HGiW
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,10 +29,7 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2021-08-06
- *
- * Changelog:
- * 2021-08-06   1.0   Initial release
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -149,7 +146,7 @@ class HpSmartArrayCheck extends VNag {
 		$slot = $this->argSlot->available() ? $this->argSlot->getValue() : '';
 
 		if ($slot == '') {
-			throw new Exception("Require slot argument");
+			throw new VNagException("Require slot argument");
 		}
 
 		$ok = true;

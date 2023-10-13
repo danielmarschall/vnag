@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-kIPLa/arm33y/tKdRQOo0OrLc7J0AMf8QkJIHHxuxu0gIy130GFppwRrCySj2ZygP
-B8cdjiKqbOmfnXNeOVWYcw7fEvU/Qt5dyI6b/JL17hv/aZPfj74pfIKuy+gfNwGsS
-PxFFtuU3U8bqs8nzK8a/Z2sLjY+jdAjiB9+SJJngBMPv9mjTmXAw5w5hlKTrIt1ed
-CHwtEg5ZEFHZkwkd+fwWwFFsfU73r/hXxFxeK9r4Y/JG5EJMzhlXHHerJSSw1Y7LZ
-pNwQjAfCbqeueh/BfI7Rt8MvFQopGp4ryKp7kUWhxcvhWSgIXP4y099rt4Md3QAK3
-zzYSE+S6gVz7nUKZpKKjRcg4Q+j2eGIYR6FKd9OQRdfBxcR0wP4wBcLbVLnFrHLLu
-bd/Q9pvBbraeZ0T/WRHWu0+P1MRAyi8vUufAbmzsxrc9xjTVwpWRHdgnHQfll2WD4
-gNqRV3frkYsXR6qWhq8I5s5v8Xbukk8dEQcC9kz9PM/109zZdpLPpExPqjI6+KgZ8
-y49DOdVzJq4oAFNNVpQKago6z8xeGV2R4q11/qXAWE8Vi13F98LZXZBHMw5rA/9jD
-y4Jo7PfEGFqIZj7eL8VNCA3UsC0gYI5cjeH7RmWsrwwqFIs0BZ5ahztXHZGdorvvS
-FKrLNsp+mqZ/b8HcsP/lIhxZSPnkCh2Jyun/BQT/CN5Dg+pGU5wtYNmSJQXZbEoIE
-hpZ3tFJtHVEO0WQPzUxfRbAmo8fUXATTuCiqZsdYhtH/D5pygpUxr2qPSkpTt2Hus
-Efe8niyZ+6BDkeTynlsERWtLe/INYJptsMdf/7MMkFRHqQv/mWjapxFfiz1Xssd9D
-ZW9XyED1SLx6i1ACNT6+82GCmEe/Gkx1V0vuWgyZcEgHUJtzbrYY+ZuWXM9xmKfLP
-R8QwI/BMeHH8LxL5zBOkM7hV0aH6rkfq873J6O6iJP9j/Di5XTZqsutWiBAFhuQKZ
-ukryuJ1gYqMjyg/iVntyuZNiVvOBq7sjNv9asmln4G49DK/wVClPVf0oufI8CNCWA
-g6yUzaa/JZvk8xOj1Bfs+ImSfgkWMTIg4ODv85A3mZNE4oYXkFgzXYUbsuvV+FXhU
-FIdKNSyzi+39AUeEtXsz9JS/O8s7e57nwXQgauhtiVY/sUYxNwLluKmTfAzR3dzTT
-lxnG4lEJMXvBJEyFlEuevboXRXlAyDUQEdl5HtwJvU/fxz2asvisTs5iMmWkb+GFv
-S4XD9FoQWg5FHvN6h77Xyoo/8MtdUKkBElB5+F8ZjbBwdmJp7GV39XC6TIhxMNuTB
-kxyQLNXrbefpBNy2o/JlPu97V79Q+wcjqwLZMJ4Zs/lghdnUDw24iL/YZXtKADFYY
-Q==
+j/l/RmkPw7emOo36KLIAYvPpYBHeZjxONYqQqMjVBa3TF1IIqILKtQEzvk7ocvzdL
+xwJbBQo2FjoEicScuJiew6T8RAH9pu1MrkBrqI9tkhrR6SRW/BvbsL7jS0ypXmu4K
+OqIlbRS0YERM35lUPfOeHiMLI2hN746kpIVwlPgn5ilZ4T+ac9FkFjXkM898KHzhd
+fQIKnPQ4ADYezQd0QXJ48SqYVO3Yen/VDc3I5Fej9wgocmZachsKQDDvJFyfQegez
+ms971SY87VpFO6OUuL23z11Cm8svpPP9ug2ApMb4CEC/RGEZ+ODGEVs5PsSWVN/1V
+L8ucXSlY/fsZc0t3yBsrB9XA2S8gV2NAq6EvXuiyPxuKGa/2xCLsaxgimZNHPCJJu
+f1aCvoiD7LcqfqVrNAFIaptaYGMwqWAWuy8qk5VR2P3fHiwXdjwD0KMKyyR8r2zJh
+gAIVVIFRMOwQ/EIwgvqp7AtdlAIw/VuT+Q0OUVeb02SdNYY/pRpYTwd79jVq24nq4
+rzkVa6KfSb5gtbPTiNz8Z5efWIOxKXYqmZFxywg3tdGJXSVYAElPkituhbXy+vw/2
+ANj3beLDMujZ8FxBpjEk6NWo1sd94b1mp6fbhY2PrrK82L+/DSBt8yPx7trZNGz1s
+KG9EVl2zl2YyHjxZAWFQGTD+Nt/duHLiVa5qTddovnT/v+NuHRsERHVp3vRwoMpFO
+bv7wU4R56Gl2okiPw5xT0YuUdveld63w77oL3d8PrKLzmBgkCIBhEy5yfJQ/OMxFM
+2726VrAYZ3EEC8goFtm4VHT4+nk7bv7KeOaVzNGikDBsO+LCtcyyawabxzRR4R4rD
+QzLGAsPQ+GswGqUSKhvAfx5QA1J1OiYH+/C5eJj4I5eOmVvawWEJt+VlnknOPafCa
+oVksJ1C9wVcLcYTNPaX8MPruM9bZq7C7Nu38zGQgQbDgD8CFkIjP98VNS1KtFnHfc
+RN3sSPQE4eyinzrP2ySQLMfZXl6Y6IELJJxcw1F2PeomM94ffM6oWqmPrBc8iK35u
+7FwbnIf03hPnNnLtZzGCdlv6+CQsHf7f68ebqH4C4N/16tMJYI/ENX+aeUm9JDD1s
+EbYqJ5pflNYyrIBYGtA0UCHqWVbRiabtc2b3IQhm/jjQ4qArxjf/x8OBlyvjULZXo
+CvxzmBYGtpm+XDWKAw1SoN/3pNncaSioy0lMasqFQGoYVyqxvB5DPvhp/cnzp1XUt
+21zUPBObtuxSsYkbh7HLDUg6J660/wRX4ff5ARdIr5fUzKDYLFcbtnVTuw0aXG2ZA
+DOdiJsm6/mUdRpraftXyH1JshyX9OpsPoIIyuA/oVDx5Mjn+N6ITvvr2TjYHvXfiU
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -57,9 +57,11 @@ class WordPressVersionCheck extends VNag {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$cont = @file_get_contents("$path/wp-includes/version.php");
-
+		if ($cont === false) {
+			throw new VNagException("Cannot find version information at $path (cannot read version.php)");
+		}
 		if (!preg_match('@\$wp_version = \'(.+)\';@ismU', $cont, $m)) {
-			throw new Exception("Cannot find version information at $path");
+			throw new VNagException("Cannot find version information at $path (cannot find version string)");
 		}
 
 		return $m[1];
@@ -68,11 +70,11 @@ class WordPressVersionCheck extends VNag {
 	protected function get_latest_version() {
 		$cont = $this->url_get_contents('https://wordpress.org/download/');
 		if ($cont === false) {
-			throw new Exception("Cannot access website with latest version");
+			throw new VNagException("Cannot access website with latest version");
 		}
 
 		if (!preg_match('@Download WordPress ([0-9\.]+)@ism', $cont, $m)) {
-			throw new Exception("Cannot find version information on the website");
+			throw new VNagException("Cannot find version information on the website");
 		}
 
 		return trim($m[1]);
@@ -81,12 +83,12 @@ class WordPressVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the WordPress installation.");
+			throw new VNagException("Please specify the directory of the WordPress installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_local_version($system_dir);

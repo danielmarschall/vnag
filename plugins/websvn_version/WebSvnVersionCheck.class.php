@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-fqkUXo8Mk3LMsdasFOvKADgY4gxxGTLbE4cM7AU1uo+PpfVGfzGKeXsOUYoPivmg7
-pYb4KCOneJ5ifN35ujcauLXaaAvthxv8staBS/hHck3SWFCMCoYB5Y+7FYQyAupS1
-bqjrkwBWHhjB1RpzheGenurqG/Cbn6vB0XlC9uE2AN52b/kmctIKdsgKfy6ojPfm1
-NMOfJ3x7O1Z4+NPla0Ga+ezSScZjARO9jMBYN76FdDpioaa2t1J69rN4Ce7rj8A0v
-d0+n1hLlXuIC9PBH3hzVdDbBTdkWDTlIjwr1Hr8+dmyqU7s24ww+55GrAjKNHOr4N
-lwyatuMn4bBCT/vsdGZLAsaeC60ug9gHfjGvqXfTykUmVgMJNs+zSy7d5HLivoFsL
-lQG1ioDxRr59BFF+St2a+rDjWLlafd7IayZbvUrGwGMeX50r9vEIo7gd7YZk2yyh0
-Y+pQ3fENCLkl71COn0aYSRgHWMwL+IZwYV6/MZTC48pKO2U+EYY1GB9OrSMnPTVed
-lLS/rJaBi9MEJina93RfHif16A6mn2wy2HkUrFg0FCgXsTEUlDBGlowmYFqG87LCG
-vQf6pC+AUCZYCN52nkrwwEJGEgcwRQLq8IHuxrKMI+4HjBuSbdD3qSIl4RZYsJRAL
-l62kcZpaF3a9t3oC1kBEiahiLjh7qIkFcTPKJm0Bi1iNAYaApO4qJHHvhT7MuimKV
-mtAKlbFThGBIs9qHCQi0VzFwOHjKgFE8rGtA8EQGhs2MD5KdxV1JY4yr9Uj2fcgoJ
-7TCOIejx5loBNSi4kaCCN4B4bye3B6fdptCtss/szKjiv4hftWycMartrxCHIHcUZ
-FXTYLmDhmzp2fu85CZZ8tqHD/2GECGdqSQRjuWSXpmikzUAUNXnGFTMewHGuzOtiK
-Vjhap3cydy5FfeyTxQunwdtiNM/xD+z9s6XICNgM1ur5rt1yGmtA8jJnao0okIBF8
-yEjfW2NfK1nTeI6pvmcmWC0G2kHfuZrVnT7kxkzSBd/KDUhbKvYbNkWGQAKNeqMH7
-AFYui87Iu4Rf8A9Pvt4unFSzCCiJ0mJO1//re/0IUWCIh8wjLejwPIpYcKDXBngf0
-EF1IIbS76kfZ//mDcvh9k5ViCEeMcSSPKwQ6jiOqI2u0bal7IWWhbmwakbEwmE0ZJ
-EIumubK3UL2+RKwUNGJ33yrK05VtQmkpqqa4KHvj5QVvnCpSXJu84+dTpW0TMAmKq
-6Sh8HDFZIpqiBPUCa3Tug//WNf5xsYLxSrVl9YqsMiGBsPIM4f4J79uB672Azs0lE
-1vb4opB5kNRk+u5+EPkY7rddApLDMh55Fda+37CC0NpCXdoo/vwnwXi8Q+4dQxmsw
-w==
+qBxM3hf7eDc1Bnpj3F8RPxCUO03EEJRctdD2zTJzOHjpro6bzMkwZAazBhQ0jPJ1o
+0FOqTplQZ/6KWucpji02AFtSvW6OMf3clG8w+14Wxlzi+vVfxL5ZZMeRv9qTwQb4k
+88pugBiQ8ldR/tq+P4R8nOo5vzV6DIaSUPZfHfzdvxl4w9m/pMgChD7oe5Hx4CtWU
+2NLIv/qmJs23OGnZbf3CfNkvpJ7mjtia1Te/4olEa+NT2AOaib1f3IjRc0mjLVn9p
+ARdkMZSkDMUmtSgAVIXy40b5Xx65FmKD0iuG9pV+MOlYboMuaKGqmMAfDbcCNQz2E
+inrQJ2lHsm6B10ykzE5pATdR93Hpu4Xzw/LydLjLP6vtarVHZm8Qv1rELR/prPpMY
+4V8b4KtoqcrMoHxnDlL+YgbwB/66FKXqLvM6ytuCwJu0baKSi3SnIC39RsHP51D6h
+rGl9/mLq7X+PVu9ah5EFMeqXZykDaGYAsUvsEn3VYdF1h0EVpsfdlW90dnRolAC0N
+8mOU30F+7GEAJxDXpDt4Sw2FrHv0ESb8QoOA+HagUuCA1D4X1pcaWHMMv95QChTwf
+MfhFzRVNitNrdgTBB2T1m773stskWt63FdsFdIU+cga84zV3AFi4GzqsaFq7uH/eD
+TTkoWGQcuKKmMafeP4QeEAzFarsMeVCnCxub5XTZNhU7h4Asrej9BhGNinVx9nFRO
+tuk5bIh1kFI0OzN5JRDRsSgZkxsG9T5V8r2rGm5fTcy+MqKMP0JVyib7MpVid+9wi
+QOH0h1CTkHkZ0ffqxAI5muCOzQrUzJ8SuG0krIBgHWE/nVakFcYYw+lR8/G93gUif
+V+PRHSVyMeGIPmZBfDiEngCrRDDrBR/DaW5PXkhw22+T9xRmTShwcTTMPIwTVKzdf
+KpHyx3TmF52xbfLH156Tai25QdTECakC7ffEln77/KtDx3GeD8tipvU5HJx/GSc+a
+hTuCAdN4oX/m1vewEvKIJ0YaMr83F0KAJyqkuglVIKv3OnRL1lRswHj0Lwo3OWYDy
+xi8uFIkmp47iFqSSIsMV1aPW5A4q0f/O8WswzaR20iKp9NDC/uaSAxrZvfkqs7lxy
+GvR71hHqe1CQO0DN2oxZG8+beKF1k3PDzptIfEA77f+Ctc8/IXl8Y2E8ISQ/JMjqf
+akMiYDVBQHV15JlQyG/EblqJOhOuOtOG+ZT7Dorx8l8sT5PCK+s3YxuyfQps6CaO+
+WGjb9zViLO9lMWQGQ+WUfAfppw4Je5R5ZlS225+HW21jdcvy2wdtRnSjYYOTGIU4D
+a/yXo6xSu9hhSiIUdio+Ib0Sg5n1Mc8Sx1Ih/6DCrno2SplyOK1m+QAU5He0o/iLs
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -57,13 +57,15 @@ class WebSvnVersionCheck extends VNag {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		if (!file_exists("$path/include/version.php")) {
-			throw new Exception("Cannot find WebSVN settings file at $path");
+			throw new VNagException("Cannot find WebSVN settings file at $path");
 		}
 
 		$cont = @file_get_contents("$path/include/version.php");
-
+		if ($cont === false) {
+			throw new VNagException("Cannot determine version for system $path (cannot read version.php)");
+		}
 		if (!preg_match('@\\$version = \'(.+)\';@ismU', $cont, $m)) {
-			throw new Exception("Cannot determine version for system $path");
+			throw new VNagException("Cannot determine version for system $path (cannot find version string)");
 		}
 
 		return $m[1]; // e.g. "2.8.1" or "2.8.1-DEV"
@@ -72,12 +74,12 @@ class WebSvnVersionCheck extends VNag {
 	protected function get_latest_version() {
 		$cont = $this->url_get_contents('https://api.github.com/repos/websvnphp/websvn/releases/latest');
 		if ($cont === false) {
-			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. A');
+			throw new VNagException('Cannot parse version from GitHub API. The plugin probably needs to be updated. (Cannot access api.github.com)');
 		}
 
 		$data = @json_decode($cont, true);
 		if ($data === false) {
-			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. B');
+			throw new VNagException('Cannot parse version from GitHub API. The plugin probably needs to be updated. (Invalid JSON data downloaded from api.github.com)');
 		}
 
 		return $data['tag_name']; // e.g. "2.8.1"
@@ -86,12 +88,12 @@ class WebSvnVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the WebSVN installation.");
+			throw new VNagException("Please specify the directory of the WebSVN installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$local_version = $this->get_local_version($system_dir);

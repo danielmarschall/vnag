@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-c9r/fj8IW6Nf5LoeSJPY8SFXmPThJNj45cxTdW+9Iot0ccSLSP0kE5U7z3fKByUCa
-9bBmWXRQ38Pv6Ztfmw2mGneTXNwcWAud4NRRlRGSJ5mX3Kn6Db043oqYjl5EAV7CO
-NTXCI1NK1go/2tIh6Cl3OMRS4dyV11F+krGrg6T1+teNJr2zpniNyWDyVImOAMJXt
-VGL6HcXQjApsQ8/x2pzXwFJ6jFZPLZVNLbB5/mhLqiAgemgQAVIGSyJlBmYlhcoZB
-/lCaC4RuSrVqr87d4VxREWMtaRSh0dKShXlmG85gaMnVF3eRGo+yUsw1OutIM1OPv
-EEYRbmbZvnbGjGVnf1uP6gpeTzPQHIp+kFFLDdFus5AflovPYEDi1UHT/Ez4B6lZ4
-HphJOzB5kK4x1/Wurwlzfx7exGsmFElRmFxMD0wXahOpWcOYQ39RcrIrcg1RlEAfM
-nLZRG8BUyRcaefS72jgmOTV/VgB+Ls28AkVdgWOS8eCb4egM7krg7kHHwCDHzuKcV
-S7v03mxZi5QeMEXABJqJUqPN+09xfnkuYkXIRcDBG29Nj8wp3cmt8ND8cCjLR19fa
-KCqKVf6u4V7vw2asKRPyYnMc3FQitwmIxDGsPtREg22wJ/R8zV8WfArNXkcq2Y6tZ
-ws36ogjZ466SI9EQyS+YYay8Tln/wZ9uY7wZf7/L9hAAC77kEhViJ1BfAKXA7O/Lt
-+vshYbv8H0gpkhyzgqielK/Ke1xdAiE0NujgBUuOjAWT2/WFj60ln2WRJcwVytJuK
-Dy/VhhrYWkKArp7MNB7YI8Gj/GIvCWCGuIF7+H6tG7aNRmJoC7Tzns+4VQOhIztXr
-rdPcPjo9e3T0zxNbNYKAwxy4QV/cymhoWP8etvPOfycEMhR4BKei+xBAft0TWVKFT
-gxPZQg5y4ZyvpLXRyfwdrU9nncj6Gt4ot6ia7F6ctHWqvOD4y4sZ7QMP8mYsVA4Pi
-Bf388N0mTdmmlr8Zvyzq4TD+wtioX/LmynDYAVDRcoQJOhVsSUz6LY2StolcOlBzm
-rqBsiXEsrgLveb0Vtg93PqGCBRshKWVwOa/bZEBc8zv+4Ia36hL0bS4yLUMvllYeG
-+K4sJI2neWKBT4PWJSx7UTKZsMDO3g7MCimfC/2EvVQp3M2Uu49QNzPUTzlHVZvVr
-i1kyEtYaCztE2LIDOFXeeLdvz39sbloz+4/o9TyAsUd+MEXTns0SjA965Vw8bMM35
-CLky/HVnfGoIEo5ekhyuWrdTEgoCc2bQ7XcdoyU28IuqshbRKvdKFqAHeW8en/et1
-Kchk0pi+oQa/68RMxZDpJH6WEMLESPA99Fn+OfoG+j4qex1lCtzjUgvGzIgK8QZ7q
-A==
+PWwDKp/NSf/rrEh35zHyCMaO4gcZlVT+EjMyvCDND7VbDr2OfniffusJQ/+G/mPHZ
+v2dTvk6poY69nCYrUnsqeEdmeVhi5l++vvSAvpVUZiENZkyRUrTBkPVBhQcT8kviQ
+pfuBHklcTOhQqiN6MMKD1fS9MkG5jqelOSvMt3L35tTlQk0Fdkbu8WTp2kqWJ/gaA
+aZQzTXCserS7Y7SHpWoVvul7kfnpKWkspryM0l1Ih8fCFhYrB7/mMKTL9TqgKd9Ka
+f1VGax1Xm3H6z8OkJ8HfgbvbuvC+zruB9J7uYFCnnrtS5JqL660UV61zkTVLE0KBE
+Qd8T2cs8ROPsJpwO3StbG3ZU2rDChfpLVKV7VsEYnQpjyIACwIlu4E2kMTzOlIPaP
+hl/9HDuL7vfM8DYkUVvvMtxqvVVHYpIx/AFigxakY2HteLmfekxhL9uRJqX2e4SJH
+XWeu731yuH+0/c82rzLbEKadHYtV4XBXOxIlSxl4VYM17RCe0r2/R392aMQ4Ziy9j
+dhQo22vBJrtmIutBpH7KaecQUwT+hM8sWas68xwfIMWzFuwofsanyA2iJvRx5tR+s
+J0mhHQ08HszAqZ+G8byAuW6z8ncRieLhseu2g91OMHOiuDnxpDbGqqrluXDDGs7W+
+0aHGPmIbPTYTP6LGyuqV/Q5gg0tgZh0ESFWLoRh1mzrJMBh6ZYMrsByfAruq9ewdB
+FZ8rE3a91IhpbFa76wfcN81lk6QMrrc0crd0Fp359xUacXAz6DEO4mQ/f5g06p6rz
+jPLfClhpm1Z5AhhaVZS8AhgHNrXSFchksoE+oruo+CO3QDhcZKygGXntMb0I0KIYR
+8hsl0CYfkDD9oaMSXPE4g22WO48k6jKxt3MyCSta4vtnTeH6Quon6PEvSXkRs4ZCa
+aKYy8owaVxds+h0lGd4eNBgP/bZZb5nxeMuOlO9lhvEgxpXoksLB8Oh10BMj9EBQT
+T2TaEtY1GyIr0shBb/mD5BQO0v+qW3PHKbtDtWccKPxNo5Cx4CPf0AiHoqzj6Sa6C
+7MdS57nQ9DQAnwhBPOJ5+tt1LF468AerjjdDjsWEYMmicZjOpPM/9APdJjUe312+9
+AkVN9Mz3mVQ8DGpI0wEfDdrHH9IWs1G/0RofVtQo23PxyFbX8S64Di7vwBrlrgrWg
+esBRLltyn9hSdqv+C1XEJltlunWo2yM/HggjK9mbq2pNLqgW2r/Ddfhbhg+UnHPk+
+3XlC2nyPLzLt9Mpf/3IrfbTl3siOB1F6eQT2cQCa9pKrrE1TJu49oMmpiwmD3xT6P
+P1c6cVZn8g3N+MdZEJJknf492Zr1Y5oSx93ofxLFYrh5Mf3CDrHAPOTpPZ9J5Kh3s
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ A==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-12-25
+ * Revision 2023-10-13
  */
 
 // TODO: Anstelle "-d diskname[,diskname[,...]]" wäre es schöner ohne Komma, denn dann könnte man auch die Shell Erweiterung /dev/sd* nutzen
@@ -71,7 +71,7 @@ class DiskRunningCheck extends VNag {
 
 		$disks = $this->argDisks->getValue();
 		if (empty($disks)) {
-			throw new Exception("Please specify the disks you want to monitor.");
+			throw new VNagException("Please specify the disks you want to monitor.");
 		}
 		$disks = explode(',',$disks);
 
@@ -96,7 +96,9 @@ class DiskRunningCheck extends VNag {
 					$this->setStatus(VNag::STATUS_CRITICAL);
 					$count_unknown++;
 				} else {
-					$state = trim(file_get_contents($state_file));
+					$cont = @file_get_contents($state_file);
+					if ($cont === false) throw new VNagException("Cannot read $state_file");
+					$state = trim($cont);
 					if ($state != 'running') {
 						$this->addVerboseMessage("$disk : $state", VNag::VERBOSITY_SUMMARY);
 						$this->setStatus(VNag::STATUS_CRITICAL);

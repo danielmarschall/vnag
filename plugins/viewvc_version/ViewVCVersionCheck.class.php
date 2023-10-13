@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-Os6Vigdt4/PI0epPcVQLiFdxgBhWiu8NEIPIqX9z3giSygs8qTKj6ySf+t3QkS9Hr
-DckIspa6rb9LPdgsWzIen0c7AdZIktyvnr0aRJytTvsEi39htzI9065rPoMTYzdNd
-UrunPx0DJkr3GxKOFpEv9BiqNdQJVQQTmrfa5+73DoBcJ1Rgd/LqeBa8YPYlaYe4U
-3JbEdd3ZBSNxAv4b/qk0S4b8d1HVZWslpqCdOxJmaQM0xqCmkDPRtBIoVKsdTQ0NN
-CGcM5lmo/eyk+N1HNtpIZxrkfOil8OAy1Nhfq90f8IQJiolOn9/+SWqfwtPADb2jC
-LE7Ed1jgcAHfDbzD4E7NfBWL3dREiLBwnZbbdLV4EwojAhpPyRTBT9CQk0HbhF2Zs
-EEZMEzV/ebWQ1/S8xjC+cDIw4I0nKCg1/di50e07yP1Dkoau5aUiS9FcY5BhAkW1i
-PdgJz6MrtQv7t9aqhf6XeF8PCEVbkbdckzIWMJTYP1IC8DDwBzvIQ6Ss8g+YlWsgx
-fHw1ZKSF5YSnkgrxzAOnzAWNk9/68OKwEe5PzLLCqyktWw0+E4FGHiXIkVY8jyc41
-5Lg/2iE6t9k4KLmq1uk29DnNmeydujMjaUoT8+NetCPKPQT9hQtClliw9rPVlHawa
-XqpBsHamsz3ZWEQfF+P+jKJj9azgB9pMv52nYEEwuWOUp78aAWEDgtT0MeOb1JXk6
-kBmekIj208tOcrHH0qQr/03Z3jEMoMgGfa1IX0JEK7v/lJWbPSkT4PdxgefGjWKcC
-Zosc7WsjUfasiSN/Qr08DjV2hEBbYg9j2o6zl3JqjGr8bkCmIlewl9II8u2Ioc6vL
-bGRnLtbiGvHAOkPhGYwWG2Y6oLyrQQQzHsSTvPARN1zqCPjlkCntGW3tH4hg+aFvN
-R932hgONDUtxH5W0Azqq0UgE8tA7r4HWwPbN81UT6trJXvOg3CCT5Gz0CJm4vc1xV
-BG1ez3NwYVVECH7I5pjRI87xBhb0GoKJGK6oAf4zzSLIhCGhWeVc2iJmGyoLkzImG
-2g7AI9ddpqqTcEqYusnhc5HaNccaq91ABLtBZ44zpIaqT+YBEigQ9G2AhwcA+L3In
-4zj9wvjiM8kbgyi6g9JsUncPi6+9KoZbMpVtX9vOX5FnUuUZ2ktzH1tDp2ZkuUM1d
-AhXTFR21ZnD9Ji2LPs6piFGOQEwwjPwImV/Xd1KkNC+E4UkfKZn8IEP5eG6FvL4p9
-KY8nmjQixlnAH1SlQD50PWXWSEhW6JW+Zr5VFwVnBEgHFb2mXqqeQE/s6JdQCVi4K
-3H+twnvPtn2rCnOZ2OpeTPqGiJ1JEt/cLdNl2a3MD6tduHuvlWE7fTMnO2poU0BDh
-w==
+TDF5pajkBmVclzZlc0Mqz3y4QzLmlLQH7/1OwuO0mDvrBIICenmgyTBAOxMXYrdCC
+F36A/6YxsrSNws2EgNU4FWm1LZuMeo4vRbT7Vz8tgxnaBmc2uxBW84QChRFIF6VSO
+TYG2ebNkcbUuYaCm36ryk5zyygeDzwop4msrd8yrQ3HqLW2/Xas3Rjs/1hBOxxwSh
+bsZ6deXEAO71BCxA8QsmHjJbMH9x0iaiF+7wbvXeFL2iepw3tpSE9n2HA6rGfd3xn
+gZtzMDoN8RMUfBbbx0txj9S26rgnQsmwHcYz+D+TNO/0CMplLNpZJgXyE5W2RaR5M
+JX4uF4859t26Btc4A1muXCydMlWUHSjDURpagoOPCGuK7SyiD5Iucly2Z+JCkbiFW
+hR84YmPvCKo4rIIA0M2NnNEtSxngRvB39Cnu86e0MSvFPUFfrSkU/94nv92pKw053
+crPDsmAPSkeqkRPHM/muuNhWHWFpxxM9RuLZHVNAovQDh+rHzLGn7qmgzNsJ/f2+H
+Z/2Xo5b2VjyfB8pQZQIXukA4Ikrtl1R4ah0z3fyeufuMiVcXBUOIdmtBIle5SlrsH
+Eq8hpVL/qvxjhNgtD/tXNGKn9ib43FAnknE+mJi1hUDCduvOVCd4IaZgCvIbIhSEt
+Q8Xx5nw4EWNl7AOYEYh1jzOn04/lZCFmjM0EyufrMj93Um6WPyXvROOwH6GHEKaSo
+cavkpMYBsrb1YFHv0+RF7Z7PoGQR6XEM/3XKH+jTsVVQaVI8DoC/JFY6WPACcq9Y4
+ykCW3b0MioLKXs/rU7NYEcJ360j20XnxXgR/GrMCLWwCdXJTDIOK0BdGiwpN6i2m2
+n1zEAp0Kn/lKeKHf6GY0g2kT6oXBXuflm+rfDBoSU0hd0Ux0dYCSlcqg2GdfpcDfo
+e99plg1NahSqUA4DWTz0ChlBv6GTtDhJ0QWaq+dQvUuW9bhoOPi/FNwe1xv3OuBf+
+opz6e51fFEpaeHG5Y+Qa9D7CrHk0z88QJWXCgCdWNboGwNaJ7pCleL9AOz5RR53Y2
+Fk9neknuhFv/PUfePhQZd8mhxBgbzlRpN1v8enDY4bY+A695Vmz6Lx3XWvb8os1aO
+CIkperWfF336r+lj3fDGDHnlqXYVrOKgiBSFBqtQZ8l4xmcxE/On8el2B95LTY4hE
+D4KKRPTBqanx75Ajgv0o5FVHtNripTFA2PXOv9NaEjqkvckBCHnLOcUUSfT4GCqe/
+EZwmgNGc8eQ6Jf09Lr4B7ppmUFD/mEx/wsaQrVwFNclFtOhJi6Y1KDBqq/I9tmB0P
+31b1a4OfVuclmipIyFphLOhAkKYD7l4kpuaJ2i4ij+OAfBikVcZr+sVliDrKQhWvG
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -57,13 +57,15 @@ class ViewVCVersionCheck extends VNag {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		if (!file_exists("$path/lib/viewvc.py")) {
-			throw new Exception("Cannot find ViewVC settings file at $path");
+			throw new VNagException("Cannot find ViewVC settings file at $path");
 		}
 
 		$cont = @file_get_contents("$path/lib/viewvc.py");
-
+		if ($cont === false) {
+			throw new VNagException("Cannot determine version for system $path (cannot read viewvc.py)");
+		}
 		if (!preg_match('@__version__\\s*=\\s*([\'"])(.+)\\1@ismU', $cont, $m)) {
-			throw new Exception("Cannot determine version for system $path");
+			throw new VNagException("Cannot determine version for system $path (cannot find version string)");
 		}
 
 		return $m[2]; // e.g. "1.3.0-dev"
@@ -72,12 +74,12 @@ class ViewVCVersionCheck extends VNag {
 	protected function get_latest_version() {
 		$cont = $this->url_get_contents('https://api.github.com/repos/viewvc/viewvc/releases/latest');
 		if ($cont === false) {
-			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. A');
+			throw new VNagException('Cannot parse version from GitHub API. The plugin probably needs to be updated. (Cannot access api.github.com)');
 		}
 
 		$data = @json_decode($cont, true);
 		if ($data === false) {
-			throw new Exception('Cannot parse version from GitHub API. The plugin probably needs to be updated. B');
+			throw new VNagException('Cannot parse version from GitHub API. The plugin probably needs to be updated. (Invalid JSON data downloaded from api.github.com)');
 		}
 
 		return $data['tag_name']; // e.g. "1.2.1"
@@ -86,12 +88,12 @@ class ViewVCVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the ViewVC installation.");
+			throw new VNagException("Please specify the directory of the ViewVC installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$local_version = $this->get_local_version($system_dir);

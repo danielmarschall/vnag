@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-okEz+tdTNB6lllJohO9ECI4MAh3STmwseFV3T2s7zbbhS88rBhz5eOHaJqH9jckV7
-GgupfsVt+X87nkce4g3GD3vNJlaol/TJheT3y6YPFI8W2l9gKkgMZg2899j9SWgGy
-KQ4fOJAV72EvpYpvAaIDOou1peDHeweUagSjAEn/2OV9X7A0fxrgu6tR+f9xscCpB
-gRjW9BVXjLkx0WsthEr+fqkFSvQn2EnYk3sWLe9adWwlIvbFdbPoYmWTUP4CI6Fn2
-SeMWPD0UFM/e4UCUeFbYcC8SxPVBpACXaRQ3RVi4TUG0+TLdj2mV+yLb5Jm1v6j5g
-n87wlnGLLvF7IlZbJuzO4AZkbUWS7u0z1lRGdNL+N5mOUlAdVP05c3NmURCvTeSa4
-NwN8WiBLnY2a9EUquS9V4qanKkhh8762JqjmQqBljCOaY+/7H6Ev64ei7sVrBykDQ
-vlUWG1eGV4eAxXJZFOIKcrSjXIqPHp9nLGBJNUS63Yeat622F/RucRDyOSzuzo/6f
-w8lpZD54E/f1YJc0g5KHpgVOciVG2wpXJhoUbPhjIE6Q4kxA/j7b/XE4cdgnSOVec
-SVm/FVLVwDpruhYhxvY4HNFLzQgG8IaOaIgvRqe/rcEQ/5suV+bmcyO9LDof4yh76
-ZmPktC5W2s15zy9Z2FYiUMwrtj2kxoDSyrwGwWk+jR5efrh+yDr0ygwkdaowUkzO2
-oBHWb8fWodhA+Jv3ZEtHKy6wvxoEb+bhpBrQLa+Mz6kUf+FmBMGuYgUXXxzwEUh0+
-0zgIacwPlz0av64ab5GvxM9y5ZN/r7zF0GALFR6GoyI+2B4E90sxQMqOdS1Ts1GDo
-dQf3l4FPaDIzbFgb2QjJjm0/5C3HpV8QU3NPRYfzGQSoX0lDxtPkJOP+u8+9bEq9N
-4lyWIIgJwMEYlWdck9CmjRPRFQ5Yx58DhFDz0voxbtsoY5nNV92zTeikhKk1Sw9CH
-vRKkZV75XFuM50o2U9a+XTBiSXgHLN6nDSYEUhLXHM/DDwVVTln1hlPKrQarpiVuW
-v9MLvzTZJrZTfG6/ika2RwkvzKvQB+JHxEEK/Lbofq4A8QncwwIN76ptXqeB0vZlA
-sM0JuhgXzrF6RYAFmJAIwuiPe32cxtBS5fwvhzCDJp+Z5w0kVrI1hkYFVBSK4Z3j5
-VE9xAPz42Tzplw7Am3nfMEF6UtQN0FuollQ9KXnDUpRXRiwZn81tUcYkiriWSkooo
-FFv3f5KbWDqYABVKhCbZ4mhjPyEg0E6PXU7YULW9nEQbYJTNUsE3NAcaQmDgaTw5b
-zgeyl05G0z4Mba2ILtxCa2oG5D06gGM4HIYo12JDzjHLcD1KJZjGeoIo5cV6foEQ0
-Q==
+FQlTtB4vrAiggW1zDAtMmBdIYp0YEeSO7wEVXsbNI9mW4w2KsRno1wltN+lQt7WF5
+220EzyN/9dQy8SudsduA7Mzkxi4oJU8TdZBruleBNcNBpEK49Sw2tN9HBTzWWAthV
+bcUY1oKO36L4q1hO4vUBQ6t07pTlkEnNfofVCq7kOpbcNFzEdghjwSNs/kT2KVa8s
+0/KdKq1ioHxJDf/QhBrNM0yOQowmQvMTZToNEao+jrymTM5gu5XW0k18NoXIV3yVn
+KsbGL4AroYiHrw7CrkDunaIMJI2yLZLk6m8+akOJTmCMeiJPC8wu8jFuz6r6957yg
+F24b5+UTwQkmwnZM/9MYbabOjzR7rqb85aztxNT8a0dOxgeCm6emW3DkW/pKbLSAA
+Xekfy8TH/+wEY1a4g+B/K33ZSiWqhs5uuOXQXhTN1bt5bhxeZv1WF1wpq6BUxdIbM
+Tfo8JtfOsNIcj6+pJFcuAaDPr5EOZ5MVxwmNftx/2W5zr+fKWQUVpkKgwE+y0qMf2
+ZU5dPj84IRXW7IhtnXgll5erdL71K8nURXdjtD+as4Enwxbw9VDeGWlIWohIdU7NH
+9JBP+YBzX/22XHHMTCd6nl7qDBKxGhfeWr2qKsLcIH69ii7GGQDE0x9W7caxyWpp7
+LPrH20ZAtOJeIOeGbiesqP8u6D1JzOPmlESRVOhBDp5JNVRVg3xCjH2gI1CjKLwHB
+/kxSRilS2C3Ehcx1li1bcnItLk42SxG0rzFlsBlLYQXvujbl8TTnu8qn8oqcShM0M
+b0IqpAZoZp/v39N8pJOtFY36L7JIcE+p51kTRvwHaG/YB5EgZTrPUaSwJ3+72CPC9
+NYQ4uFS8oZjNhgeAwwX2cimA09TELhoYMzfrEIVy1k2znfI6Ax/jllwQ4wEdtM7cv
+bajmdkDdxCLiXjIl6qqO2NBrZcW4E2kTn1c0KoC4CeMAMWWlVu39n/z+eXAknGF20
+6aBmGMLoPQGpu33U4RMq83racjR3ZCnYhMwxWEWP6kkVdh+dXEkS3GExm0ZhR94dO
+OJgEjqZhCCTS5VyOVrZV0yHf7WLfboEbfBiLpa6WmYPuWpmPTm0O+zO/E7Vsu39Mp
+4FIhMBVR+5hpeO2zXdks86wvAPj6H0sDbcoHHsZt8Q87RyY5/uo7WRDd6tL2N/4Gv
+zx3ZHRfQgjryssRYJHFzG0NGf3JL1HYKIY9sQvc+5OI+p+kfEUfRPWuRwbiyLGatX
+Z7/s+z5rRr8Ky+2ETDwKyDMju8d3ZnV+Hug7jozmLj5UqZ/+QvOmnBL9zby6E3xKE
+SMy/WLKbweLljrusnIZql0SUCwEIXblUTRtwzdU1Aapj26HiuXCqRyX91SPcAVeLW
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -60,14 +60,14 @@ class MinecraftJavaVersionCheck extends VNag {
 		} else {
 			// Directory specified. Search the server.jar
 			/*$files = glob($local_path.'/server.jar');*/
-			$files = glob($local_path.'/*');
+			$files = glob($local_path.'/'.'*');
 			$files = preg_grep('/server\.jar$/i', $files); // case insensitive, for Windows
 			if ($files === false) $files = [];
 			$files = array_reverse(array_reverse($files, false), false); // make that array keys start with 0 again.
 		}
 
-		if (count($files) == 0) throw new Exception("No server.jar found at $local_path");
-		if (count($files) > 1) throw new Exception("More than one server.jar found at $local_path");
+		if (count($files) == 0) throw new VNagException("No server.jar found at $local_path");
+		if (count($files) > 1) throw new VNagException("More than one server.jar found at $local_path");
 		$server_jar = $files[0];
 
 
@@ -75,30 +75,38 @@ class MinecraftJavaVersionCheck extends VNag {
 		$cache_id = 'minecraft:server.jar('.filemtime($server_jar).'/'.filesize($server_jar).'):version.json';
 		$cache_file = $this->get_cache_dir().'/'.sha1($cache_id);
 		if (file_exists($cache_file)) {
-			$json = file_get_contents($cache_file);
+			$cont = @file_get_contents($cache_file);
 		} else {
+			$cont = false;
+		}
+
+		if ($cont === false) {
 			$cmd = "unzip -p ".escapeshellarg($server_jar)." version.json";
 
 			$out = array();
 			$ec = -1;
 			exec($cmd, $out, $ec);
-			if ($ec != 0) throw new Exception("Cannot unzip version.json");
+			if ($ec != 0) throw new VNagException("Cannot unzip version.json");
 
-			$json = implode("\n",$out);
+			$cont = implode("\n",$out);
 
-			file_put_contents($cache_file, $json);
+			assert(@json_decode($cont,true) !== false);
+
+			@file_put_contents($cache_file, $cont);
 		}
 
-		return (string)json_decode($json,true)['name'];
+		$json = @json_decode($cont,true);
+		if ($json === false) throw new VNagException("version.json has invalid JSON data");
+		return (string)$json['name'];
 	}
 
 	protected function get_latest_version() {
 		$cont = $this->url_get_contents('https://launchermeta.mojang.com/mc/game/version_manifest.json');
-		if ($cont === false) throw new Exception("Cannot detect latest available Minecraft version (GET request failed)");
+		if ($cont === false) throw new VNagException("Cannot detect latest available Minecraft version (GET request failed)");
 		$json = @json_decode($cont, true);
-		if ($json === false) throw new Exception("Cannot detect latest available Minecraft version (JSON invalid data)");
+		if ($json === false) throw new VNagException("Cannot detect latest available Minecraft version (JSON invalid data)");
 		$version = $json['latest']['release'] ?? null;
-		if (!$version) throw new Exception("Cannot detect latest available Minecraft version (JSON does not contain version)");
+		if (!$version) throw new VNagException("Cannot detect latest available Minecraft version (JSON does not contain version)");
 		return $version;
 	}
 

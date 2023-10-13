@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-zvqiPMHMNM4INK6Y/IBoEzPNOYtVgeI0+dmhSC5e5Uh72rP69jMsJe9VIffB7tFBM
-pS4m/OTwpBhmpJkDSh+lGP8pF/pz/9YhEtCf5qbRJYeu+We6bEx8atpCH7k8TP3JN
-4hs5M5QvAsJEsgrSXkTPJYZc9Uhe1GaWL3I71h/Vrk5zvytRuj9RGj5UVVQZU1kup
-tdenDjw4zE3t2mqPH1Mj4ageNgJz8B0DQFxtFRnvr48DLAlPzT8LsmdtDkEqRKMFk
-pZPP1nXc1rllYBBVmTVB9Cp1JJUFMMtaimHvwIWxvSa/3TSzA96X+/pcmZmLMVgjJ
-NugoMMO3KBuVxDfKP3eBU467rvtYfHnGrCBkmyq2KnU57A27b7+eb0q3pxX3Tb5LS
-XDYeEaALnYvsRbbYuGn+DtQIREjGDybbAz6sKR+beoUngCn0EDGJiD9tceGAdhwgP
-B+aXaV0phYEjojqAauaUhbnW2Ozccnm2I91LYnsr9g7C5Q+8GB0EzRwbPgr5IoCah
-mS9OvapVKeliaCVw/WLR1NYQDRMTyjf/gSTNC7Ns2D8tRpnz46IIPM1EBr3aJU+MB
-V8AUNU6pCVyHMWkiH15pxlozW3WF4et0TLltdbGVlchE53ahsOb7JKmL3KelUIzmf
-df7z8r5LB+ux/o0GSW/ylu1Bc8tniJD3EF9jSd1KT1dcQSMkKr49em983Xo/AwI0I
-LA4f62fLYn90vtzU+0thoepA8RJ3URo7ruQxrX/Jl3viD6YmUNByQYmqb8VGvQ2kr
-gti1aifQy/e8RS+prXMP+PzGQ15YW9/8Ue03CfAIAobZ9OT0QCiDBc2fxmHmOEGIt
-oEpvvy/q+2njA5dVOLi3/CeVUPZ8jeEDa5/0LPU145gdKwNA9L6SU74ok6AE+BN4w
-R0i4sY/2wCP9ycIfu3/XNWODVpJXRtJYoIG/RgH5k+6r613CSCrBFaIOETQQdrxcW
-YQbiB+PHl0nn7m4QT7nQ4uIVpoBUVpl+lcZUC8zphPSx0pt2ks08qkpvJqsf+Ij1h
-cv1BFYVuMc2a5LdGJAG4/BquLuDjq55Vqr2t4w4c43zl6VgXnP5Rpl4OWkqbilRaN
-jdp/ZH7vaiWk6jrAjUWMbT3UWpy4J49VI0p4CWP4Mv7SDQt3U85d1uJrEvKds1MRD
-v+aXp7GwIcAkTVx+sgKCf3CGrXGzBwkB6eGDSk+bg+AMPJtEag/nsdgQEcZRfIgF9
-g5sgyJlo3Wze02/D0YXkCR/WtmYmRM17hxAU1RagCCEV21fpqLdwl7VIhtmfFzBtj
-q/qDiC/BExUUFgkUMbiKf7bBk+bPLjM/GT45eg+BPipUZWB5wk9H4D7hxWAdNNkvU
-w==
+cyqSbtYKaD5MUhgAs4Z9sDuPHiH1rAb4gJIjlA3nWH3uT/M+CveQvXYoQW3kLyXD9
+uM7k4o4CGPpjyJnflqluGqtaXx5x7dKC96hWM8OqWixpv65hE+oISA5Dap9bSy2RQ
+2KJsSY4Pw1Rp2QrbZo7f8z2eGVUkmonbRwmDWd3iy9G2FCHvmuEd84YAtDmCB/tY0
+yG+w5ilEMZPe+DYOPhOiAA02qWPlTotF27HaMKBWOANCNc4EfD8WB+/rkdv8VvFqT
+d1TiDYWr17tcohafgt/D9jGqkn4798lEGesd9kIzHBVv7IlrNz3HLmNsMQpnn4fbP
+KmxFuwxBlcxLbODiHGL75dXG6rlf1luXFJqbdb6+GqBMozImeeK/9LZV9NDl0nIcS
+5EDN1OvZm6R8W9AYCjOYvWC4CrZSEzNcwDF5sGtDHHmNme/TLiWVH/E1Krzz5LRHw
+UdJgvlFzOrGxvlJVhuEWaHbEGhv2YoTPYOzAZMuQe231faOV/0wuaPsV6FYCusb9/
+Ykb/IFAEqXbw0mUZac2IRkAmy8jTg4FXmMbD6EXcR5zgMRi1I+ZeuN7hKesOmme0W
+bvbjcO8K+f2pm4TK7t214KteqZ//tUW4nqGaSvMCb1Qakir6gjF62TvqTQD2PRvU5
+0pqWr6X3OrbbVGhrz2lE3WldW/lXDBk/4UgA3TKpDUoQpXSz7O7SNTkyCZrAqBLqB
+5mIKz+8HumNOVhTkufWyyORNWpkjz8l+x7mdaj4c3Ennpfa5+WwMx/5DPvVNkasqI
+9cb0qF3ZDfxVYKnGpJFV6cNtyw49mh3MtU4i6LXYWj/PajTeleGBZOUW7VxdhOIqp
+AS3orn9AeQZKEEG2JwSm1ITMQ2KFxEoFItt+D9CMOwu7/zw0J4ErHFbU/eQUBwWJy
+t5oS1FjhhgO8RGCeOdJGd5of7wlUvFQD4NgaJ/aurFd5pTUS1riwDjoJoWvxBZPNf
+8n+wRBg21iVhpQBvofvhcxw4enGSXSh8T/M6IekHP0vrq0wEsNFsg5rLGEx72fH6k
+l80RCRLaVz8jXxeoMzLARuVqpmLO4b23pMkhsCLEZAuaNceQVgEM80/LV06qRGHEO
+RA9xvDWiGCIEYgp7zJMSeuRRsa/zP49mbj5GcBbMQ7r0iAkyrQJR26V6/erYU5phr
+YO8A80zKAVPaCL4GrGrDcm39Q+3J7RPyVI7XSrws/u4nhHkvJ+9BH4K+BF6+ykCwv
+1vdrcxB+FFcvhsqFNiUNviCN4MdIyunpR2EaWIp8rCYN9LQVkrbczJmBTsXjznexz
+cQFyZGH9F/2sPeoluE6oA+HrVA9jzJdgByeAY6S67pUZn4s8gfVRZvIvER7HQ/6hu
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -63,12 +63,15 @@ class PhpMyAdminVersionCheck extends VNag {
 		} else if (file_exists($file = "$path/libraries/Config.class.php")) { // Variant 1 (very old)
 			$regex = '@\$this->set\(\'PMA_VERSION\', \'(.*)\'\);@ismU';
 		} else {
-			throw new Exception("Cannot find the phpMyAdmin version information at $path");
+			throw new VNagException("Cannot find the phpMyAdmin version information at $path");
 		}
 
-		$cont = file_get_contents($file);
+		$cont = @file_get_contents($file);
+		if ($cont === false) {
+			throw new VNagException("Cannot parse the phpMyAdmin version information at $path (cannot open file $file)");
+		}
 		if (!preg_match($regex, $cont, $m)) {
-			throw new Exception("Cannot parse the phpMyAdmin version information at $path");
+			throw new VNagException("Cannot parse the phpMyAdmin version information at $path (cannot find version using regex)");
 		}
 
 		return $m[1];
@@ -77,12 +80,12 @@ class PhpMyAdminVersionCheck extends VNag {
 	protected function get_latest_version() {
 		$cont = $this->url_get_contents('https://www.phpmyadmin.net/home_page/version.json'); // alternatively version.php
 		if ($cont === false) {
-			throw new Exception('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated. A');
+			throw new VNagException('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated. (Cannot access phpmyadmin.net)');
 		}
 
 		$json = @json_decode($cont, true);
 		if ($json === false) {
-			throw new Exception('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated. B');
+			throw new VNagException('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated. (Invalid JSON data downloaded from phpmyadmin.net)');
 		}
 		return $json['version'];
 	}
@@ -90,12 +93,12 @@ class PhpMyAdminVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the phpMyAdmin installation.");
+			throw new VNagException("Please specify the directory of the phpMyAdmin installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_local_version($system_dir);

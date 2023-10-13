@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-cMU48trGvkbMlzRpC9CObsZaTJQLSX+W3WA0s/ipwluSIf5e1oPV/8hsf/xQ8Jdoy
-md+onDcvBYBvQRK/eb9NblY+OVHpQyBTmeFabsnWFzAL4cR6IDUh7Wi7Mv8z30tIu
-bHIGsE1zP8M02Sm1Cy/LEAHrUSzTum4vCZ0Ur7IgWqVJyvmwyLS3yMUu2ozk1fii6
-PjlciD5Oe+DiNsVERv5/YtirDychwrUz4lPOWnZQebZsMEmNHCWZbWree1WYCV4u1
-b7JaROxuZRfghe3vxTigLrDG2emmKanw6+W9dfaQEfsQDF0kn2UNYquj+IjmRWkQN
-bTLJzV2SJwr+ayyIWjJXuKTS+OtMI2PEFvqC1WdGC7HSvlE68fNXZcZzuS2dxUGeO
-IiSfmD6eKfHs5JtPQrY910QgvqGFtd8Rdvfi9KUrXUP2YXuEiL/A3+vXoGg2eseEd
-aDjte0ZFJratQXBR3tp/1+lXGwkRv+1016kqprH9jaqubbTz98waLllyxBjG19mZD
-S85CFfL6kPiWInCdMSRsytG4h5T4w3CZsPTwnP0MOekO1j0eXncoeCMVr4AO5j6wl
-4jdv4NAO0o2YJrmDaC6gV8N0aGlCArC1RRk49fExUFyHMOuO99ZY4gqyp04JhQzrX
-9Bgj7sa3zsnrSAfCCgBf9o62OZUUypiuRNrfpj+DLYyaeIe2MUBhlFFOWEN1XLbev
-5zvWLFJyfcw+b/iJSViKu8PTyHJgu5ZBCMhyJ2WD7AX+wwPKFjFI7f5CF+eZj/n4Q
-LDzc7LvTjQ/01hIGNZNRvGsyJ1YvVkrfZrIpFmE+X77IQRhpRoQv0gyb0sutQ/bAF
-qeQyb449/UZk8hXBxlYi6AxUQhFPx1jNCG8q2jCKDPkRo5BrHRsORNFKlQiQKHuWi
-zrm26GiJRUhryn4AScMwWBXDYMLV5i+C5zYOnfI4SMQJurgPHr3lhELHTB6C6IeKL
-s1kVHLbPqTCNr3dWK46gtGGoMwvjEDTcPyiEOxERZuYZ/BNxl6P+G0E+oNeBQPVbG
-9e7vi7SQeZrEhqKn8gNQx5DQyOdP7PsBmHJG8th6Tr77YktIE+yVRR8rxj0tHvqrY
-ppdYUl/rIpj1LyYS3MyOXneekAn/rnEOe0lGM5sIM4/pI4oK03snEY9ngD9X7xNm3
-lUWz/1tWfJFYolMVQOdEfHU5rvavSJASlUihm9tcuIM+jAJDSF+UMR7sQ+n46VaaB
-2u/aP50UMrtU1FVoooXeB6uSH/EGesTmYREA13UjmVz3gIB4QT9m/XVZ5zkRVMleM
-b9sCS5/IGoiyhR3ge17fVPUmRsdI7maW5t+v5FxM45qv2t0hFGEfoBFY03oi+Mjdr
-A==
+EnOGgWZfinduNUAQbydaichGVfM683Yilh8mvZzyRozjE2Msy1CX7FR4SAPTmNOb2
+FgLa4ReON+Wl2ftGo8eDdPGr2rJFUCVtdnDQkc3kbTAijv6gMNYFmfZ1FS/89+j57
+nOsM/EPhcFJO4TL+8DWey7u3i11JHuAeqnn3abpvyxNH4qa4a4ADhX7aOEWXALqXu
+TM1A+UUKMMrj7vZ0BVPeNoBvh2i26LepK9pZSUY1DPhNLVNfGFcDiO3ukVffU8BWf
+GgNGs/Wl68Agyille2MjjqTFF7W7W5Os+nM4WFMhlKe/AFC9uYbJwxqe41s+mCkIW
+jvlUXTVN8K3Q+jsHow+QNT+VCHo9vB9G6upqrvLzH1sdTqR4XgRDarUOiCrbirkD3
+kBF5osVIDn8T4lcg+gsx6P/M/YFBxu66Pb2Kwc1hjsbsQ4bm3XV8al92AlohzKN6r
+XDduu9BZgoAXH3qIc22e8EE2ADTRDWzSSDrfXx/SJwnWpQVsPkIS1qscp6vXyOMti
+e0d9mEzrTQ7rQWM1Cx7WU+pWSGPpyv0XGqKIs2O0xP8cj/26l+Pgo2q6lfcehBz1n
+xONlI2T9vQOL1vGHLaF0GdnrR4WPPBM7GqbtoHOcMH5ra7SqK13rhZWYJCHsNcZIj
+ucUo0Bm6B857MIxFDr7hddl8cD9D1crBjR3fHHdR5S3U1TI/CAhwrCEz/Fuqhkerb
+pb2uKz+3FlQuFooUW1o7ihAVfeLSFCBb/rYDK5OJtH01TOvldKbRUVwALyuRbCisH
+X6j+mqP7je6+Bj1Ers5BL4Avz24JQc/jBGTNlgWWGlgW/ZT0f080MuSlzvhVwdEbu
+PC2JG7dyBrd4JKtS3DmIrLcjiNiYcRx6HUZ2pxSc9GZzo/hsvzlXIiv6D/66CBS10
+4fcustBJakDkLGQgTC8S3oIxuAaJtgOLZeeXuXVWbehDCCp1QQBi3/ToQE90O/AMT
+viEmHyEp7ncg8gbzR4cwBBOEPEt93crlzZjYujk2skDfCMk5xma+QNh4fDp2/TGAG
+v+r+PTNJdQpEYocDb/TS2xhzyxboag2tCzvGGqYMMbPSgDNQLJOIjwgUgvJnJFT2b
+YMASHuyUX7ACroRkbjPS3zZJ+ZgTPFOAqtZrAOfAWEt2lJSsV0X2Umh0t79Hv97m5
+5nu9PhMp9XohPDndCpc/DDWu3m03+rVgRWN8EiP8Lz3VgoT7NamZZjdTFEA51ITPJ
+lzXjz0svhhpNGwLFiMvueXREMlkEV1HoEJtQTZFytQW7Ov3oyhVoX9R/CNOvQUEuT
+MdigueiPViNF94keIN7D1C9p5b1PzU/p09Ani4/wBpqPsk1GQ83CBvP22IOhVIDxm
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -57,44 +57,47 @@ class NextCloudVersionCheck extends VNag {
 		$local_path = realpath($local_path) === false ? $local_path : realpath($local_path);
 
 		if (!file_exists($local_path . '/version.php')) {
-			throw new Exception('This is not a valid Nextcloud installation in "'.$local_path.'".');
+			throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'".');
 		}
 
 		// We don't include version.php because it would be a security vulnerability
 		// code injection if somebody controls version.php
-		$cont = file_get_contents($local_path . '/version.php');
+		$cont = @file_get_contents($local_path . '/version.php');
+		if ($cont === false) {
+			throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'". Missing file version.php.');
+		}
 		if (preg_match('@\\$(OC_Version)\\s*=\\s*array\\(\\s*(.+)\\s*,\\s*(.+)\\s*,\\s*(.+)\\s*,\\s*(.+)\\s*\\)\\s*;@ismU', $cont, $m)) {
 			$OC_Version = array($m[2],$m[3],$m[4],$m[5]);
 		} else {
-			throw new Exception('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_Version".');
+			throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_Version".');
 		}
 		if (preg_match('@\\$(OC_VersionString)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
 			$OC_VersionString = $m[3];
 		} else {
-			throw new Exception('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_VersionString".');
+			throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_VersionString".');
 		}
 		if (preg_match('@\\$(OC_Edition)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
 			$OC_Edition = $m[3];
 		} else {
-			throw new Exception('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_Edition".');
+			throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_Edition".');
 		}
 		if (preg_match('@\\$(OC_Channel)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
 			$OC_Channel = $m[3];
 		} else {
-			throw new Exception('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_Channel".');
+			throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_Channel".');
 		}
 		if (preg_match('@\\$(OC_Build)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
 			$OC_Build = $m[3];
 		} else {
-			throw new Exception('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_Build".');
+			throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "OC_Build".');
 		}
 		if (preg_match('@\\$(vendor)\\s*=\\s*([\'"])(.*)\\2\\s*;@ismU', $cont, $m)) {
 			$vendor = $m[3];
 			if ($vendor != 'nextcloud') {
-				throw new Exception('This is not a valid Nextcloud installation in "'.$local_path.'". It is "'.$vendor.'".');
+				throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'". It is "'.$vendor.'".');
 			}
 		} else {
-			throw new Exception('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "vendor".');
+			throw new VNagException('This is not a valid Nextcloud installation in "'.$local_path.'". Missing "vendor".');
 		}
 
 		$baseUrl = 'https://updates.nextcloud.org/updater_server/';
@@ -114,7 +117,7 @@ class NextCloudVersionCheck extends VNag {
 
 		$cont = $this->url_get_contents($update_url);
 		if ($cont === false) {
-			throw new Exception('Could not determinate current Nextcloud version in "'.$local_path.'". A');
+			throw new VNagException('Could not determinate current Nextcloud version in "'.$local_path.'". (Cannot access '.$update_url.')');
 		}
 
 		if ($cont === '') {
@@ -122,7 +125,7 @@ class NextCloudVersionCheck extends VNag {
 		} else {
 			$xml = simplexml_load_string($cont);
 			if ($xml === false) {
-				throw new Exception('Could not determinate current Nextcloud version in "'.$local_path.'". B');
+				throw new VNagException('Could not determinate current Nextcloud version in "'.$local_path.'". (Invalid XML downloaded from update server)');
 			}
 			$new_ver = (string)$xml->version;
 			return array($OC_VersionString, $new_ver, $OC_Channel);
@@ -132,12 +135,12 @@ class NextCloudVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the Nextcloud installation.");
+			throw new VNagException("Please specify the directory of the Nextcloud installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		list($cur_ver, $new_ver, $channel) = $this->get_versions($system_dir);

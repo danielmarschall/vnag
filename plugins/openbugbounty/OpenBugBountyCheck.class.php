@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-2wqycRfumOucELwlNawMn9GhkBhvG9p6LgHGfuTS6Shfc1innJ/zOmA8LTXeIkwM0
-XIPKVZzyyDRNkXG2qQYuHRg16fMliE9GzfvMvnL8LPzfFc6Q6R4Ww539h3mz160ru
-cS0BEOR2Gy+EJYXUcIrBd1Q6BK/g+YRbQOMFollNe1lz2CQK+6DgU9Qk55rKe72vp
-2Z+4lH4qGNXCm7D07cqUun28uddcYcSruB0j4DzJ5xAhfAhl5Z/k/3SNttIFRj6KB
-kV+tTEXQ4V8EGVEOk0jdeD/tF0aydJVS+wM+S888Mo9diURP/nBXOBi6hOguRjgYS
-c5ue8JxxBUo6nJhCPDMKm7OHozXyai0WypkZiHFVHZ5ylvPLHpjbltVZalmH52YZt
-93hJGWKl1ZykflKPfqNFmRaU28/vBdN5UoC8jo9W/SlcSjaK5PKby7USqh+dR+RSD
-W6/H/SSiF9fg/qbTQ90KBHEBifYPDFyBBIC2pGwV7IuDHeBo2G7KYlrHBj+ONNOuL
-fU9x+5kSWwP7ybtemgLAK7QdJCxvFXb4+maIfTQALCJGpiT2//qEScSWPUaQuL2Zf
-QopPUiOANe4fm61JvmYsQ3K385e96fcoqNkeygXkKsbsbNzf8h4b9wgCVuThZ/2zS
-YGV+EhyCXOsS3XRyUobe58Yq03vg8Jfr4N3Dcc8YOPc/Zftu/TYR69/jtCSjWZX4/
-7VsjYhZiBsLtCEPZOMVlqtou0j727qZW+j/1G8yQ/seZKenU/dFTAaVDLnyL4Vjsq
-1oz/DEaLAwXGnigRZwC2rwn5An4WiXahSm9ci92ElvNk9SdR7BRbCM+JiFauERJda
-LHEefW8aInsrXaCJeF9EDtyVKaGr3QIwrNX3sOl86sWKv6485EzTrsK5MGPIj6Rbw
-y+p8AAv/qyH6xxLlHM0pG89W8eWXt7Pd/CBexcfINNO11E1kTvFs+3TkwYdLN8Ppd
-+QHZqCLEi4cyyymRnSKMO5D0FPvTUUu6HrriUnX3KIJ0Wmmo7FVs8YvBoHYFYVaDo
-3SbI4bPhayyn5jh3SjUfuojHpAuAGTeTXbyqOqdvLowV91nuaIEpi7duEgOotJpMW
-pCuerdxtjIm9/xDR4rfV5z2VDO+PbKqcMC+HckfYDq1IGuqwPJbAZL9Gtw8NJ+ieQ
-OaFUt332WVJcNcwDyHZH4TRc7pc9T6pB9E0GVyREMgGIbnngcQm4Dp5wXvwCJwcgy
-nERbiPtpIJ6fo1//0h/jhNYFCs+OkFEqMXTSKRhHulRP325DIY05x0bjWbXZjIO8R
-j0XtvsYhgWnS3rdmw5Xii4FTkeko4F8A5K2JCZA1rgSxqtNW3MzP1o6l9yZ5CkA2/
-w==
+GKHpDZMbCYVTA8LdpQ0BJtXNS/xsd1Q8vkqgeT5X+2hx792Ip+IcJaFR0PDwo4uLD
+R36CGW3YQmkNZem3CPQr3MHXe7IDse5TabN0UwS9pgxp+nHLvUKq0UMpVE7Yd+HOl
+azSktveAoacUlCXNOozqyFv6O0Re29KI7vVU+iqleF2LwqUlZ+lvA8+8oZ70Xv89P
+zt/giYbQaAeVa2ALd9oJu9yERnkyoa1l976dwVWNoJBZlFTiujYcGcbNlQojaNV7+
+/XA7oftS45nGhyMcwgvrgZYbDlOTOrqG6A8CpK5geELGQEtr3MVlTCLPBXM5zTnjj
+6FaKd9innwyatdwk60watfSAtp400iK15wVF2bkk0BDXDYaIwRQ1/sAuawkK6opU/
+d4+rgxpIdrojPrnS9Zwa1oCJk/oF2iNCytiMaG7cZafeVAtpKE4mCfhgkH3BNZKOX
+VVcLGuET3QpqCY8HaaLv7LnRlbS8HKkScevGPFi7ci7ywJE9zbk3cwa3nHXW7tl+z
+6zS7CylFaIkr1UegsGitZbbn8VpaAWYKNOzzvfnI6a1txWQA1hdslFUIh8URyAaXI
+zS+IWgSIBpPfTdyLegEuE74MIbuwRqHHAZuyyVnvSmjzaM0JNuOkZ9/l3PkxBT8VO
+il0RBDucS/FPlw9gzKYfrKpig8I6kE6pFdziJ56suvyYKr/0RV7FljiKTLMJ5YpDz
+OzFxDVP2kVnhkCXGCNRiVk5t1P49hmZ+neMi6rHfOVuxMSdiNHUfdS4rjvQorvv00
+uAaRdqzRMp3sd/QG3Du4SDx7qtCadktg2yGjYIZOV12nCa86ERpRuXc3Sip2bcVMd
+D6YG+jVrcC+XWKvR7BW+LXQMef0JKc2rXoNUu53SAzo3lKfsMxcQ7fFZ4xfXa7aES
+bdiI1gEFnLcr7tZ1tkSVWRV3Xc3um2xcuwT6O+yI+xBcdj/5ybDIjXRWAuxqoHGiF
+A68tkTQVSy50hgHy/brxK51Rf2whK3Mf01dNySneqsmRYFXCRVb1+kMQcTyijuAM1
+NUWcHETl3/gLUFcP9cS36mxNwwWsaSfrLYCIncOUTEYsLyoPURjmTS7jcCbb1+6Za
+kLsAM2tPVi5+s4O1MK5e28cNbsELReRFLI1D5VQUUyaVUCdjg8tKOfwiixNjIdWbD
+c6lwugjnZDsJRdA6n3EgMOkbLtcYoWDZWtM8kVtTr1p7MBt5+Y+BHd2YH2h8+S/6Z
+FukXIDkxQ78hNCtpr6/UseL+R4/mkGJ9DphOS5r49+wviURMzGGFg6eip5GQawAo7
+fK8eDLRj1dCnU4L4dsePjDD8BJVht1QfGUsQ/4Yraf1Z3UH6wpN8dc7L7feQHNDmt
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -128,9 +128,9 @@ class OpenBugBountyCheck extends VNag {
 
 		// Get Private API data
 		$cont = $this->url_get_contents($privateapi, $max_cache_time);
-		if ($cont === false) throw new Exception("This is probably not a correct Private API URL, or the service is down (GET request failed)");
+		if ($cont === false) throw new VNagException("This is probably not a correct Private API URL, or the service is down (GET request failed)");
 		$ary = @json_decode($cont,true);
-		if ($ary === false) throw new Exception("This is probably not a correct Private API URL, or the service is down (JSON Decode failed)");
+		if ($ary === false) throw new VNagException("This is probably not a correct Private API URL, or the service is down (JSON Decode failed)");
 
 		foreach ($ary as $id => $data) {
 			/*
@@ -144,7 +144,7 @@ class OpenBugBountyCheck extends VNag {
 			[Researcher] => https://openbugbounty.org/researchers/.../
 			*/
 
-			if (empty($data['Vulnerability Reported'])) throw new Exception("This is probably not a correct Private API URL, or the service is down (Missing fields in structure)");
+			if (empty($data['Vulnerability Reported'])) throw new VNagException("This is probably not a correct Private API URL, or the service is down (Missing fields in structure)");
 
 			$status = isset($data['Patch Status']) ? $data['Patch Status'] : $data['Path Status']; // sic! There is a typo in their API (reported, but not fixed)
 
@@ -183,11 +183,11 @@ class OpenBugBountyCheck extends VNag {
 		$privateapi = $this->argPrivateAPI->getValue();
 
 		if (empty($domain) && empty($privateapi)) {
-			throw new Exception("Please specify a domain or subdomain, a list of domains, or a private API Url.");
+			throw new VNagException("Please specify a domain or subdomain, a list of domains, or a private API Url.");
 		}
 
 		if (!empty($domain) && !empty($privateapi)) {
-			throw new Exception("You can either use argument '-d' or '-p', but not both.");
+			throw new VNagException("You can either use argument '-d' or '-p', but not both.");
 		}
 
 		if (!empty($privateapi)) {

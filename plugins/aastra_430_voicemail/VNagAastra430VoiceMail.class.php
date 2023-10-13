@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-DoLNft7Sdu3ePi+nSXN2sn1rZfmAxotlrnJdcyD/sLEQIXP9r0TYkhkPeQhns9gAy
-A8gheT9CYyZ89Wa9eAAanbapthrk6rFk/A3xKxVVGe1ieqlEefmkPPs98eMkLlAyw
-HpDFLR9aplZH714N2QqHazvVM2tl5nu/POgSJoPcAIlAyj0O70zTUuh5muRA1kJRF
-sp0E7dEulwOYLb2+UBiKhzmcIe1ixJvVsJzrroK6LHwGvUmES54EVfRu0hVkkrUBv
-j5LF0uDTWLeDudPbJK+oldLM6KRA06EBSkKQZxfTPMpDkEk3I76rojAnjm8Cp9/bI
-G5uyU1YrEBJOpo8tIJWqI8GFs6dRDVVQXnLNz2TZHDSeuL2Ij5LCBk3RnUDSzzFni
-/YAcu9HkM6706NylZJ0IR1z3GmUAlRnGN/sGaophcvpzPm+RAhOpr3H7N2/IxXPdl
-VUsL5Q95LmBFCXPDRIqQmhhqDS+HO6aoYrxu8pEvd3JdQjh616XLWQDeHHtl1x6cE
-SszyAzeVpCSyEyNzk7Bn9ypIZqO+/pauLraS1xL3Xt/xCGQvzYZAVjtoln2y/nbqO
-vKBBZdXRXXCOExCbZB/u8sp/Wc0vua/qWoONWx+YtDjySUXdEs/JF0ZGEVndRym0r
-4TfM7GJposp+kz/NKbQ1Kh+UnSMk6L5y/I4xMWAuBTCpQ9zl0yDpFvLzeOvsH3Etr
-WeACWabnH6GVXWlI/JyAVThHWHrog+no7/OSIymRBHgRwsRu/87qW1aZVB2H05jW9
-PlnCBNF7nz3XgDaBac1W02YeHc9hYv9uOjeMX9nEI7W3gDoO/Mn/PrTaEvB0UO50k
-/ZHh7k5nQqZKq20kmfgEbII6Rtn9pUZNAmKEpwEMV9Hg3gRpNrvG+ZCw48ts1+P/T
-6tsshOByw4o3gRa88tr/LSlGR47EzAdYotq1ZleoWYt5Nc2kJmM29xOc5PVLP5mrY
-QecXl7IL35JFzyazi0z/QX4e2VyI/llLcMI767Oq1dckhXlf1YpE0yG3O4bRzDvf3
-tH2aWeuhREviasvFK5UUQAc0mWmFuklB35i/v4x+/63sB3zUjHitqI/L+mpjxHTtz
-km6KpaBKFQ0UeYnH+zuX9ttjDi8yxTxp7i73ZU0KcOD7KT6aTztSyKTwvyfyVzi7A
-81q88rMWDPioVHW/XE32/T2VDuD4RuhC30T2bKQtMPqGcSs0xnNlGGaGjPKkxEVxQ
-K6CIAO1fi4B9FH7R/GqY+nbJ6I3eazIE294xbKTp+5DbR6hJ0rC8f7UL9mkyyHeHW
-3BQiZndJkv0akOtd+CaWii1bNucrPuAdVm6icwk1WPOorjdZoAgZSRSFIUf/05bRT
-Q==
+0tLzYq26CBq3L+Zi9pnnz74c+FEdcuP/FIzuxU39m4GJHKk04j9NYImnHIvZfPtJI
+HlU5GzQKHbazWLUmR31LQA2urW6VlG/cXRe8Vm7vZ/vxkbt0ZCGz93m12sa+5sVeG
+g2mkhF0JyZLX1BjvECNeyiZg+VHxZ74RHiDFJF/neXICSrJ69fOFu05xF8CAxKoee
+2X71qoRtRelWFlf4HFhNcwdP8mr6IIMEIiMlVGatjLKhUsoAhNIFW9RwRdPIplNSP
+D5HfRIA4AT2qiBj3YOBx+O/qoNJ5fFDN947fqZizPU8lLGUjv4t+WDIh7deEWJ3h9
+SLQrJzc7VYHkhKf8h6KgX0GYKn8nlILAK0ciMGkQpY86E5jPY7+3VkTM4W6RcXT2l
+Ds7iLiUhbfBCeEqpDVNTvhINVaDzynIiT8TsI8X7w2RK93sym3aICuWAUjvtVedZd
+6l87z5jlxRTKc0cniTXrqBoZ3rrl4REGSfwgdPEgmVJ3gSbMDZTtN2FAgjIxOa1em
+0k1ZXZDIwzDFeDzirHYh5vLsSFKCSVyzUH5v++SwCVRvZZBIPTQFfD0jLnVKpWq25
+Ux+MA9JWEYJI3h3PDWzghSQ163MAkvQe6eEb0Yoeblau4vUY7N7Onlo5vLnC5vyqK
+RA0Yn79xybAlxSrnOjzUv0G2J+VTfdH0SmzJM9ykFgIKqxk5DFtWm65Fkywx9MCUv
+lUdAYn7FUlHz8+4099yAgGtR250ZCQ5sXnnrS/mqRwT9jAYjyCLIn3pXcBAdi3qLR
+ntYF8eM47Q7hD4EQl74JzbfV4vRe/imJxRvXsRlj7+4++YOEICq/pOlysk6iS2IRd
+yf/ZOIPfc4QiYztD2WHl8+hzQhguQWbfmbV7BJSuXmTwISXGUws6SgJQVvAHoGAM8
+Ub4x9G7VmOVTkLEkuumyFb4GW3s10LRYVLGCbFVT/6NhFotSgy75FRqemL1yeUfFV
+r+OM1QxKVtEQ9oK6E7hgaCNBcywamNsVTyTqi+7dtPWCYhaGU3B6wCY8YC12EIMEq
+ZW6lk4xPcQ8vpHpu+AGeNb0QopOUqIHdZE9rhVOwZYq+h0FW8Dj4zrB1Pwy9h1Dwn
+B+OyJ+YqUfV0phVd6znyd0S2xn6tB/L4mxoIHtvhkjk6vWQhAC8aSdnYqwBxT3qav
+hKRdOgEYj/RPat9o123+Ekv0YWymdOJp496CuJG+FsD7X60mbim+c1kcMgAKSKUzo
+6a2f/8LMZiXdSRVBK159FIQlz1SHtlHIkDiTNXGKFHT5cN8JWS6uFKzWxHBMrJ+zs
+A/SxRIR1b+UrahV+7jWm+VaVK48vyQB3+2JqKYoKbF6VBusXjdY70ibJVIK54j7cs
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-01-12
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -64,14 +64,14 @@ class VNagAastra430VoiceMail extends VNag {
 	}
 
 	protected static function aastra430NumVm($ftp_host, $user, $password) {
-		if (!($conn = @ftp_connect($ftp_host))) throw new Exception('FTP connect failed');
-		if (!@ftp_login($conn, $user, $password)) throw new Exception('FTP login failed');
+		if (!($conn = @ftp_connect($ftp_host))) throw new VNagException('FTP connect failed');
+		if (!@ftp_login($conn, $user, $password)) throw new VNagException('FTP login failed');
 
 		// TODO: Only count vm*.dat
 		// TODO: Also check timestamp of oldest and newest message!
 
 		$messages = @ftp_nlist($conn, '/home/voice/vm/gen'); // the files are named vm*.dat
-		if (!is_array($messages)) throw new Exception('FTP folder not found!');
+		if (!is_array($messages)) throw new VNagException('FTP folder not found!');
 		$count = count($messages);
 		@ftp_close($conn);
 		return $count;

@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-yD85WiHZjflrHQ2QRcEofZmKA2Z6gE3vVEx3U/12QhmKLvrHTWhO0HufTtLsvdX3S
-+PTIM/wZuGh8LIvrjnmScZ3sDyrM4W7itIipHtLAbvTUBIYqET0dIrj2fV27vFF5U
-I8r3Ggjb9pukb+Pcl1MdGHwikLbZfq8/V7bScK6L8nDFwO6hcIBTfVpnx7GHtHG74
-ycB4X7wNhOb4+PYzoRaezU9U9RMPbk77bmKoTLvGOjdHwBTx+2TwEowHEFnoVpZ/S
-vtTv/qDoz4VRdWa1mDwZILdPnRWGP7AgCBMz/RymwMbk6ClIE+iaPuRBvcJZCcKut
-Nbn9hSPM4lexojx+GTTKUUie0s/VII23vFNWLA5O6f2y8viVnWPCM1CS4bYw0Lvb3
-CWDJye23yuSZmmzb6c/Y/l4iRlJDpVf2M5I9hxlnPfzekN6kRT4z2V0QRyecgsBSw
-OLZm3hdVv3sZu4C8Wm75bZTXiu0SZF2raxKOLoYU84CgldL6utQrnE5WbT3MM7rUc
-v6SQNF8wQpc8kb6uztOb6sQ3n7JBApZIPKrAC/8OFL5vLaUOICQyufbKZAfyeFukb
-0NFGJG764+Rkbxq0fvAu6iQd/WD29PYgu03PjfVM8ybcIB99X07vhADBSk8VnhSqL
-wr9YKiaZlmFu5GHQFV2EMk5I54jpuUOGn4j3+OQmwcMZe1X6kX+ka5Q+Q/iig3hMZ
-jK9fCTukwhpWjUi4gtxT5Pz/WWKi1iK3t/C+5Vn5sPA3icWcHgFbZLpBLP+WRBHg7
-33OUIbSjWQmiQ27zP+3M5caTYnmS/kXGByP74b/+czS7MnYUTehWa/STBxI3rKyPI
-j9qx8PcpHtxgZOZXBBbkYOV6E+7bPvwNaCuFpHEeJ8aZ0twVJFcM0NsSH/UCM9NQh
-ABvciyD646QcnZ/r6x65Vae6Mtd+1c/jgY+aPCYUkCnprGPQ569P/FagxRSf5FhwQ
-qxFDJxkNSdnABnpc5SnwJ2ovm1PuIvnIyhHrL5GZ34oY6qciDn1TGEzd4gsftmiAE
-dZORViwQxXoKi9AetP68mkn68pjfmOrQcInbDXtbWouJ5ran/Z1qslbNf2EcMaUq4
-t7kljW5+C34s3RcSuuUcx6H/KbmfpS5FQDW7Sott5P3j3u3Q9JXXEKn8+Q1Fxd2xW
-W7UhjKp9fRFMb1pvL10n81ZR6xlfp1Bfz1r95MoJtbrFKdVXsbOshm0hIk4Z3iwKz
-iLaTHhoHq+1cT++qKZPaUo46SU8WI+FCBbJO/muY7l/4Z/ehY3IAKv3WMiVKfPkYl
-dY5E3msj1R04CvUsRwP7TzsFrZRaIctF2TSMujXguuBE4nPi0TVp2xRukwMW1I7Fx
-Q==
+rZ9Je1BdVcABbUL696QFnSx1PaFBYCzvCBBu0IsTu1hqCW8FU5Qm3MEQDHE962Men
+iXlzywV+Y2MHjrJKBNfhEtueebB/xQDvAx4gnos4G7w+vqEzJW1xzMV4rDsUJBy3I
+RA25XkPo8pnkDGH6QX/syo6hjnR/qW6c+YR0KVjXeFopPVCP5DcGX0ViGH/GxXTMV
+KwHQmFaQCVEd375maLIUu9Wh56wYVGvpVLFlfryTH/6C1cziNW+vVoPxGpQb3CH81
+4kI2YWy+F8MxQ42m3+vbzVRQQjQud4HXNI0FFD0qkQQubNNhYZzHebAYIxQ13IYwx
+gc0omD62J3FwaCNEA4YgrmXsisQJ1+Yhx4BFZCbMQPoc+HkePMnfeth7BVfWiocSd
+zREaxXrbeBUMgqLQ9bd58Bal+7/d6Ef9/Pt6v7X6BPyKnK2vXvKZaAYUkutdH6pET
+Vp2uvPJllmOjwmvSWwARICHgjqJba9zBbN/3l6eNd57hzdod+98igMOQZn44C/xjj
+CxDCm0k80B939GWYx9NJyR2Lae/s/hC8VIHxKlTrP1S8eUhY1Zd7mGVOUCN7IbSSU
+QIwWlNZDMeMa/wbqK11G4JDmGBka+57Fm53nzMJMpAAT1DBhidIfG36XaE73Ppsvt
+x+pOiPXgFNwdXo0T9BPPVBjJ/Xi4AVH1tEp7Wxe+FwEfmCZCOCOCIjBYSJW+V6Ajc
+desvcL4gxIskQZ4DDfkZcjDQ5EL3YzJFp8eJ+0wMc6WJBfu6eiFOwyPxfpnfCxxuK
+FSNgXaOl/rm6piE0Svinj3FdR2I19kUIldvoTLWGxlZleZOYArV1nqP6RT9PFVFh1
+0Z1o9E1MsIjwydBHS71Cq4OCSnJbAQe8pgsY5cCewMxKa98KcNJYhJfDPXZeOmP2c
+D9PdckMakhTxbHQAQTyC48kNVtCZXC7sbctGHpRtYJR2rqfw5CuNZiWNEr37wFeNl
+0UzM/cu1kYibO82eSpIO0a8hpVXWo/ZkY6N63ND6aP9a848dNzvO76crgRevLOI66
+B5Ez9+dGjeMlANs/4eAVsBlSmuRnJOxFllmwF6fxGb1Mpg5MFVbW/t5N6XVCMT5F+
+0pqUQy62AygEE2+t3ECI57IQbq2OeAnqtCP2s3eYqNm9XYL7Kj8kMSuDTZ3rJ+3yo
+JoEoxbWGDvZa1TkO44uIW2mrASPuhJOcAfHseeCW0f5Y3hq9IMUO2Wyhl4S4w2rMF
+mqSzYh0Ps4otn+FvotKbcg42ujc/p+6dmzhvRq9LnUPMr4R6vZAEzBanzK4M9kVD6
+9TwxixVVgZhKeMtaIbpK8mImxb1/xKOBxayWsDbmyK9q+5ASf3E7PaNZp7lP/BB1I
+w==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-19
+ * Revision 2023-10-13
  */
 
 # IMPORTANT
@@ -104,7 +104,7 @@ class IpFlowMonitorCheck extends VNag {
 		if (!defined('USE_DYGRAPH')) define('USE_DYGRAPH', false);
 
 		$logDir = $this->argLogDir->getValue();
-		if (!is_dir($logDir)) throw new Exception("Log dir $logDir not found");
+		if (!is_dir($logDir)) throw new VNagException("Log dir $logDir not found");
 
 		$monthLimit = $this->argLimit->getValue();
 		if (!is_null($monthLimit)) {

@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -29,7 +29,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-06-06
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -120,7 +120,7 @@ class OpenDeletedFilesCheck extends VNag {
 		if (substr($dir,-1) !== '/') $dir .= '/';
 
 		$size = self::check_open_deleted_files($dir);
-		if ($size === false) throw new Exception("Cannot get information from 'lsof'");
+		if ($size === false) throw new VNagException("Cannot get information from 'lsof'");
 
 		$this->checkAgainstWarningRange( array($size.'B'), false, true, 0);
 		$this->checkAgainstCriticalRange(array($size.'B'), false, true, 0);

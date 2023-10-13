@@ -1,25 +1,25 @@
 <?php /* <ViaThinkSoftSignature>
-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
+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
 w==
 </ViaThinkSoftSignature> */ ?>
 <?php
@@ -57,9 +57,12 @@ class NoccVersionCheck extends VNag {
 		$path = realpath($path) === false ? $path : realpath($path);
 
 		$cont = @file_get_contents("$path/common.php");
+		if ($cont === false) {
+			throw new VNagException("Cannot find version information at $path (common.php not found)");
+		}
 
 		if (!preg_match('@\$conf\->nocc_version = \'(.+)\';@ismU', $cont, $m)) {
-			throw new Exception("Cannot find version information at $path");
+			throw new VNagException("Cannot find version information at $path (nocc_version configuration not found)");
 		}
 
 		return $m[1];
@@ -68,12 +71,12 @@ class NoccVersionCheck extends VNag {
 	protected function get_latest_version() {
 		$cont = $this->url_get_contents('http://nocc.sourceforge.net/download/?lang=en');
 		if ($cont === false) {
-			throw new Exception("Cannot access website with latest version");
+			throw new VNagException("Cannot access website with latest version");
 		}
 
 		if (!preg_match('@Download the current NOCC version <strong>(.+)</strong>@ismU', $cont, $m)) {
 			if (!preg_match('@/nocc\-(.+)\.tar\.gz"@ismU', $cont, $m)) {
-				throw new Exception("Cannot find version information on the website");
+				throw new VNagException("Cannot find version information on the website");
 			}
 		}
 
@@ -83,12 +86,12 @@ class NoccVersionCheck extends VNag {
 	protected function cbRun($optional_args=array()) {
 		$system_dir = $this->argSystemDir->getValue();
 		if (empty($system_dir)) {
-			throw new Exception("Please specify the directory of the NOCC installation.");
+			throw new VNagException("Please specify the directory of the NOCC installation.");
 		}
 		$system_dir = realpath($system_dir) === false ? $system_dir : realpath($system_dir);
 
 		if (!is_dir($system_dir)) {
-			throw new Exception('Directory "'.$system_dir.'" not found.');
+			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
 		$version = $this->get_local_version($system_dir);

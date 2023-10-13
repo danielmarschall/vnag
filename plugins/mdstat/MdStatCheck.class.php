@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-mtmvqpXTiEFshc+2P4dRVNT23IchwdqjV/wbN3l5+PK7mNjkWa9mhC4BvqzuTR0QW
-r1bm0NqyRmammvx1Cu+SFP6vLEbrXQti/UaGrawmdfcij1wXqpsbM7dUqIXvVmprl
-1VA9DmSh/4+aFtf0TiyVDDJ2iET8ZS89/pCZIPZNiBSzxWsKKmqQnQUwb809A41Ji
-IBf8l75kwvkR9fd7u9cVVEVaJzFKFA0NsC+jVhnmgit1db4VB9pVKUWnueDBjNYy4
-ugVf88abnIWdlx1sDAISTs3N8b5kMCm5bWrG6AywdkaXq8y+4wo18HoP0NufnkFIf
-LMJR2jZoH91SMqlgkMYZpRuFhLBU9LUaW5G95IV/Fkmy3qx9FebrYLQckFAZ5tMfY
-w5JjBKM5xuBBYcds2CqSZoRUBH9EzlM6z2tFFM/+CspzMlDkvBRCeYSXpw3TW+GJP
-1326HZCf82uJKySugzbHxSajtg2s9byWYS/Ttymyt9oeAmsBlL3npbYrIFQ0MVYuf
-db8UT3leZyYianWo9mAXW3eUTUnDUKI0X38re4EGR0M/kaKFaJn6FqeGhtOpn6yc9
-kQmFKuFTuf3ENID62wbwBmX1/wdVO/lF87B0li/LmJG+wBYevVwDJJkvj46s7QGcA
-VWPTnDIoUU8cZjVGFIAAxgzPQ59riep8zEWFQPEB+B6kzUhMWbJcRvBpldtJtCi7j
-AgqN+h78sAq1McvUXW6IgkseXe7QTyjQhw2l7QFuWD3txToUFu/istN+il3+cQ424
-+/Q/TkrOlJ+549pwsyztF7bAyK2WNlj5EAa/WX/MYSOEvVG6Cn/eoC1+OdKy8YHy3
-UWiMIef0TY0yWaL6uXLfD+dQYTH1nHuKueGl5Fjqnm6/mrxt7BsLRXBF01dRibzRq
-HAtes6iLt2t3pX2uFeIQBqsyaryCdFTIZ3hzb5jkLxJ0njqOBEQ7lbrqI6rY+ICul
-ZnrFzqlzMYhNGkG5+PO/iLbHeKmaR+cyFGZP8e/oGKGc/I/SEn4eOi3M/D/98Sgvp
-1fpQxllbhq3V2o/off/io2Mhj7ohRG7/1efm9LnJrtiRo6L9/BJ6lXDq/0c9piM0t
-INo9x4Wiulq8BC6aZkpVn0QpKeFZH5PAeAx4IcRINREUIFvFxNQFTcz3aCkX3kWy6
-YZNjABPUzxTpVdPr/0c+Zakuqd7+gAID8RdPeBkct3dZKCnmJWgKmJFdYaXs9uYr7
-HcjBU3o8+dr1vUpI7RFMCNilqWO23dTzIotw4Dq1hBb6rm5jt6lr+M7SMDhsI8ivL
-gPgkwuVvsydi7dvIXZte4SwxPlOEVzpSKWx1pUvussHWNVJ80KbU+GtlMpRlFkpGK
-Q==
+AhLH0uzYSC5/Au2X92QY2namTtPWujFr9iWDdPhrgAQq1MW3Z53fKr6eIt+kxjb5R
+qMOZzG5gnnhp9nUKZgYDaK+Ic/5yumhv2ekVVZsbW6FSogpfDUTlXbJSqUby+TyYk
+OSXj09oHiudrshLdI4Lx5ns75g/tzdR+9DPfNbWxEBFV1kVOtUM0MFnW31u56pHwm
+D3oZcWXplxNDt+5sm6K1AdWXAswslMzKwaGIrKHFJdRt1mFmAp2uYBRVz6DQ0MeyN
+zR9dMzrO7dgUrwRsxLPp3+hK9veENwcMwRXhKqVtJ6izTIgDP04hTsWeIaluUdMoX
+UXX72/y1fh4F3jCDeWJ2iXVFLU4W6Uf7L5S3FR41+uR/pw9/6BALuuDLrA14NDiv5
+Q7dqRtD9cJT270Ppj/6oCbdv2FtsUogSFWpd+Ca3v2IHQ9Vhsz55OJ8mlqtAkJ+TL
+GXc46tbwi2OYHk/Iqq+A0pIgW9/1aKAeLobK0y9lgHg8zg0YXkBt3fF8ZwZvI4cnf
+qUhnzvJ9F8kB/23hiSZVZFovYRn/kDTTX6JGdHQWCXWSU7EI6/lIc6dKBNJF3JZnJ
+4MkKqcyLoPxnQlpG8U71bOQfgPRwpmgaTI7b9Ay9X4Y4dLah84LRxpMLGg0EuQxZL
+F/NVKqf7wwgGclyUG4oGI+dyCed8IIvEvq8C8aKdHVtZB8pvPv6UfhHj26LCk+UeP
+aViNRuif6TrlkYUiEzbKbfpSrQcKvWavd3QsTZfbnivflxLayrahVVebEPNOhdGDR
+fyporIb5EhtU5CuPxqCYDhPNjNFOj0C/JJlyf6a/WiGr6TNYjkYp/jdJhBrvDk6b/
+d7Y+TdUQaotgtLr3usqTSqoEHZrdqkcdUldB7hUHXzvYogZVYVKtuqlKRn96Yc2sc
+3KR2ZAi+Pl3W52pMVzPlZ6zy8UZgmiuDxXuGEJ8hwcVijcTE7WV6P/fAZ7bu0LCKl
+HsBFfSRA1ke3hZWtWRisKGpsHhXPTM8ShAHwo6nr56gJnc5Lb1scqfhJRC41V/AtG
+4UfvpOTBJhL7wqqM8iIlZxHvGuTOH8b2NgVdkhTEmYxj69ZRZEescAB9znklUn4lF
+XD9uW9ZvKwZXhdQ6lTEGcxI/CxGAEo3AcsFTsebK3BP1ugGcg+mkG4gU3/XKB6Hvx
+x/3KogBF7tu2lWwPfHiV7F5cUXPpx3H8UykwFdNdQAsTKTWl58LDP/efpvStP8TZ0
+kLOMxXXxhdVeIelQQMSsGUQ0Lz/7T4u4G7X9KdsaUrNw/1Btbr9vPRQ7ZkuXMVOzV
+VbcCJsanRk7isRkob0574FyPyvMitdTZKC9lDOLAqbYPeaUQMsvoNyFXsvLlfJPRS
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2023-10-02
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -67,7 +67,11 @@ class MdStatCheck extends VNag {
 		if (!file_exists($level_file)) {
 			throw new VNagException("Kernel too old to fetch RAID level of array $device");
 		}
-		$level = file_exists($level_file) ? trim(file_get_contents($level_file)) : 'RAID?';
+		$cont = @file_get_contents($level_file);
+		if ($cont === false) {
+			throw new VNagException("Cannot read $level_file");
+		}
+		$level = file_exists($level_file) ? trim($cont) : 'RAID?';
 		return $level;
 	}
 
@@ -86,7 +90,11 @@ class MdStatCheck extends VNag {
 		if (!file_exists($state_file)) {
 			throw new VNagException("Kernel too old to fetch state of array $device");
 		}
-		$state = trim(file_get_contents($state_file));
+		$cont = @file_get_contents($state_file);
+		if ($cont === false) {
+			throw new VNagException("Cannot read $state_file");
+		}
+		$state = trim($cont);
 		return $state;
 	}
 
@@ -95,7 +103,11 @@ class MdStatCheck extends VNag {
 		if (!file_exists($disk_state_file)) {
 			throw new VNagException("Kernel too old to fetch state of disk $array:$disk");
 		}
-		$disk_states = trim(file_get_contents($disk_state_file));
+		$cont = @file_get_contents($disk_state_file);
+		if ($cont === false) {
+			throw new VNagException("Cannot read $disk_state_file");
+		}
+		$disk_states = trim($cont);
 		$disk_state_ary = explode(',', $disk_states);
 		$disk_state_ary = array_map('trim', $disk_state_ary);
 

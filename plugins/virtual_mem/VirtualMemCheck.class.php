@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-c1wGuhv9GU+clZ9207sxwFamirQi5OPT+4J/Rir1QS5uJosEcvuOX+ZqWEX03ZUxT
-t1LeyccWq0r4NJhhLzroMdBqrI/5wYJlttbZxgMVqODvjnQqWbSljb/FtQbGCgOmZ
-1TjrART4ukk/l9ELnJJuTx5xmUOODuKiMKJcIYV5U+a3Ig9u4fcGpYKM5fwpep5p9
-lJ+Xibt/UESgPB4bAoAxJE4szOZ31cN9DxVohoIUoQ1V+ZYdLu6ZeNAQ122QNHYk4
-S1yQf+nRqTc0dVKS7bcrgYrWaX6GbkxYq18TY2w2KuuYWEjBSoxI8a0+S6XydHfGq
-fYhG0L1mLRND6Zdutx9WDNr0gfKvEE8djezOcUH5RzVFzLK71wAKqoi9JyNkNLHds
-u7ptuWGnvNNfM+vSDiRr0e+80fKha3jP8ViWdEZMxEfNUIPjFqj0UQM8n9pk8utoF
-SpmVzFHxG8VijCT0KdMo+kID5LG2Ra22I8UKj7JWmkTMX0etFcyYNvYybJmz1p8Mx
-930UkzAFx+hq1TH9zgcPD0Y6hmJs3cGZDk8Lq5Ls5AZKuqFZanZrCy61t4hNG3sZ7
-fkWe/I71TlMAWsuZygo0kYv3EqPBaJgCAYfB1Xr98FBoslpNPg3Bn8znmK3SBCmnM
-o/ViDGz955lTX26WwtbsXtXsU5fdJ3f072O8n9+Kjab1NwZptJllTPlQjwZT9VOnb
-G2/n7HyOT7luSrqXfz8q6ZRWKr47nqXTw+jIEWeft3HzpCqdO8aLBm4h90FvkrXn6
-nGjTt802hG3b0DFXZq5brzs4+Tp3y4ghkGvlBF/q5vm/e4DdXFXgMCQ8Ndk9sWzG0
-ywYLD0bdVGIorqVuAM70UwD769s5+UXs3I1puRL3gXpk47FHQYKMTPrNgvmbbY3GM
-bBnkhLb/exmCBtR0F8XA+nCF9nnocuixVGhaEJBoXHhM28cB1mVJV+zP5Mx1vztCd
-PCUd/m86xmoTC62Zs1NK4E0rbJXoaKI0SEzT+QK4JG9NpoS+JDKLPiQ3p/uSt0mcM
-HJTOpY09QobYczE/nTd9OJ6fZX19C1YHufpHDowvqvHItwrmZ8y1s4J9PtoAjK9Z9
-vyjEGPexHZtdnUYeFqDtYur6v+D0v4TqVsDTn2SUDyR1EjDRmfCDtMhOsHy55W/xT
-kDN/rt+RCzCthUJK1cfOcvEnfi9sAmDQBT2Hqbbe8kmcL5myZiGYsLq7oCpQOSYVm
-9DpwNTbakHSn7cxGMWkwdhNATjMc2EAH92snZAzhZOOqTGtJoDDPm01mnLFf4Olt7
-zl6CMM/UpkjAfBmUoVbIAxORSbUQBPCtrCpg1BCfWNhFbTIfxJSNWnzsrqw0eD3j0
-Q==
+lVcMi5qSDkLUYGRizTEBBN/wfe0iXetbtF5/m/AB47STu6J6jJ1s3Q89hu0XEHcv3
+20KxLns4ikt3f05Uj8OnB6yYrQ50xl8AXtSDcy+k4Iz/7AXLUB6z95gMx9BctAk5x
+pWum1/0p7y98sZb7cVOZRJjC4LDW+YWXV8OQUdx4/KCKbTp8KL0HykKXff4hw9fU/
+Yas1sbDNmUEEG0UwEFPON73sgJm/KimsLWYP8VSQ9W0nvaRWyDLtPtRXsA4ZZ5WXp
+tYeMdhN2txOzZl3AFeTjbXbeSmNNh0orlY1i4TquzoK62SxPwMuzMEKpPWc0LJmxN
+ev9rWB/ucB/DSkVFqbss0tRkECjHyZxzbT0tjCWgSQhIc0jQzjXQQoqJyIOnUVUJn
+Y4S1rPAOdgijnD6apfnegmCQFhQrg7Fua4bURzJ3sMu7JT7QHiL1L3X+Xk+p14bto
+ZbtGLMxEFnOvroEJ2iYmxJYB/9fSKQAtS2yrA4c67frHNZrkvw9u+dDiTJPc9JxpM
+ufsTyoxTQqocrOJg3pzqlsAu0WmVO3UJG5OVpSjxH+4Wyk79cEELZNcctJaE2NMh9
+gU3rzDyufa5nff0hyiku3qIGi4JdWFxX6ko2qh2kycuWWF1EqEW8ufORlwDw1S4Pd
+iAkwMsmuMccRYtY60D0GZkYzcC4glIv3sD0KszTuTl4mlJtCiYuAA2CmBut6Hb9S4
+IUr0DSc6tAAXZI4zJScONeAfQn0mH6yEqz55atAT4KJwyMWL4DoO6IfdiKRsvq9Rs
+Qrf7oK2zjym2EZaiVjo2jx6VIh9B4Mbf8efcHkdq5EC7LsYcyPiF02P4XYDA8zcn9
+jLcrpbCgz/ZLSAdM7AzWLh0WYxaBiqfbtt13aGapkoKFxIL0YlINCXt/GAlwpyalj
+jzbjoGB/BrUibPa+6FLhY2wEJ/jgpg0VJRn5TPsyuBYnt4+YrzkIQ4EIFm1dbEwt9
+U+ONNO4xjqVrvcTgvfTpGHw0gcU8XmqsKnWmA8obc4I7zXco9WBnl1fTCL1XRNfHd
+IaOfxgVtE6dKbqBKGw/KEttb0vpFyw3jPGvyyVmQOkS2eluc7GgutlG7hpPennheZ
+Yxt5XJV2P+RxkZdO7kruACpwtkMn9qMTuCL8eWIgfJ3ddT8z7H5j1F92wavSYhYVK
+FJ3IO60q7xAFEF23CYoQW0zJBORbVR5+9ncrR49fa/938sRQf41IrZZzoXVHZU4T5
+ar7gdPg5DR7CytfkRlFZzJ2KBHwGHX6nTppEUxF9KgsDVOGzPYxQVs3vSqvH4yelc
+A+oVPffLPjCVp7jZ1Ht/L519ZG6oHJum/r2eeE39JH15q0Ab/AL3kCrwkyVAPxXUA
+g==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -29,7 +29,7 @@ Q==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2022-05-19
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -66,7 +66,7 @@ class VirtualMemCheck extends VNag {
 			if ($line == '') continue;
 			list($key, $value) = explode(':', $line, 2);
 			if ((!strstr($key,'Pages')) && (strtolower(substr($line,-2)) !== 'kb')) {
-				throw new Exception("meminfo shall contain Kilobytes!");
+				throw new VNagException("meminfo shall contain Kilobytes!");
 			}
 			$meminfo_attrs[$key] = (int)trim(substr($value, 0, strlen($value)-2));
 		}
