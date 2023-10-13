@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-M5+YhhUygumyDtPS4a66WBocZDh6eW5QS3W3UiTvc3lMfo+epXCDhkO5F6Rd2pMX1
-1opoSnc9AGCKequhuGjOq9PCgAM0VScCmRk4J0U1oj4fzAzXW7GQlg++UL4OQ3Dg/
-2ya6GzYOxoK38T57W7WZr4U6Te1+nT0wcc/kpfYOLAQSePjzT6S2ErRUp5RUjEy9l
-g+5dBcDFZ0kmVpjyRg6kPubiW5HntmQczkn0nRfUkW45TZFs7LwbTk+CI7+fbRokm
-s5mt0DIiZPZckelCfszWVHHRhumhazpp+B9rOL/FYj/jle/27z9n3VbCdc7JVhppo
-KZ6ReahFS6h1vn9mo0o4Adzj9YnlfMgeb8AYftDzmdIpJl/BYZfdqOfjt0osffJdl
-ahvduFCvLt1lR6hVNJes+h6mSigq5+EO6C3fhsmOGFfvs3DEXljqy1LLPySbHAFQQ
-eYDrY3Rac9Y2uPSkZW+YJkiVTrvBT30T14Z59YA/4UrLTkVPAS5Rmg6tJc1KjNuWk
-AQ0xM5wI04DWI383qXhbh0inBZWAJJNUX4H2VAVnbIuj0wmvI2/sif5mu/o+rkfKf
-tDwR9Tzi2sr8J1byi5CJksH6h8XN+ro6bkg+Z0N1ztRHKo49gjhJFSj0XSss+hWNB
-bXwp/oHRS8Krdu1DFAYCafGs4T4zuMoOW1F1mLg/hkARI/sO4dWFRRT/AMkhAZLaD
-6IqmrTNY0QT6Rn0ByajSr+7Onr8efgRmgZr+ZG2GDxTMtJYhoG+3szOC/bDWsq6IB
-tdyHTg7mkL4zYsuAtCH9DUDKtGr4Ngm7ejzpo3LgWXLxFBqM9KN0AGfgld+m1OH0D
-pzjg2WEYfhksndhOqzetaEGqIiLCkpZz2lZF979eeNwAEqSXgaRSypi3tNzjddlGc
-gtx7VZOIqBEmlnBLZ83k3FPC73C+EMPCqw+QFVryC0c9FvInuSRKc9/e6ssE8f6qu
-SljEB4+Z1N4SE5yO6bfwKfznZDIZ5YsdUMYsgD7XsxKpomz9nmfcxoU9vKtnuIoy5
-gJ4Ca2xhbfyrJ7X1fk6+5301fU6czjn/zeweXLbdaD+CbCUc7TZmsCxC86otmWF4S
-Kx0MLHCSA8T94bNY0ia4ncWo+CVjUMmZbu5QE1QBWuklzlfFZxpIx/rgnQFrAv4rD
-qbPsplr46kzlcZCQkLVBfI/O6a+0vPXT9JjH+wxcsYRHuodLmPAQlpaFkO6C4Kq+e
-ocOj5OGWD/wSXB8ZSX6HnYdJSHHZm8E/Vl9LXumhjas+2LgaSa6RosW2KVZY0DfK8
-U+j/QJ7KoFQ+srSvhUySfXEpwSbcQgM5zH7DAZXT0FxDHit2iimANwxgtla+u7G3S
-A==
+H8RS2FtzJ6oXxHoX7qyolomkUVb5hPPq71/+xoZIME1BY1QcCif7imp/jeGKoOezw
+YhYVmKrS0zYZG04mhfGnrMez9NcvMrtqSbBBNXZ3dsGcjkYMYq8VVbvOW9A9MOoaw
+vVSZydPls7FxszGfPmL1M9ebZmj03TUeGbBfE+kIiw+dAMsO+rjYZmi5khwZPb6nn
+bP+6DVMqg1blhaESl2k0Eqhe7kX9NWhZ3y0QuxGj7nVm3gFojo02TQubgRr9l2f7z
+6QqS7jt7YSwQg2nP+3KVNBJZoXU/hTx3Bo/PaJG/9Dotp0/wmFHb6YqTkUHdP5DEu
+M9LxOFEKNjrmPbVHPDxNPyTaoF06fI8rXI46XyUULkw1LXOUv8nzaoK3WXJzfO/74
+o/GOMEV01Aeq0ooTdyi/ktpS43T4sYA5qod66dKTUKwUTU8IgEp/GcZnugpvlXi0b
+U1hfF5W32Rp3vbeh37edXCMRkOw+7svvFQle5JzC+xHloW3jbzRJvfDULAd6bUrbl
+QAy6pOEA26Sjpi5pmo5qRu3LHHXiu9V3eYpPzl2orADnyOyKiqyj8Yvw3U/cvqxwq
+YSSxXEPYxOQN+Cl/ncUOJeNv8C+AYBU9S5aSXwQWnIl3baVbS9NL4CW9Fy2AM1/Vf
+uMBVz3NWclUFO6qPMoaCEdVsuUSbpo6/HDXGm5kr4Yzc/lv1Q3lUKQ+a5B3ZMAfhY
+yMKdSPnUZwQhuCxaAjpMdkVf5s2qECgT/e1psSKCOqLd9fhWQuV1eHa9gxqBL7ClS
+m1jy8TRbSSZ6v7yQ397GDU8iyKvXCpeBs+g6VXkFd5ZM2Ajgb+uIfzPD3qPfPC+nK
+bhsMzDwBmu444dvGC9OCNLb3efZXLSxZ6wMG2MoA7c814qrEYFokTKeMiYKCGQkx5
+kgamyPtizgOpiis6XSKFs9GXSY0vT+q3rSCo+23xjNHPhaCjLmywDoeoeOX1tmf30
+Blh0RrNEXgmlMuVkXaHrKAepU0K2oXhw63bRQUzcZMY1rORoML6Rro6u0PI3mT7VQ
+6ZnnyxZgUljxpo6ZdP8XqE8oyR9P6dhmdN6xI3rYyrIDrPWsoRGCMQk/ej8eS8Ve7
+Y1Z3hC9njExmmrZrVoymMcJNDK99jBQCs49qXA+OuCRbfgU0B12FwEUy8xDnUlzY9
+t6b1fwHL2G25m3wMXzk0CHnQWOoAS+3zG+nlfF1RRbx0U3TC4O3Epy30zC/v/TvV7
+73uEr/LLezls3KBddOI1FRkWC5CoERg9Bi4XoLFiZqpF/eOWsRaYzrwqv0d9sCgnU
+RFzD9MdFjT3EiQDnlvbf9nTtN3Dpw1IaYFb/u/4AhjugS2p1XFIZpYP4U1J6wL5Vl
+Q==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -1339,7 +1339,7 @@ abstract class VNag {
 
 	// This is not used by the framework itself, but can be useful for a lot of plugins
 	protected function url_get_contents($url, $max_cache_time=1*60*60, $context=null) {
-		$cache_file = $this->get_cache_dir().'/'.sha1($url);
+		$cache_file = $this->get_cache_dir().'/'.hash('sha256',$url);
 		if (file_exists($cache_file) && (time()-filemtime($cache_file) < $max_cache_time)) {
 			$cont = @file_get_contents($cache_file);
 			if ($cont === false) throw new Exception("Failed to get contents from $cache_file");

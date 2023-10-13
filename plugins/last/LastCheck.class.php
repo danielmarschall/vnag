@@ -1,26 +1,26 @@
 <?php /* <ViaThinkSoftSignature>
-cNxgmYaPudAjw7GVR3a8SaJwW1pTIXIVKgsgZHEZ/F+STg0sfH7Ulvmikp0JAFSf5
-96xzM57qOw5v9UVkE20zL56ZDyc48D1nrtBsNp6Pf22UVC3Kg2x+MYiOo06oV4WgA
-9aA8dsyf4m0sqifbQPmSh7IXq3ZSp/nnpYSgbLGRvLr/LshnRIohLrbcFd0oaVuT+
-HPtvUsOLgKMXYa8U5U86aOvW0aAMDOxNDassNbYLwcp+shNWiMwi4TVKtGbzIThYM
-hCCvo4JuCKqEYbvMKT8SwbPP00DUCjnxPkytagC5Y4x5L5Hqu8z30fxB/aiKclJ1L
-DncG4NrCvBfg/O589suxghv1AOThIxi+hcRDyy/+VX3Lk/FPkd8XBbTQYPp8KIOij
-TyOdBhr3mHtRsmWvHhwhFo4H0HPA9d1rfAoECuvk6MLcTO2x7nJByA+WG3SPZkOn8
-N24+SAaM+DxR086kOl3sxLd/khWZgp35mObWyKnH0gZ9038X9k2m5qXnRkssVhLih
-Ff4BKOGcMrigx+xcteJp26AUJo6YCxvlobCSEo61Dm1bokv/xSawA8fexpVCSNOhR
-F/eZM1DAoxR7oMQRNcnZQYcTlLhmEOdcARRGJa03EkAVNYAdhDB9Fw1dUyZ9GI0M7
-ElQ6zj6djPZBzEOVjhbTwc0RlbrzFi2EDilZxmeC+dy/lp+w60xe0AgZ/xjM8JRFc
-vWWGlQ9Y94nPeEnqz7HjWijzCAXinY76WBjK298SF/df5yfDgKPf4xCaNS5OaJwMp
-IcE4g2I4UHhhRyA0FLaP8kqwHIqYJGO+fKA8034IWFjUIJmA14H9lpd1dxVnQ7hNp
-3tnW71tluuT8Xuz++qkGFXAIqV8WefymZbNPgWyCoyuC91F9l3+4eoUXGU9R/dqw1
-AbtPWmttngs96Ico2U972NfLf/PTwWuElSccHwkHCTSEmtEmhwCxRVMFDG8wvm8sg
-HFam2Y8ObeeYc2UpDP1lsRXsNMNLjvdi/MuF1qeATf/4oqAjnxcZg5qTCH8VVa1iL
-CNqa+SqazNKOmpSOALRAw/tr9fJsQyvdAF0mE7JiAdvyRgiTG63ab+Dc0njHWeTOC
-Ol4D7NgtY70pIwB8DKteivgLOZU05Pp4LGlYcvQCRreTNqRD0kv83zxogpT4kGnNS
-htJA0k484/KFe3lNLzKe7b7xH7CoBOKnEdemaMGDds8bc4mHDN2i0cBGuqQW9URTo
-vwGF46UgiE4DcRBEOrTeZ0e8h8I1Zk6ZhXuM3pX2sOhzPlq+JCCQ6LIsjirPVTEPS
-mrBfP64pFDKeXmMcdiYctq29dlaZtcYohUm7bS5V5HcEWk6LlNYv+XoPmsL3wzHX8
-g==
+nPj2Ge28Yr6M12/PcAB0jcBhoEu8jOQxCmQGGimC9FD/I/AVWxpG+QqNDbQxjCueH
+WFqtPEM2HsROB8HE8KZkUPo99/m+teX/wNro3ZK6rI+6NcHtnOipY2SimPpeLjn76
+WBJ+r/4WX7UM9tA0ivyUycOAITO8XQtL1JbSyp7zrxN1fONVXnZ0P0JIhthc5myFa
+h4OlEWbED0Dmpa23jL+amEeo27JOkewjt56iTkJTXOW8u+oKl86F0SKfPd7q5232y
+0ioNIa3S6iWH4u9kHta4AHjoWPd7CpUyMB3kZGKN1YS4RJWjNNs5VZSUaDevYaOM0
+rni8Rogtv3jDOGnBZH/wsysZcYzs/drn+72FN6gQGc0rlNbAxTvsa0EFnwx8D0oh4
+XjiB/TBvzgEbCxVEkXYLrXJ7sXay8BiJY0958JxjCppWbuieRg621FEabG6r/gAs7
+kjddREytPoN6mLd8H9/zNCGFH8BKSZMKKmjLkQjOJd5xk0Owb6QH99QtD5XoISbQx
+rXc4UOSNq9YrVZTFDLo9inqay1Ne268MUwi8PGN0ouDUIuCcFQRIO/vQUp+aKmD/R
+WJZcv/m7RLSsXplMC7FHUMjgM5f1vdSA70ac1zzStO2iq+jqnbBxf+NJBjn7A+sCP
+8JaTM1Vt8VOoj0pJhV6SclkEEkSq2cEcDFDwy99LNcuz9Bf2k+eTRuutO+h0ESYR0
+R6U6Spx7WQA11BMinkxaQ0spfOt5VAyHInW9Tbv2QD0tEz3h3VryAbqI0HO6kcGxK
+gnyVJV69H15BPz6TGeoF5a7QAwqjQxxoWZwlDbnNTSG+c6wWcJhoyoiLsa8gYZ4tS
+/C8+1V/QPX0X2nE74M2Q0AWQXGmjLnDTZHPDiN8ZCqayekuWT90SQIMAQ1j/nv703
+K7Bf+IUuIwKNRdi+LQolu7X3ovgpGi9fBAKxXAR6k7Oi8U5FxKvo6mthIQO4imGQZ
+aUNsutwqy2tLnLkQmb+aUdSkL/Fkynf7BkW+s64iSOt+OI3RTR/qPSaYL/MDD7eMC
+Vwq2wjsueThpszPaAuv22BOAfhWngIjdbPlN7CDgB+8H5MuAA1Zkqmm5lsQyMlUNT
+FecOvytEOA1BR0slyXZsZtf5dX6zZYB1d26U115+2utF1LBPJJ9fcPIEcjAvTakVx
+5tRbDRFXW2Sn4MgPs7ljqoQ0sjzyUti6t+HODtDHgSdMZfjP7VimDqRmcsPUJfv50
+YG2Lw0nvle1m6AMb4oDue8s06c3W29z+D75bVH0n2KLw/PLQx2ycbNUc7OgoCrLlr
+gwwZ/IU3dhaQQxD2wgpq6RvYaNvMWd37snfIFXAVOdw6qsKyKjlUa5LqMs9ZqGZno
+A==
 </ViaThinkSoftSignature> */ ?>
 <?php
 
@@ -70,7 +70,7 @@ class LastCheck extends VNag {
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-v] [-e] [-u username] [-R regex] [--ipInfoToken token]');
 		$this->getHelpManager()->setFootNotes('If you encounter bugs, please contact ViaThinkSoft at www.viathinksoft.com');
 
-		$this->cacheFile = $this->get_cache_dir() . '/.last_ip_cache';
+		$this->cacheFile = $this->get_cache_dir().'/'.hash('sha256','LastCheck:last_ip_cache');
 		if (!file_exists($this->cacheFile)) @touch($this->cacheFile);
 		$this->cache = $this->cacheFile ? json_decode(file_get_contents($this->cacheFile),true) : array();
 	}
