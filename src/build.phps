@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php
 
 /*
@@ -11,7 +12,7 @@
 function vnag_make_phar($plugin) {
 	$filename = __DIR__.'/../bin/'.$plugin.'.phar';
 
-	copy(__DIR__.'/plugins/'.$plugin.'/icinga2.conf', $filename.'.conf');
+	copy(__DIR__.'/plugins/'.$plugin.'/icinga2.conf', __DIR__.'/../bin/'.$plugin.'.conf');
 
 	# ---
 

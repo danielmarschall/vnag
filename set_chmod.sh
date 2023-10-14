@@ -13,3 +13,4 @@ setexec () {
 setexec "$DIR"/set_chmod.sh
 setexec "$DIR"/bin/*.phar
 setexec "$DIR"/src/plugins/ipfm/dygraph/update-dygraph.sh
+setexec "$DIR"/create_conf_symlinks.phps
