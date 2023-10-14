@@ -11,5 +11,6 @@
 
 foreach (glob(__DIR__.'/bin/*.conf') as $a) {
 	$a = basename($a);
+	echo "cd /etc/icinga2/conf.d/ && rm -f vnag_$a\n";
 	echo "cd /etc/icinga2/conf.d/ && ln -s ".__DIR__."/bin/$a vnag_$a\n";
 }

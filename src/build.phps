@@ -23,8 +23,6 @@ function vnag_make_phar($plugin) {
 	$files_for_phar = [];
 	foreach ($input_files as &$input_file) {
 
-		if (strpos($input_file, 'index.php') !== false) continue;
-
 		$input_file_short = substr($input_file, strlen(__DIR__)+1);
 
 		if (strpos(file_get_contents($input_file),'->run()') !== false) {
@@ -41,6 +39,7 @@ function vnag_make_phar($plugin) {
 	$max_mtime = 0;
 	$algo = 'sha256';
 	$checksums = $algo.'||';
+	$checksums .= '<builder>|'.hash_file($algo,__FILE__).'||';
 	ksort($files_for_phar);
 	foreach ($files_for_phar as $input_file_short => $input_file) {
 		$max_mtime = max($max_mtime, filemtime($input_file));

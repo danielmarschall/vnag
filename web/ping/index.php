@@ -9,7 +9,7 @@
  */
 
 // This file (index.php) is intended to be called by your browser.
-// If you want to access via Nagios/Icinga or CLI, call "check_ping".
+// If you want to access via Nagios/Icinga or CLI, call "bin/ping.phar" instead.
 
 declare(ticks=1);
 
@@ -34,8 +34,8 @@ Host: <input type="text" name="H" value="'.htmlentities($_REQUEST['H'] ?? '').'"
 <input type="submit" value="Check">
 </form>';
 
-require_once __DIR__ . '/../../framework/vnag_framework.inc.php';
-require_once __DIR__ . '/PingCheck.class.php';
+require_once __DIR__ . '/../../src/framework/vnag_framework.inc.php';
+require_once __DIR__ . '/../../src/plugins/ping/PingCheck.class.php';
 
 $job = new PingCheck();
 $job->http_visual_output    = VNag::OUTPUT_EXCEPTION;

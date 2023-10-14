@@ -9,7 +9,7 @@
  */
 
 // This file (index.php) is intended to be called by your browser.
-// If you want to access via Nagios/Icinga or CLI, call "check_ipfm".
+// If you want to access via Nagios/Icinga or CLI, call "bin/ipfm.phar" instead.
 
 declare(ticks=1);
 
@@ -18,7 +18,7 @@ define('ALLOW_HTTP_PARAMTER_OVERWRITE', false); // true: Allow the user to set t
 
 if (!ALLOW_HTTP_PARAMTER_OVERWRITE) {
 	$_REQUEST['L'] = '/var/log/ipfm';
-	$_REQUEST['l'] = '10TB'; // LeaseWeb gives us 10 TB free traffic
+	$_REQUEST['l'] = '10TB';
 	$_REQUEST['w'] = '6TB,8TB';
 	$_REQUEST['c'] = '8TB,15TB';
 }
@@ -33,7 +33,7 @@ if (!ALLOW_HTTP_PARAMTER_OVERWRITE) {
 	<title>Traffic monitor</title>
 	<?php if (USE_DYGRAPH) { ?>
 	<!--[if IE]>
-		<script type="text/javascript" src="excanvas.js"></script>
+		<script type="text/javascript" src="dygraph/excanvas.js"></script>
 	<![endif]-->
 	<script type="text/javascript" src="dygraph/dygraph-combined.js"></script>
 	<?php } ?>
@@ -47,8 +47,8 @@ if (!ALLOW_HTTP_PARAMTER_OVERWRITE) {
 
 <?php
 
-require_once __DIR__ . '/../../framework/vnag_framework.inc.php';
-require_once __DIR__ . '/IpFlowMonitorCheck.class.php';
+require_once __DIR__ . '/../../src/framework/vnag_framework.inc.php';
+require_once __DIR__ . '/../../src/plugins/ipfm/IpFlowMonitorCheck.class.php';
 
 $job = new IpFlowMonitorCheck();
 $job->http_visual_output    = VNag::OUTPUT_EXCEPTION;
