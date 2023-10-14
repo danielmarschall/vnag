@@ -61,7 +61,7 @@ class VNagWebReader extends VNag {
 		    )
 		);
 		$context = stream_context_create($options);
-		$cont = $this->url_get_contents($url, 60, $context);
+		$cont = $this->url_get_contents($url, 1, $context);
 		if ($cont === false) throw new VNagException("Cannot access $url");
 
 		$data = $this->readInvisibleHTML($cont);
