@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-MUPXG6vL9JioMaRfRc3zp3JGGHwaqjaAYeFbI8+lHpt8PoGtKQgp0YInngx8JaSlQ
-nH0uTLeLmJGjSxc37BCxSuisNrYO2DkHGpIUfx37Qvo82uUhd6q4AYl+WOh1kRgEH
-y1vwejbwwyR/K825roWiQ8D4gFprcJ0/Es7uyMFRnHbulg+F2epESceAKnWOzOIYY
-jD4B34AcYxjvl9KppU1i+l55/wgxr2VlhOQGeEN0aJjHFTrLB+LdMftrSwCJlnQGZ
-lHQ4FiEvMKYHXHNLsga/weiTdjP9Xtjmg1S4/dA/dhq7VFUXv043xkOSjR7KL+BRN
-Po3crLkxXHLQoNl9xrE+fRV99F8cLmKSD749OwWrAdazKkwXILSxFOAvMF+h64Jcp
-m6KBaDxDp56bpMsxj1+UYksb67ljCkwOgXfZ6lWuZr6leEDpo8bQmY53iggNVCOwU
-j0gIX1yDN1RvkXX9yp8xwpLuaJmfRIJ58/FtfJ9YnG0P25MI9ozNYTeQ+JN96LQ7e
-JgWgTGLEEq/geau/r18CzW39PL1+9qy19VYab/dcapX75ZpRBq9XgeMU6sP8Fdt+v
-zNBedk+UnvOxWXJUohtLIBKArw0/cO9sW8CtqIO4MVctFAry8hqMXU0qpMf4EBbZF
-/PwK0jax74ynKSXeyp3lAJfcy3EJVjKWtFonbHvlbMr/MvTtfDHuOpu/hRxRZhppm
-nhQxUF8fqfHpxHpCo6B28XBQHfQSCkhWEahpsCoNXt91WGWLSpYwB508MijucNaWS
-1qM7D84P03CPbDDJGLZU4/V++foeiM9R2QcHaq6SdImcLfRRBbWQbR9bHRw1OHOoA
-X/piaytbGhJvOpbqLdpCeXtNP+bLz5lwC9dKFehPhY3Y1GG2FClpwabiRqk9jGQXL
-55mLIEPrN7yHMh/ITMlMRVQed8liJT2BDpF7ZbeCI6rOaczRSoNTMdsw/9k46Cc1Y
-qAXb1C0Wp5TUl3AOs6Y3cLgRqLZ+3LZ568YwiJvo5Yf+PpE6J/5iow2c6prxVjHqA
-uxaNy4EzfvD6j3BpB1/y5IzbzsCmRefFMyRVeAl5VSSk97zrJ+uS5woEbT5684HVO
-U11S5+KHkubSOz+4UJgBmndGT9cppIOFXaOy/ioWAMN8tAqKmo6Q12j1fFirh6r4Y
-MS8eHTS+QmSlPE/CMl+8/vlbeKKFtWpjPb6RX4E3FwkQi7xLcsoqXz0iWRVyEdG+u
-SD+kM/qF8d0VepED0J5xwHa9W04Hr4MIpYMB/47isd/QP+gx/Zo+AANzkg1PzgrHL
-FKp6AVbsjfbysvP8wC70+2jKNAgpSG1LMFqRr6HfPqb/waxawAw/YDt+c2mKRykDB
-g==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -45,7 +21,7 @@ class PhpBbVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vvht');
 
 		$this->getHelpManager()->setPluginName('check_phpbb_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local phpBB system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

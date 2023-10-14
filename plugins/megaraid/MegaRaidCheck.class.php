@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-UHbkNGOegcwLsuVviNRiWIcc8NnArI073d2KVCAfBnRx5/6bWSpqMWFaXhO7QxuIp
-ELk8yRemsNGY0WfEHSnqDpu5w48gbD+9f28f/7tWkLQygz9ycjNxledVUOnRvBbN5
-c98Bcwi6uS5K/KRjG4ugUMVN6oj9SpRhJzbYUy70vUMMRmgWH3z1jX52jXFI3ypO/
-Ntr+lvskBgpA2DrD//dA8fOyrvS7O+AxhsDUuSab4TP09hzcl5/1F4ZyaG5K5egdk
-QIb5RA77WndrY9c0AqwVhjy9OLlcFOGIqEMx9KlaBHeSjCtIiWFHlMz+Wr+VNyp3M
-2YG9JAu7Ex7LBq//DKfK0XfTcJ550NEU6eJ75Uzk7wO4xnhs2b3iVybf4t2ffyAxs
-OAevkcM3BPxueMzJOe9vbogcpgVoouWR6soLGB2pGze+x7p6fnxtuzzDJAr3WdHKd
-5aZbsp/a/+SttWWbMwqLJPz+pqHb1rOL1e1I1z47tsJy4w6BDNs2CmbpOK6AUsrFS
-vni6a3Yd8m3AYvq4LkYVzVsV1n+yR7IVXu9MHt3Hk9ccg1WSKh8emwbRDujMY3hQs
-W/o78J6J8m+auI1VpL+Z0oJK2/1/o2LUTX2YQWeuXZrXIkc1WfrL91pUYT/We8ycj
-MkcQXGZY0qC0lbB8ZqeTsLvn0x7fvvrLI2G1apFU2byd9VAmqAvQL/KWkd9JDraVE
-Y9py+WbfbkhaWmfLneJExlKu6jH1ji4hTnkLqREdny0tAp6jRw6y1yD1UobPRp7H9
-dlyGTBDUOMH7dd8w9/knwBej6+4LrPMjUZtAzkwg8j0tgcqDesYaT6ifgm5WndleQ
-bXxbsVrNW4Jnw0xzs+VPI0do1VWOFUF4MeRHFGjzUhe7mrrQggbrII84dAaTu5ErQ
-PzMYvKy2fBd1DageP0+hk3DioFJc4h/de8re9lYqJl24QDox9yqIvPIdjNBlte2Fa
-5i/G/lTqpGiLlpzOS3K0farbW+xBq0TikWjWwOJkc4UejF2Z2BwCOFHZ5HSIHHACy
-VfFBKTIp76xAsHKswOyjALMLgqQNRxclIAZ069Q5e0iF4GFOYv/mWPWmdV+na6TnH
-f3IQtBbRGgg2+EHyOa1sriW3CCvZc4vKprL6bomNsSmZhHGmRiyaNkffbzsnyYyxE
-vQ66okP7D/BkdvkGBT0843gaB/2nfRdDomBCxTLzmpVZszntCoogUhp18tVLbxX2z
-2uGI8C2w1e5yjtYNcB4LK/6/Gl0hWQhkV64A+paPDmcln+ubGOWoReau840i0wH8Q
-0ceApxIC8f0ob372tgS08h7sU95RvZdU6+ngrFbQhzXbOBd5/9mTY1k91NUrQ9h61
-g==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -29,7 +5,7 @@ g==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2023-09-14
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -50,7 +26,7 @@ class MegaRaidCheck extends VNag {
 		$this->addExpectedArgument($this->argCmd = new VNagArgument('E', 'executable', VNagArgument::VALUE_OPTIONAL, 'executable', 'The path to the MegaCli64 executable.', '/opt/MegaRAID/MegaCli/MegaCli64'));
 
 		$this->getHelpManager()->setPluginName('vnag_megaraid');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks the controller and disk status of a MegaRAID controller (using MegaCli64).');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$');

@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-boKKZRVCLt6Pij9GtZwVtVRcuFrDhyTKij4SbspGGs+24F0eeo10iC1wBP05mJ7tL
-WS8JfFSlv7vQDBcdd6sMF+vYQNldSznrK47dbZzQXFxuq26jd6BuuH41aP2pWHv57
-XVCpYf5EPR0gFkyXzrtN/iFSr0kJKWk5iSz/iniucplPitxmXR0EN1qkKmcZgTon7
-hKIjq3kb8RY6U4BFcXujRq7M/SlRvub2erQiWxPv3wKi+CQPRcCvq33/g7bPOTSpY
-1WFCt+3zkCfQUomU27Y7/GSW1V+7T8DjAWUhR4rxO5nXyTx3vxqmv9UjfkKpTUVc/
-TjhyS0mZ78rYX2HYW3+NBQQMMWfGlLKvuhHdJFU2dB9+YvW4Krm/N7xTcwKos3Aho
-vSlnVHDf48KSXN/gPMKC7U3mOH8RB2oyiLJBX42CE+N30Ui+3TyxAj2/YMAjzDPYP
-8b+yRhntXzvGX3wayFPcjBHBBWrchJ6JnERCewVW+/3vDKgjwHhnul4Y/lme79jNA
-1Oj0ZX6rCGow+7z3he7/0ec92Rr8NOE8p7mrQn9iofTZcfFo2i5RDy+6raUvSi/Fp
-2DP2HqwOGp2uHrFemzo9NepjH2DgnK5zMMRR1Q2hMksAsviWMWTUv0fkYZZSsi1LA
-aROWE4CRaEhBuvt0bRIrJGZUbBWvxOE67CVYXHF20YvyKoI5IUN/ZOI2iCLMr+ss2
-wrB5tW4ovYwsjV5nDAK1bg1hsdOKx5xv7PchfhUkAn1J3DoekDl9qECt3LKdKG2hl
-ZwB/HrnuByxgab30wLUFsELT9v/pKJW6/2TFkWEfYw43MQzpsmKs/h0qTKW691GkW
-htPhMbMpSCxgDGloU4z7EcMdnvTEM4ol1GyDn7NZlYhgEHfw+X/5CZNTYH5DJvt8J
-K+aQaZFiZDHa8GaI7NyGERRk34C90lL7pgFEhaNGCFl+Z+YGegxwMjKbFo1xH0YNk
-CMPYX9GGZIEMTTNEySCyuZsDvXpXK5CbQ8ywuZ9/B0avnUWrBBPLh9RchB07S6kA/
-EcH71AxGafK8wDMrPzymdFVsHpwNp6FEvP/EpBHGv0x4/gYpPomUOxmy7uEE1dzdB
-talRGPLAt8a/RXXG3ECsjgo3zDzmc8VYx6m4BPXvLsDX1b9NjN34AtBObE+iLLC3A
-wMd4oQSnOwfDDYNdKg08s43j5m+SQ+HRGQqgGb9A6IcwxuHR9bTidXBgNORbbdjXf
-9I1QW1Za0l5khdpDF/smNPMIwidcg2xBi7faHY/aOpzWTcTviox1ujPJmwaLr0I0l
-DYFlTNaQ0wM+UBE501Lwss8gscs4duuSlBHQLA+ddOKWSd92/KK/JW3uf67rOaqfy
-A==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -29,7 +5,7 @@ A==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-16
+ * Revision 2023-10-13
  */
 
 declare(ticks=1);
@@ -43,7 +19,7 @@ class X509ExpireCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vhtwcv');
 
 		$this->getHelpManager()->setPluginName('check_x509_expire');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks X.509 (PEM) files and warns if certificates are about to expire.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-v] -w <warnSeconds>s -c <critSeconds>s -f "[#]<mask>" [-f "[#]<mask>" [...]]');

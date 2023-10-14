@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-yjpYd6RjoRdUv8xZFrEs3f8uvPQ6gVhf+TIEOFZTd7KIRVbDHy+ZOONeDDtLXJAeX
-EPpNHBT2jijIHlPKklWF9fMPoZ3xOuXNaQ8m8aejwxZzMxoB4owNDq9L8neC4PN3y
-CvtiaAJa1+mex9P9D0GFEUoVpwNMlKZVaav0ncmedOFE6Y0U+X/hnlbcWF5ItdzAO
-1IufVyVECA48edIfuqRQjqGATLs/vkBJPwzbsH3JzrL6hyK5Ry2p+ReMO3/50q5zt
-unz9oeGa1A7milra0kZVBapqcrX3XEHsgGNkt9M+S+BuRLnDHYiJiuqshQZBkwfAr
-rr6xyd8TahY2V3b8NWjnOEuh6DlKu5BOWzMwDNa43jST9vopyhevNQe3iIDqwswVw
-Hw8EnFQWXt+ASFZzi2NSKMWbEWcjR/8Tv4ciQUM8wgAYoAM6YwamTeuuNxJg2fF8B
-Oipr7+OX98qyPBTLg/6yGOo1ie/w36toFe6uS5c430fU7VlFHugGo2VMixFOa5f70
-E29E6+wzA2LVi9eDrPZka5iGfSdhMyGI2VOQ/keqCp3Xi9WhqfUVJIO4kSz5C9iy/
-9A2Nxj7GAQbkn/aYGXyFYvhrZFzwV414P4xXzoS0+BgPjVXbunkhDbsncSoX3YWU8
-MRORTxNMdz9WINlLvfx+/7MWMob+z4Bieq1l971cufFyhefDbQ1rluCfIU6Cgxpyf
-rq0GmPUSjL6FKWtyDFWKuFPoftz12/9evd2M5Kxr5zz2yiR3+c8w3kta4AAuILNsL
-Rni2lUIF5usajSKVZxWVNc4sFoBJ2TCG3GQ9XxeLDFYwxPkGzz0z82h4vj0pnSBGF
-Q3z5WZ/V4NCydpmXQP4gR1ghMB/1YKZ7OyJ7jiiglCBSQ2ZASXcnmgvXFMWxCrNFC
-a6dMKnKFUAFGjINp+/uKO77qY4z0foWBZJl5+YfzDZgOSWgSPMEPVHKjGZXl2JM0J
-Dl3jeI3PwuzrsiCY8GzEEla7ggvkSOJ4jzzXDsx2QULOgHgIOb77FfWDl0EgHQGgf
-ezMkbe5JXxP5guV4Y4bMvTNdMIW3OhOE7rl5DMhgUM8u5K6XuxA+cF+WFd7eCOe85
-w5FeTdWMWtT/0C3lVhyTFfzLbeRqUuI/9i23xwPURpANo3TQd5BTaYVQqltTKKCPi
-wZ7Me7bRnk07tnnnElrmSebv5T9hX9G97GKG3PEHtrOcDLzmhSOITNCm6/0G7xbi/
-4DKZr9Dtc86eHaQXEunXKKjuk1pEODb2zh57xqdrtyf7LaW8mRCi/vA5C3uxIgFvj
-LZLY8vUeP5eK7+8m8qBkzb+xSJMVl0QWlFDINIcZzM/6JDljLjeEGo+S7kd1VkY2B
-Q==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -57,7 +33,7 @@ class VNagWebReader extends VNag {
 		$this->addExpectedArgument($this->argSignPubKey = new VNagArgument('k', 'signPubKey', VNagArgument::VALUE_REQUIRED, 'pemFile', 'In case the machine readable VNag output is signed, enter the filename of the public key (PEM) file here, to verify the signature of the output.', null));
 
 		$this->getHelpManager()->setPluginName('vnag_webreader');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin reads embedded machine readable VNag output from a website and converts it into a Nagios compatible output format.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ -u <url> [-i <id>] [-b <username>:<password>] [-k pubKeyFile] [-p <password>]');

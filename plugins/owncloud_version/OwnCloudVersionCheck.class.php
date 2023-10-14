@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-kh8uYUEmpc8WCbykBWys6Nxe0uUtfTgDrmwLakX6M0m3Nn4Ck4F2a6Z4n8IVcVrFt
-kTw2Tk6x9jBe4YKiiIHp9M3XijivZ/tzmSgnQGrz9UWmnzUu2P+P/ospsRilxR3cJ
-hL5BwqSzBcIWYf09BNuNxgeGi00hzbgZOtR/nQ1JToXMw9ATzPDHxx7sMmibUugdm
-9BTAAHMH+3b3DUYmEQD7ZOqmfFYp0NvnbGMsUKsdS2EJUc9dqVKApfZ/Rjr38/5RA
-JgPFRQ+8xFD0UP0Ifg89tvts2x2C+K+uaUG+vV5yxmpA+QWNu+9YoXvUP+txnxv76
-2KQeejsLvQXjegjYQv4qfvHvpVm2PKfwlnDvHvBObUXgqpyguWZkEhy/XeEbbKZ0Z
-drbaYM5UDVpVFKsGXU3k3K+lwDDRj035PGrVwvG7WIIqNc3yB0uHEKjLeA4wr6t+s
-JI2LcoeaFAHvSCoePNkr/2+Ksw6hg4PQaofwgaAHZTbFiP0LnuxicdHJPfNmrcADY
-1CbkqQBXS7pFsZYPK2cPw9yE0h4cpl8wuTHC58J4FxZDYi/ZsH+1C+eK0z8PpFihM
-JOguZWxtkjiHp5OMhAXi1rv6G/JBZlrLr8rz/UBYVenP4JrZ7qZiMmiJZISfRsDRc
-oviI0zxJ1bXJxoNPV7wNFxMP9FJvcUcgovTiHrQa5NJjXEROhQz8MlFwtSl2v/CZg
-At8th0JKwWOsyz7kl/CPJwK+adt7h68tBkjCI0pG0fYGxwiMICF/mrlFpj6ZImuWv
-cQH4hOS6Nca/f6pudH5WFbPyzqqximhbg+ZUZExlegvl9llLlltFiM+41oLERCQ9b
-BxI+k6YP75wGF1wWEjY+j3b51kF42mQrT5jGt5VpY0UdEwdPtnWyUGHNJAcAdvwQ2
-RA3+7lq3iyL4K0FOgNrIbmvTNRE0y/3KnCcXq6eqAvkL0MtjLdrgRfRcDdJ/WfRNR
-lprNXKPYHheCe/gVPeMwyVGd4kqb2R3KFvLPhyBJe+HIgDfkgCI5jqSpxFWQmPP12
-Y13kO7iD3rEs+bTHmUaepcgdX6+11HLG7BLwntWj2oc3WhN4QtzA9GtkZGQTUmGec
-HMOXqiMeMyTnIA30UPqmV+6/OzTabVc2kT+uV4JKN4lxA+erdO9pKM4YQ0zJxdAS9
-nM8h5N6II7CNriKbb61eqV+3v51l8nxmOZyeezS7zPE4kClem7wWTDoX1MIWzDRxV
-FX83Qih9jLq3vuDyMvqmfd9VBsRdRp/RjDXheyijDvbllnVWirDrb9cKxiLs/oRDd
-NuKj/vvLwR66i82xvWbmHyrYsSOxj89NJZGO2nvQiri4lke1WC9lnIB41RtYkPvv3
-A==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class OwnCloudVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vvht');
 
 		$this->getHelpManager()->setPluginName('check_owncloud_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local ownCloud system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-qBxM3hf7eDc1Bnpj3F8RPxCUO03EEJRctdD2zTJzOHjpro6bzMkwZAazBhQ0jPJ1o
-0FOqTplQZ/6KWucpji02AFtSvW6OMf3clG8w+14Wxlzi+vVfxL5ZZMeRv9qTwQb4k
-88pugBiQ8ldR/tq+P4R8nOo5vzV6DIaSUPZfHfzdvxl4w9m/pMgChD7oe5Hx4CtWU
-2NLIv/qmJs23OGnZbf3CfNkvpJ7mjtia1Te/4olEa+NT2AOaib1f3IjRc0mjLVn9p
-ARdkMZSkDMUmtSgAVIXy40b5Xx65FmKD0iuG9pV+MOlYboMuaKGqmMAfDbcCNQz2E
-inrQJ2lHsm6B10ykzE5pATdR93Hpu4Xzw/LydLjLP6vtarVHZm8Qv1rELR/prPpMY
-4V8b4KtoqcrMoHxnDlL+YgbwB/66FKXqLvM6ytuCwJu0baKSi3SnIC39RsHP51D6h
-rGl9/mLq7X+PVu9ah5EFMeqXZykDaGYAsUvsEn3VYdF1h0EVpsfdlW90dnRolAC0N
-8mOU30F+7GEAJxDXpDt4Sw2FrHv0ESb8QoOA+HagUuCA1D4X1pcaWHMMv95QChTwf
-MfhFzRVNitNrdgTBB2T1m773stskWt63FdsFdIU+cga84zV3AFi4GzqsaFq7uH/eD
-TTkoWGQcuKKmMafeP4QeEAzFarsMeVCnCxub5XTZNhU7h4Asrej9BhGNinVx9nFRO
-tuk5bIh1kFI0OzN5JRDRsSgZkxsG9T5V8r2rGm5fTcy+MqKMP0JVyib7MpVid+9wi
-QOH0h1CTkHkZ0ffqxAI5muCOzQrUzJ8SuG0krIBgHWE/nVakFcYYw+lR8/G93gUif
-V+PRHSVyMeGIPmZBfDiEngCrRDDrBR/DaW5PXkhw22+T9xRmTShwcTTMPIwTVKzdf
-KpHyx3TmF52xbfLH156Tai25QdTECakC7ffEln77/KtDx3GeD8tipvU5HJx/GSc+a
-hTuCAdN4oX/m1vewEvKIJ0YaMr83F0KAJyqkuglVIKv3OnRL1lRswHj0Lwo3OWYDy
-xi8uFIkmp47iFqSSIsMV1aPW5A4q0f/O8WswzaR20iKp9NDC/uaSAxrZvfkqs7lxy
-GvR71hHqe1CQO0DN2oxZG8+beKF1k3PDzptIfEA77f+Ctc8/IXl8Y2E8ISQ/JMjqf
-akMiYDVBQHV15JlQyG/EblqJOhOuOtOG+ZT7Dorx8l8sT5PCK+s3YxuyfQps6CaO+
-WGjb9zViLO9lMWQGQ+WUfAfppw4Je5R5ZlS225+HW21jdcvy2wdtRnSjYYOTGIU4D
-a/yXo6xSu9hhSiIUdio+Ib0Sg5n1Mc8Sx1Ih/6DCrno2SplyOK1m+QAU5He0o/iLs
-A==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class WebSvnVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_websvn_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local WebSVN system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

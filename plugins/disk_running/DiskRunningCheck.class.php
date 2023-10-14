@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-PWwDKp/NSf/rrEh35zHyCMaO4gcZlVT+EjMyvCDND7VbDr2OfniffusJQ/+G/mPHZ
-v2dTvk6poY69nCYrUnsqeEdmeVhi5l++vvSAvpVUZiENZkyRUrTBkPVBhQcT8kviQ
-pfuBHklcTOhQqiN6MMKD1fS9MkG5jqelOSvMt3L35tTlQk0Fdkbu8WTp2kqWJ/gaA
-aZQzTXCserS7Y7SHpWoVvul7kfnpKWkspryM0l1Ih8fCFhYrB7/mMKTL9TqgKd9Ka
-f1VGax1Xm3H6z8OkJ8HfgbvbuvC+zruB9J7uYFCnnrtS5JqL660UV61zkTVLE0KBE
-Qd8T2cs8ROPsJpwO3StbG3ZU2rDChfpLVKV7VsEYnQpjyIACwIlu4E2kMTzOlIPaP
-hl/9HDuL7vfM8DYkUVvvMtxqvVVHYpIx/AFigxakY2HteLmfekxhL9uRJqX2e4SJH
-XWeu731yuH+0/c82rzLbEKadHYtV4XBXOxIlSxl4VYM17RCe0r2/R392aMQ4Ziy9j
-dhQo22vBJrtmIutBpH7KaecQUwT+hM8sWas68xwfIMWzFuwofsanyA2iJvRx5tR+s
-J0mhHQ08HszAqZ+G8byAuW6z8ncRieLhseu2g91OMHOiuDnxpDbGqqrluXDDGs7W+
-0aHGPmIbPTYTP6LGyuqV/Q5gg0tgZh0ESFWLoRh1mzrJMBh6ZYMrsByfAruq9ewdB
-FZ8rE3a91IhpbFa76wfcN81lk6QMrrc0crd0Fp359xUacXAz6DEO4mQ/f5g06p6rz
-jPLfClhpm1Z5AhhaVZS8AhgHNrXSFchksoE+oruo+CO3QDhcZKygGXntMb0I0KIYR
-8hsl0CYfkDD9oaMSXPE4g22WO48k6jKxt3MyCSta4vtnTeH6Quon6PEvSXkRs4ZCa
-aKYy8owaVxds+h0lGd4eNBgP/bZZb5nxeMuOlO9lhvEgxpXoksLB8Oh10BMj9EBQT
-T2TaEtY1GyIr0shBb/mD5BQO0v+qW3PHKbtDtWccKPxNo5Cx4CPf0AiHoqzj6Sa6C
-7MdS57nQ9DQAnwhBPOJ5+tt1LF468AerjjdDjsWEYMmicZjOpPM/9APdJjUe312+9
-AkVN9Mz3mVQ8DGpI0wEfDdrHH9IWs1G/0RofVtQo23PxyFbX8S64Di7vwBrlrgrWg
-esBRLltyn9hSdqv+C1XEJltlunWo2yM/HggjK9mbq2pNLqgW2r/Ddfhbhg+UnHPk+
-3XlC2nyPLzLt9Mpf/3IrfbTl3siOB1F6eQT2cQCa9pKrrE1TJu49oMmpiwmD3xT6P
-P1c6cVZn8g3N+MdZEJJknf492Zr1Y5oSx93ofxLFYrh5Mf3CDrHAPOTpPZ9J5Kh3s
-Q==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -52,7 +28,7 @@ class DiskRunningCheck extends VNag {
 		}
 
 		$this->getHelpManager()->setPluginName('vnag_disk_running');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a disk is running/online, even if no SMART functionality is available.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ -d diskname[,diskname[,...]]');

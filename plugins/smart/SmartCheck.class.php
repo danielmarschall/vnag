@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-bNs6RDbDtvaplN+W0zEqFdF9ouhBy80juWD/zFr+tV5QgZ2n06p5jqHQLu+4xRaW9
-A6jqIg4xVnvN6OKBqBvDHuvkQTCQX3SpHN7YF/aPPDvWPeEbb5HodC/aHAgkl/aBW
-d8WDmR9tv0PuPWPLdWMwz/X9qYFc9rtVmTgR0Z2A5KQ0U/gjigJ6YN450hlKwn7v4
-f/RBOqb+2AJv77/eN7QZXfJIRhPz6k/QQi3woMjNflOzcbSyaVhQkpHU1MIIUbUGC
-Rty5Zs214LFSrBMGwVdIzZRl/ePlf/BvcvyBzrsfXwfGJKDJw/O6ezKYb4Vtu4DcS
-dt5ThQ7ZZhE9uEj09lmQHSR3aZWQy4cZ/C2/CAw933MgdQ/uiEHbD4ldfSbJXM6Qq
-Ef0iUSvVsVimqRrQmzE1MmgYb1oCjPJ+usAXsMfbi3r3hG1f+wlwkjRX0MarQZlup
-VljpKJwvCXyYqm47UGGTaE/ajqNuYWxnASpmhoCO+NvbEz6DzmMTDlvsJF9oJoyrU
-wyCzAij9adiK0FVnmAfB6jpyQskzP4RQkXKyIgKtzOPgGL3cSLAsBi9S2TPLr5CRX
-EJChPEWFFKlDvGHjg7XoerclvHYyuNc2v2Xby4El3CusDH2oCHME/wBUFjFYn7OoU
-2vhbsi1fx6lX5t3eNmY9J9N4sUms63xOTr/UoeYOrPA/jzl5675V2qOx7cGZjnyYp
-YUipAnTepOt5FvnlW1i9TXMgRjT1Z62UJDJ5S7MLuntiwSxzyWSYE3NQ0CvwhlKQ2
-HZ8+j4r5qMxLevxbOZQAPDY65BNPpWVeyM/gPE+uTuM/XGJCEYazJJQ/h/DbdxH7e
-4eBYQfvKTajwICmr5Jvg0tDrAsSRBBuGpwQxCPzS+f17yJT51IoWA4r+TilQFn0tM
-vk5CAgjjQdPMMk2/fyfE8ZV4izYIHPcMrNBYlo+RGuTQd6QkoTnb8sC2kc4oXoub9
-tFevAhA/Rm3oVGWIwCSH3rVfeyK/4cgSeyKHsd8xI8K7+XRvVrCE4P49yzBj/xd0P
-0YQaJqONQNSUsFpEBn3ce6OR1Hg3v5ueZm+ZUS6rYWjJXO8h+KYV3olyDpa9Y4Ub2
-LfVQWMhNg+Z37Y087vB2AYsephcBamqbqL766cs/+Dw8vdIkVTnB4sSqOpbWtaiAl
-eIoyqDQdg7A9LBZz+7yh3NIIrgcoJ7NbliPfMAzscd+rTj6iRzt/+iJfaSiDEymOJ
-5NKibqHD9a0t+gw3h6ZZ5fx8Bz8520xrpH2dLDV8llXLce/j27B0/VqKF07QIpn6w
-+Z5NHZZeVUredJlJhMOEyN1v5AUenSbT0si+u30f3m8UnALLbs3QfbZ2yniuRtITV
-w==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -48,7 +24,7 @@ class SmartCheck extends VNag {
 		}
 
 		$this->getHelpManager()->setPluginName('vnag_smart');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks the contents of the SMART data and warns when a harddisk has failed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-T <type>]');

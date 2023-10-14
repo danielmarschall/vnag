@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-nPj2Ge28Yr6M12/PcAB0jcBhoEu8jOQxCmQGGimC9FD/I/AVWxpG+QqNDbQxjCueH
-WFqtPEM2HsROB8HE8KZkUPo99/m+teX/wNro3ZK6rI+6NcHtnOipY2SimPpeLjn76
-WBJ+r/4WX7UM9tA0ivyUycOAITO8XQtL1JbSyp7zrxN1fONVXnZ0P0JIhthc5myFa
-h4OlEWbED0Dmpa23jL+amEeo27JOkewjt56iTkJTXOW8u+oKl86F0SKfPd7q5232y
-0ioNIa3S6iWH4u9kHta4AHjoWPd7CpUyMB3kZGKN1YS4RJWjNNs5VZSUaDevYaOM0
-rni8Rogtv3jDOGnBZH/wsysZcYzs/drn+72FN6gQGc0rlNbAxTvsa0EFnwx8D0oh4
-XjiB/TBvzgEbCxVEkXYLrXJ7sXay8BiJY0958JxjCppWbuieRg621FEabG6r/gAs7
-kjddREytPoN6mLd8H9/zNCGFH8BKSZMKKmjLkQjOJd5xk0Owb6QH99QtD5XoISbQx
-rXc4UOSNq9YrVZTFDLo9inqay1Ne268MUwi8PGN0ouDUIuCcFQRIO/vQUp+aKmD/R
-WJZcv/m7RLSsXplMC7FHUMjgM5f1vdSA70ac1zzStO2iq+jqnbBxf+NJBjn7A+sCP
-8JaTM1Vt8VOoj0pJhV6SclkEEkSq2cEcDFDwy99LNcuz9Bf2k+eTRuutO+h0ESYR0
-R6U6Spx7WQA11BMinkxaQ0spfOt5VAyHInW9Tbv2QD0tEz3h3VryAbqI0HO6kcGxK
-gnyVJV69H15BPz6TGeoF5a7QAwqjQxxoWZwlDbnNTSG+c6wWcJhoyoiLsa8gYZ4tS
-/C8+1V/QPX0X2nE74M2Q0AWQXGmjLnDTZHPDiN8ZCqayekuWT90SQIMAQ1j/nv703
-K7Bf+IUuIwKNRdi+LQolu7X3ovgpGi9fBAKxXAR6k7Oi8U5FxKvo6mthIQO4imGQZ
-aUNsutwqy2tLnLkQmb+aUdSkL/Fkynf7BkW+s64iSOt+OI3RTR/qPSaYL/MDD7eMC
-Vwq2wjsueThpszPaAuv22BOAfhWngIjdbPlN7CDgB+8H5MuAA1Zkqmm5lsQyMlUNT
-FecOvytEOA1BR0slyXZsZtf5dX6zZYB1d26U115+2utF1LBPJJ9fcPIEcjAvTakVx
-5tRbDRFXW2Sn4MgPs7ljqoQ0sjzyUti6t+HODtDHgSdMZfjP7VimDqRmcsPUJfv50
-YG2Lw0nvle1m6AMb4oDue8s06c3W29z+D75bVH0n2KLw/PLQx2ycbNUc7OgoCrLlr
-gwwZ/IU3dhaQQxD2wgpq6RvYaNvMWd37snfIFXAVOdw6qsKyKjlUa5LqMs9ZqGZno
-A==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -64,7 +40,7 @@ class LastCheck extends VNag {
 		$this->addExpectedArgument($this->argIpInfoToken = new VNagArgument(null, 'ipInfoToken', VNagArgument::VALUE_REQUIRED, 'token', 'If you have a token for ipinfo.io, please enter it here. Without token, you can query the service approx 1,000 times per day (which should be enough)', null));
 
 		$this->getHelpManager()->setPluginName('vnag_last');
-		$this->getHelpManager()->setVersion('1.2');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks the logs of the tool "LAST" an warns when users have logged in with an unexpected IP/Country/ISP.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-v] [-e] [-u username] [-R regex] [--ipInfoToken token]');

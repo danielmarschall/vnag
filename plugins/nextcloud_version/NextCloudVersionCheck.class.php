@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-EnOGgWZfinduNUAQbydaichGVfM683Yilh8mvZzyRozjE2Msy1CX7FR4SAPTmNOb2
-FgLa4ReON+Wl2ftGo8eDdPGr2rJFUCVtdnDQkc3kbTAijv6gMNYFmfZ1FS/89+j57
-nOsM/EPhcFJO4TL+8DWey7u3i11JHuAeqnn3abpvyxNH4qa4a4ADhX7aOEWXALqXu
-TM1A+UUKMMrj7vZ0BVPeNoBvh2i26LepK9pZSUY1DPhNLVNfGFcDiO3ukVffU8BWf
-GgNGs/Wl68Agyille2MjjqTFF7W7W5Os+nM4WFMhlKe/AFC9uYbJwxqe41s+mCkIW
-jvlUXTVN8K3Q+jsHow+QNT+VCHo9vB9G6upqrvLzH1sdTqR4XgRDarUOiCrbirkD3
-kBF5osVIDn8T4lcg+gsx6P/M/YFBxu66Pb2Kwc1hjsbsQ4bm3XV8al92AlohzKN6r
-XDduu9BZgoAXH3qIc22e8EE2ADTRDWzSSDrfXx/SJwnWpQVsPkIS1qscp6vXyOMti
-e0d9mEzrTQ7rQWM1Cx7WU+pWSGPpyv0XGqKIs2O0xP8cj/26l+Pgo2q6lfcehBz1n
-xONlI2T9vQOL1vGHLaF0GdnrR4WPPBM7GqbtoHOcMH5ra7SqK13rhZWYJCHsNcZIj
-ucUo0Bm6B857MIxFDr7hddl8cD9D1crBjR3fHHdR5S3U1TI/CAhwrCEz/Fuqhkerb
-pb2uKz+3FlQuFooUW1o7ihAVfeLSFCBb/rYDK5OJtH01TOvldKbRUVwALyuRbCisH
-X6j+mqP7je6+Bj1Ers5BL4Avz24JQc/jBGTNlgWWGlgW/ZT0f080MuSlzvhVwdEbu
-PC2JG7dyBrd4JKtS3DmIrLcjiNiYcRx6HUZ2pxSc9GZzo/hsvzlXIiv6D/66CBS10
-4fcustBJakDkLGQgTC8S3oIxuAaJtgOLZeeXuXVWbehDCCp1QQBi3/ToQE90O/AMT
-viEmHyEp7ncg8gbzR4cwBBOEPEt93crlzZjYujk2skDfCMk5xma+QNh4fDp2/TGAG
-v+r+PTNJdQpEYocDb/TS2xhzyxboag2tCzvGGqYMMbPSgDNQLJOIjwgUgvJnJFT2b
-YMASHuyUX7ACroRkbjPS3zZJ+ZgTPFOAqtZrAOfAWEt2lJSsV0X2Umh0t79Hv97m5
-5nu9PhMp9XohPDndCpc/DDWu3m03+rVgRWN8EiP8Lz3VgoT7NamZZjdTFEA51ITPJ
-lzXjz0svhhpNGwLFiMvueXREMlkEV1HoEJtQTZFytQW7Ov3oyhVoX9R/CNOvQUEuT
-MdigueiPViNF94keIN7D1C9p5b1PzU/p09Ani4/wBpqPsk1GQ83CBvP22IOhVIDxm
-Q==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class NextCloudVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vvht');
 
 		$this->getHelpManager()->setPluginName('check_nextcloud_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local Nextcloud system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

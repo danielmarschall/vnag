@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-ov1A3foRlP41hBwRN4BzfkjAUtw/l65GSzEXcnHvp6VksQhlnnu9K2bOFKHbtKCGl
-jncDxUM94n/4eK/vFoLrswNBNyZrld5BMp2Ux0bsrai6HrLgHX9+WzaGYbhVBInTk
-EwycIrYdmjotlz6TwhS3XAE3DFyrNJIQnSG4GCQAajyM/LNuJ5FGFomDuqFHGV0YU
-EYZetxkW6Y5fpoqGrYN9UawLju0lqNOLrCdDyPIQjB8P9X22CD4HtS51NSm0l7oMV
-X2wxoabhKJnM+GaMJCzuDbToDKa7bGuh4OBe2WQIsyjzgq3eCCrkF1/FgZ4csjAl8
-8qC5prdzhRehHPF0++O1Hx1c6E/x6FbV7RnfAXMexPP3oFRjgsuWF5ssAGx51qtk1
-klYvGiG6XU4Rd9vN4Hb8ldvOrPEUSzzzYcGymOje8Q7kKL0QvHYKTN8vrIZ4XxbX5
-/RDSQYfudTKK89ymAPfa/57lqDwUrBkGr573tlQlEUDc1LX3ep9MLDyL5+wZoS1pF
-l/j9ynVygkZlLLNxwSYmzYJSudwrLKfGqsCUJuFaCa2Uqm8Pv8U3oJALr0+gVAKoP
-h5tIi+rWc6Mq8I3MYRrskL1lPbf2OYFhudA/7XGpaNUhzhKWXK1KOTN1SruyZGDTs
-+rxjQuz2+gNJnjnvVzPCAvoIZREC5NzuAsm5Ccmetm26fP8Gq21bIGPhfrEcq2rNE
-VrtyXNqvTTLJLhYBX2Vf+bIhRfLF8xFZV0tZc5Rk2Ulb0qlb6UdrA7DJ5dX3EvVAm
-/89K7I15C0IJ1moskcRemWPpnLG6FVEUkOFJRTqnir9hb2CbmHd3nnd55yQwiE3Vk
-xz5k9+cOcc045Lp+BcMNmxDTCfJnS7oUWoy8RZuP2r1gVrOmxm76/8dUT+NHj2Bfw
-peuELFf+DXm8mJDSiIcOUE+eEi6+31N6m9qBt7ewMSCIr/eyGwZltXHpEmCjjT+vy
-MV4ce7PLko0Rlk8IjXYKR6z3k5NP2NfYpe+IxTgTZ7/ZaGQjLhny4OuyjnftZ5IDe
-Nk212bKQjjxW4YiZRwCFDRdQqFUj5d93AAsKnYqeRKdvTMyAv637PemfZx91K4Be4
-oBgVmfIYW+OImf5ACkRaTchVLq30Bh3yDrMNitLBIXgYlB+FRyB4GPChBOQtX2xDQ
-/orZ39Hvr5a11BOPpIHm3+zG+EejRQzD0h9QheCUaTD+P3G1ugkXYaXOFDXgN9XMC
-jmRPhvilNhUx271eaTDgGF/p6uazjC4NwN/Zek+mEfDP0ZI59OiNaCZDrYi0eVvrz
-i9AExoFTPfS3lx/DTEL+0SzmZ1/1LXIlVxwdfkx3t+3VEhLvQ3ro4Kt/fuE+D43vh
-w==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -46,7 +22,7 @@ class OpenDeletedFilesCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vhtwc');
 
 		$this->getHelpManager()->setPluginName('open_deleted_files');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks for open deleted files (which require space but are not visible/accessible anymore).');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d directory] [-w warnSizeKB] [-c critSizeKB]');

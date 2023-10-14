@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-UW2wHYguBI0V/FDoEIL9OPSFCBTIDfdJAKlietlbUOy09dhIqhsWaXTn3jtd2Bh0O
-KfHPU3JvgNNpkYUCIAatf1V6DMb4L2yyYA++Dla8708PriOen8QwcWEEKCjWbBong
-8fBvHbGyJh8if8uiJDOnfbcYEiKxtMQ2N+xdkndhIudbYOj/Tz4eNR5wZ7176aV6d
-Kin7ZahX4w/IL/TSBqMYi3M35QK+9GFJ15c77Fc+PLoCfss0qaRNgcHgDPUNxPQPk
-c7CCHUwO1j/GIJ2gmd2uHsp8vvUhdSUmCloyk+ea/WUIBs4C4nr68EBDu05zTeCtz
-ED9WthnwqLdemP56dlerzS+VhdHyYKTs6xDwOtCaueibBJLdnNPVTjSwWfMIPGan/
-uiD//WKA11RFFMI8GtmQ/Fivd0qcHl4dgXPup6oVUssaKyzHarggZKkPs+0aENHtO
-smXcznxb+sdtZAGwwqoc9Ga9jUrfbNJIqa9kxOn+6aUvUxHw88o5mlbfNhv1LpgL7
-LbVigNSmVh5MCMKiajndozFXVuNlOaTyMyMNDTgSZv2z7Msg7k3vtUd7Clr8hO1VF
-VrW5pZiZijqaen/Llv3FJXtftf6mJtCDHLOPn6E5c4M5FQthN3gzxlW/ticIQPfWk
-Ie3Cv23UGin065x84Yj8Mlb7GZJc9jyt3FdEPS8RK/8GXAYpSjk+/1PHv/YF+Hp8r
-z1HdDcRr07vrT1bRog6L0LBgqub1HaznRxmzdvt/MeZ8STUqGK9GBSx2qBLkEnM+x
-F8C/tJxrLytmDAM+Mnc6uA3tj3ntdlA96k+Is5rrnG8JKQv3JOnoGUZ+niy74rNyd
-98v6uuFqFAwLOjYtjkWZu3heiVGX/BT4WWqB+5szJM+qQr149OmnKZ6omLwEK4LJX
-HrXNyXPx+0DNiNbEb7Hbf97kxXzwU07hYg+Yd7LQe41MMmytiL8u+cuAU5ND2lI2V
-3qOO8ps6A8ZiGYERhAATKOlPP/kdwp5VqYqbFytavaTqLKqGRAwpiRfTM78zEy0v5
-PW2RDyBPY4HzcblXfDVZkAMz2LWnTgvM9uUd+eI+xULRH47U4G60xN6DzSi6u5wrm
-FcYqesfnWM5gsVjj8aGSDq3xmSILgjUH2aH9naRsLLGqTUpefRWzMIkBggMETtAk+
-IlUqaWwV2baFESGfebhIfwLziBm9Ikd248RelD5o3MAqfbuiZOVFMp35IYvze2fly
-6yqauVfJxRxYZNdbwJrkGlEh29By8CzX4yBcEhuefwa1il+SXmTbjuPTKyuhRo/TJ
-mkfzMLjOwfnT1+/0p+ZJxVahMYT6ts4U0wVopjS5Zes+8q9Ae5qYJkHdNG18Ogg4j
-g==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class MinecraftJavaVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vvht');
 
 		$this->getHelpManager()->setPluginName('check_minecraft_java_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local Minecraft for Java server has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

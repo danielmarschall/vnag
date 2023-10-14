@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-Lme5HcTC/7qI1KUKY012sAKAHRs+Xe2raUjKRYPkpBP0vUbn70cyw8Lql37CmVH4h
-9eJ9Gs3tCYDZdslW42Rh/WNFVy4hMsyhLUzwvp8pks//pqoAgv3fVDit1x5z8NxIP
-5EWxsAEOWp1ty2aNF/lD9aJHGjq+IZb7fMq5PLWoFMWQGukZovbI+dVBkhiA/2AMZ
-r2xie9GESJlyAVfhDtQEiMFSpgpJvbd2SmzJoJg+3aLfpVj6Ro4HF/7KY+kjJxFR4
-rDmK5lmyQqfuwUfG0cqOnQQjODi/LCFSOgF7hyboMT+wAztkMAHhiSWrWd2jgy9Mk
-PV1L7ktcyoS+RwFGAJznRG4PGAb7kE4ygS7CMjbh/yGrerOhdsFgI0URBx6UE2Dgh
-URlefSxPODIxt7ol39bN7IDJHjz+z1xPDKP9VgACuaNue/oZfrc7gyAjvWJrIahLe
-/tPsrn0HURYLZflCSy7VtUKpMtu4RSAKOaM2DJRWR7XAC7LoQWQg672JtK4rHzMX1
-cEKlCM28C+JRTd+FH5V3iLOoLjgGrGQr9coZPJ2r8s8pGNic1L/d2x5YUFWSwv74H
-WJuMe8zQ8f541RKFZllU4OueISitWVUd1KYLHEpxa/ioDDXnpH3xD4ILDhrwng67B
-1eabFPtNNHgahtvePAzRlmE+hOKZitOsEOI8bB2IbYAyYbluaj69b8JOWDpWVWiqW
-n9g/bXhQu//7CY+X+9p6Lsm5mwtQp2syKe29MSuOYRT3eBRFDs0D1sBLREiivoX1v
-1U6vDHHndtPq1UeaNB3UHxM3Wdmc0X3VDDcGn3qPnl6x4jQSB1Gp9QCIpYprNOLyd
-RCVnPwy+qgfU97iEEpDxduJRSaQrmr6KximkE3GrFHxp3j8fwHGA/ryvNK9CRXII+
-tetvf1f60+gEPsrmxziPZgVLGfko5lmugItSXFpS4xdyrtk/pUSHE3cG0Ke2yt25M
-f8jGG0nQLLsaUA+6zbPBfMCP3niT1OzoHV4domlqak7KOpmqbjlJoEHrEptDQGnB4
-It41TI37j/7qIfVAJkkpTAWFsOuLd5dwiPBp6JMF7apf/n8rnpXWNDAT8N0NeIGpN
-B9lBll/jtnSBVn9hD6zQBt4MkP62gVevLfA54gRqjTAeb+JDM8E4aeQ60n0p3P7lO
-PhOPQa2K13nyXaYxL0ogu634jdiN4B8aBlK8UUWFzEE5VFNTIg7tr7bEHd+MeadCt
-YUKMq0372Bgp0B3cqfnTC+946xsJYnMUGnqM4A/haK6ttiIpf5w/0O9+uRIf8Fixr
-5blWfXw2HvRuIz2uAoiu+Tk3luxH/SHazJ3FiXgV0TEEzo8/GPH8cHFlFnsKXJB7L
-Q==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class MediaWikiVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_mediawiki_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local MediaWiki system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

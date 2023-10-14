@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-AhLH0uzYSC5/Au2X92QY2namTtPWujFr9iWDdPhrgAQq1MW3Z53fKr6eIt+kxjb5R
-qMOZzG5gnnhp9nUKZgYDaK+Ic/5yumhv2ekVVZsbW6FSogpfDUTlXbJSqUby+TyYk
-OSXj09oHiudrshLdI4Lx5ns75g/tzdR+9DPfNbWxEBFV1kVOtUM0MFnW31u56pHwm
-D3oZcWXplxNDt+5sm6K1AdWXAswslMzKwaGIrKHFJdRt1mFmAp2uYBRVz6DQ0MeyN
-zR9dMzrO7dgUrwRsxLPp3+hK9veENwcMwRXhKqVtJ6izTIgDP04hTsWeIaluUdMoX
-UXX72/y1fh4F3jCDeWJ2iXVFLU4W6Uf7L5S3FR41+uR/pw9/6BALuuDLrA14NDiv5
-Q7dqRtD9cJT270Ppj/6oCbdv2FtsUogSFWpd+Ca3v2IHQ9Vhsz55OJ8mlqtAkJ+TL
-GXc46tbwi2OYHk/Iqq+A0pIgW9/1aKAeLobK0y9lgHg8zg0YXkBt3fF8ZwZvI4cnf
-qUhnzvJ9F8kB/23hiSZVZFovYRn/kDTTX6JGdHQWCXWSU7EI6/lIc6dKBNJF3JZnJ
-4MkKqcyLoPxnQlpG8U71bOQfgPRwpmgaTI7b9Ay9X4Y4dLah84LRxpMLGg0EuQxZL
-F/NVKqf7wwgGclyUG4oGI+dyCed8IIvEvq8C8aKdHVtZB8pvPv6UfhHj26LCk+UeP
-aViNRuif6TrlkYUiEzbKbfpSrQcKvWavd3QsTZfbnivflxLayrahVVebEPNOhdGDR
-fyporIb5EhtU5CuPxqCYDhPNjNFOj0C/JJlyf6a/WiGr6TNYjkYp/jdJhBrvDk6b/
-d7Y+TdUQaotgtLr3usqTSqoEHZrdqkcdUldB7hUHXzvYogZVYVKtuqlKRn96Yc2sc
-3KR2ZAi+Pl3W52pMVzPlZ6zy8UZgmiuDxXuGEJ8hwcVijcTE7WV6P/fAZ7bu0LCKl
-HsBFfSRA1ke3hZWtWRisKGpsHhXPTM8ShAHwo6nr56gJnc5Lb1scqfhJRC41V/AtG
-4UfvpOTBJhL7wqqM8iIlZxHvGuTOH8b2NgVdkhTEmYxj69ZRZEescAB9znklUn4lF
-XD9uW9ZvKwZXhdQ6lTEGcxI/CxGAEo3AcsFTsebK3BP1ugGcg+mkG4gU3/XKB6Hvx
-x/3KogBF7tu2lWwPfHiV7F5cUXPpx3H8UykwFdNdQAsTKTWl58LDP/efpvStP8TZ0
-kLOMxXXxhdVeIelQQMSsGUQ0Lz/7T4u4G7X9KdsaUrNw/1Btbr9vPRQ7ZkuXMVOzV
-VbcCJsanRk7isRkob0574FyPyvMitdTZKC9lDOLAqbYPeaUQMsvoNyFXsvLlfJPRS
-A==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -46,7 +22,7 @@ class MdStatCheck extends VNag {
 		}
 
 		$this->getHelpManager()->setPluginName('vnag_mdstat');
-		$this->getHelpManager()->setVersion('2.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks the contents of /proc/mdstat and warns when a harddisk has failed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ (no additional arguments expected)');

@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-gr/1vRpjKy5z4D+dglj2jnNc9DfOawz0AiEfTwiL0IS9Z7dSQ6oUwrnCCN539UfAQ
-6a5F8T06WRO6yhFOQQaiJApX5Yt9NTb/X0hZ6pxRQ0/kg22wvpS048sEkNMvmxGjh
-vV+53l+YnB5EtyXCVQ/ZRp8RnFeB90L421X2C7iyGNjbye1XmXyODvAj4TW7x2Jnv
-x4ZUnecWHrHtn7szS8Z7FlbeB8K3O3lUuxdohv0Mu/e7Lga9YBu3x3cOjz54bNzIg
-GVbg++iiwHNYvejK/kDk/BhRpjm4lB5AKnfhI73V/Kd4gam/MYS6JTIlvLUbdHmWU
-rzmwnRSh1sTsTBjGuosUeMWKIkqrNroNCgWTmm4sQWP5ae4pB9wN0iRNvH2qtxg69
-OWVAbjvkz+ws5aGgmEq6vsly6XUn96TY7ZCJrFns9nxAZeoGp6IT2aYOvcc8B83TR
-Kd7HVg6yuZTJEDz0Coemh3AmqmwPQQjTxfOHbaC7pdA/oktybmJGUi5CwjZWyPZRo
-g873PMfjkFhYpumOp8wKCU+3CqAqpxC8VYGdrULGfza6qDkSoeXRNnb+WYsbwwPFm
-82Rcg4Kax1/7cOtTntaT0AGxLHYqUJoUC3cUZDn2SpeWUNI2GLFwA2Jn0XGVc5KLy
-u63DACjmQsJF6ANjYW/URZvoR+kyjzWen5CtkUZeuC1feZfe3r4/7d4d3IEYqx+vK
-/RYZaREq4TGgidyqwU3tNT9sMW1GU5jyHpSZ4mrqQLgDkmW9Q7x0VA3Ib4wlY9SKs
-fBAt1o/Ds6Ik97wIgYnqD0MsZEpAS4MZqdWgFd7ifZ/mRE38oiejClHQWM2HYRxN+
-mdbHCCg9lHGyPdyW9GIrHpwlJMuM+BA5W1l5hMUkBr4pmLzdCto9shoPVztirKyde
-LhxID/wsbcOKhDqfSE72gKaELsu+uBBXbdPsnQFnsv5ptkUVzbH8+E6TmR+t3D0E9
-JAiebXJ4HRHZk2nLS71nPjEHPSvm73cHMs+vpD2zLW1NQmQQbBTNx8+T0nwuWB+qC
-y2c8O3obKFE5rK/Wz0476WPDs4HH93FF13o1SZuTKI5ZPxDUvTJNaWsQmRJKQefJf
-hPlhd20axsMZnkqql3Xko4KjWhhXbU8yDv44unynmh1rL/MskdY9oF6dnjxUc4BZ+
-z2E1Wda7dPQ8h06qJDEPqdzUoOmRH1sHMBMvP8pZeJTCWN9yJwytBTV2OTj22Xs4j
-dNtBUlo0fGhIoycI3dwtEN2xUQMRb6dhN5e1Cn2xnkSaHtn7XGqJVB2II7rVqvgXZ
-+7+d64dwLF2qk9+zDrnx4q8lFBPmjZkGH6Brj1t8Hc99qKfu/30GHPJai8/QpjO+A
-w==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class NoccVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_nocc_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local NOCC Webmail system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

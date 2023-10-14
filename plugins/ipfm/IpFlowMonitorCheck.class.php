@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-rZ9Je1BdVcABbUL696QFnSx1PaFBYCzvCBBu0IsTu1hqCW8FU5Qm3MEQDHE962Men
-iXlzywV+Y2MHjrJKBNfhEtueebB/xQDvAx4gnos4G7w+vqEzJW1xzMV4rDsUJBy3I
-RA25XkPo8pnkDGH6QX/syo6hjnR/qW6c+YR0KVjXeFopPVCP5DcGX0ViGH/GxXTMV
-KwHQmFaQCVEd375maLIUu9Wh56wYVGvpVLFlfryTH/6C1cziNW+vVoPxGpQb3CH81
-4kI2YWy+F8MxQ42m3+vbzVRQQjQud4HXNI0FFD0qkQQubNNhYZzHebAYIxQ13IYwx
-gc0omD62J3FwaCNEA4YgrmXsisQJ1+Yhx4BFZCbMQPoc+HkePMnfeth7BVfWiocSd
-zREaxXrbeBUMgqLQ9bd58Bal+7/d6Ef9/Pt6v7X6BPyKnK2vXvKZaAYUkutdH6pET
-Vp2uvPJllmOjwmvSWwARICHgjqJba9zBbN/3l6eNd57hzdod+98igMOQZn44C/xjj
-CxDCm0k80B939GWYx9NJyR2Lae/s/hC8VIHxKlTrP1S8eUhY1Zd7mGVOUCN7IbSSU
-QIwWlNZDMeMa/wbqK11G4JDmGBka+57Fm53nzMJMpAAT1DBhidIfG36XaE73Ppsvt
-x+pOiPXgFNwdXo0T9BPPVBjJ/Xi4AVH1tEp7Wxe+FwEfmCZCOCOCIjBYSJW+V6Ajc
-desvcL4gxIskQZ4DDfkZcjDQ5EL3YzJFp8eJ+0wMc6WJBfu6eiFOwyPxfpnfCxxuK
-FSNgXaOl/rm6piE0Svinj3FdR2I19kUIldvoTLWGxlZleZOYArV1nqP6RT9PFVFh1
-0Z1o9E1MsIjwydBHS71Cq4OCSnJbAQe8pgsY5cCewMxKa98KcNJYhJfDPXZeOmP2c
-D9PdckMakhTxbHQAQTyC48kNVtCZXC7sbctGHpRtYJR2rqfw5CuNZiWNEr37wFeNl
-0UzM/cu1kYibO82eSpIO0a8hpVXWo/ZkY6N63ND6aP9a848dNzvO76crgRevLOI66
-B5Ez9+dGjeMlANs/4eAVsBlSmuRnJOxFllmwF6fxGb1Mpg5MFVbW/t5N6XVCMT5F+
-0pqUQy62AygEE2+t3ECI57IQbq2OeAnqtCP2s3eYqNm9XYL7Kj8kMSuDTZ3rJ+3yo
-JoEoxbWGDvZa1TkO44uIW2mrASPuhJOcAfHseeCW0f5Y3hq9IMUO2Wyhl4S4w2rMF
-mqSzYh0Ps4otn+FvotKbcg42ujc/p+6dmzhvRq9LnUPMr4R6vZAEzBanzK4M9kVD6
-9TwxixVVgZhKeMtaIbpK8mImxb1/xKOBxayWsDbmyK9q+5ASf3E7PaNZp7lP/BB1I
-w==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -64,7 +40,7 @@ class IpFlowMonitorCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vhtwc');
 
 		$this->getHelpManager()->setPluginName('check_ipfm');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks the network traffic monitored by ipfm.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-w currentGB[,expectedGB]] [-c currentGB[,expectedGB]] [-l limitGB] [-L path]');

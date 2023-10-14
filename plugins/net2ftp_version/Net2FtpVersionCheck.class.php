@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-FJRVnIdhB1D3LlEHa+sUsf8GetU/KYLo8RBGo0FxQ1JKQmjSNbvmLswrjaPoGodu+
-5tylc9Oh0UGXodM+I4tEgInSIA7tCESSvMdRS3+I1rgX9xDdlMRoHuZwIFpMRxfcJ
-hzDzGPf0NPpCfupiaxlHK8ZWkDshwNKbUalNQrONKddv1JjGV6e1tp9qJZH+kDopo
-qJvZFkVcvbFNDYX7/GvgD8qZW77bJA4wPmLjTsqUIllnHdxso3byAPtwpLuDW3139
-aFD8SUKHZV2J4clj/NmdJ7Fl1h1u435c/5IQbShKBFDXh68QHsPfxqStOjHUwWMx3
-vwKH6yyBXidC2e5O5Vc4MNjayYbffXtGg8GEnQUEqHyDhR5mgxTEprx5KphfgNDxb
-/Ba7hPa34ZacAkX6LNNjcCreE34Cz06g45hq4lPZm2ierAsljJOAAAU165mw5nUxR
-aOcFLge8TIN4lzCmY4sVLCRm3cNZxUlU7GIcojgRIf5MbsYeFFGO+B1vMX0cWlwYR
-3BK1EC4996Yw5av4UanvOOA7CAyQSY3Ype3yPeJuohjdJDmlt5498RtlLCEzt0+G6
-246P6olAOXRMPrK2ul82d5/VeA+vPsiiQrPRFHdfkviQtDJcOXpGPf+Mry4UMevjn
-jMLM+tPg1wFxqhdOIKuJDQfm9CLnAQqbq9nyXd8nNmZ++0yV9zQhW6WxPBWHebueh
-5HliPdexsFU0PjC885qlQldZvwUHZUqDrSY6G7UnwCNUZeGIHlItxxAb2yyqeaSCK
-xSrBlX29Pj0OSgG52+ceDAEMS718lLc9ujIibg3YmHmpQRHALINw5Ie/OlyN3R/qq
-9Eg5NXyGgPXo425xJerxNdrzKsHNLd3zdYrSA7jIFaOp59G7aN9oBf+f1St+9MxZy
-no6fNBQJRX54x36E3PyeyENjV2yY2Os97agvZADbpjpsdheoTYjEZT5FG+gdg722W
-zNffSrbAR6VnldTHUK7LlevS6n+vc9mEZB+rRGXy+njqh0VmR+oJti4InshgDGrJF
-RwxfdFxSYu6msy/TqO9h70Ixs5C/ALeC5jEEJmScRN1CLLiuwNMdyBEMnmDmU1I6a
-Sg6hgIvBRCyDTOwokFSApy0Zq+25OhmD9p5bY3eyxKaACscuLuwpv1G/4zIGbSJWv
-DU6/M5UBiKUl6ceDFKMs2Dtizi6ZnvbwYWi2t7fB6HaTPEtXSef52hFXpPgB/VNLw
-zF/9mATFKWWhpFtaenVQP3UvAhj+Gvp8ZbNIGyBl48Ww8BYpJY5Lu+AJeMj4SFDX0
-LoJ8f4BCol5mabN46lQZgupmMhxs1vQDWxRQtpXAabY/v/04DwOL2rXUmC8yMa8PS
-Q==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class Net2FtpVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_net2ftp_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local net2ftp system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

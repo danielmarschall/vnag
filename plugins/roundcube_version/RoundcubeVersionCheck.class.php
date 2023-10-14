@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-OpbezgMkPVeK+pfO9zIJJPwMOQ4+s630AKA2J/Ty+RAdDwFg0cUT39SNttpTBpK+a
-y9RxTZ11ln3kvaw6NbOHSPswfOZX9+jl8IhgpzQzDE+ha0JA0WFrDv342DgcWgap7
-hWCbucAj/9aOpPT3j5tBxsUs8FON297kr5dQwtSmHcsPIauu2tsaAOOUdDouEO8Ua
-xPrpdQ6oN5tpiBlWh5RBTn+19N0ra96MUXi02Tk4+6axIQ8xrkeTNb8LLkQM/h3J7
-oVndkbnF/xVrtMxjz7pB+0IxiTAREM6cRBfVsrMawyPWp075iqiVuea3XCy2Di1rW
-3hbfWg0QfYX63ft4Ag7HyxANs9NMcNEDU3tdotae+Rs7W8L7c7Gu1+Pc6wTjX1gBV
-Y0am+pP0Uceug2sR7nCi6Ew9ff6XQE9DUy7/GkQsxpRhxs/2UpuHHpiygvl1DhUrm
-vBbDmfKSN3QTdKaTVJ3ym19MyvU/KAgHPsLX2ekDUGKIwc32vUUBvYVJvMdoavI+P
-+1YKEg/oRveZuEaWvpyu/AJIlhFrd9/ZaLenyC5KpiTB+1+x3vvbVkcvOAZydmCOl
-jHS0M2ep33yl5qSBjv6gdiwkaX6ABStaZNNcyiPbG7CBhbkdTlePrwSQ6GpV5F6F1
-rs1mnAhFHxNK/BC0BtOMEU25xmODEf5o7Fs88sce38CaIEQ60WNX2ntMl4Fj0nDVj
-nIb8tAk04h8uXPs+ZMWS5Z18OimkzGUaiig8Fr8cgi5OHdq7653/KrdyLc/y2gu+J
-SrLzvQ505M0CtxRkQq1bBOw8gdeDfQfsYebwkz5t/AstIDQBaTNBbT2sgSAjtNz4k
-AssiRulBzQW2usaVk2wcJWZgsZAkDCih2l2oVyrEUi1ZyG04L1//pHHEKiZToPQVa
-1AkIH+EAgq9gsdDCqYxHr7otFoEScMkI5I4hsKIB0QA4RssthlKAwsxnVxUhiKn4u
-U3Id6tZ9y3Wy0652VSeD4R1PZPnyy8lGKzZ1LfxKyPUWpcZLSQwdHPWRxzd6gp1aw
-98+Iwqt9nezuum+PcAVYNEaU7bJ8UNVLlsviBNevKGcW5Q5WSK97w6BZ03uwFHSmb
-HT6n2/lSw8yL1j4eShi0kK/kEhmB0GenuwlZpBnyIpSSvKhDENsQMqUpQc/r1zqp/
-V7IQM0V1sU35flp486GhDpEwX2XrIFM7ChCXONQpfv8LXS0Q5UUVimlner5YotdmJ
-WnCwWLdyGLDPQGTtsyTQOa0QqVgn6vruU99wjtmKuamiG/VvtRu/iinzQRgOsAYLV
-+xFTcloIlYqMBcTYbmE8P31rqnVKmFOH0SjiGDzi5VT21s1H4UKdcf4DX5TUklTTw
-A==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class RoundcubeVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_roundcube_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local Roundcube Webmail system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

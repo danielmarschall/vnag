@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-Pvh08nOB4+wOw/RYGUvi9TRprIwSRd60uk+/5xYr4kuU9aC8i3NojUOlHc1kY3o1x
-m8zV1VPbyrXggHd/2gGxEP+JjQrrrFTiTfoOaZXnsqNnTkKak5hXvm7KedBcwMjDG
-ph8jucKz7z4BovNE5AQ8A/qUSuur1AqsFPXOtsW+CS4MDnzYq/54k49V1wN7qHZ0b
-+Y2pyNq0wf5LmQdPZSB39v8lOeKQRIlDtxVxMKlrkJF1g01PvE/GUSy5A5A7UDaYg
-/UCDzq/nEtq5Catg3S4m+M+ftIpfw6PktcMboDNXtQnyyj3shWUmn3e2lEt2WzLqC
-pMtNi0w1KOfO6hAg5oox/H97VbumMb24kxv4GaJSXmU38qjfmIA1S/OyBVuxRcPXO
-gm0LTlAihLWg/nPKs3+819w0JkuxG2GJj+q84iStMcI8bYOE3N/EI3s+QbAltL/xN
-4q87ZgS3WRKyY7swTD9HVLwEi/whfraYgfs3y93wV3Leh4u0fD5tuVQ2xSuROxKAc
-9mwiqllxuBj/6Pp7XKhWWlqmmCuSW+bULzOKVwh8KaHtoOSDRYeVY0c3nFneODZBa
-1malWf4MfeEvGMDiaXnvhXhA5dpPU6NPKTxngnz6v+nVpArc/OWYH9qAD3vImKy2j
-bOrja4pR5oIeYT+bfbCxQ7l7vagOFswApiom+oFx1Gelmsh90SfMhmlN16lpgYLo4
-+zJYbY82Oy9fhaTmn/yA3PPT0XhpJHjLAhjSH0FN9wUC+e9Xh9/BSB9lJP18OP/u9
-jCvW803IuhAHiZwuGLIs55utuY2DITTpce14+R48YR6/ArsRcGodBrDko7Rbqw54g
-WreaJCKAzuKngOJ7o7X9ET+Cl0aJV02b0W9UfLIljlHqMTXOsVzAQ5fla22pahToC
-zU5QuiCcczEfGTtNKudK7ABhgYa5slr+p7q+nu8e0q8xFkHtT+rcfDshdg/hGNNuK
-lYIX/1XBJ+2K+Jrx+a4jh2kt0k4VTcwmIYKHlL0s66HlHTfiyjdeUkBS8GfAkLmj4
-J4/SSNb98XH/si+xoSsAUcJzgjXUhZcJLnS9icqLctPr6lARsyHE7sEyt+GcfxFxK
-wG2ya3rMarVhmLW3XTdr0qLYE0Eb96PTsU0VUkxK+lNa6aNNqQarmdwSmRJ09dKDw
-4wB6rmYO5Yk7v5Pkqtc6ulTqSBALsyHBv/lqIDM4htUOPfpGDUxtXumd9fM0uDAXW
-/grWyFmIRTVw2csDEHpb4aZA1tOtlT1luw8QmWg0tbmWA06RgUNV6v/VuDWgJLXOI
-OrR4n1izC/9ierFHNCyRxdzE2kVOhewObOa+2UJP+7HuChHdAa+cyVgmQe5F0615X
-w==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -29,7 +5,7 @@ w==
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-15
+ * Revision 2023-10-13
  */
 
 // TODO: New parameter: alternatively check for the creation timestamp instead of the modification timestamp.
@@ -46,7 +22,7 @@ class FileTimestampCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vhtwcv');
 
 		$this->getHelpManager()->setPluginName('check_file_timestamp');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if local files are within a specific timestamp.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-v] -w <warnSeconds>s -c <critSeconds>s -f "[#]<mask>" [-f "[#]<mask>" [...]]');

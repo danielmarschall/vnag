@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-GKHpDZMbCYVTA8LdpQ0BJtXNS/xsd1Q8vkqgeT5X+2hx792Ip+IcJaFR0PDwo4uLD
-R36CGW3YQmkNZem3CPQr3MHXe7IDse5TabN0UwS9pgxp+nHLvUKq0UMpVE7Yd+HOl
-azSktveAoacUlCXNOozqyFv6O0Re29KI7vVU+iqleF2LwqUlZ+lvA8+8oZ70Xv89P
-zt/giYbQaAeVa2ALd9oJu9yERnkyoa1l976dwVWNoJBZlFTiujYcGcbNlQojaNV7+
-/XA7oftS45nGhyMcwgvrgZYbDlOTOrqG6A8CpK5geELGQEtr3MVlTCLPBXM5zTnjj
-6FaKd9innwyatdwk60watfSAtp400iK15wVF2bkk0BDXDYaIwRQ1/sAuawkK6opU/
-d4+rgxpIdrojPrnS9Zwa1oCJk/oF2iNCytiMaG7cZafeVAtpKE4mCfhgkH3BNZKOX
-VVcLGuET3QpqCY8HaaLv7LnRlbS8HKkScevGPFi7ci7ywJE9zbk3cwa3nHXW7tl+z
-6zS7CylFaIkr1UegsGitZbbn8VpaAWYKNOzzvfnI6a1txWQA1hdslFUIh8URyAaXI
-zS+IWgSIBpPfTdyLegEuE74MIbuwRqHHAZuyyVnvSmjzaM0JNuOkZ9/l3PkxBT8VO
-il0RBDucS/FPlw9gzKYfrKpig8I6kE6pFdziJ56suvyYKr/0RV7FljiKTLMJ5YpDz
-OzFxDVP2kVnhkCXGCNRiVk5t1P49hmZ+neMi6rHfOVuxMSdiNHUfdS4rjvQorvv00
-uAaRdqzRMp3sd/QG3Du4SDx7qtCadktg2yGjYIZOV12nCa86ERpRuXc3Sip2bcVMd
-D6YG+jVrcC+XWKvR7BW+LXQMef0JKc2rXoNUu53SAzo3lKfsMxcQ7fFZ4xfXa7aES
-bdiI1gEFnLcr7tZ1tkSVWRV3Xc3um2xcuwT6O+yI+xBcdj/5ybDIjXRWAuxqoHGiF
-A68tkTQVSy50hgHy/brxK51Rf2whK3Mf01dNySneqsmRYFXCRVb1+kMQcTyijuAM1
-NUWcHETl3/gLUFcP9cS36mxNwwWsaSfrLYCIncOUTEYsLyoPURjmTS7jcCbb1+6Za
-kLsAM2tPVi5+s4O1MK5e28cNbsELReRFLI1D5VQUUyaVUCdjg8tKOfwiixNjIdWbD
-c6lwugjnZDsJRdA6n3EgMOkbLtcYoWDZWtM8kVtTr1p7MBt5+Y+BHd2YH2h8+S/6Z
-FukXIDkxQ78hNCtpr6/UseL+R4/mkGJ9DphOS5r49+wviURMzGGFg6eip5GQawAo7
-fK8eDLRj1dCnU4L4dsePjDD8BJVht1QfGUsQ/4Yraf1Z3UH6wpN8dc7L7feQHNDmt
-A==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -45,7 +21,7 @@ class OpenBugBountyCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vvht');
 
 		$this->getHelpManager()->setPluginName('check_openbugbounty');
-		$this->getHelpManager()->setVersion('1.1');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a domain has unfixed vulnerabilities listed at OpenBugBounty.org.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <SingleDomain[,SingleDomain,[...]]> | -d <DomainListFile> | -p <PrivateApiUrl> | -i <IgnoredId,IgnoredId,...> ]');

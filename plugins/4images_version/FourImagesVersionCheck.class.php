@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-SJsIrfinSzsYbyQO+IHwJkShVGvRRbKXBSTuyO+b058nk32JwGIh6fEo7tkWBAtS0
-3e9479eHecdKr4IYhYwPF02Z/JUO3xt4E4rhevEtATx9XgJgV+bu4mMxrYZPxShUx
-NjEr9DYGYlfJgY+XgK1bwjGjIHyBpO4Eh1QovgJ3I2mWEiYaX3S/vuw+KGsa063uT
-tsyBWIMgn+XTN5bJWz6jqgOKGnsKVTSeEpre78uCloLFmI0wXp8MNfBfesSs40zK0
-trqCF8yp3NitzwUtnecwQxbncp8iVGU9bO8EoD3BUy9Ohv8GINCQjtnuuAx9YFVlD
-++wb8yN3p3NsLw8r5nu0DCPbfPxJALC7UiBcZ/z7m6CO4rbsaV1yfSaX5jDrAvCtd
-TQPBIcb/V+HcVgikGSbZkBxTv8+R27nyv3csGPIOu5AQMBhtDbNAJphDYhmFXxqVw
-Ww91POe3UqBao/cxDbsAZRL7RJ26L1J4d5n8qEd6DJH03uV6SW/EjPieLaGgZ7mhY
-4ifQGqTHjZmQuLs1S1aFL6F4oT7UG/6nmBT7zyd4Lcpa1wRjO1egAC3OxDCrYJ8wB
-fJWzqLd9gT5utmvx91I83N65evE4LcqS5uGjED48s0uGZ3g4YDFySwlxqI0mclDGZ
-8Mf4c4vTjzB0tzFgTKiYlzR27PQQ+7g0VTGKl1SKwBt8mXRI3iQwkvk/QUXWhvR71
-y0hoCVxlC4cq91brH8LornfDDHQhyVydrkAvl55uXSv8xq7RhlY+Pp784CkNAemKs
-t8HfHWtfXN7aXXiV0wtq3+fNE1wykSnz/onYFNw269JNTZgW4llFZgY8DWpOu/B3Q
-m0j5DxatYr571TByTWH+1dLPOga2VaBYhJonAlaVf1FNF9IRhsZoENIDUq/7ej/uw
-G5XWbRVX4GZ32CLWo8NTup6VtriZdscUf+Erw0H7Xw5gOJoSCzOy3/8dFmoIWQyx1
-ZsejNS4tLZf52gOg1XuF01ZRUyMX8X2XW8AUPd2b8Fu3cObSuUDpYgNGRK54INMjO
-VXSsrOZOpo9ybNQ2h6OrJndA1UJtrThowVxn55DsfSAQ4AaI7ZLztGRMSmWk6c5P3
-iNSa2U9Xy5fV9neN1T5BibyP64aFWkR+gZFC9Xxgdl/YQiPEmorxU98JtDwtsBR5J
-FdMfIzsrreiXs9rbrTeX3sw0T4Ag2hOrQuoBuZy5TDoh8Gjc8bebfcALNR88sktN7
-WMEA8T3uxhE13LI3Pu3iM6iWw+6+gNGmBA9kC42jQvN7s5S+7CEA9PyDVI0CiFn5p
-uzEa/b8BTISIhb6dQzM0yUs2vk+PXFAa5muIGMGmf+dUbPuC+BXbGRic81xKDdYDU
-w==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class FourImagesVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_4images_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local 4images system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

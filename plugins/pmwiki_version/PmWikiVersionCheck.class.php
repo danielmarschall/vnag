@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-FWd3PzwACGUUNwFj2FZtdCx2ipXSNX3x1uyBFYgzLzp0K55oOdnhaEN+27cirbkFQ
-V7tzbYBjLSBjEJHuxvJ9O0z3Pe4UfpBssdGK8olMawnYpucXTWu5V/LXpHR8+/6Ky
-DSnF9zrZWOQVCopAhoxQIr3qrZOVduC5/fVuJ3G4KMQpnPRee39bfjYOw9uZWLYeb
-Ad65OvGt4FWinnFF2nWmtwzjJizewBgHGOANcLcGfku9jPWW7yPv4h/AkM0Djoef5
-a9KAjruBIl59Ff0f8XwIqHVobn1e8r7C5OxAj+k8MJFEKIuc+p0cTs6jvNlqIPmqq
-j3v+HCcLJO3F/EQ5B5RvjJdzSoYWz9SAO+qZj5w+NFnhAOl3wU3tvxPOqqdJbHh9m
-8odOGvxQynUPyD5gm6VvRKT9XqaFEWrW4fZsjZBqAQ4OPmr9OZojvI6DgcCKawxeY
-Je2QWUTAD8LugXi4+K9SNWAReIUF5JjUAAM52CwlybgYj2JLZGjUiXdIiZ64wn/sW
-WKOiHk6kKiNIG2hoSFapWF7kzuqAKLISDzMKFQ6SpnGy72It8btxwpnrdfociZzJ+
-8rPoIa4Xbo2Kz3Gel42wHnokXZdqWaTkMGY9kRON+MdXMVNoZFtUxegniDMtwK/48
-4E0FrL3LBLdhveKvKbf8D0jpns/tByOELsw3p2m+frCAfUfmjoqeuC+jpkRYF3JxI
-jSZdJozWJTwNVpvhT3Q16/0O4gLm6Uqwxz0oLpsoA/c1P/yGOqf8eFdWklu46PvZY
-KuB4Uv8TANYvk3HMGNbz2OSWnbKAFuhm7pztZdtztszbYU7VB8/UQ2FLLLoYtkXBf
-R2AB2qyvy7hbNp4Qq+NyJFuM13WOHI6EcJHAMdkpNZ3E5D9Oz9QWOELAwpcgUUOGr
-uDoK1DYVx80+Ark8BOEQ2EroNSBYhepKltUHoa7hU8168E/9RQPU5j1FPAVxzohp3
-T5ZpJlxRG6P0AvwfVXKJq0gYwpdsmY3ICi+B0FCGv9d10lpxiGg7AouUQ4MBQbgzS
-5Exe2dkmaQG5JgPwstUCr46aAVTOIKgfgHZKgWKkKdryhLNpRY10Cg6V3YYpKK2IM
-83CsIu9sCMGRj6cmruPVU0V03UUazz1msJRYtxZU7kcpEYSbWWpY4vVaRDzNwvhIa
-v58j4TUKubiiAUBLlMF/JI5WmdIpAgbNxDmH/th7Oji2cJUMicnyPWXo9ldUUt0PA
-JGGODkYUXPzQ3hj4ncI742VXxbhTe6MCkZKPu/D3y54KHyc9Q67tc533Qu7+KEX3A
-rO9FDJKPnreXD57NC9hx7CWYkh8XobtlbqKgBW2wHufEy7rtyElus0+j7PFBKjgCD
-w==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class PmWikiVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_pmwiki_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local PmWiki system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

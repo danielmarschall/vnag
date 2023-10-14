@@ -2282,57 +2282,6 @@ class VNagHelp {
 		}
 	}
 
-	private static function isCertified($file) {
-		$cont = file_get_contents($file);
-
-		$regex = '@<\?php /\* <ViaThinkSoftSignature>(.+)</ViaThinkSoftSignature> \*/ \?>\n@ismU';
-
-		$m = array();
-		if (!preg_match($regex, $cont, $m)) {
-			return false;
-		}
-		$signature = base64_decode($m[1]);
-
-		$naked = preg_replace($regex, '', $cont);
-		$hash = hash("sha256", $naked.basename($file));
-
-		$public_key = <<<'VTSKEY'
------BEGIN PUBLIC KEY-----
-MIIEIjANBgkqhkiG9w0BAQEFAAOCBA8AMIIECgKCBAEA4UEmad2KHWzfGLcAzbOD
-IhqWyoPA1Cg4zN5YK/CWUiE7sh2CNinIwYqGnIOhZLp54/Iyv3H05QeWJU7kD+jQ
-5JwR8+pqk8ZGBfqlxXUBJ2bZhYIBJZYfilSROa7jgPPrrw0CjdGLmM3wmc8ztQRv
-4GpP7MaKVyVOsRz5xEcpzghWZ+Cl8Nxq1Vo02RkMYOOPA16abxZ65lVM8Vv2EKGf
-/VAVViTFvLWPxggvt1fbJJniC0cwt8gjzFXt6IJJSRlqc1lOO9ZIa/EWDKuHKQ1n
-ENQCqnuVPFDZU3lU20Z+6+EA0YngcvNYi3ucdIvgBd4Yv5FetzuxiOZUoDRfh/3R
-6dCJ8CvRiq0BSZcynTIWNmF3AVsH7vjxZe8kMDbwZNnR0suZ5MfBh6L/s1lCEWlS
-GwmCLc3MnOLxq3JLnfmbVa509YxlUamdSswnvzes28AjnzQ3LQchspP2a8bSXH6/
-qpbwvmV5WiNgwJck04VhaXrRRy3XFSwuk7KU/L4aqadXP26kgDqIYNvPXSa9JyGc
-14zwdmAtn36o8vpXM/A7GhdWqgPLlJbdTdK6IfwpBs8P/JB6y3t6RzAGiEOITdj9
-QUhW+sAoKno0j4WT7s80vWNWz37WoFJcvVLnVEYitnW6DqM+GOt2od3g6WgI6dOa
-MESA4J44Y4x1gXBw/M6F/ZngP4EJoAUG0GbzsaZ6HKLt4pDTZmw8PnNcXrOMYkr/
-N5EliTXil45DCaLkgNJmpdXjNpIvShW4ogq2osw+SQUalnAbW8ddiaOVCdgXkDFq
-gvnl5QSeUrKPF5v+vlnwWar6Rp7iInQpnA+PTSbAlO3Dd9WqbWx+uNoI/kXUlN0O
-a/vi5Uwat2Bz3N+jIpnBqg4+O+SG0z3UCVmT6Leg+kqO/rXbzoVv/DV7E30vTqdo
-wsswdJEM1BI7Wyid6HPwBek+rdv77gUg3W37vUcdfKxsYRcoHriXLHpmENznJcEx
-/nvilw6To1zx2LKmM/p56MQriKkXnqoOBpkpn3PaWyXZKY9xJNTAbcSP3haE7z9p
-PzJw88KI8dnYuFg4yS/AgmVGAUtu3bhDG4qF9URu2ck868zViH996lraYkmFIWJG
-r7h1LImhrwDEJvb/rOW8QvOZBX9H6pcSKs/LQbeoy6HMIOTlny+S15xtiS4t6Ayv
-3m0ry5c0qkl/mgKvGpeRnNlrcr6mb2fzxxGvcuBzi25wgIbRLPgJoqsmeBvW1OLU
-+9DpkNvitEJnPRo86v0VF86aou12Sm8Wb4mtrQ7h3qLIYvw2LN2mYh4WlgrSwPpx
-YvE2+vWapilnnDWoiu2ZmDWa7WW/ihqvX9fmp/qzxQvJmBYIN8dFpgcNLqSx526N
-bwIDAQAB
------END PUBLIC KEY-----
-VTSKEY;
-
-		if (!function_exists('openssl_verify')) return null;
-
-		if (!openssl_verify($hash, $signature, $public_key, OPENSSL_ALGO_SHA256)) {
-			return false;
-		}
-
-		return true;
-	}
-
 	// $version should contain the version, not the program name or copyright.
 	protected $version;
 	public function setVersion($version) {
@@ -2350,14 +2299,6 @@ VTSKEY;
 			$ret = sprintf(VNagLang::$x_version_x, $ret, $ver);
 		}
 		$ret = trim($ret);
-
-		$certified = true;
-		foreach (get_included_files() as $file) {
-			$certified &= self::isCertified($file);
-		}
-		if ($certified) {
-			$ret .= ' (' . VNagLang::$certified . ')';
-		}
 
 		return $ret;
 	}
@@ -2498,7 +2439,6 @@ class VNagLang {
 	// Argument names (help page)
 	static $argname_value = 'value';
 	static $argname_seconds = 'seconds';
-	static $certified = 'Certified by ViaThinkSoft';
 
 	// Exceptions
 	static $query_without_expected_argument = "The argument '%s' is queried, but was not added to the list of expected arguments. Please contact the plugin author.";

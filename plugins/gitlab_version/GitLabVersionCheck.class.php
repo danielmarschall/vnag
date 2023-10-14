@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-myqtvoBJksxWOcps08w5hHhtw63ugrOY7d+PtnrZa0wOCYBwaFW2ngbvBzF4lJShC
-+/zx5NJWtn/0oAjHyhti/r6wSpOetg3gbJuh0mFq2YPyFhZ3DKS61XU711FNl8U1i
-RJah0DsEBppzATh6/SjnORteRwNP3TcVQ+0WFugA1OzjMNmn8ThYcFevH6PS3ICYB
-ydTDgJOVZVVlQWNQ5Xire7s1/if9z+hM9MhYVgmE2JR7lVKo+97KvcBg37npHezp5
-6Zs7tVgf7mVViO1pk1X0nvJdk1db0UXcxidu2+evfg7nsgUgraKqToxlrNsST41lv
-lPyOjeb9c8z788yKzTfQ6M0s1ECbkM1q8sGLjWRl1nfQwxqnLJMchJbH9iGkDL9aF
-IVPH5zo288Ta0YAy3rZTJ/KJHJ/riQVbRUPyOIWtpeC32n9YYSUh5r6G3zNrIi6Dj
-p0l0tQJ3VlBLqrReHD5xY5BiMqm9cyFFkyozsZ5qMhQ22oexvnIlvj2et40r/OMbN
-LJXOrapmkPkXeuF5ZiVlUcBMQt+uDlceCQMeLTQmtCOKgaml/ljTKGSM9byoUJQ1O
-qBKnJoAr+/wH07Xy116ZPt/u5iXDJyYiIyGVWMYfnj94zrvWmh7wab1S6uicvbnu3
-7w6hhyeTGQ/MxCseQEpNGNzYo1pL/6fCCBllPaTXLWVwbKnxWHo65Y4KyDkzdjJjU
-XA6uF8Wv+vGtpQBWG8F/jH+DFHOR9Dl3MLaSNIPVuFgCZ4YPPIfZoEiLXrjCaWI3T
-ZDBND6urBUqNWMXUSEUKmpRJoq1iBa8JF5zysl2sVck/L6uzohR9aMUZtxJkqTnHh
-KSbBm2w2NOzOqan1Gl+NR0awFeCQf2taS+vkbZmSpeLMMMi7921+hVTEzgtmTC5IP
-OKBu6ajOw25Tdaqd9YZffCJtXl5IJM9U72SHBrSKC/lt6zTaG+lk3jdy4O140TR1D
-vN1WpoPXuYw+IoI442U9uzD97/qLzkgvg2jwJWvQcVSGBCkdOj5y61ZEt/1VIHp0Z
-zKO6dIZAZQ7fCw5samLaAjAVzDzEFevI05pHZdyzXUf8Oh7DndCxMSrkgyjvid/X3
-SXAsImdKeWl35NonLmBhnpzufU0/cs6XsdWlZUD5qWoXlMRJMXSyj76ol4Lt+gAKG
-L5auTP8WAc2e+fYi8PuXXZf2bpoekQ4yu7Ynh9h5kWfbg1G4+04w9bVW2v1M0mWUk
-PaxIlL5KgjcO4BBbEKIoTYNXZIV4kBhnVWmxIv0L4r5NPzNaMRl6iIzWtehk2tWV2
-0MsvwOFIfL+OvtPGqZ8Lrfu7prFvozyVWioSSGfMMmGrPiwmS/7a5qvV3aazpNEBp
-w==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class GitLabVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vvht');
 
 		$this->getHelpManager()->setPluginName('check_gitlab_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local GitLab system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');

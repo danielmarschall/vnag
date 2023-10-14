@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-uj6Nn/5AixWCYFnSHOzNN+6Lcdw/Lq5AZkZbw5P4dDOh20Fsd04emPXxNgG7g754j
-qEnVgpmfgMIh97e/MpIvUr3RxglnNvz+ZiJywZZZGQj/wN3rHyn7UsjOq1CRts1LN
-qG/NObM5JVTBYCZkjSK6U2lxmpTgKZgwAwfSaSvp/KIChenFdvAVYmCMU/kJddMp1
-b44Y96U1JziUMe4VoMnCFzeO7YKHmlfmoJJKvSEQOOKBKcWny0yqh/uv8mK40F5Wg
-OP3zBBp+vMrvihBFvHJzewwBfud/FXHFWhsSuAj1NzllmDJ0G+59h52DYzWigoOsJ
-HeqVo3bsqLIJdeM/vZsZkZfl3uDBtK2brEUAKsu09s/k2uz+WwmGPu7Nnk8z7n/qo
-R6WIWABQ8/8ltd9/GF2uuaeUH4I/vfad8rbKQz9bkhtpIhZpHbXc5UdxTqdzG1z2e
-QRpiPkWuqCTPV2bAMq1IJ0W0A37Q0lDE990O5UXWYnvG78MVk01IBpJnoJswXvHkT
-69H4aeFEWaQbqoAkELbua6CEXruKCVKAK7t67Qfv3yoNSMD0IHvHpKQc2TRG89mAf
-WY1+h8AY3WNHAsjRSeS5p6cPaU6kfcF6vDfY+j20KYdZCyTd0tm4QTz0WC7ONz5aW
-ZIQT8U/g05EYJgwWL533V3QcgNFgL0h/ee3LtKAHE0e16q0OkZWx8ZxN82zh3aJmc
-c88lK4zzbKpMSi4vYcmlfpnCQIdMuq5NKWDcB5xErbKaLNuTnYYoKNxSnMMTwbVkG
-efEzMBp4j6cfA5tYlyldW+odwRjvJyKyGtfXQspeuL0hPeG7978+L3bPIDbiWdYlR
-a3md3Nibaxf1IW4pW7WL8QvHQlp1EV1ji/Fj0en44+J9+vdVRIimXBSZcy20sxuP/
-vFnn1QY1Vu88dAGgtaFw0JA7yam51QN8mwxb3LHHaouac596PaogZxytkbSdLEkYt
-/ERN0rDeV1z0c+IkIbUFeiYsZGMWQJOYWgxpT+2G9RIrtKTvws+ys7G0nJPMd9uO8
-9zIJCNwoxJIdact5pQ+JM/ty14u7i3QSX6QpAQ51FZyzWjYtpk6VCwplrfgD7qnW6
-Nz0OKVUszbNLvoT40s5rJR00AYY0vdhppa840Mx8gpZRmf44aFh37sZ9LwLAYSM2V
-XCxzpoH3/Xd2zqhvwXNBXV4gifLI9igRJOrpLA6lskdDaTfeNmmcTKKMaayX8mg5R
-H0i/e+ZHyuKpVEYdoee4wFjX4k0UIsUYvKH/VNVNkRnm8S0ENYv+RQcPv8xNaHiwL
-zRPKlv2dUaWmz0d0oOrYRbgesS+TLEMxIp5zGx5qlKqLSz4xW9EPm+kJFTYP2HGiW
-A==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -50,7 +26,7 @@ class HpSmartArrayCheck extends VNag {
 		$this->addExpectedArgument($this->argSlot = new VNagArgument('s', 'slot', VNagArgument::VALUE_REQUIRED, 'slot', 'The slot of the Smart Array controller.', null));
 
 		$this->getHelpManager()->setPluginName('vnag_hp_smartarray');
-		$this->getHelpManager()->setVersion('1.2');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks the controller and disk status of a HP SmartArray RAID controller (using ssacli).');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ --slot slotnumber');

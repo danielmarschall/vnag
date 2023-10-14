@@ -1,27 +1,3 @@
-<?php /* <ViaThinkSoftSignature>
-cyqSbtYKaD5MUhgAs4Z9sDuPHiH1rAb4gJIjlA3nWH3uT/M+CveQvXYoQW3kLyXD9
-uM7k4o4CGPpjyJnflqluGqtaXx5x7dKC96hWM8OqWixpv65hE+oISA5Dap9bSy2RQ
-2KJsSY4Pw1Rp2QrbZo7f8z2eGVUkmonbRwmDWd3iy9G2FCHvmuEd84YAtDmCB/tY0
-yG+w5ilEMZPe+DYOPhOiAA02qWPlTotF27HaMKBWOANCNc4EfD8WB+/rkdv8VvFqT
-d1TiDYWr17tcohafgt/D9jGqkn4798lEGesd9kIzHBVv7IlrNz3HLmNsMQpnn4fbP
-KmxFuwxBlcxLbODiHGL75dXG6rlf1luXFJqbdb6+GqBMozImeeK/9LZV9NDl0nIcS
-5EDN1OvZm6R8W9AYCjOYvWC4CrZSEzNcwDF5sGtDHHmNme/TLiWVH/E1Krzz5LRHw
-UdJgvlFzOrGxvlJVhuEWaHbEGhv2YoTPYOzAZMuQe231faOV/0wuaPsV6FYCusb9/
-Ykb/IFAEqXbw0mUZac2IRkAmy8jTg4FXmMbD6EXcR5zgMRi1I+ZeuN7hKesOmme0W
-bvbjcO8K+f2pm4TK7t214KteqZ//tUW4nqGaSvMCb1Qakir6gjF62TvqTQD2PRvU5
-0pqWr6X3OrbbVGhrz2lE3WldW/lXDBk/4UgA3TKpDUoQpXSz7O7SNTkyCZrAqBLqB
-5mIKz+8HumNOVhTkufWyyORNWpkjz8l+x7mdaj4c3Ennpfa5+WwMx/5DPvVNkasqI
-9cb0qF3ZDfxVYKnGpJFV6cNtyw49mh3MtU4i6LXYWj/PajTeleGBZOUW7VxdhOIqp
-AS3orn9AeQZKEEG2JwSm1ITMQ2KFxEoFItt+D9CMOwu7/zw0J4ErHFbU/eQUBwWJy
-t5oS1FjhhgO8RGCeOdJGd5of7wlUvFQD4NgaJ/aurFd5pTUS1riwDjoJoWvxBZPNf
-8n+wRBg21iVhpQBvofvhcxw4enGSXSh8T/M6IekHP0vrq0wEsNFsg5rLGEx72fH6k
-l80RCRLaVz8jXxeoMzLARuVqpmLO4b23pMkhsCLEZAuaNceQVgEM80/LV06qRGHEO
-RA9xvDWiGCIEYgp7zJMSeuRRsa/zP49mbj5GcBbMQ7r0iAkyrQJR26V6/erYU5phr
-YO8A80zKAVPaCL4GrGrDcm39Q+3J7RPyVI7XSrws/u4nhHkvJ+9BH4K+BF6+ykCwv
-1vdrcxB+FFcvhsqFNiUNviCN4MdIyunpR2EaWIp8rCYN9LQVkrbczJmBTsXjznexz
-cQFyZGH9F/2sPeoluE6oA+HrVA9jzJdgByeAY6S67pUZn4s8gfVRZvIvER7HQ/6hu
-Q==
-</ViaThinkSoftSignature> */ ?>
 <?php
 
 /*
@@ -43,7 +19,7 @@ class PhpMyAdminVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_phpmyadmin_version');
-		$this->getHelpManager()->setVersion('1.0');
+		$this->getHelpManager()->setVersion('2023-10-13');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local phpMyAdmin system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');
