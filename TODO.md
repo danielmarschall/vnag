@@ -1,10 +1,4 @@
 
-Big change 2023
----------------
-
-- put all sources in src/
-
-
 TODO
 ----
 
