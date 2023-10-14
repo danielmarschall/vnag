@@ -67,8 +67,10 @@ function vnag_make_phar($plugin) {
 		$phar->addFromString ($input_file_short, php_strip_whitespace ($input_file));
 	}
 
-	$shebang = '#!/usr/bin/env php';
-	$phar->setStub(($shebang ? $shebang . PHP_EOL : "") . $phar->createDefaultStub($main));
+	$stub  = "#!/usr/bin/env php\n";
+	$stub .= "<?php @ob_end_clean(); ?>"; // ob_end_clean() avoids that Shebang is sent to webserver daemon
+	$stub .= $phar->createDefaultStub($main);
+	$phar->setStub($stub);
 
 	#$private = openssl_get_privatekey(file_get_contents(__DIR__.'/private.pem'));
 	#$pkey = '';
