@@ -38,13 +38,20 @@ function vnag_make_phar($plugin) {
 	# ---
 
 	$max_mtime = 0;
+	$algo = 'sha256';
+	$checksums = $algo.'||';
+	ksort($files_for_phar);
 	foreach ($files_for_phar as $input_file_short => $input_file) {
 		$max_mtime = max($max_mtime, filemtime($input_file));
+		$checksums .= $input_file_short.'|'.hash_file($algo,$input_file).'||';
 	}
 
 	if (file_exists($filename)) {
-		if (filemtime($filename) >= $max_mtime) {
+		$phar = new Phar($filename);
+		$metadata = $phar->getMetadata();
+		if (($metadata['1.3.6.1.4.1.37476.3.0.2']??'') == $checksums) {
 			echo "Plugin $filename already up-to-date\n";
+			$phar = null;
 			return;
 		}
 	}
@@ -68,6 +75,11 @@ function vnag_make_phar($plugin) {
 	#$phar->setSignatureAlgorithm(Phar::OPENSSL, $pkey);
 	#copy(__DIR__.'/public.pem', $filename.'.pubkey');
 	$phar->setSignatureAlgorithm(Phar::SHA512);
+
+	$metadata = [];
+	$metadata['1.3.6.1.4.1.37476.3.0.2'] = $checksums;
+	#$metadata['bootstrap'] = $main;
+	$phar->setMetadata($metadata);
 
 	$phar = null; // save
 
