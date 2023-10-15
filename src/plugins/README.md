@@ -1,5 +1,5 @@
 
-VNAG PLUGIN OVERVIEW
+VNag plugin overview
 ====================
 
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
@@ -43,9 +43,10 @@ VNAG PLUGIN OVERVIEW
 |                           | vnag_websvn_version        | No             | Generic           |                                                                       |
 |                           | vnag_viewvc_version        | No             | Generic           |                                                                       |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
-|                           | vnag_faindex_ts            | No             | VTS Internal      |                                                                       |
-|                           | vnag_bulbcam_*             | No             | VTS Internal      |                                                                       |
+|                           | vnag_faindex               | No             | VTS Internal      |                                                                       |
+|                           | vnag_fasearch              | No             | VTS Internal      |                                                                       |
+|                           | vnag_bulbcam_* (Discont.)  | No             | VTS Internal      |                                                                       |
 |                           | vnag_oidinfo_linkcheck     | No             | VTS Internal      |                                                                       |
-|                           | vnag_vwi_timestamp         | Yes            | VTS Internal      |                                                                       |
 |                           | vnag_vts_command_listener  | No             | VTS Internal      |                                                                       |
+|                           | vnag_vwi_timestamp         | Yes            | VTS Internal      | Available here: https://whois.viathinksoft.de/vnag/                                                                      |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
