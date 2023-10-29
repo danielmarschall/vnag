@@ -5,7 +5,7 @@
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2023-10-13
+ * Revision 2023-10-29
  */
 
 // TODO: Should we also warn if a newer major version is released?
@@ -113,9 +113,9 @@ class PhpBbVersionCheck extends VNag {
 		$ext_json_files = glob($system_dir.'/ext/*/*/composer.json');
 		foreach ($ext_json_files as $ext_json_file) {
 			$cont = @file_get_contents($ext_json_file);
-			if ($cont === false) continue; // TODO: throw exception?
+			if ($cont === false) throw new VNagException("Cannot read file $ext_json_file");
 			$ext_json_client = @json_decode($cont,true);
-			if ($ext_json_client === false) continue; // TODO: throw exception?
+			if ($ext_json_client === false) throw new VNagException("Cannot read JSON data from $ext_json_file");
 			$extname = $ext_json_client['name'];
 			$version = $ext_json_client['version'];
 			$total_extensions++;

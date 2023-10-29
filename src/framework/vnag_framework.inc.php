@@ -463,7 +463,7 @@ abstract class VNag {
 
 				if ($this->argHandler->illegalUsage()) {
 					$content = $this->helpObj->printUsagePage();
-	                                $this->setStatus(VNag::STATUS_UNKNOWN);
+					$this->setStatus(VNag::STATUS_UNKNOWN);
 
 					if ($this->is_http_mode()) {
 						echo $this->html_before;
@@ -479,7 +479,7 @@ abstract class VNag {
 
 				if (!is_null($this->argVersion) && ($this->argVersion->available())) {
 					$content = $this->helpObj->printVersionPage();
-	                                $this->setStatus(VNag::STATUS_UNKNOWN);
+					$this->setStatus(VNag::STATUS_UNKNOWN);
 
 					if ($this->is_http_mode()) {
 						echo $this->html_before;
@@ -571,9 +571,9 @@ abstract class VNag {
 			$content = $status_text;
 		} else {
 			if ($this->show_status_in_headline) {
-			        $content = $status_text.': '.$this->getHeadline();
+				$content = $status_text.': '.$this->getHeadline();
 			} else {
-			        $content = $this->getHeadline();
+				$content = $this->getHeadline();
 			}
 		}
 
@@ -624,7 +624,7 @@ abstract class VNag {
 	}
 
 	public function clearPerformanceData() {
-                $this->performanceDataObjects = array();
+		$this->performanceDataObjects = array();
 	}
 
 	public function getVerboseInfo() {
@@ -647,9 +647,9 @@ abstract class VNag {
 				$content .= $status_text;
 			} else {
 				if ($this->show_status_in_headline) {
-				        $content .= $status_text.': '.trim($this->getHeadline());
+					$content .= $status_text.': '.trim($this->getHeadline());
 				} else {
-				        $content .= trim($this->getHeadline());
+					$content .= trim($this->getHeadline());
 				}
 			}
 			$content .= "\n\n";
@@ -1674,31 +1674,31 @@ class VNagValueUomPair {
 
 		// The value is normalized to seconds or megabytes
 		if ($res->uom === 'ms') {
-                        $res->uom = 's';
-                        $res->value /= 1000;
+			$res->uom = 's';
+			$res->value /= 1000;
 		}
 		if ($res->uom === 'us') {
-                        $res->uom = 's';
-                        $res->value /= 1000 * 1000;
+			$res->uom = 's';
+			$res->value /= 1000 * 1000;
 		}
 		if ($res->uom === 'B') {
-                        $res->uom = 'MB';
-                        $res->value /= 1024 * 1024;
+			$res->uom = 'MB';
+			$res->value /= 1024 * 1024;
 		}
 		if ($res->uom === 'KB') {
-                        $res->uom = 'MB';
-                        $res->value /= 1024;
+			$res->uom = 'MB';
+			$res->value /= 1024;
 		}
 		if ($res->uom === 'GB') {
-                        $res->uom = 'MB';
-                        $res->value *= 1024;
+			$res->uom = 'MB';
+			$res->value *= 1024;
 		}
 		if ($res->uom === 'TB') {
-                        $res->uom = 'MB';
-                        $res->value *= 1024 * 1024;
+			$res->uom = 'MB';
+			$res->value *= 1024 * 1024;
 		}
 		if ($res->uom === 'c') {
-                        $res->uom = '';
+			$res->uom = '';
 		}
 
 		// Now, if the user wishes, convert to another unit
@@ -1778,7 +1778,7 @@ class VNagPerformanceData {
 	protected $max = null;
 
 	public static function createByString($perfdata) {
-                $perfdata = trim($perfdata);
+		$perfdata = trim($perfdata);
 
 		$ary = explode('=',$perfdata);
 		if (count($ary) != 2) {
@@ -2159,8 +2159,8 @@ class VNagLang {
 	static $perfdata_min_must_be_in_class = 'Min must be in class [-0-9.] or empty.';
 	static $perfdata_max_must_be_in_class = 'Max must be in class [-0-9.] or empty.';
 	static $perfdata_uom_not_recognized = 'UOM (unit of measurement) "%s" is not recognized.';
-        static $perfdata_mixed_uom_not_implemented = 'Mixed UOMs (%s and %s) are currently not supported.';
-        static $no_compatible_range_uom_found = 'Measured values are not compatible with the provided warning/critical parameter. Most likely, the UOM is incompatible.';
+	static $perfdata_mixed_uom_not_implemented = 'Mixed UOMs (%s and %s) are currently not supported.';
+	static $no_compatible_range_uom_found = 'Measured values are not compatible with the provided warning/critical parameter. Most likely, the UOM is incompatible.';
 	static $exception_x = '%s (%s)';
 	static $no_syntax_defined = 'The author of this plugin has not defined a syntax for this plugin.';
 	static $usage_x = "Usage:\n%s";
@@ -2248,5 +2248,3 @@ function vnagErrorHandler($errorkind, $errortext, $file, $line) {
 
 $inside_vnag_run = false;
 $old_error_handler = set_error_handler("vnagErrorHandler");
-
-// === End of document ===

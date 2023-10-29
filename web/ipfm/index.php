@@ -5,7 +5,7 @@
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2018-07-19
+ * Revision 2023-10-29
  */
 
 // This file (index.php) is intended to be called by your browser.
@@ -29,7 +29,7 @@ if (!ALLOW_HTTP_PARAMTER_OVERWRITE) {
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<meta http-equiv="refresh" content="300; URL=<?php echo isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : ''; ?>">
+	<meta http-equiv="refresh" content="300; URL=<?php echo htmlentities($_SERVER['REQUEST_URI'] ?? 'index.php'); ?>">
 	<title>Traffic monitor</title>
 	<?php if (USE_DYGRAPH) { ?>
 	<!--[if IE]>

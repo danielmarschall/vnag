@@ -8,7 +8,7 @@
  * Revision 2023-10-13
  */
 
-// TODO: Anstelle "-d diskname[,diskname[,...]]" wäre es schöner ohne Komma, denn dann könnte man auch die Shell Erweiterung /dev/sd* nutzen
+// TODO: Instead of "-d diskname[,diskname[,...]]", it would be nicer without comma, because then you could also use shell extensions /dev/sd*
 
 declare(ticks=1);
 

@@ -14,10 +14,10 @@
 
 # ---
 
-# TODO: trennen zwischen server (ip1, ip2) ermöglichen...
-# TODO: prüfen lassen ob die config von ipfm korrekt ist (dumped every 1 hour)
-# TODO: monat vor/zurückscrollen? (mon/year)
-# TODO: anstelle "year .... overview" lieber "last 12 months"
+# TODO: distinct between multiple servers (ip1, ip2)
+# TODO: check if the configuration of ipfm is correct (dumped every 1 hour)
+# TODO: scroll forward/backward month? (mon/year)
+# TODO: instead "year .... overview" better "last 12 months"
 # TODO: Some hosts might reset the traffic counter at any other day of the month. Should we also support this?
 
 # ---
