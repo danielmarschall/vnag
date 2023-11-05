@@ -106,7 +106,7 @@ class OpenBugBountyCheck extends VNag {
 		$cont = $this->url_get_contents($privateapi, $max_cache_time);
 		if ($cont === false) throw new VNagException("This is probably not a correct Private API URL, or the service is down (GET request failed)");
 		$ary = @json_decode($cont,true);
-		if ($ary === false) throw new VNagException("This is probably not a correct Private API URL, or the service is down (JSON Decode failed)");
+		if ($ary === null) throw new VNagException("This is probably not a correct Private API URL, or the service is down (JSON Decode failed)");
 
 		foreach ($ary as $id => $data) {
 			/*

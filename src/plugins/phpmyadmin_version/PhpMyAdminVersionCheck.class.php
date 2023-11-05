@@ -60,7 +60,7 @@ class PhpMyAdminVersionCheck extends VNag {
 		}
 
 		$json = @json_decode($cont, true);
-		if ($json === false) {
+		if ($json === null) {
 			throw new VNagException('Cannot parse version from phpMyAdmin website. The plugin probably needs to be updated. (Invalid JSON data downloaded from phpmyadmin.net)');
 		}
 		return $json['version'];

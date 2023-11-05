@@ -66,13 +66,13 @@ class MinecraftJavaVersionCheck extends VNag {
 
 			$cont = implode("\n",$out);
 
-			assert(@json_decode($cont,true) !== false);
+			assert(@json_decode($cont,true) !== null);
 
 			@file_put_contents($cache_file, $cont);
 		}
 
 		$json = @json_decode($cont,true);
-		if ($json === false) throw new VNagException("version.json has invalid JSON data");
+		if ($json === null) throw new VNagException("version.json has invalid JSON data");
 		return (string)$json['name'];
 	}
 
@@ -80,7 +80,7 @@ class MinecraftJavaVersionCheck extends VNag {
 		$cont = $this->url_get_contents('https://launchermeta.mojang.com/mc/game/version_manifest.json');
 		if ($cont === false) throw new VNagException("Cannot detect latest available Minecraft version (GET request failed)");
 		$json = @json_decode($cont, true);
-		if ($json === false) throw new VNagException("Cannot detect latest available Minecraft version (JSON invalid data)");
+		if ($json === null) throw new VNagException("Cannot detect latest available Minecraft version (JSON invalid data)");
 		$version = $json['latest']['release'] ?? null;
 		if (!$version) throw new VNagException("Cannot detect latest available Minecraft version (JSON does not contain version)");
 		return $version;

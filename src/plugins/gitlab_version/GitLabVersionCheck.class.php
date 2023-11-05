@@ -41,7 +41,7 @@ class GitLabVersionCheck extends VNag {
 			throw new VNagException('Cannot read version-manifest.json from GitLab installation in "'.$dir.'".');
 		}
 		$json = @json_decode($cont,true);
-		if ($json === false) {
+		if ($json === null) {
 			throw new VNagException('This is not a valid GitLab installation in "'.$dir.'" (version-manifest.json has invalid JSON data).');
 		}
 

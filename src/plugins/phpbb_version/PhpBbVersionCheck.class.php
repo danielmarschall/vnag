@@ -85,7 +85,7 @@ class PhpBbVersionCheck extends VNag {
 			throw new VNagException('Could not determinate latest phpBB version');
 		}
 		$json = @json_decode($cont,true);
-		if ($json === false) {
+		if ($json === null) {
 			throw new VNagException('Could not determinate latest phpBB version');
 		}
 
@@ -115,7 +115,7 @@ class PhpBbVersionCheck extends VNag {
 			$cont = @file_get_contents($ext_json_file);
 			if ($cont === false) throw new VNagException("Cannot read file $ext_json_file");
 			$ext_json_client = @json_decode($cont,true);
-			if ($ext_json_client === false) throw new VNagException("Cannot read JSON data from $ext_json_file");
+			if ($ext_json_client === null) throw new VNagException("Cannot read JSON data from $ext_json_file");
 			$extname = $ext_json_client['name'];
 			$version = $ext_json_client['version'];
 			$total_extensions++;
@@ -133,7 +133,7 @@ class PhpBbVersionCheck extends VNag {
 					continue;
 				}
 				$json = @json_decode($cont,true);
-				if ($json === false) {
+				if ($json === null) {
 					$this->setStatus(VNag::STATUS_WARNING);
 					$this->addVerboseMessage("Extension $extname : Cannot reach update-server (Version $version)!", VNag::VERBOSITY_SUMMARY);
 					$check_errors++;

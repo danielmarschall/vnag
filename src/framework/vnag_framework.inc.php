@@ -11,7 +11,7 @@
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2023-10-13
+      Revision 2023-11-05
 
 */
 
@@ -44,7 +44,7 @@ function _empty($x) {
 }
 
 abstract class VNag {
-	/*public*/ const VNAG_VERSION = '2023-10-13';
+	/*public*/ const VNAG_VERSION = '2023-11-05';
 
 	// Status 0..3 for STATUSMODEL_SERVICE (the default status model):
 	# The guideline states: "Higher-level errors (such as name resolution errors, socket timeouts, etc) are outside of the control of plugins and should generally NOT be reported as UNKNOWN states."
@@ -782,7 +782,7 @@ abstract class VNag {
 					}
 
 					$payload = @json_decode($payload,true);
-					if (!$payload) {
+					if ($payload === null) {
 						throw new VNagWebInfoException(VNagLang::$payload_not_json);
 					}
 

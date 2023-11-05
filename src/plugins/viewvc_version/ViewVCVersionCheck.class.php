@@ -54,7 +54,7 @@ class ViewVCVersionCheck extends VNag {
 		}
 
 		$data = @json_decode($cont, true);
-		if ($data === false) {
+		if ($data === null) {
 			throw new VNagException('Cannot parse version from GitHub API. The plugin probably needs to be updated. (Invalid JSON data downloaded from api.github.com)');
 		}
 

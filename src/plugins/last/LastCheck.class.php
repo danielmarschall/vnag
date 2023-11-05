@@ -48,7 +48,7 @@ class LastCheck extends VNag {
 
 		$this->cacheFile = $this->get_cache_dir().'/'.hash('sha256','LastCheck:last_ip_cache');
 		if (!file_exists($this->cacheFile)) @touch($this->cacheFile);
-		$this->cache = $this->cacheFile ? json_decode(file_get_contents($this->cacheFile),true) : array();
+		$this->cache = $this->cacheFile ? @json_decode(file_get_contents($this->cacheFile),true) : array();
 	}
 
 	public function __destruct() {
@@ -67,7 +67,7 @@ class LastCheck extends VNag {
 		// fwrite(STDERR, "Note: Will query $url\n");
 		$cont = $this->url_get_contents($url);
 		if ($cont === false) return array();
-		if (($data = @json_decode($cont, true)) === false) return array();
+		if (($data = @json_decode($cont, true)) === null) return array();
 		if (isset($data['error'])) return array();
 
 		if (isset($data['bogon']) && ($data['bogon'])) {
