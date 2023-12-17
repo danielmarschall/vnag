@@ -21,6 +21,19 @@ More information on how to develop your plugin, see doc/Plugin_Development.md
 
 ****************************************************************************************************/
 
+// https://nagios-plugins.org/doc/guidelines.html
+// Detected substantial changes between documents of copyright years 2013 and 2018 (HTML fetched on 17 December 2023):
+// Section "Performance data":
+//   2013: "UOM (unit of measurement) is one of: [s/us/ms, %, B/KB/MB/TB, c]"
+//   2018: "UOM (unit of measurement) is a string of zero or more characters, NOT including numbers, semicolons, or quotes. Some examples: [s/us/ms, %, B/KB/MB/TB, c]"
+// Section "Perl Plugins":
+//   2013: "(these simply do not compile under ePN)."
+//   2018: "(these simply do not compile under ePNP."   (introduced a typo!)
+// Section "Plugin Options":
+//   2013: "Code and output should try to respect the 80x25 size of a crt (remember when fixing stuff in the server room!)"
+//   2018: "Code and output should try to respect the 80x25 size of a standard terminal."
+// Various internal stuff like SourceForge, GitHub, etc., which is not relevant for the plugin interface.
+
 if (!VNag::is_http_mode()) error_reporting(E_ALL);
 
 # If you want to use -t/--timeout with your module, you must add following line in your module code:
@@ -32,7 +45,8 @@ declare(ticks=1);
 # PHP should set this time limit to infinite.
 set_time_limit(0);
 
-define('VNAG_JSONDATA_V1', 'oid:1.3.6.1.4.1.37476.2.3.1.1'); // {iso(1) identified-organization(3) dod(6) internet(1) private(4) enterprise(1) 37476 products(2) vnag(3) jsondata(1) v1(1)}
+// {iso(1) identified-organization(3) dod(6) internet(1) private(4) enterprise(1) 37476 products(2) vnag(3) jsondata(1) v1(1)}
+define('VNAG_JSONDATA_V1', 'oid:1.3.6.1.4.1.37476.2.3.1.1');
 
 // Set this to an array to overwrite getopt() and $_REQUEST[], respectively.
 // Useful for mock tests.
@@ -1031,7 +1045,7 @@ abstract class VNag {
 			if (@mkdir($try,0777,true)) return $try;
 		}
 
-		throw new VNagException("Cannot get cache dir"); // TODO: translate and own exception type
+		throw new VNagException(VNagLang::$cannotGetCacheDir);
 	}
 
 	// This is not used by the framework itself, but can be useful for a lot of plugins
@@ -1653,11 +1667,11 @@ class VNagValueUomPair {
 	public static function isKnownUOM(string $uom) {
 		// see https://nagios-plugins.org/doc/guidelines.html#AEN200
 		// 10. UOM (unit of measurement)
-		// Previous definition:
-		//      "[UOM] is one of": (none), s, us, ms, %, B, KB, MB, TB, c
-		// New definition, introduced somewhere in 2019:
-		//      "[UOM] is one of" was replaced with "Some examples"
-		//      Added 17 Dec 2023: d, m, h, ns, PB, EB, ZB, YB
+		// Definition as of 2013:
+		//      "UOM (unit of measurement) is one of: [s/us/ms, %, B/KB/MB/TB, c]"
+		// New definition since 2018:
+		//      "UOM (unit of measurement) is a string of zero or more characters, NOT including numbers, semicolons, or quotes. Some examples: [s/us/ms, %, B/KB/MB/TB, c]"
+		//      Added to VNag on 17 Dec 2023: d, m, h, ns, PB, EB, ZB, YB
 
 		// no unit specified - assume a number (int or float) of things (eg, users, processes, load averages)
 		$no_unit = ($uom === '');
@@ -2253,6 +2267,7 @@ class VNagLang {
 	static $php_error = 'PHP has detected an error in the plugin. Please contact the plugin author.';
 	static $output_level_lowered = "Output Buffer level lowered during cbRun(). Please contact the plugin author.";
 	static $openssl_missing = "OpenSSL is missing. Therefore, encryption and signatures are not available.";
+	static $cannotGetCacheDir = "Cannot get cache dir.";
 
 	// Help texts
 	static $warning_range = 'Warning range';
