@@ -11,7 +11,7 @@
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2023-11-05
+      Revision 2023-12-17
 
 */
 
@@ -44,7 +44,7 @@ function _empty($x) {
 }
 
 abstract class VNag {
-	/*public*/ const VNAG_VERSION = '2023-11-05';
+	/*public*/ const VNAG_VERSION = '2023-12-17';
 
 	// Status 0..3 for STATUSMODEL_SERVICE (the default status model):
 	# The guideline states: "Higher-level errors (such as name resolution errors, socket timeouts, etc) are outside of the control of plugins and should generally NOT be reported as UNKNOWN states."
@@ -1652,17 +1652,22 @@ class VNagValueUomPair {
 
 	public static function isKnownUOM(string $uom) {
 		// see https://nagios-plugins.org/doc/guidelines.html#AEN200
-		// 10. UOM (unit of measurement) is one of:
+		// 10. UOM (unit of measurement)
+		// Previous definition:
+		//      "[UOM] is one of": (none), s, us, ms, %, B, KB, MB, TB, c
+		// New definition, introduced somewhere in 2019:
+		//      "[UOM] is one of" was replaced with "Some examples"
+		//      Added 17 Dec 2023: d, m, h, ns, PB, EB, ZB, YB
 
 		// no unit specified - assume a number (int or float) of things (eg, users, processes, load averages)
 		$no_unit = ($uom === '');
 		// s - seconds (also us, ms)
-		$seconds = ($uom === 's') || ($uom === 'ms') || ($uom === 'us');
+		$seconds = ($uom === 'd') || ($uom === 'h') || ($uom === 'm') || ($uom === 's') || ($uom === 'ms') || ($uom === 'us') || ($uom === 'ns');
 		// % - percentage
 		$percentage = ($uom === '%');
 		// B - bytes (also KB, MB, TB)
 		// NOTE: GB is not in the official development guidelines,probably due to an error, so I've added them anyway
-		$bytes = ($uom === 'B') || ($uom === 'KB') || ($uom === 'MB') || ($uom === 'GB') || ($uom === 'TB');
+		$bytes = ($uom === 'B') || ($uom === 'KB') || ($uom === 'MB') || ($uom === 'GB') || ($uom === 'TB') || ($uom === 'PB') || ($uom === 'EB') || ($uom === 'ZB') || ($uom === 'YB');
 		// c - a continous counter (such as bytes transmitted on an interface)
 		$counter = ($uom === 'c');
 
@@ -1673,6 +1678,18 @@ class VNagValueUomPair {
 		$res = clone $this;
 
 		// The value is normalized to seconds or megabytes
+		if ($res->uom === 'd') { // Added by DM 17 Dec 2023
+			$res->uom = 's';
+			$res->value *= 60 * 60 * 24;
+		}
+		if ($res->uom === 'h') { // Added by DM 17 Dec 2023
+			$res->uom = 's';
+			$res->value *= 60 * 60;
+		}
+		if ($res->uom === 'm') { // Added by DM 17 Dec 2023
+			$res->uom = 's';
+			$res->value *= 60;
+		}
 		if ($res->uom === 'ms') {
 			$res->uom = 's';
 			$res->value /= 1000;
@@ -1680,6 +1697,10 @@ class VNagValueUomPair {
 		if ($res->uom === 'us') {
 			$res->uom = 's';
 			$res->value /= 1000 * 1000;
+		}
+		if ($res->uom === 'ns') { // Added by DM 17 Dec 2023
+			$res->uom = 's';
+			$res->value /= 1000 * 1000 * 1000;
 		}
 		if ($res->uom === 'B') {
 			$res->uom = 'MB';
@@ -1696,6 +1717,22 @@ class VNagValueUomPair {
 		if ($res->uom === 'TB') {
 			$res->uom = 'MB';
 			$res->value *= 1024 * 1024;
+		}
+		if ($res->uom === 'PB') { // Added by DM 17 Dec 2023
+			$res->uom = 'MB';
+			$res->value *= 1024 * 1024 * 1024;
+		}
+		if ($res->uom === 'EB') { // Added by DM 17 Dec 2023
+			$res->uom = 'MB';
+			$res->value *= 1024 * 1024 * 1024 * 1024;
+		}
+		if ($res->uom === 'ZB') { // Added by DM 17 Dec 2023
+			$res->uom = 'MB';
+			$res->value *= 1024 * 1024 * 1024 * 1024 * 1024;
+		}
+		if ($res->uom === 'YB') { // Added by DM 17 Dec 2023
+			$res->uom = 'MB';
+			$res->value *= 1024 * 1024 * 1024 * 1024 * 1024 * 1024;
 		}
 		if ($res->uom === 'c') {
 			$res->uom = '';
@@ -1719,19 +1756,43 @@ class VNagValueUomPair {
 				} else if ($target == 'TB') {
 					$res->uom = 'TB';
 					$res->value /= 1024 * 1024;
+				} else if ($target == 'PB') { // Added by DM 17 Dec 2023
+					$res->uom = 'PB';
+					$res->value /= 1024 * 1024 * 1024;
+				} else if ($target == 'EB') { // Added by DM 17 Dec 2023
+					$res->uom = 'EB';
+					$res->value /= 1024 * 1024 * 1024 * 1024;
+				} else if ($target == 'ZB') { // Added by DM 17 Dec 2023
+					$res->uom = 'ZB';
+					$res->value /= 1024 * 1024 * 1024 * 1024 * 1024;
+				} else if ($target == 'YB') { // Added by DM 17 Dec 2023
+					$res->uom = 'YB';
+					$res->value /= 1024 * 1024 * 1024 * 1024 * 1024 * 1024;
 				} else {
 					throw new VNagUomConvertException($res->uom, $target);
 				}
 			} else if ($res->uom == 's') {
-				if ($target == 's') {
+				if ($target == 'd') { // Added by DM 17 Dec 2023
+					$res->uom = 'd';
+					$res->value *= 24 * 60 * 60;
+				} else if ($target == 'h') { // Added by DM 17 Dec 2023
+					$res->uom = 'h';
+					$res->value *= 60 * 60;
+				} else if ($target == 'm') { // Added by DM 17 Dec 2023
+					$res->uom = 'm';
+					$res->value *= 60;
+				} else if ($target == 's') {
 					$res->uom = 's';
-					$res->value /= 1;
+					$res->value *= 1;
 				} else if ($target == 'ms') {
 					$res->uom = 'ms';
 					$res->value /= 1000;
 				} else if ($target == 'us') {
 					$res->uom = 'us';
 					$res->value /= 1000 * 1000;
+				} else if ($target == 'ns') { // Added by DM 17 Dec 2023
+					$res->uom = 'ns';
+					$res->value /= 1000 * 1000 * 1000;
 				} else {
 					throw new VNagUomConvertException($res->uom, $target);
 				}
