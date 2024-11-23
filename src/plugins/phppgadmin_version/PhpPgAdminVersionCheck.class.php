@@ -65,7 +65,7 @@ class PhpPgAdminVersionCheck extends VNag {
 		} else if ($fork == 'Original') {
 			$history = 'https://github.com/phppgadmin/phppgadmin/raw/refs/heads/master/HISTORY';
 		} else {
-			assert(false);
+			$history = 'https://github.com/'.$fork.'/phppgadmin/raw/refs/heads/master/HISTORY';
 		}
 
 		$cont = $this->url_get_contents($history);
