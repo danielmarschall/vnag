@@ -21,6 +21,7 @@ VNag plugin overview
 | openbugbounty             | vnag_openbugbounty         | No             | Generic           |                                                                       |
 | phpbb3_version            | vnag_phpbb_version         | No             | Generic           |                                                                       |
 | phpmyadmin_version        | vnag_phpmyadmin_version    | No             | Generic           |                                                                       |
+| phppgadmin_version        | vnag_phppgadmin_version    | No             | Generic           |                                                                       |
 | ping                      | vnag_ping                  | Yes            | Generic           |                                                                       |
 | positive_responder        | (Discontinued)             | -              | -                 | Was only intended as test monitor.                                    |
 | roundcube_version         | vnag_roundcube_version     | No             | Generic           |                                                                       |
