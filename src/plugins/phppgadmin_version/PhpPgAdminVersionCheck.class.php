@@ -5,7 +5,7 @@
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2024-11-23
+ * Revision 2024-11-27
  */
 
 declare(ticks=1);
@@ -19,7 +19,7 @@ class PhpPgAdminVersionCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_phppgadmin_version');
-		$this->getHelpManager()->setVersion('2024-11-23');
+		$this->getHelpManager()->setVersion('2024-11-27');
 		$this->getHelpManager()->setShortDescription('This plugin checks if a local phpPgAdmin system has the latest version installed.');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d <directory>]');
@@ -32,52 +32,64 @@ class PhpPgAdminVersionCheck extends VNag {
 	protected function get_local_version($path) {
 		$path = realpath($path) === false ? $path : realpath($path);
 
-		if (file_exists($file = "$path/libraries/lib.inc.php")) {
-			$regex = '@appVersion = \'(.*)\'@ismU';
-		} else {
+		if (!file_exists($file = "$path/libraries/lib.inc.php")) {
 			throw new VNagException("Cannot find the phpPgAdmin version information at $path");
 		}
 
 		$cont = @file_get_contents($file);
-		if ($cont === false) {
-			throw new VNagException("Cannot parse the phpPgAdmin version information at $path (cannot open file $file)");
-		}
-		if (!preg_match($regex, $cont, $m)) {
-			throw new VNagException("Cannot parse the phpPgAdmin version information at $path (cannot find version using regex)");
+		if (($cont === false) || (!preg_match('@appVersion = \'(.*)\'@ismU', $cont, $m))) {
+			throw new VNagException("Cannot parse the phpPgAdmin version information at $path (version not found in file $file)");
 		}
 
 		return $m[1];
 	}
 
 	protected function get_local_fork($path) {
-		if (substr($this->get_local_version($path), -4, 4) === '-mod') {
-			// ReimuHakurei adds "-mod" at the end.
-			// Better would be a different kind of detection, see suggestion https://github.com/ReimuHakurei/phpPgAdmin/issues/27
+		$intro_page = @file_get_contents("$path/intro.php");
+		if (($intro_page !== false) && (strpos($intro_page, 'ReimuHakurei')!==false)) {
+			// see https://github.com/ReimuHakurei/phpPgAdmin/issues/27
+			return 'ReimuHakurei';
+		} else if (substr($this->get_local_version($path), -4, 4) === '-mod') {
+			// ReimuHakurei adds "-mod" at the end. But it is not 100% sure that the fork is ReimuHakurei!
 			return 'ReimuHakurei';
 		} else {
-			return 'Original';
+			return 'phppgadmin';
 		}
 	}
 
 	protected function get_latest_version($fork) {
 		if ($fork == 'ReimuHakurei') {
-			$history = 'https://github.com/ReimuHakurei/phpPgAdmin/raw/refs/heads/master/HISTORY';
-		} else if ($fork == 'Original') {
-			$history = 'https://github.com/phppgadmin/phppgadmin/raw/refs/heads/master/HISTORY';
+			$git_repo = 'https://github.com/ReimuHakurei/phpPgAdmin';
+			$want_method = 1;
+		} else if ($fork == 'phppgadmin') {
+			$git_repo = 'https://github.com/phppgadmin/phppgadmin';
+			$want_method = 1;
 		} else {
-			$history = 'https://github.com/'.$fork.'/phppgadmin/raw/refs/heads/master/HISTORY';
+			$git_repo = 'https://github.com/'.$fork.'/phppgadmin';
+			$want_method = 1;
 		}
 
-		$cont = $this->url_get_contents($history);
-		if ($cont === false) {
-			throw new VNagException('Cannot parse version from phpPgAdmin website. The plugin probably needs to be updated. (Cannot access GitHub repository)');
+		// Method 1: Read version from lib.inc.php (version might be increased after release; unfortunately currently not the case)
+		if ($want_method == 1) {
+			$cont = $this->url_get_contents("$git_repo/raw/refs/heads/master/libraries/lib.inc.php");
+			if (($cont !== false) && preg_match('@appVersion = \'(.*)\'@ismU', $cont, $m)) {
+				return trim($m[1]);
+			} else {
+				$want_method++;
+			}
 		}
 
-		if (!preg_match('@Version ([^\n]+)@', $cont, $m)) {
-			throw new VNagException('Cannot parse version from phpPgAdmin website. The plugin probably needs to be updated. (Unexpected data downloaded from GitHub repository)');
+		// Method 2: Read version from HISTORY file (might not be up-to-date!)
+		if ($want_method == 2) {
+			$cont = $this->url_get_contents("$git_repo/raw/refs/heads/master/HISTORY");
+			if (($cont !== false) && preg_match('@Version ([^\n]+)@', $cont, $m)) {
+				return trim($m[1]);
+			} else {
+				$want_method++;
+			}
 		}
 
-		return trim($m[1]);
+		throw new VNagException("Cannot parse latest version from phpPgAdmin repository $git_repo . The plugin probably needs to be updated.");
 	}
 
 	protected function cbRun($optional_args=array()) {
