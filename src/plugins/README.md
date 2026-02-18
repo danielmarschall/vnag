@@ -43,6 +43,7 @@ VNag plugin overview
 |                           | vnag_aastra_430_voicemail  | No             | Generic           |                                                                       |
 |                           | vnag_websvn_version        | No             | Generic           |                                                                       |
 |                           | vnag_viewvc_version        | No             | Generic           |                                                                       |
+|                           | vnag_synflood              | No             | Generic           |                                                                       |
 +---------------------------+----------------------------+----------------+-------------------+-----------------------------------------------------------------------+
 |                           | vnag_faindex               | No             | VTS Internal      |                                                                       |
 |                           | vnag_fasearch              | No             | VTS Internal      |                                                                       |

@@ -22,7 +22,7 @@ class PingCheck extends VNag {
 	public function __construct() {
 		parent::__construct();
 
-		$this->registerExpectedStandardArguments('Vhtwc');
+		$this->registerExpectedStandardArguments('Vht');
 
 		$this->getHelpManager()->setPluginName('check_ping');
 		$this->getHelpManager()->setVersion('2023-10-13');
