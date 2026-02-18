@@ -11,7 +11,7 @@
 declare(ticks=1);
 
 class SynFloodCheck extends VNag {
-	protected $argPort     = null;
+	protected $argPort = null;
 
 	public function __construct() {
 		parent::__construct();
@@ -53,7 +53,9 @@ class SynFloodCheck extends VNag {
 	}
 
 	protected function cbRun() {
-		$port     = ($this->argPort->getValue()     != '') ? (int)$this->argPort->getValue()     : 443;
+		$port = ($this->argPort->getValue()     != '') ? (int)$this->argPort->getValue()     : 443;
+		$warn = $this->getWarningRange();
+		$crit = $this->getCriticalRange();
 
 		// Prefer 'ss' (modern replacement for netstat), fall back to 'netstat'
 		$use_ss = false;
@@ -97,13 +99,13 @@ class SynFloodCheck extends VNag {
 
 		$this->addVerboseMessage(
 			"Port: $port | SYN_RECV: $count | Unique IPs: $unique_ips | $top_ips_note\n" .
-			"Tool: " . ($use_ss ? 'ss' : 'netstat') . " | Thresholds: warning=$warning, critical=$critical",
+			"Tool: " . ($use_ss ? 'ss' : 'netstat') . " | Thresholds: warning=$warn, critical=$crit",
 			VNag::VERBOSITY_ADDITIONAL_INFORMATION
 		);
 
 		// Performance data for graphing
-		$this->addPerformanceData(new VNagPerformanceData('syn_recv_connections', $count,      '', $warning, $critical, 0, null));
-		$this->addPerformanceData(new VNagPerformanceData('syn_recv_unique_ips',  $unique_ips, '', null,     null,      0, null));
+		$this->addPerformanceData(new VNagPerformanceData('syn_recv_connections', $count,      $warn, $crit, 0, null));
+		$this->addPerformanceData(new VNagPerformanceData('syn_recv_unique_ips',  $unique_ips, null,  null,  0, null));
 
 		$distributed = $unique_ips > 10
 			? " (distributed, $unique_ips source IPs)"
@@ -111,7 +113,7 @@ class SynFloodCheck extends VNag {
 
 		$this->setHeadline("$count SYN_RECV connections on port $port$distributed");
 
-		$this->checkAgainstCriticalRange($count, false, true, 0);
 		$this->checkAgainstWarningRange($count, false, true, 0);
+		$this->checkAgainstCriticalRange($count, false, true, 0);
 	}
 }
