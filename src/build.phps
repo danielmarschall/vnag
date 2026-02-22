@@ -17,7 +17,7 @@ function vnag_make_phar($plugin) {
 	# ---
 
 	$input_files = [__DIR__.'/framework/vnag_framework.inc.php'];
-	$input_files = array_merge($input_files, glob(__DIR__.'/plugins/'.$plugin.'/*.php*'));
+	$input_files = array_merge($input_files, glob(__DIR__.'/plugins/'.$plugin.'/'.'*.php*'));
 
 	$main = '';
 	$files_for_phar = [];
@@ -90,7 +90,7 @@ function vnag_make_phar($plugin) {
 	touch($filename, $max_mtime);
 }
 
-$plugins = glob(__DIR__.'/plugins/*');
+$plugins = glob(__DIR__.'/plugins/'.'*');
 foreach ($plugins as $plugin) {
 	if (!is_dir($plugin)) continue;
 	vnag_make_phar(basename($plugin));

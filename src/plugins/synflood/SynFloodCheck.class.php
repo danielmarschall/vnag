@@ -5,7 +5,7 @@
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2026-02-18
+ * Revision 2026-02-22
  */
 
 declare(ticks=1);
@@ -105,7 +105,7 @@ class SynFloodCheck extends VNag {
 
 		// Performance data for graphing
 		$this->addPerformanceData(new VNagPerformanceData('syn_recv_connections', $count,      $warn, $crit, 0, null));
-		$this->addPerformanceData(new VNagPerformanceData('syn_recv_unique_ips',  $unique_ips, null,  null,  0, null));
+		$this->addPerformanceData(new VNagPerformanceData('syn_recv_unique_ips',  $unique_ips, null,  null,  0, null)); // TODO: also do warn/crit here?
 
 		$distributed = $unique_ips > 10
 			? " (distributed, $unique_ips source IPs)"

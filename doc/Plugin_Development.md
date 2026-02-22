@@ -109,7 +109,7 @@ Licensed under the terms of the Apache 2.0 license
 
 ## Automatic handling of basic arguments:
 
-	VNag will automatic handle of following CLI arguments:
+	VNag will automatically handle of following CLI arguments:
 		-?
 		-V --version
 		-h --help
@@ -117,6 +117,9 @@ Licensed under the terms of the Apache 2.0 license
 		-t --timeout   (only works if you set declare(ticks=1) at the beginning of each of your scripts)
 		-w --warning
 		-c --critical
+
+	For this to work, it is important that these standard arguments are unlocked using this command:
+		$this->registerExpectedStandardArguments('Vhtwcv')
 
 	You can performe range checking by using:
 		$example_value = '10MB';
@@ -255,7 +258,8 @@ Licensed under the terms of the Apache 2.0 license
 
 	Here is a comparison of the usage and behavior of VNag in regards to CLI and HTTP calls:
 
-	|  CLI script                               | HTTP script
+	|-------------------------------------------|----------------------------------------------|
+	|  CLI script                               | HTTP script                                  |
 	|-------------------------------------------|----------------------------------------------|
 	| * "echo" will be discarded.               | * "echo" output will be discarded.           |
 	|-------------------------------------------|----------------------------------------------|

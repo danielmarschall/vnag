@@ -156,7 +156,7 @@ abstract class VNag {
 
 	// These settings should be set by derivated classes where the user intuitively expects the
 	// warning (w) or critical (c) parameter to mean something else than defined in the development guidelines.
-	// Usually, the single value "-w X" means the same like "-w X:X", which means everything except X is bad.
+	// Usually, the single value "-w X" means the same like "-w 0:X", which means everything below 0 or above X is bad.
 	// This behavior is VNag::SINGLEVALUE_RANGE_DEFAULT.
 	// But for plugins e.g. for checking disk space, the user expects the argument "-w X" to mean
 	// "everything below X is bad" (if X is defined as free disk space).
@@ -168,8 +168,8 @@ abstract class VNag {
 	protected $criticalSingleValueRangeBehaviors = array(self::SINGLEVALUE_RANGE_DEFAULT);
 
 	// Default behavior according to the development guidelines:
-	//  x means  x:x, which means, everything except x% is bad.
-	// @x means @x:x, which means, x is bad and everything else is good.
+	//  x means  0:x, which means, x>10 is bad
+	// @x means @0:x, which means, x<=10 is bad
 	const SINGLEVALUE_RANGE_DEFAULT = 0;
 
 	// The single value x means, everything > x is bad. @x is not defined.
