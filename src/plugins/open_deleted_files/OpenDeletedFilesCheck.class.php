@@ -5,8 +5,11 @@
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2023-10-13
+ * Revision 2026-04-16
  */
+
+// TODO: Besides the total size of the files, also have a warning/critical range of the number of opened files
+//       So, we have two performance data entries:  Size and Count.  And two warning ranges, and two critical ranges.
 
 declare(ticks=1);
 
@@ -22,7 +25,7 @@ class OpenDeletedFilesCheck extends VNag {
 		$this->registerExpectedStandardArguments('Vhtwc');
 
 		$this->getHelpManager()->setPluginName('open_deleted_files');
-		$this->getHelpManager()->setVersion('2023-10-13');
+		$this->getHelpManager()->setVersion('2026-04-16');
 		$this->getHelpManager()->setShortDescription('This plugin checks for open deleted files (which require space but are not visible/accessible anymore).');
 		$this->getHelpManager()->setCopyright('Copyright (C) 2011-$CURYEAR$ Daniel Marschall, ViaThinkSoft.');
 		$this->getHelpManager()->setSyntax('$SCRIPTNAME$ [-d directory] [-w warnSizeKB] [-c critSizeKB]');
@@ -35,58 +38,44 @@ class OpenDeletedFilesCheck extends VNag {
 		$this->addExpectedArgument($this->argDir = new VNagArgument('d', 'directory', VNagArgument::VALUE_REQUIRED, 'directory', 'Directory to check (e.g. /tmp)Directory to check (e.g. /tmp)'));
 	}
 
-	protected static function check_open_deleted_files($dir_to_check = '/') {
-		// Note: Requires root
-		exec('lsof -n', $lines, $ec);
-		if ($ec != 0) return false;
+	protected function get_deleted_open_files($min_size_bytes = 1, $dir = '/') {
+		$results = [];
 
-		/*
-		$lines = explode("\n",
-		'COMMAND     PID   TID TASKCMD               USER   FD      TYPE             DEVICE    SIZE/OFF       NODE NAME
-		php-cgi     430                          oidplus    3u      REG               0,42           0 1502217042 /tmp/.ZendSem.uhCRtC (deleted)
-		apache2     838                             root  150u      REG               0,42           0 1499023202 /tmp/.ZendSem.RFcTM9 (deleted)
-		postgres   1060                      gitlab-psql  txt       REG                9,0     9291488   47189384 /opt/gitlab/embedded/postgresql/12/bin/postgres (deleted)
-		php-cgi    1573                         owncloud    3u      REG               0,42           0 1499024339 /tmp/.ZendSem.2Qh70x (deleted)
-		php-fpm7.  1738                             root    3u      REG               0,42           0  434907183 /tmp/.ZendSem.unGJqF
-		php-fpm7.  1739                         www-data    3u      REG               0,42           0  434907183 /tmp/.ZendSem.unGJqF (deleted)
-		php-fpm7.  1740                         www-data    3u      REG               0,42           0  434907183 /tmp/.ZendSem.unGJqF (deleted)
-		runsvdir   1932                             root  txt       REG                9,0       27104   45351338 /opt/gitlab/embedded/bin/runsvdir (deleted)
-		');
-		*/
+		foreach (glob('/proc/[0-9]*/fd/[0-9]*') as $fdPath) {
+			$target = @readlink($fdPath);
+			if ($target === false) continue;
 
-		$line_desc = array_shift($lines);
-		$p_name = strpos($line_desc, 'NAME');
-		if ($p_name === false) return false;
+			// only deleted files
+			if (strpos($target, '(deleted)') === false) continue;
 
-		$nodes = array();
+			// cut "(deleted)"
+			$realPath = preg_replace('/ \(deleted\)$/', '', $target);
 
-		foreach ($lines as $line) {
-			if (trim($line) == '') continue;
+			// only specific directory
+			if (strpos($realPath, $dir) !== 0) continue;
 
-			$name = substr($line, $p_name);
+			// Get size via file descriptor
+			$size = @filesize($fdPath);
+			if ($size === false || $size < $min_size_bytes) continue;
 
-			preg_match('@.+\s(\d+)\$@ism', substr($line, 0, $p_name-1), $m);
-			$tmp = rtrim(substr($line, 0, $p_name-1));
-			$tmp = explode(" ", $tmp);
-			$node = end($tmp);
+			// Extract PID
+			if (!preg_match('#/proc/(\d+)/fd/#', $fdPath, $m)) continue;
+			$pid = $m[1];
 
-			$tmp = rtrim(substr($line, 0, $p_name-strlen($node)-1));
-			$tmp = explode(" ", $tmp);
-			$size = end($tmp);
+			// Get process name
+			$cmd = @file_get_contents("/proc/$pid/comm");
+			$cmd = trim($cmd);
 
-			if (substr($name, 0, strlen($dir_to_check)) !== $dir_to_check) continue;
-
-			if (strpos($name, ' (deleted)') === false) continue;
-			if ($size == 0) continue;
-
-			$nodes[$node] = $size;
+			$results[] = [
+				'pid' => $pid,
+				'process' => $cmd,
+				'fd' => $fdPath,
+				'size' => $size,
+				'file' => $target
+			];
 		}
 
-		$size_total = 0;
-		foreach ($nodes as $node => $size) {
-			$size_total += $size;
-		}
-		return $size_total;
+		return $results;
 	}
 
 	protected function cbRun($optional_args=array()) {
@@ -95,17 +84,34 @@ class OpenDeletedFilesCheck extends VNag {
 		$dir = realpath($dir) === false ? $dir : realpath($dir);
 		if (substr($dir,-1) !== '/') $dir .= '/';
 
-		$size = self::check_open_deleted_files($dir);
-		if ($size === false) throw new VNagException("Cannot get information from 'lsof'");
+		$files = $this->get_deleted_open_files(0, $dir);
 
-		$this->checkAgainstWarningRange( array($size.'B'), false, true, 0);
-		$this->checkAgainstCriticalRange(array($size.'B'), false, true, 0);
+		$total = 0;
+		$verbose = "";
 
-		$m = (new VNagValueUomPair($size.'B'));
+		usort($files, function($a, $b) {
+			return $b['size'] <=> $a['size'];
+		});
+
+		foreach ($files as $f) {
+		    $verbose .= "PID {$f['pid']} ({$f['process']})\n";
+		    $verbose .= "  {$f['file']}\n";
+		    $verbose .= "  {$f['size']} bytes\n\n";
+		    $total += $f['size'];
+		}
+
+		$verbose .= "TOTAL: $total bytes\n";
+
+		$this->checkAgainstWarningRange( array($total.'B'), false, true, 0);
+		$this->checkAgainstCriticalRange(array($total.'B'), false, true, 0);
+
+		$m = (new VNagValueUomPair($total.'B'));
 		$m->roundTo = ROUND_TO;
-		$sizeOut = $m->normalize(OUTPUT_UOM);
+		$totalOut = $m->normalize(OUTPUT_UOM);
 
-		$msg = "$sizeOut opened deleted files in $dir";
+		$msg = count($files)." opened deleted files in $dir with total size $totalOut";
 		$this->setHeadline($msg);
+
+		$this->addVerboseMessage($verbose, VNag::VERBOSITY_SUMMARY);
 	}
 }
