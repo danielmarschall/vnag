@@ -5,7 +5,7 @@
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2024-04-29
+ * Revision 2026-04-19
  */
 
 declare(ticks=1);
@@ -53,8 +53,9 @@ class SmfVersionCheck extends VNag {
 			throw new VNagException('Directory "'.$system_dir.'" not found.');
 		}
 
+		$this_version = $this->get_local_version($system_dir);
 
-		$versionCheckUrl = "https://www.simplemachines.org/smf/current-version.js";
+		$versionCheckUrl = "https://www.simplemachines.org/smf/current-version.js?version=" . $this_version;
 		$cont = $this->url_get_contents($versionCheckUrl);
 		if (($cont === false) ||
 		    !preg_match('@window.smfVersion = "SMF (.+)";@ismU', $cont, $m))
@@ -62,8 +63,6 @@ class SmfVersionCheck extends VNag {
 			throw new VNagException('Could not determinate latest SimpleMachinesForum version');
 		}
 		$latest_version = $m[1];
-
-		$this_version = $this->get_local_version($system_dir);
 
 		if (version_compare($this_version,$latest_version) >= 0) {
 			$this->setStatus(VNag::STATUS_OK);
