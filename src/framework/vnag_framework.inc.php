@@ -2,7 +2,7 @@
 
 /*
 
-      VNag - Nagios Framework for PHP                  (C) 2014-2023
+      VNag - Nagios Framework for PHP                  (C) 2014-2026
       __     ___      _____ _     _       _     ____         __ _
       \ \   / (_) __ |_   _| |__ (_)_ __ | | __/ ___|  ___  / _| |_
        \ \ / /| |/ _` || | | '_ \| | '_ \| |/ /\___ \ / _ \| |_| __|
@@ -11,7 +11,7 @@
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2023-12-17
+      Revision 2026-04-23
 
 */
 
@@ -1055,11 +1055,22 @@ abstract class VNag {
 			$cont = @file_get_contents($cache_file);
 			if ($cont === false) throw new Exception("Failed to get contents from $cache_file");
 		} else {
+			$parts = parse_url($url);
 			$options = array(
 			  'http'=>array(
 			    'method'=>"GET",
-			    'header'=>"Accept-language: en\r\n" .
-			              "User-Agent: Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.102011-10-16 20:23:10\r\n"
+			    'header'=>
+		              "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'\r\n".
+		              "Accept: */"."*\r\n".
+		              "Accept-Language: en-US,de;q=0.9,en-GB;q=0.8,en;q=0.7\r\n".
+		              "Referer: " . $parts['scheme'] . "://" . $parts['host'] . "/" . "\r\n".
+		              "Sec-Fetch-Dest: script\r\n".
+		              "Sec-Fetch-Mode: no-cors\r\n".
+		              "Sec-Fetch-Site: cross-site\r\n".
+		              "Sec-Ch-Ua: \"Chromium\";v=\"135\", \"Google Chrome\";v=\"135\", \"Not:A-Brand\";v=\"99\"\r\n".
+		              "Sec-Ch-Ua-Mobile: ?0'\r\n".
+		              "Sec-Ch-Ua-Platform: \"Windows\"\r\n"
+
 			  )
 			);
 			if (is_null($context)) $context = stream_context_create($options);
