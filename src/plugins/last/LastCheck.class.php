@@ -5,7 +5,7 @@
  * Developed by Daniel Marschall, ViaThinkSoft <www.viathinksoft.com>
  * Licensed under the terms of the Apache 2.0 license
  *
- * Revision 2023-10-13
+ * Revision 2026-05-04
  */
 
 // QUE: should we allow usernames to have wildcards, regexes or comma separated?
@@ -100,7 +100,10 @@ class LastCheck extends VNag {
 
 		preg_match_all('@^(\S+)\s+(\S+)\s+(\S+)\s+(.+)$@ismU', $cont, $m, PREG_SET_ORDER);
 		foreach ($m as $key => &$a) {
-			if (($a[2] === 'system') && ($a[3] === 'boot')) {
+			if (strpos($a[2],'pts') === false) { //if (strpos($a[2],'tty') !== false) {
+				// For example, tty1
+				unset($m[$key]);
+			} else if (($a[2] === 'system') && ($a[3] === 'boot')) {
 				// reboot   system boot  4.9.0-8-amd64    Fri Oct 12 02:10   still running
 				// reboot   system boot  6.1.0-11-amd64   Fri Sep  8 13:10:27 2023 - Sat Sep  9 17:40:50 2023 (1+04:30)
 				unset($m[$key]);
@@ -140,6 +143,8 @@ class LastCheck extends VNag {
 		foreach ($this->getLastLoginIPs($username) as list($username, $pts, $ip, $times)) {
 			// IP ":pts/0:S.0" means that there is a screen session
 			if (strpos($ip,':pts/') === 0) continue;
+			// IP "tty..." means that it is a console session
+			if (strpos($ip,'tty') === 0) continue;
 
 			$count_total++;
 
