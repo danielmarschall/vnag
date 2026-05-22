@@ -11,7 +11,7 @@
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2026-04-23
+      Revision 2026-05-22
 
 */
 
@@ -58,7 +58,7 @@ function _empty($x) {
 }
 
 abstract class VNag {
-	/*public*/ const VNAG_VERSION = '2023-12-17';
+	/*public*/ const VNAG_VERSION = '2026-05-22';
 
 	// Status 0..3 for STATUSMODEL_SERVICE (the default status model):
 	# The guideline states: "Higher-level errors (such as name resolution errors, socket timeouts, etc) are outside of the control of plugins and should generally NOT be reported as UNKNOWN states."
@@ -1048,6 +1048,14 @@ abstract class VNag {
 		throw new VNagException(VNagLang::$cannotGetCacheDir);
 	}
 
+	private static function chromeMajor(): int {
+		// https://chromestatus.com/roadmap
+		$baseVersion = 149;
+		$baseDate = strtotime('2026-05-20');
+		$days = (time() - $baseDate) / 86400;
+		return $baseVersion + floor($days / 28);
+	}
+
 	// This is not used by the framework itself, but can be useful for a lot of plugins
 	protected function url_get_contents($url, $max_cache_time=1*60*60, $context=null) {
 		$cache_file = $this->get_cache_dir().'/'.hash('sha256',$url);
@@ -1060,15 +1068,15 @@ abstract class VNag {
 			  'http'=>array(
 			    'method'=>"GET",
 			    'header'=>
-		              "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'\r\n".
+		              "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/".self::chromeMajor().".0.0.0 Safari/537.36\r\n".
 		              "Accept: */"."*\r\n".
 		              "Accept-Language: en-US,de;q=0.9,en-GB;q=0.8,en;q=0.7\r\n".
-		              "Referer: " . $parts['scheme'] . "://" . $parts['host'] . "/" . "\r\n".
+		              "Referer: " . $parts['scheme'] . "://" . $parts['host'] . "/\r\n".
 		              "Sec-Fetch-Dest: script\r\n".
 		              "Sec-Fetch-Mode: no-cors\r\n".
 		              "Sec-Fetch-Site: cross-site\r\n".
 		              "Sec-Ch-Ua: \"Chromium\";v=\"135\", \"Google Chrome\";v=\"135\", \"Not:A-Brand\";v=\"99\"\r\n".
-		              "Sec-Ch-Ua-Mobile: ?0'\r\n".
+		              "Sec-Ch-Ua-Mobile: ?0\r\n".
 		              "Sec-Ch-Ua-Platform: \"Windows\"\r\n"
 
 			  )
