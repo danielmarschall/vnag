@@ -11,7 +11,7 @@
 
       Developed by Daniel Marschall             www.viathinksoft.com
       Licensed under the terms of the Apache 2.0 license
-      Revision 2026-05-22
+      Revision 2026-05-27
 
 */
 
@@ -58,7 +58,7 @@ function _empty($x) {
 }
 
 abstract class VNag {
-	/*public*/ const VNAG_VERSION = '2026-05-22';
+	/*public*/ const VNAG_VERSION = '2026-05-27';
 
 	// Status 0..3 for STATUSMODEL_SERVICE (the default status model):
 	# The guideline states: "Higher-level errors (such as name resolution errors, socket timeouts, etc) are outside of the control of plugins and should generally NOT be reported as UNKNOWN states."
@@ -1075,7 +1075,7 @@ abstract class VNag {
 		              "Sec-Fetch-Dest: script\r\n".
 		              "Sec-Fetch-Mode: no-cors\r\n".
 		              "Sec-Fetch-Site: cross-site\r\n".
-		              "Sec-Ch-Ua: \"Chromium\";v=\"135\", \"Google Chrome\";v=\"135\", \"Not:A-Brand\";v=\"99\"\r\n".
+		              "Sec-Ch-Ua: \"Chromium\";v=\"".self::chromeMajor()."\", \"Google Chrome\";v=\"".self::chromeMajor()."\", \"Not:A-Brand\";v=\"99\"\r\n".
 		              "Sec-Ch-Ua-Mobile: ?0\r\n".
 		              "Sec-Ch-Ua-Platform: \"Windows\"\r\n"
 
